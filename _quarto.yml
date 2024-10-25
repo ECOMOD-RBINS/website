@@ -1,0 +1,30 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  navbar:
+    background: "#2C3E50"
+    left:
+      - href: index.qmd
+        text: Home
+      - about.qmd
+  page-footer:
+    center: "Copyright &copy; 2024 ECOMOD. All rights reserved."
+    background: light
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+    page-layout: full
+
+execute:
+  echo: false
+  warning: false
+  error: true
+  cache: true
+
+
+
