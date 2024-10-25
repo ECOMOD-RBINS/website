@@ -1,0 +1,10 @@
+::: {.grid}
+
+::: {.g-col-4}
+**Florian RICOUR**<br>
+![](images/lov_member-florian_ricour.jpg){width="300"}<br>
+[{{< fa envelope size=lg >}}](mailto:fricour@naturalsciences.be?) [{{< fa brands github size=lg >}}](https://github.com/fricour) [{{< fa brands linkedin size=lg >}}](https://linkedin.com/in/florian-ricour-a06359281) [{{< fa id-card size=lg >}}](https://orcid.org/0000-0001-6059-9236)
+:::
+
+:::
+

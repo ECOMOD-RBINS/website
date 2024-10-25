@@ -1,16 +1,30 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "ecomod.github.io",
+    "objectID": "team.html",
+    "href": "team.html",
+    "title": "",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n\n[1] 2"
+    "text": "Florian RICOUR"
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "portfolio.html",
+    "href": "portfolio.html",
+    "title": "A little overview of projects done at ECOMOD",
     "section": "",
-    "text": "About this site\n\n\n[1] 2"
+    "text": "COFABM\n\n\n\ndevelopment\n\n\nCOHERENS\n\n\n\n\n\n\n\nFlorian Ricour and Arthur Capet\n\n\nOct 25, 2024\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome to the new ECOMOD website !",
+    "section": "",
+    "text": "Welcome to the new ECOMOD website !"
+  },
+  {
+    "objectID": "posts/COFABM/index.html",
+    "href": "posts/COFABM/index.html",
+    "title": "COFABM",
+    "section": "",
+    "text": "TO BE DONE."
   }
 ]

@@ -1,0 +1,12 @@
+---
+title: "A little overview of projects done at ECOMOD"
+listing:
+  contents: posts
+  sort: "date desc"
+  type: grid
+  categories: true
+  sort-ui: false
+  filter-ui: false
+page-layout: full
+title-block-banner: false
+---

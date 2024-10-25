@@ -8,16 +8,20 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - href: team.qmd
+        text: Team
+      - href: portfolio.qmd
+        text: Projects
   page-footer:
     center: "Copyright &copy; 2024 ECOMOD. All rights reserved."
     background: light
+  favicon: favicon.ico
 
 format:
   html:
     theme: cosmo
     css: styles.css
-    toc: true
+    toc: false
     page-layout: full
 
 execute:
