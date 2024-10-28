@@ -1,0 +1,23 @@
+---
+title: "Complex effect of projected sea temperature and wind change on flatfish dispersal"
+type: "article"
+author: "Lacroix et al."
+year: "2018"
+publication: "Global Change Biology"
+preprint: ""
+doi: "https://doi.org/10.1111/gcb.13915"
+materials: ""
+toc: false
+categories:
+  - climate change
+  - flatfish
+  - journal article
+---
+
+## Citation (APA 7)
+
+> Lacroix, G., Barbut, L., & Volckaert, F. A. (2018). Complex effect of projected sea temperature and wind change on flatfish dispersal. Global Change Biology, 24(1), 85-100.
+
+## Abstract
+
+Climate change not only alters ocean physics and chemistry but also affects the biota. Larval dispersal patterns from spawning to nursery grounds and larval survival are driven by hydrodynamic processes and shaped by (a)biotic environmental factors. Therefore, it is important to understand the impacts of increased temperature rise and changes in wind speed and direction on larval drift and survival. We apply a particle-tracking model coupled to a 3D-hydrodynamic model of the English Channel and the North Sea to study the dispersal dynamics of the exploited flatfish (common) sole (Solea solea). We first assess model robustness and interannual variability in larval transport over the period 1995–2011. Then, using a subset of representative years (2003–2011), we investigate the impact of climate change on larval dispersal, connectivity patterns and recruitment at the nursery grounds. The impacts of five scenarios inspired by the 2040 projections of the Intergovernmental Panel on Climate Change are discussed and compared with interannual variability. The results suggest that 33% of the year-to-year recruitment variability is explained at a regional scale and that a 9-year period is sufficient to capture interannual variability in dispersal dynamics. In the scenario involving a temperature increase, early spawning and a wind change, the model predicts that (i) dispersal distance (+70%) and pelagic larval duration (+22%) will increase in response to the reduced temperature (−9%) experienced by early hatched larvae, (ii) larval recruitment at the nursery grounds will increase in some areas (36%) and decrease in others (−58%) and (iii) connectivity will show contrasting changes between areas. At the regional scale, our model predicts considerable changes in larval recruitment (+9%) and connectivity (retention −4% and seeding +37%) due to global change. All of these factors affect the distribution and productivity of sole and therefore the functioning of the demersal ecosystem and fisheries management.

@@ -4,5 +4,12 @@
     "items": [
       "/posts/COFABM/index.html"
     ]
+  },
+  {
+    "listing": "/publications.html",
+    "items": [
+      "/publications/articles/barbut2024.html",
+      "/publications/articles/Lacroix2018.html"
+    ]
   }
 ]

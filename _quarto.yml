@@ -8,10 +8,14 @@ website:
     left:
       - href: index.qmd
         text: Home
+      - href: news.qmd
+        text: News
       - href: team.qmd
         text: Team
       - href: portfolio.qmd
         text: Projects
+      - href: publications.qmd
+        text: Publications
   page-footer:
     center: "Copyright &copy; 2024 ECOMOD. All rights reserved."
     background: light

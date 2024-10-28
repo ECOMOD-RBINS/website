@@ -1,10 +1,155 @@
-::: {.grid}
+```{=html}
 
-::: {.g-col-4}
-**Florian RICOUR**<br>
-![](images/lov_member-florian_ricour.jpg){width="300"}<br>
-[{{< fa envelope size=lg >}}](mailto:fricour@naturalsciences.be?) [{{< fa brands github size=lg >}}](https://github.com/fricour) [{{< fa brands linkedin size=lg >}}](https://linkedin.com/in/florian-ricour-a06359281) [{{< fa id-card size=lg >}}](https://orcid.org/0000-0001-6059-9236)
-:::
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
 
-:::
+<style>
+.profile-container {
+  display: flex;
+  gap: 2rem;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+  padding: 1rem;
+}
 
+.profile-card {
+  background: white;
+  border-radius: 8px;
+  padding: 1.5rem;
+  text-align: center;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+  width: 200px;
+}
+
+.profile-image {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  margin: 0 auto 1rem;
+  overflow: hidden;
+  position: relative; /* Added for absolute positioning of image */
+  display: flex;      /* Added for centering */
+  align-items: center;
+  justify-content: center;
+}
+
+.profile-image img {
+  width: 150px;      /* Fixed width */
+  height: 150px;     /* Fixed height */
+  object-fit: cover; /* Maintains aspect ratio */
+  position: absolute; /* Ensures proper centering */
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%); /* Centers the image */
+}
+
+.profile-name {
+  margin: 0;
+  font-size: 1.2rem;
+  font-weight: bold;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.25rem;
+}
+
+.first-name {
+  font-size: 1.2rem;
+}
+
+.last-name {
+  font-size: 1.2rem;
+}
+
+.profile-title {
+  margin: 0.5rem 0 1rem;
+  color: #666;
+  font-size: 1rem;
+}
+
+.profile-links {
+  display: flex;
+  justify-content: center;
+  gap: 1rem;
+}
+
+.profile-links a {
+  color: #0066cc;
+  text-decoration: none;
+}
+
+.profile-links a:hover {
+  text-decoration: underline;
+}
+</style>
+
+<div class="profile-container">
+  <div class="profile-card">
+    <div class="profile-image">
+      <img src="images/GL.jpg" alt="Geneviève Lacroix">
+    </div>
+    <h3 class="profile-name">
+      <span class="first-name">Geneviève</span>
+      <span class="last-name">Lacroix</span>
+    </h3>
+    <p class="profile-title">CEO</p>
+    <div class="profile-links">
+      <a href="mailto:genevieve.lacroix@naturalsciences.be?"><i class="fa-solid fa-envelope"></i></a>
+      <a href="#"><i class="fa-brands fa-github"></i></a>
+      <a href="https://orcid.org/0000-0002-3227-0000"><i class="fa-brands fa-orcid"></i></a>
+      <a href="#"><i class="fa-brands fa-linkedin"></i></a>
+    </div>
+  </div>
+  
+  <div class="profile-card">
+    <div class="profile-image">
+      <img src="images/AC.jpg" alt="Arthur Capet">
+    </div>
+    <h3 class="profile-name">
+      <span class="first-name">Arthur</span>
+      <span class="last-name">Capet</span>
+    </h3>
+    <p class="profile-title">Science Wizard</p>
+    <div class="profile-links">
+      <a href="mailto:arthur.capet@naturalsciences.be?"><i class="fa-solid fa-envelope"></i></a>
+      <a href="https://github.com/acapet"><i class="fa-brands fa-github"></i></a>
+      <a href="https://orcid.org/0000-0002-5939-3836"><i class="fa-brands fa-orcid"></i></a>
+      <a href=""><i class="fa-brands fa-linkedin"></i></a>
+    </div>
+  </div>
+  
+  <div class="profile-card">
+    <div class="profile-image">
+      <img src="images/FR.jpg" alt="Florian Ricour">
+    </div>
+    <h3 class="profile-name">
+      <span class="first-name">Florian</span>
+      <span class="last-name">Ricour</span>
+    </h3>
+    <p class="profile-title">Shiny Magic</p>
+    <div class="profile-links">
+      <a href="mailto:fricour@naturalsciences.be?"><i class="fa-solid fa-envelope"></i></a>
+      <a href="https://github.com/fricour"><i class="fa-brands fa-github"></i></a>
+      <a href="https://orcid.org/0000-0001-6059-9236"><i class="fa-brands fa-orcid"></i></a>
+      <a href="https://linkedin.com/in/florian-ricour-a06359281"><i class="fa-brands fa-linkedin"></i></a>
+    </div>
+  </div>
+  
+  <div class="profile-card">
+    <div class="profile-image">
+      <img src="images/HR.jpg" alt="Hugo Romanelli">
+    </div>
+    <h3 class="profile-name">
+      <span class="first-name">Hugo</span>
+      <span class="last-name">Romanelli</span>
+    </h3>
+    <p class="profile-title">COHERENS master</p>
+    <div class="profile-links">
+      <a href="mailto:hugo.romanelli@naturalsciences.be?"><i class="fa-solid fa-envelope"></i></a>
+      <a href=""><i class="fa-brands fa-github"></i></a>
+      <a href=""><i class="fa-brands fa-orcid"></i></a>
+      <a href=""><i class="fa-brands fa-linkedin"></i></a>
+    </div>
+  </div>
+  
+</div>
+```

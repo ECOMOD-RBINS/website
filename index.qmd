@@ -1,1 +1,51 @@
-# Welcome to the new ECOMOD website !
+# Marine Ecosystem Modelling (ECOMOD)
+
+## The Hidden World of Marine Microorganisms
+
+The microscopic marine environment holds secrets of incredible diversity. Each drop of seawater tells a unique story - a water sample taken at one location might reveal an entirely different microbial community than another sample collected just hundreds of meters away. 
+
+Yet, amid this seemingly chaotic microscopic variability, nature follows patterns. At the macroscale, both physical and biological factors orchestrate a beautiful dance that determines which species appear where and when.
+
+## Understanding Phytoplankton: Nature's Tiny Powerhouses
+
+🌊 **What are phytoplankton?**  
+These microscopic algae, suspended in the water column, are the foundation of marine life. Their survival depends on a delicate balance of several factors:
+
+* ☀️ **Light** - Essential for photosynthesis
+* 🧪 **Nutrients** - Required for growth
+* 🌡️ **Temperature** - Affects metabolic rates
+* 🌊 **Water Movement** - Influences distribution
+  * Ocean currents
+  * Buoyancy effects
+  * Water turbulence
+
+Their existence is constantly challenged by:
+* Predation from zooplankton (microscopic marine animals)
+* Viral attacks
+* Various environmental stressors
+
+## Mathematical Modeling: Bringing Order to Complexity
+
+By translating these complex physical and biological processes into mathematical equations, we can create comprehensive ecosystem models. These models help us understand:
+
+* Species growth patterns
+* Mortality rates
+* Interactions between different species
+* Environmental impact on marine life
+
+## Real-World Applications
+
+### 1. Eutrophication Model
+* **Purpose**: Guides policymakers in developing strategies to reduce coastal eutrophication
+* **Impact**: Helps protect marine ecosystems from excessive nutrient pollution
+
+### 2. Fish Larvae Model
+* **Purpose**: Analyzes fish larvae survival rates across different:
+  * Locations
+  * Seasons
+  * Environmental conditions
+* **Impact**: Provides crucial insights for fisheries management and marine conservation
+
+---
+
+*Through these advanced modeling techniques, we're better equipped to understand and protect our ocean's complex ecosystems, ensuring their preservation for future generations.*

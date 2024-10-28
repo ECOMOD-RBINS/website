@@ -1,0 +1,23 @@
+---
+title: "Lessons from the calibration and sensitivity analysis of a fish larval transport model"
+type: "article"
+author: "Barbut et al."
+year: "2024"
+publication: "Marine Ecology Progress Series"
+preprint: ""
+doi: "https://doi.org/10.3354/meps14536"
+materials: ""
+toc: false
+categories:
+  - Modeling
+  - larval transport
+  - journal article
+---
+
+## Citation (APA 7)
+
+> Barbut, L., Lehuta, S., Volckaert, F. A., & Lacroix, G. (2024). Lessons from the calibration and sensitivity analysis of a fish larval transport model. Marine Ecology Progress Series, 731, 67-88.
+
+## Abstract
+
+Numerous fish populations show strong year-to-year variations in recruitment. The early life stages play a crucial role in determining recruitment and dispersal patterns. A helpful tool to understand recruitment and dispersal involves simulations with a Lagrangian transport model, which results from the coupling between a hydrodynamic model and an individual-based model. Larval transport models require sound knowledge of the biological processes governing larval dispersal, and they may be highly sensitive to the parameters selected. Various assumptions about larval traits, behaviour and other model parameters can be tested by comparing simulation results with field data to identify the most sensitive parameters and to improve model calibration. This study shows that biological parameterization is more important than inter-annual variability in explaining the year-to-year differences in larval recruitment of common sole in the North Sea and the eastern English Channel. In contrast, year-to-year variability of connectivity leads to higher variability than changes in the biological parameters. The most influential parameters are pelagic larval duration, spawning period and mortality. Calibration over a 12 yr recruitment survey shows that a scenario with low mortality associated with a long larval duration and behaviour involving nycthemeral and tidal migration best reproduces the observations. This research provides insights into factors influencing fish dispersal and recruitment, suggesting a strategy for enhancing the accuracy of models in upcoming studies. The study supports the improvement of larval dispersal modelling by incorporating an easily applicable sensitivity analysis for both calibration and validation. Incorporating sensitivity analyses enhances larval dispersal models, providing performing tools that can contribute to informed fisheries management and understanding of recruitment variability.
