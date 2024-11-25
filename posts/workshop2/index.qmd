@@ -1,0 +1,35 @@
+---
+title: "COHERENS Workshop #2"
+description: ""
+author: "Florian Ricour and Ludovic Lepers"
+date: "2024-11-27"
+categories: [workshop, AI, JupyterHub, ECMWF]
+image: "images/ai-illustration.jpeg"
+
+execute:
+  echo: false
+  warning: false
+  error: true
+  cache: true
+  
+format: 
+  html:
+    page-layout: article
+    
+#bibliography: references.bib
+#cls: journal-of-oceanography.csl
+#link-citations: true
+---
+
+# Goal of the workshop
+
+This workshop is divided in two parts:
+
+1.  JupyterHub on ECMWF, what is it and why use it?
+2.  A gentle introduction to neural network, large language models and use cases of generative AI resources
+
+## Slides
+
+<iframe src="coherens_workshop.html" width="100%" height="600px" frameborder="0"></iframe>
+
+Note - click on F for full screen and O for an overview of the slide deck.

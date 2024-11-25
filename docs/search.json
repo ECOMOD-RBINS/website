@@ -7,11 +7,32 @@
     "text": "Geneviève\n      Lacroix\n    \n    CEO\n    \n      \n      \n      \n      \n    \n  \n  \n  \n    \n      \n    \n    \n      Arthur\n      Capet\n    \n    Science Wizard\n    \n      \n      \n      \n      \n    \n  \n  \n  \n    \n      \n    \n    \n      Florian\n      Ricour\n    \n    Shiny Magic\n    \n      \n      \n      \n      \n    \n  \n  \n  \n    \n      \n    \n    \n      Hugo\n      Romanelli\n    \n    COHERENS master"
   },
   {
-    "objectID": "portfolio.html",
-    "href": "portfolio.html",
-    "title": "A little overview of projects done at ECOMOD",
+    "objectID": "publications/articles/Lacroix2018.html",
+    "href": "publications/articles/Lacroix2018.html",
+    "title": "Complex effect of projected sea temperature and wind change on flatfish dispersal",
     "section": "",
-    "text": "COFABM\n\n\n\ndevelopment\n\n\nCOHERENS\n\n\n\n\n\n\n\nFlorian Ricour and Arthur Capet\n\n\nOct 25, 2024\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Lacroix, G., Barbut, L., & Volckaert, F. A. (2018). Complex effect of projected sea temperature and wind change on flatfish dispersal. Global Change Biology, 24(1), 85-100."
+  },
+  {
+    "objectID": "publications/articles/Lacroix2018.html#citation-apa-7",
+    "href": "publications/articles/Lacroix2018.html#citation-apa-7",
+    "title": "Complex effect of projected sea temperature and wind change on flatfish dispersal",
+    "section": "",
+    "text": "Lacroix, G., Barbut, L., & Volckaert, F. A. (2018). Complex effect of projected sea temperature and wind change on flatfish dispersal. Global Change Biology, 24(1), 85-100."
+  },
+  {
+    "objectID": "publications/articles/Lacroix2018.html#abstract",
+    "href": "publications/articles/Lacroix2018.html#abstract",
+    "title": "Complex effect of projected sea temperature and wind change on flatfish dispersal",
+    "section": "Abstract",
+    "text": "Abstract\nClimate change not only alters ocean physics and chemistry but also affects the biota. Larval dispersal patterns from spawning to nursery grounds and larval survival are driven by hydrodynamic processes and shaped by (a)biotic environmental factors. Therefore, it is important to understand the impacts of increased temperature rise and changes in wind speed and direction on larval drift and survival. We apply a particle-tracking model coupled to a 3D-hydrodynamic model of the English Channel and the North Sea to study the dispersal dynamics of the exploited flatfish (common) sole (Solea solea). We first assess model robustness and interannual variability in larval transport over the period 1995–2011. Then, using a subset of representative years (2003–2011), we investigate the impact of climate change on larval dispersal, connectivity patterns and recruitment at the nursery grounds. The impacts of five scenarios inspired by the 2040 projections of the Intergovernmental Panel on Climate Change are discussed and compared with interannual variability. The results suggest that 33% of the year-to-year recruitment variability is explained at a regional scale and that a 9-year period is sufficient to capture interannual variability in dispersal dynamics. In the scenario involving a temperature increase, early spawning and a wind change, the model predicts that (i) dispersal distance (+70%) and pelagic larval duration (+22%) will increase in response to the reduced temperature (−9%) experienced by early hatched larvae, (ii) larval recruitment at the nursery grounds will increase in some areas (36%) and decrease in others (−58%) and (iii) connectivity will show contrasting changes between areas. At the regional scale, our model predicts considerable changes in larval recruitment (+9%) and connectivity (retention −4% and seeding +37%) due to global change. All of these factors affect the distribution and productivity of sole and therefore the functioning of the demersal ecosystem and fisheries management."
+  },
+  {
+    "objectID": "news.html",
+    "href": "news.html",
+    "title": "ECOMOD’s latest news !",
+    "section": "",
+    "text": "ECOMOD’s latest news !"
   },
   {
     "objectID": "index.html",
@@ -19,13 +40,6 @@
     "title": "Marine Ecosystem Modelling (ECOMOD)",
     "section": "",
     "text": "The microscopic marine environment holds secrets of incredible diversity. Each drop of seawater tells a unique story - a water sample taken at one location might reveal an entirely different microbial community than another sample collected just hundreds of meters away.\nYet, amid this seemingly chaotic microscopic variability, nature follows patterns. At the macroscale, both physical and biological factors orchestrate a beautiful dance that determines which species appear where and when.\n\n\n\n🌊 What are phytoplankton?\nThese microscopic algae, suspended in the water column, are the foundation of marine life. Their survival depends on a delicate balance of several factors:\n\n☀️ Light - Essential for photosynthesis\n🧪 Nutrients - Required for growth\n🌡️ Temperature - Affects metabolic rates\n🌊 Water Movement - Influences distribution\n\nOcean currents\nBuoyancy effects\nWater turbulence\n\n\nTheir existence is constantly challenged by: * Predation from zooplankton (microscopic marine animals) * Viral attacks * Various environmental stressors\n\n\n\nBy translating these complex physical and biological processes into mathematical equations, we can create comprehensive ecosystem models. These models help us understand:\n\nSpecies growth patterns\nMortality rates\nInteractions between different species\nEnvironmental impact on marine life\n\n\n\n\n\n\n\nPurpose: Guides policymakers in developing strategies to reduce coastal eutrophication\nImpact: Helps protect marine ecosystems from excessive nutrient pollution\n\n\n\n\n\nPurpose: Analyzes fish larvae survival rates across different:\n\nLocations\nSeasons\nEnvironmental conditions\n\nImpact: Provides crucial insights for fisheries management and marine conservation\n\n\nThrough these advanced modeling techniques, we’re better equipped to understand and protect our ocean’s complex ecosystems, ensuring their preservation for future generations."
-  },
-  {
-    "objectID": "posts/COFABM/index.html",
-    "href": "posts/COFABM/index.html",
-    "title": "COFABM",
-    "section": "",
-    "text": "TO BE DONE."
   },
   {
     "objectID": "index.html#the-hidden-world-of-marine-microorganisms",
@@ -56,18 +70,18 @@
     "text": "Purpose: Guides policymakers in developing strategies to reduce coastal eutrophication\nImpact: Helps protect marine ecosystems from excessive nutrient pollution\n\n\n\n\n\nPurpose: Analyzes fish larvae survival rates across different:\n\nLocations\nSeasons\nEnvironmental conditions\n\nImpact: Provides crucial insights for fisheries management and marine conservation\n\n\nThrough these advanced modeling techniques, we’re better equipped to understand and protect our ocean’s complex ecosystems, ensuring their preservation for future generations."
   },
   {
-    "objectID": "news.html",
-    "href": "news.html",
-    "title": "ECOMOD’s latest news !",
+    "objectID": "portfolio.html",
+    "href": "portfolio.html",
+    "title": "Overview of our projects and workshops",
     "section": "",
-    "text": "ECOMOD’s latest news !"
+    "text": "COHERENS Workshop #2\n\n\n\nworkshop\n\n\nAI\n\n\nJupyterHub\n\n\nECMWF\n\n\n\n\n\n\n\nFlorian Ricour and Ludovic Lepers\n\n\nNov 27, 2024\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "publications.html",
-    "href": "publications.html",
-    "title": "",
+    "objectID": "posts/COFABM/index.html",
+    "href": "posts/COFABM/index.html",
+    "title": "COHERENS Workshop #2",
     "section": "",
-    "text": "Home\n    Publications\n  \n\n\n\n   \n     \n     \n       Order By\n       Default\n         \n          Title\n        \n         \n          Author\n        \n         \n          Publication\n        \n         \n          Year\n        \n     \n  \n    \n      \n      \n    \n\n\n\n  \n    Lessons from the calibration and sensitivity analysis of a fish larval transport model\n    Barbut et al.\n    Marine Ecology Progress Series\n    (2024)\n    \n      Details\n    \n    \n    \n      DOI\n    \n    \n    \n    \n  \n\n  \n    Complex effect of projected sea temperature and wind change on flatfish dispersal\n    Lacroix et al.\n    Global Change Biology\n    (2018)\n    \n      Details\n    \n    \n    \n      DOI\n    \n    \n    \n    \n  \n\n\n\nNo matching items"
+    "text": "This workshop is divided in two parts:\n\nJupyterHub on ECMWF, what is it and why use it?\nA gentle introduction to neural network, large language models and use cases of generative AI resources\n\n\n\n\n\nNote - click on F for full screen and O for an overview of the slide deck."
   },
   {
     "objectID": "publications/articles/barbut2024.html",
@@ -91,24 +105,45 @@
     "text": "Abstract\nNumerous fish populations show strong year-to-year variations in recruitment. The early life stages play a crucial role in determining recruitment and dispersal patterns. A helpful tool to understand recruitment and dispersal involves simulations with a Lagrangian transport model, which results from the coupling between a hydrodynamic model and an individual-based model. Larval transport models require sound knowledge of the biological processes governing larval dispersal, and they may be highly sensitive to the parameters selected. Various assumptions about larval traits, behaviour and other model parameters can be tested by comparing simulation results with field data to identify the most sensitive parameters and to improve model calibration. This study shows that biological parameterization is more important than inter-annual variability in explaining the year-to-year differences in larval recruitment of common sole in the North Sea and the eastern English Channel. In contrast, year-to-year variability of connectivity leads to higher variability than changes in the biological parameters. The most influential parameters are pelagic larval duration, spawning period and mortality. Calibration over a 12 yr recruitment survey shows that a scenario with low mortality associated with a long larval duration and behaviour involving nycthemeral and tidal migration best reproduces the observations. This research provides insights into factors influencing fish dispersal and recruitment, suggesting a strategy for enhancing the accuracy of models in upcoming studies. The study supports the improvement of larval dispersal modelling by incorporating an easily applicable sensitivity analysis for both calibration and validation. Incorporating sensitivity analyses enhances larval dispersal models, providing performing tools that can contribute to informed fisheries management and understanding of recruitment variability."
   },
   {
-    "objectID": "publications/articles/Lacroix2018.html",
-    "href": "publications/articles/Lacroix2018.html",
-    "title": "Complex effect of projected sea temperature and wind change on flatfish dispersal",
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "",
     "section": "",
-    "text": "Lacroix, G., Barbut, L., & Volckaert, F. A. (2018). Complex effect of projected sea temperature and wind change on flatfish dispersal. Global Change Biology, 24(1), 85-100."
+    "text": "Home\n    Publications\n  \n\n\n\n   \n     \n     \n       Order By\n       Default\n         \n          Title\n        \n         \n          Author\n        \n         \n          Publication\n        \n         \n          Year\n        \n     \n  \n    \n      \n      \n    \n\n\n\n  \n    Lessons from the calibration and sensitivity analysis of a fish larval transport model\n    Barbut et al.\n    Marine Ecology Progress Series\n    (2024)\n    \n      Details\n    \n    \n    \n      DOI\n    \n    \n    \n    \n  \n\n  \n    Complex effect of projected sea temperature and wind change on flatfish dispersal\n    Lacroix et al.\n    Global Change Biology\n    (2018)\n    \n      Details\n    \n    \n    \n      DOI\n    \n    \n    \n    \n  \n\n\n\nNo matching items"
   },
   {
-    "objectID": "publications/articles/Lacroix2018.html#citation-apa-7",
-    "href": "publications/articles/Lacroix2018.html#citation-apa-7",
-    "title": "Complex effect of projected sea temperature and wind change on flatfish dispersal",
+    "objectID": "posts/COFABM/index.html#slides",
+    "href": "posts/COFABM/index.html#slides",
+    "title": "COHERENS Workshop #2",
     "section": "",
-    "text": "Lacroix, G., Barbut, L., & Volckaert, F. A. (2018). Complex effect of projected sea temperature and wind change on flatfish dispersal. Global Change Biology, 24(1), 85-100."
+    "text": "Note - click on F for full screen and O for an overview of the slide deck."
   },
   {
-    "objectID": "publications/articles/Lacroix2018.html#abstract",
-    "href": "publications/articles/Lacroix2018.html#abstract",
-    "title": "Complex effect of projected sea temperature and wind change on flatfish dispersal",
-    "section": "Abstract",
-    "text": "Abstract\nClimate change not only alters ocean physics and chemistry but also affects the biota. Larval dispersal patterns from spawning to nursery grounds and larval survival are driven by hydrodynamic processes and shaped by (a)biotic environmental factors. Therefore, it is important to understand the impacts of increased temperature rise and changes in wind speed and direction on larval drift and survival. We apply a particle-tracking model coupled to a 3D-hydrodynamic model of the English Channel and the North Sea to study the dispersal dynamics of the exploited flatfish (common) sole (Solea solea). We first assess model robustness and interannual variability in larval transport over the period 1995–2011. Then, using a subset of representative years (2003–2011), we investigate the impact of climate change on larval dispersal, connectivity patterns and recruitment at the nursery grounds. The impacts of five scenarios inspired by the 2040 projections of the Intergovernmental Panel on Climate Change are discussed and compared with interannual variability. The results suggest that 33% of the year-to-year recruitment variability is explained at a regional scale and that a 9-year period is sufficient to capture interannual variability in dispersal dynamics. In the scenario involving a temperature increase, early spawning and a wind change, the model predicts that (i) dispersal distance (+70%) and pelagic larval duration (+22%) will increase in response to the reduced temperature (−9%) experienced by early hatched larvae, (ii) larval recruitment at the nursery grounds will increase in some areas (36%) and decrease in others (−58%) and (iii) connectivity will show contrasting changes between areas. At the regional scale, our model predicts considerable changes in larval recruitment (+9%) and connectivity (retention −4% and seeding +37%) due to global change. All of these factors affect the distribution and productivity of sole and therefore the functioning of the demersal ecosystem and fisheries management."
+    "objectID": "posts/JupyterHub/index.html",
+    "href": "posts/JupyterHub/index.html",
+    "title": "COHERENS Workshop #2",
+    "section": "",
+    "text": "This workshop is divided in two parts:\n\nJupyterHub on ECMWF, what is it and why use it?\nA gentle introduction to neural network, large language models and use cases of generative AI resources\n\n\n\n\n\nNote - click on F for full screen and O for an overview of the slide deck."
+  },
+  {
+    "objectID": "posts/JupyterHub/index.html#slides",
+    "href": "posts/JupyterHub/index.html#slides",
+    "title": "COHERENS Workshop #2",
+    "section": "",
+    "text": "Note - click on F for full screen and O for an overview of the slide deck."
+  },
+  {
+    "objectID": "posts/workshop2/index.html",
+    "href": "posts/workshop2/index.html",
+    "title": "COHERENS Workshop #2",
+    "section": "",
+    "text": "This workshop is divided in two parts:\n\nJupyterHub on ECMWF, what is it and why use it?\nA gentle introduction to neural network, large language models and use cases of generative AI resources\n\n\n\n\n\nNote - click on F for full screen and O for an overview of the slide deck."
+  },
+  {
+    "objectID": "posts/workshop2/index.html#slides",
+    "href": "posts/workshop2/index.html#slides",
+    "title": "COHERENS Workshop #2",
+    "section": "",
+    "text": "Note - click on F for full screen and O for an overview of the slide deck."
   }
 ]
