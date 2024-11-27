@@ -1,5 +1,5 @@
 ---
-title: "A little overview of projects done at ECOMOD"
+title: "Overview of our projects and workshops"
 listing:
   contents: posts
   sort: "date desc"
