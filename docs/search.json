@@ -4,7 +4,7 @@
     "href": "team.html",
     "title": "",
     "section": "",
-    "text": "Geneviève\n      Lacroix\n    \n    CEO\n    \n      \n      \n      \n      \n      \n    \n  \n  \n  \n    \n      \n    \n    \n      Léo\n      Barbut\n    \n    Ideation Specialist\n    \n      \n      \n      \n      \n    \n  \n  \n  \n    \n      \n    \n    \n      Arthur\n      Capet\n    \n    Science Wizard\n    \n      \n      \n      \n      \n    \n  \n  \n  \n    \n      \n    \n    \n      Pauline\n      Denis\n    \n    Turbulence Queen\n    \n      \n      \n      \n      \n    \n  \n  \n  \n    \n      \n    \n    \n      Valérie\n      Dulière\n    \n    Phoenix Pioneer\n    \n      \n      \n      \n      \n      \n    \n  \n  \n  \n    \n      \n    \n    \n      Olivier\n      Gourgue\n    \n    Prompt Genius\n    \n      \n      \n      \n      \n      \n    \n  \n  \n  \n    \n      \n    \n    \n      Amoussou S.\n      Gozingan\n    \n    Numerical Expert\n    \n      \n      \n      \n      \n    \n  \n  \n  \n    \n      \n    \n    \n      Youri\n      Jourdevant\n    \n    Passionate Explorer\n    \n      \n      \n      \n      \n    \n  \n  \n  \n    \n      \n    \n    \n      Stéphanie\n      Ponsar\n    \n    Sediment Strategist\n    \n      \n      \n      \n      \n    \n  \n  \n  \n    \n      \n    \n    \n      Florian\n      Ricour\n    \n    Shiny Magic\n    \n      \n      \n      \n      \n      \n    \n  \n  \n  \n    \n      \n    \n    \n      Hugo\n      Romanelli\n    \n    COHERENS Master\n    \n      \n      \n      \n      \n    \n  \n  \n  \n    \n      \n    \n    \n      Nathan\n      Terseleer Lillo\n    \n    TEP Lover"
+    "text": "Geneviève\n      Lacroix\n    \n    CEO\n    \n      \n      \n      \n      \n      \n    \n  \n  \n  \n    \n      \n    \n    \n      Léo\n      Barbut\n    \n    Ideation Specialist\n    \n      \n      \n      \n      \n    \n  \n  \n  \n    \n      \n    \n    \n      Arthur\n      Capet\n    \n    Science Wizard\n    \n      \n      \n      \n      \n    \n  \n  \n  \n    \n      \n    \n    \n      Pauline\n      Denis\n    \n    Turbulence Queen\n    \n      \n      \n      \n      \n    \n  \n  \n  \n    \n      \n    \n    \n      Valérie\n      Dulière\n    \n    Phoenix Pioneer\n    \n      \n      \n      \n      \n      \n    \n  \n  \n  \n    \n      \n    \n    \n      Olivier\n      Gourgue\n    \n    Prompt Genius\n    \n      \n      \n      \n      \n      \n    \n  \n  \n  \n    \n      \n    \n    \n      Amoussou S.\n      Gozingan\n    \n    Numerical Expert\n    \n      \n      \n      \n      \n    \n  \n  \n  \n    \n      \n    \n    \n      Youri\n      Jourdevant\n    \n    Passionate Explorer\n    \n      \n      \n      \n      \n    \n  \n  \n  \n    \n      \n    \n    \n      Stéphanie\n      Ponsar\n    \n    Sediment Strategist\n    \n      \n      \n      \n      \n    \n  \n  \n  \n    \n      \n    \n    \n      Florian\n      Ricour\n    \n    Shiny Magician\n    \n      \n      \n      \n      \n      \n    \n  \n  \n  \n    \n      \n    \n    \n      Hugo\n      Romanelli\n    \n    COHERENS Master\n    \n      \n      \n      \n      \n    \n  \n  \n  \n    \n      \n    \n    \n      Nathan\n      Terseleer Lillo\n    \n    TEP Lover"
   },
   {
     "objectID": "publications/articles/Lacroix2018.html",
@@ -33,6 +33,20 @@
     "title": "ECOMOD’s latest news !",
     "section": "",
     "text": "ECOMOD’s latest news !"
+  },
+  {
+    "objectID": "posts/activities/workshop2/index.html",
+    "href": "posts/activities/workshop2/index.html",
+    "title": "COHERENS Workshop #2",
+    "section": "",
+    "text": "This workshop is divided in two parts:\n\nJupyterHub on ECMWF, what is it and why use it?\nA gentle introduction to neural networks, large language models and use cases of generative AI resources\n\n\n\n\n\nNote - click on F for full screen and O for an overview of the slide deck."
+  },
+  {
+    "objectID": "posts/activities/workshop2/index.html#slides",
+    "href": "posts/activities/workshop2/index.html#slides",
+    "title": "COHERENS Workshop #2",
+    "section": "",
+    "text": "Note - click on F for full screen and O for an overview of the slide deck."
   },
   {
     "objectID": "index.html",
@@ -70,25 +84,25 @@
     "text": "Purpose: Guides policymakers in developing strategies to reduce coastal eutrophication\nImpact: Helps protect marine ecosystems from excessive nutrient pollution\n\n\n\n\n\nPurpose: Analyzes fish larvae survival rates across different:\n\nLocations\nSeasons\nEnvironmental conditions\n\nImpact: Provides crucial insights for fisheries management and marine conservation\n\n\nThrough these advanced modeling techniques, we’re better equipped to understand and protect our ocean’s complex ecosystems, ensuring their preservation for future generations."
   },
   {
-    "objectID": "portfolio.html",
-    "href": "portfolio.html",
-    "title": "Overview of our projects and workshops",
+    "objectID": "activities.html",
+    "href": "activities.html",
+    "title": "Overview of our team activities and workshops",
     "section": "",
     "text": "COHERENS Workshop #2\n\n\n\nworkshop\n\n\nAI\n\n\nJupyterHub\n\n\nECMWF\n\n\n\n\n\n\n\nFlorian Ricour and Ludovic Lepers\n\n\nNov 27, 2024\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "posts/workshop2/index.html",
-    "href": "posts/workshop2/index.html",
-    "title": "COHERENS Workshop #2",
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Overview of our projects",
     "section": "",
-    "text": "This workshop is divided in two parts:\n\nJupyterHub on ECMWF, what is it and why use it?\nA gentle introduction to neural networks, large language models and use cases of generative AI resources\n\n\n\n\n\nNote - click on F for full screen and O for an overview of the slide deck."
+    "text": "COHERENS\n\n\n\nModeling\n\n\n\n\n\n\n\n\n\n\nJan 24, 2025\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "posts/workshop2/index.html#slides",
-    "href": "posts/workshop2/index.html#slides",
-    "title": "COHERENS Workshop #2",
+    "objectID": "posts/projects/COHERENS/index.html",
+    "href": "posts/projects/COHERENS/index.html",
+    "title": "COHERENS",
     "section": "",
-    "text": "Note - click on F for full screen and O for an overview of the slide deck."
+    "text": "Work in progress."
   },
   {
     "objectID": "publications/articles/barbut2024.html",

@@ -1,7 +1,7 @@
 ---
-title: "Overview of our projects and workshops"
+title: "Overview of our team activities and workshops"
 listing:
-  contents: posts
+  contents: posts/activities
   sort: "date desc"
   type: grid
   categories: true

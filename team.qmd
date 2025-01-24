@@ -233,7 +233,7 @@
     <p class="profile-title">Sediment Strategist</p>
     <div class="profile-links">
       <a href="mailto:stephanie.ponsar@naturalsciences.be?"><i class="fa-solid fa-envelope"></i></a>
-      <a href=""><i class="fa-brands fa-github"></i></a>
+      <a href="https://github.com/sp-rbins"><i class="fa-brands fa-github"></i></a>
       <a href=""><i class="fa-brands fa-orcid"></i></a>
       <a href="https://www.linkedin.com/in/stephanie-ponsar-12112860"><i class="fa-brands fa-linkedin"></i></a>
     </div>
@@ -247,7 +247,7 @@
       <span class="first-name">Florian</span>
       <span class="last-name">Ricour</span>
     </h3>
-    <p class="profile-title">Shiny Magic</p>
+    <p class="profile-title">Shiny Magician</p>
     <div class="profile-links">
       <a href="mailto:fricour@naturalsciences.be?"><i class="fa-solid fa-envelope"></i></a>
       <a href="https://github.com/fricour"><i class="fa-brands fa-github"></i></a>
