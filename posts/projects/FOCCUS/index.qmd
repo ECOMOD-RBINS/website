@@ -37,24 +37,24 @@ Arthur Capet and Florian Ricour
 
 ## ECOMOD tasks and responsabilities
 
-- Task 6.1: Design and test modelling interfaces between CMEMS and MSCS
+- Task 6.1. Design and test modelling interfaces between CMEMS and MSCS
     - Subtask 6.1.2 Implementation of new nesting capabilities
 
-- Task 6.2: Implement new modelling techniques for use in operational production chains
+- Task 6.2. Implement new modelling techniques for use in operational production chains
     - Subtask 6.2.1 Ensemble approaches
 
-- Task 7.1: Validation and demonstration of modelling interfaces improvements
+- Task 7.1. Validation and demonstration of modelling interfaces improvements
     - Subtask 7.1.1 MSCSs performance assessment
     - Subtask 7.1.2 Transfer of knowledge across system
     - Subtask 7.1.3 Demonstration cases
 
-- Task 7.2: Assess and demonstrate the added value of new modelling techniques
+- Task 7.2. Assess and demonstrate the added value of new modelling techniques
     - Subtask 7.2.1 Ensemble evaluation
 
 - Task 10.1. Communication, Dissemination, and Management of    Project Results Exploitation
 
 - Task 10.2. Member states - Copernicus engagement
-    - Subtask 10.2.1. Inventory of MS coastal systems
+    - Subtask 10.2.1 Inventory of MS coastal systems
 
 ## Partners
 

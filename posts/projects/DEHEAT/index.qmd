@@ -1,0 +1,58 @@
+---
+title: "DEHEAT"
+description: ""
+author: ""
+date: "2025-03-17"
+categories: [Modeling]
+image: "images/deheat.png"
+
+execute:
+  echo: false
+  warning: false
+  error: true
+  cache: true
+  
+format: 
+  html:
+    page-layout: full
+
+#bibliography: references.bib
+#cls: journal-of-oceanography.csl
+#link-citations: true
+---
+
+## DEHEAT - Natural analogues and system-scale modeling of marine enhanced silicate weathering
+
+December 2021 - December 2026
+
+## Summary
+
+Facing climate change is a societal challenge, and calls for ambitious, transformative, and collective action. To keep global warming below 2°C, we will need to rely on negative emission technologies (NETs). A promising NET approach is Enhanced Silicate Weathering (ESW). ESW makes use of the natural weathering reaction, whereby silicate dissolution consumes atmospheric CO2. [DEHEAT](https://coastalesw.com/) will assess the efficiency of marine ESW in stimulating oceanic CO2 uptake by increasing alkalinity and evaluate its environmental impact, by applying an innovative fully integrated approach combining extensive field campaigns with state-of-the-art numerical models
+
+## Team members involved
+
+Arthur Capet and Geneviève Lacroix
+
+## ECOMOD tasks and responsabilities
+
+- Task 3.1. Establish a biogeochemical baseline of the North Sea	
+- Task 3.2. Set up the North Sea BGC module (done in the FEDtWIN project [ReCAP]())
+- Task 3.3. Development of a sediment silica weathering model for coupling to COHERENS
+- Task 3.4. Scenarios of large-scale deployment of ESW as a NET
+- Task 4.1. Coordination and project management
+- Task 4.2. Reporting
+- Task 5.1. Gathering environmental data and metadata (from WP1)
+- Task 5.2. Long-term preservation and dissemination of the data and metadata 
+- Task 5.3. Archiving and preservation of developed computer code
+
+
+
+## Partners
+ 
+1. RBINS coordination (Sebastian van de Velde and Geneviève Lacroix)
+2. Universiteit Antwerpen (Prof. Filip Meysman)
+3. Université Libre de Bruxelles (Prof. Sandra Arndt and Prof. Steeve Bonneville)
+
+## Funding and contract
+
+This project is funded by the Belgian Science Policy

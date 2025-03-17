@@ -32,210 +32,21 @@
     "href": "news.html",
     "title": "ECOMOD latest updates",
     "section": "",
-    "text": "To come.\n\n\n\n\n\nPauline was awarded the second prize for best oral presentation at the VLIZ Marine Science Day in Bruges, Belgium. She was elected for this by an audience of approximately 500 attendees, for her presentation Assessing the hydrodynamic impacts and carbon deposition pattern associated with floating solar structures within a Belgian offshore wind farm\n\n\n\n\nArthur and Florian attended the FOCCUS General Assembly at Palma de Mallorca for the technical review of the project and scientific round tables\n\n\n\nView of Palma Bay"
+    "text": "To come.\n\n\n\n\n\nArthur and Florian attended the FOCCUS General Assembly at Palma de Mallorca for the technical review of the project and scientific round tables\n\n\n\nView of Palma Bay\n\n\n\n\n\nPauline was awarded the second prize for best oral presentation at the VLIZ Marine Science Day in Bruges, Belgium. She was elected for this by an audience of approximately 500 attendees, for her presentation Assessing the hydrodynamic impacts and carbon deposition pattern associated with floating solar structures within a Belgian offshore wind farm"
   },
   {
-    "objectID": "posts/activities/workshop2/index.html",
-    "href": "posts/activities/workshop2/index.html",
-    "title": "COHERENS Workshop #2",
+    "objectID": "news.html#april-2025",
+    "href": "news.html#april-2025",
+    "title": "ECOMOD latest updates",
     "section": "",
-    "text": "This workshop is divided in two parts:\n\nJupyterHub on ECMWF, what is it and why use it?\nA gentle introduction to neural networks, large language models and use cases of generative AI resources\n\n\n\n\n\nNote - click on F for full screen and O for an overview of the slide deck."
+    "text": "To come."
   },
   {
-    "objectID": "posts/activities/workshop2/index.html#slides",
-    "href": "posts/activities/workshop2/index.html#slides",
-    "title": "COHERENS Workshop #2",
+    "objectID": "news.html#march-2025",
+    "href": "news.html#march-2025",
+    "title": "ECOMOD latest updates",
     "section": "",
-    "text": "Note - click on F for full screen and O for an overview of the slide deck."
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Marine Ecosystem Modelling (ECOMOD)",
-    "section": "",
-    "text": "The microscopic marine environment holds secrets of incredible diversity. Each drop of seawater tells a unique story - a water sample taken at one location might reveal an entirely different microbial community than another sample collected just hundreds of meters away.\nYet, amid this seemingly chaotic microscopic variability, nature follows patterns. At the macroscale, both physical and biological factors orchestrate a beautiful dance that determines which species appear where and when.\n\n\n\n🌊 What are phytoplankton?\nThese microscopic algae, suspended in the water column, are the foundation of marine life. Their survival depends on a delicate balance of several factors:\n\n☀️ Light - Essential for photosynthesis\n🧪 Nutrients - Required for growth\n🌡️ Temperature - Affects metabolic rates\n🌊 Water Movement - Influences distribution\n\nOcean currents\nBuoyancy effects\nWater turbulence\n\n\nTheir existence is constantly challenged by: * Predation from zooplankton (microscopic marine animals) * Viral attacks * Various environmental stressors\n\n\n\nBy translating these complex physical and biological processes into mathematical equations, we can create comprehensive ecosystem models. These models help us understand:\n\nSpecies growth patterns\nMortality rates\nInteractions between different species\nEnvironmental impact on marine life\n\n\n\n\n\n\n\nPurpose: Guides policymakers in developing strategies to reduce coastal eutrophication\nImpact: Helps protect marine ecosystems from excessive nutrient pollution\n\n\n\n\n\nPurpose: Analyzes fish larvae survival rates across different:\n\nLocations\nSeasons\nEnvironmental conditions\n\nImpact: Provides crucial insights for fisheries management and marine conservation\n\n\nThrough these advanced modeling techniques, we’re better equipped to understand and protect our ocean’s complex ecosystems, ensuring their preservation for future generations."
-  },
-  {
-    "objectID": "index.html#the-hidden-world-of-marine-microorganisms",
-    "href": "index.html#the-hidden-world-of-marine-microorganisms",
-    "title": "Marine Ecosystem Modelling (ECOMOD)",
-    "section": "",
-    "text": "The microscopic marine environment holds secrets of incredible diversity. Each drop of seawater tells a unique story - a water sample taken at one location might reveal an entirely different microbial community than another sample collected just hundreds of meters away.\nYet, amid this seemingly chaotic microscopic variability, nature follows patterns. At the macroscale, both physical and biological factors orchestrate a beautiful dance that determines which species appear where and when."
-  },
-  {
-    "objectID": "index.html#understanding-phytoplankton-natures-tiny-powerhouses",
-    "href": "index.html#understanding-phytoplankton-natures-tiny-powerhouses",
-    "title": "Marine Ecosystem Modelling (ECOMOD)",
-    "section": "",
-    "text": "🌊 What are phytoplankton?\nThese microscopic algae, suspended in the water column, are the foundation of marine life. Their survival depends on a delicate balance of several factors:\n\n☀️ Light - Essential for photosynthesis\n🧪 Nutrients - Required for growth\n🌡️ Temperature - Affects metabolic rates\n🌊 Water Movement - Influences distribution\n\nOcean currents\nBuoyancy effects\nWater turbulence\n\n\nTheir existence is constantly challenged by: * Predation from zooplankton (microscopic marine animals) * Viral attacks * Various environmental stressors"
-  },
-  {
-    "objectID": "index.html#mathematical-modeling-bringing-order-to-complexity",
-    "href": "index.html#mathematical-modeling-bringing-order-to-complexity",
-    "title": "Marine Ecosystem Modelling (ECOMOD)",
-    "section": "",
-    "text": "By translating these complex physical and biological processes into mathematical equations, we can create comprehensive ecosystem models. These models help us understand:\n\nSpecies growth patterns\nMortality rates\nInteractions between different species\nEnvironmental impact on marine life"
-  },
-  {
-    "objectID": "index.html#real-world-applications",
-    "href": "index.html#real-world-applications",
-    "title": "Marine Ecosystem Modelling (ECOMOD)",
-    "section": "",
-    "text": "Purpose: Guides policymakers in developing strategies to reduce coastal eutrophication\nImpact: Helps protect marine ecosystems from excessive nutrient pollution\n\n\n\n\n\nPurpose: Analyzes fish larvae survival rates across different:\n\nLocations\nSeasons\nEnvironmental conditions\n\nImpact: Provides crucial insights for fisheries management and marine conservation\n\n\nThrough these advanced modeling techniques, we’re better equipped to understand and protect our ocean’s complex ecosystems, ensuring their preservation for future generations."
-  },
-  {
-    "objectID": "activities.html",
-    "href": "activities.html",
-    "title": "Overview of our team activities and workshops",
-    "section": "",
-    "text": "COHERENS Workshop #2\n\n\n\nworkshop\n\n\nAI\n\n\nJupyterHub\n\n\nECMWF\n\n\n\n\n\n\n\nFlorian Ricour and Ludovic Lepers\n\n\nNov 27, 2024\n\n\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "projects.html",
-    "href": "projects.html",
-    "title": "Overview of our projects",
-    "section": "",
-    "text": "FOCCUS\n\n\n\nModeling\n\n\nEnsembles\n\n\nPlumes\n\n\n\n\n\n\n\n\n\n\nMar 17, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSWiM\n\n\n\nModeling\n\n\n\n\n\n\n\n\n\n\nMar 17, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCOHERENS\n\n\n\nModeling\n\n\n\n\n\n\n\n\n\n\nJan 24, 2025\n\n\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "posts/projects/COHERENS/index.html",
-    "href": "posts/projects/COHERENS/index.html",
-    "title": "COHERENS",
-    "section": "",
-    "text": "Work in progress."
-  },
-  {
-    "objectID": "publications/articles/barbut2024.html",
-    "href": "publications/articles/barbut2024.html",
-    "title": "Lessons from the calibration and sensitivity analysis of a fish larval transport model",
-    "section": "",
-    "text": "Barbut, L., Lehuta, S., Volckaert, F. A., & Lacroix, G. (2024). Lessons from the calibration and sensitivity analysis of a fish larval transport model. Marine Ecology Progress Series, 731, 67-88."
-  },
-  {
-    "objectID": "publications/articles/barbut2024.html#citation-apa-7",
-    "href": "publications/articles/barbut2024.html#citation-apa-7",
-    "title": "Lessons from the calibration and sensitivity analysis of a fish larval transport model",
-    "section": "",
-    "text": "Barbut, L., Lehuta, S., Volckaert, F. A., & Lacroix, G. (2024). Lessons from the calibration and sensitivity analysis of a fish larval transport model. Marine Ecology Progress Series, 731, 67-88."
-  },
-  {
-    "objectID": "publications/articles/barbut2024.html#abstract",
-    "href": "publications/articles/barbut2024.html#abstract",
-    "title": "Lessons from the calibration and sensitivity analysis of a fish larval transport model",
-    "section": "Abstract",
-    "text": "Abstract\nNumerous fish populations show strong year-to-year variations in recruitment. The early life stages play a crucial role in determining recruitment and dispersal patterns. A helpful tool to understand recruitment and dispersal involves simulations with a Lagrangian transport model, which results from the coupling between a hydrodynamic model and an individual-based model. Larval transport models require sound knowledge of the biological processes governing larval dispersal, and they may be highly sensitive to the parameters selected. Various assumptions about larval traits, behaviour and other model parameters can be tested by comparing simulation results with field data to identify the most sensitive parameters and to improve model calibration. This study shows that biological parameterization is more important than inter-annual variability in explaining the year-to-year differences in larval recruitment of common sole in the North Sea and the eastern English Channel. In contrast, year-to-year variability of connectivity leads to higher variability than changes in the biological parameters. The most influential parameters are pelagic larval duration, spawning period and mortality. Calibration over a 12 yr recruitment survey shows that a scenario with low mortality associated with a long larval duration and behaviour involving nycthemeral and tidal migration best reproduces the observations. This research provides insights into factors influencing fish dispersal and recruitment, suggesting a strategy for enhancing the accuracy of models in upcoming studies. The study supports the improvement of larval dispersal modelling by incorporating an easily applicable sensitivity analysis for both calibration and validation. Incorporating sensitivity analyses enhances larval dispersal models, providing performing tools that can contribute to informed fisheries management and understanding of recruitment variability."
-  },
-  {
-    "objectID": "publications.html",
-    "href": "publications.html",
-    "title": "",
-    "section": "",
-    "text": "Home\n    Publications\n  \n\n\n\n   \n     \n     \n       Order By\n       Default\n         \n          Title\n        \n         \n          Author\n        \n         \n          Publication\n        \n         \n          Year\n        \n     \n  \n    \n      \n      \n    \n\n\n\n  \n    Lessons from the calibration and sensitivity analysis of a fish larval transport model\n    Barbut et al.\n    Marine Ecology Progress Series\n    (2024)\n    \n      Details\n    \n    \n    \n      DOI\n    \n    \n    \n    \n  \n\n  \n    Complex effect of projected sea temperature and wind change on flatfish dispersal\n    Lacroix et al.\n    Global Change Biology\n    (2018)\n    \n      Details\n    \n    \n    \n      DOI\n    \n    \n    \n    \n  \n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "posts/projects/FOCCUS/index.html",
-    "href": "posts/projects/FOCCUS/index.html",
-    "title": "FOCCUS",
-    "section": "",
-    "text": "January 2024 - December 2026"
-  },
-  {
-    "objectID": "posts/projects/FOCCUS/index.html#summary",
-    "href": "posts/projects/FOCCUS/index.html#summary",
-    "title": "FOCCUS",
-    "section": "Summary",
-    "text": "Summary\nFOCCUS aims at enhancing CMEMS (Copernicus Marine Environment Monitoring Service), integrating Copernicus and European Member states coastal services, through seamless and fit-for-use monitoring and forecasting of the ocean from global to regional and coastal scales. Novel approaches (i.e. new space and in-situ observations, innovation in data fusion, processing and visualisation, numerical coastal predictions with interfaces for downscaling from CMEMS) will be used for effective uptakes from the Member states to ensure a more sustainable Blue Economy and coastal resilience to climate change."
-  },
-  {
-    "objectID": "posts/projects/FOCCUS/index.html#partners",
-    "href": "posts/projects/FOCCUS/index.html#partners",
-    "title": "FOCCUS",
-    "section": "Partners",
-    "text": "Partners\n\nHelmholtz-Zentrum Hereon GmbH (HEREON)\nMercator Ocean (MOi)\nFondazione Centro Euro-Mediterraneo sui Cambiamenti Climatici (CMCC)\nService Hydrographique et Océanographique de la Marine (SHOM)\nCollecte Localisation Satellites (CLS)\nSOCIB - Consorcio para el diseño, construcción, equipamiento y explotación del sistema de observación costero de las Illes Balears (SOCIB)\nConsiglio Nazionale delle Ricerche (CNR)\nStichting Deltares (DELTARES)\nStiftelsen Nansen Senter for Miljø og Fjernmåling (NERSC)\nMeteorologisk Institutt (MET.NO)\nSveriges Meteorologiska och Hydrologiska Institut (SMHI)\nAtlantic Associacao para um Laboratorio Colaborativo do Atlântico (+ATLANTIC)\nInstitut Royal des Sciences Naturelles de Belgique (RBINS)\nMaritime Hydrographic Directorate (MHD)\nEuropean Global Ocean Observing System (EUROGOOS)\nBrockmann Consult GmbH (BC)\nDanmarks Meteorologiske Institut (DMI)\nInstitut Francais de Recherche pour l’Exploitation de la Mer (Ifremer)\nSeascape Belgium (SSBE)"
-  },
-  {
-    "objectID": "posts/projects/FOCCUS/index.html#funding-and-contract",
-    "href": "posts/projects/FOCCUS/index.html#funding-and-contract",
-    "title": "FOCCUS",
-    "section": "Funding and contract",
-    "text": "Funding and contract\nThis project is funded by the European Commission"
-  },
-  {
-    "objectID": "posts/projects/FOCCUS/index.html#ecomod-team-members-involved",
-    "href": "posts/projects/FOCCUS/index.html#ecomod-team-members-involved",
-    "title": "FOCCUS",
-    "section": "ECOMOD team members involved",
-    "text": "ECOMOD team members involved\nArthur Capet and Florian Ricour"
-  },
-  {
-    "objectID": "posts/projects/FOCCUS/index.html#ecomod-tasks-and-responsabilities",
-    "href": "posts/projects/FOCCUS/index.html#ecomod-tasks-and-responsabilities",
-    "title": "FOCCUS",
-    "section": "ECOMOD tasks and responsabilities",
-    "text": "ECOMOD tasks and responsabilities\n\nTask 6.1: Design and test modelling interfaces between CMEMS and MSCS\n\nSubtask 6.1.2 Implementation of new nesting capabilities\n\nTask 6.2: Implement new modelling techniques for use in operational production chains\n\nSubtask 6.2.1 Ensemble approaches\n\nTask 7.1: Validation and demonstration of modelling interfaces improvements\n\nSubtask 7.1.1 MSCSs performance assessment\nSubtask 7.1.2 Transfer of knowledge across system\nSubtask 7.1.3 Demonstration cases\n\nTask 7.2: Assess and demonstrate the added value of new modelling techniques\n\nSubtask 7.2.1 Ensemble evaluation\n\nTask 10.1. Communication, Dissemination, and Management of Project Results Exploitation\nTask 10.2. Member states - Copernicus engagement\n\nSubtask 10.2.1. Inventory of MS coastal systems"
-  },
-  {
-    "objectID": "posts/projects/FOCCUS/index.html#team-members-involved",
-    "href": "posts/projects/FOCCUS/index.html#team-members-involved",
-    "title": "FOCCUS",
-    "section": "Team members involved",
-    "text": "Team members involved\nArthur Capet and Florian Ricour"
-  },
-  {
-    "objectID": "posts/projects/FOCCUS/index.html#foccus---forecasting-and-observing-the-open-to-coastal-ocean-for-copernicus-users",
-    "href": "posts/projects/FOCCUS/index.html#foccus---forecasting-and-observing-the-open-to-coastal-ocean-for-copernicus-users",
-    "title": "FOCCUS",
-    "section": "",
-    "text": "January 2024 - December 2026"
-  },
-  {
-    "objectID": "posts/projects/SWIM/index.html",
-    "href": "posts/projects/SWIM/index.html",
-    "title": "SWIM",
-    "section": "",
-    "text": "Project duration: November 2024 - October 2026"
-  },
-  {
-    "objectID": "posts/projects/SWIM/index.html#swim---solar-and-wind-energy-in-the-belgian-marine-zone",
-    "href": "posts/projects/SWIM/index.html#swim---solar-and-wind-energy-in-the-belgian-marine-zone",
-    "title": "SWIM",
-    "section": "",
-    "text": "Project duration: November 2024 - October 2026"
-  },
-  {
-    "objectID": "posts/projects/SWIM/index.html#summary",
-    "href": "posts/projects/SWIM/index.html#summary",
-    "title": "SWIM",
-    "section": "Summary",
-    "text": "Summary\nThe aim of SWiM is to conduct research on the combination of marine technologies in the Exclusive Economic Zone of Belgium, in particular to integrate Offshore Floating Photovoltaics (OFPV) in wind farms. The six partners of SWiM will model the performance as a function of environmental variables, assess the limits to electricity generation imposed by the cables to shore, work out criteria for the mooring and anchoring, define rules for the placement and evaluate potential environmental impacts. Workshops with stakeholders will be held to derive policy advice"
-  },
-  {
-    "objectID": "posts/projects/SWIM/index.html#team-members-involved",
-    "href": "posts/projects/SWIM/index.html#team-members-involved",
-    "title": "SWIM",
-    "section": "Team members involved",
-    "text": "Team members involved\nArthur Capet and Pauline Denis"
-  },
-  {
-    "objectID": "posts/projects/SWIM/index.html#ecomod-tasks-and-responsabilities",
-    "href": "posts/projects/SWIM/index.html#ecomod-tasks-and-responsabilities",
-    "title": "SWIM",
-    "section": "ECOMOD tasks and responsabilities",
-    "text": "ECOMOD tasks and responsabilities\n\nTask 4.1. Physiological process rates of biofoling communities\nT4.2. Impact of anchoring systems\nT4.3. Regional impact of biofouling ecological processes"
-  },
-  {
-    "objectID": "posts/projects/SWIM/index.html#partners",
-    "href": "posts/projects/SWIM/index.html#partners",
-    "title": "SWIM",
-    "section": "Partners",
-    "text": "Partners\n\nKULeuven\nIMEC\nUniversiteit Hasselt\nRBINS\nDe Blauwe Cluster\nLaborelec"
-  },
-  {
-    "objectID": "posts/projects/SWIM/index.html#funding-and-contract",
-    "href": "posts/projects/SWIM/index.html#funding-and-contract",
-    "title": "SWIM",
-    "section": "Funding and contract",
-    "text": "Funding and contract\nThis project is funded by the FPS Economy (Energy Transition Fund) under contrat n° KM_C550i24101714230"
+    "text": "Arthur and Florian attended the FOCCUS General Assembly at Palma de Mallorca for the technical review of the project and scientific round tables\n\n\n\nView of Palma Bay\n\n\n\n\n\nPauline was awarded the second prize for best oral presentation at the VLIZ Marine Science Day in Bruges, Belgium. She was elected for this by an audience of approximately 500 attendees, for her presentation Assessing the hydrodynamic impacts and carbon deposition pattern associated with floating solar structures within a Belgian offshore wind farm"
   },
   {
     "objectID": "posts/projects/SWiM/index.html",
@@ -287,17 +98,199 @@
     "text": "Funding and contract\nThis project is funded by the FPS Economy (Energy Transition Fund)"
   },
   {
-    "objectID": "news.html#march-2025",
-    "href": "news.html#march-2025",
-    "title": "ECOMOD latest updates",
+    "objectID": "posts/projects/COHERENS/index.html",
+    "href": "posts/projects/COHERENS/index.html",
+    "title": "COHERENS",
     "section": "",
-    "text": "Pauline was awarded the second prize for best oral presentation at the VLIZ Marine Science Day in Bruges, Belgium. She was elected for this by an audience of approximately 500 attendees, for her presentation Assessing the hydrodynamic impacts and carbon deposition pattern associated with floating solar structures within a Belgian offshore wind farm\n\n\n\n\nArthur and Florian attended the FOCCUS General Assembly at Palma de Mallorca for the technical review of the project and scientific round tables\n\n\n\nView of Palma Bay"
+    "text": "Work in progress."
   },
   {
-    "objectID": "news.html#april-2025",
-    "href": "news.html#april-2025",
-    "title": "ECOMOD latest updates",
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Overview of our projects",
     "section": "",
-    "text": "To come."
+    "text": "FOCCUS\n\n\n\nModeling\n\n\nEnsembles\n\n\nPlumes\n\n\n\n\n\n\n\n\n\n\nMar 17, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSWiM\n\n\n\nModeling\n\n\n\n\n\n\n\n\n\n\nMar 17, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDEHEAT\n\n\n\nModeling\n\n\n\n\n\n\n\n\n\n\nMar 17, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCOHERENS\n\n\n\nModeling\n\n\n\n\n\n\n\n\n\n\nJan 24, 2025\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "activities.html",
+    "href": "activities.html",
+    "title": "Overview of our team activities and workshops",
+    "section": "",
+    "text": "COHERENS Workshop #2\n\n\n\nworkshop\n\n\nAI\n\n\nJupyterHub\n\n\nECMWF\n\n\n\n\n\n\n\nFlorian Ricour and Ludovic Lepers\n\n\nNov 27, 2024\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Marine Ecosystem Modelling (ECOMOD)",
+    "section": "",
+    "text": "The microscopic marine environment holds secrets of incredible diversity. Each drop of seawater tells a unique story - a water sample taken at one location might reveal an entirely different microbial community than another sample collected just hundreds of meters away.\nYet, amid this seemingly chaotic microscopic variability, nature follows patterns. At the macroscale, both physical and biological factors orchestrate a beautiful dance that determines which species appear where and when.\n\n\n\n🌊 What are phytoplankton?\nThese microscopic algae, suspended in the water column, are the foundation of marine life. Their survival depends on a delicate balance of several factors:\n\n☀️ Light - Essential for photosynthesis\n🧪 Nutrients - Required for growth\n🌡️ Temperature - Affects metabolic rates\n🌊 Water Movement - Influences distribution\n\nOcean currents\nBuoyancy effects\nWater turbulence\n\n\nTheir existence is constantly challenged by: * Predation from zooplankton (microscopic marine animals) * Viral attacks * Various environmental stressors\n\n\n\nBy translating these complex physical and biological processes into mathematical equations, we can create comprehensive ecosystem models. These models help us understand:\n\nSpecies growth patterns\nMortality rates\nInteractions between different species\nEnvironmental impact on marine life\n\n\n\n\n\n\n\nPurpose: Guides policymakers in developing strategies to reduce coastal eutrophication\nImpact: Helps protect marine ecosystems from excessive nutrient pollution\n\n\n\n\n\nPurpose: Analyzes fish larvae survival rates across different:\n\nLocations\nSeasons\nEnvironmental conditions\n\nImpact: Provides crucial insights for fisheries management and marine conservation\n\n\nThrough these advanced modeling techniques, we’re better equipped to understand and protect our ocean’s complex ecosystems, ensuring their preservation for future generations."
+  },
+  {
+    "objectID": "index.html#the-hidden-world-of-marine-microorganisms",
+    "href": "index.html#the-hidden-world-of-marine-microorganisms",
+    "title": "Marine Ecosystem Modelling (ECOMOD)",
+    "section": "",
+    "text": "The microscopic marine environment holds secrets of incredible diversity. Each drop of seawater tells a unique story - a water sample taken at one location might reveal an entirely different microbial community than another sample collected just hundreds of meters away.\nYet, amid this seemingly chaotic microscopic variability, nature follows patterns. At the macroscale, both physical and biological factors orchestrate a beautiful dance that determines which species appear where and when."
+  },
+  {
+    "objectID": "index.html#understanding-phytoplankton-natures-tiny-powerhouses",
+    "href": "index.html#understanding-phytoplankton-natures-tiny-powerhouses",
+    "title": "Marine Ecosystem Modelling (ECOMOD)",
+    "section": "",
+    "text": "🌊 What are phytoplankton?\nThese microscopic algae, suspended in the water column, are the foundation of marine life. Their survival depends on a delicate balance of several factors:\n\n☀️ Light - Essential for photosynthesis\n🧪 Nutrients - Required for growth\n🌡️ Temperature - Affects metabolic rates\n🌊 Water Movement - Influences distribution\n\nOcean currents\nBuoyancy effects\nWater turbulence\n\n\nTheir existence is constantly challenged by: * Predation from zooplankton (microscopic marine animals) * Viral attacks * Various environmental stressors"
+  },
+  {
+    "objectID": "index.html#mathematical-modeling-bringing-order-to-complexity",
+    "href": "index.html#mathematical-modeling-bringing-order-to-complexity",
+    "title": "Marine Ecosystem Modelling (ECOMOD)",
+    "section": "",
+    "text": "By translating these complex physical and biological processes into mathematical equations, we can create comprehensive ecosystem models. These models help us understand:\n\nSpecies growth patterns\nMortality rates\nInteractions between different species\nEnvironmental impact on marine life"
+  },
+  {
+    "objectID": "index.html#real-world-applications",
+    "href": "index.html#real-world-applications",
+    "title": "Marine Ecosystem Modelling (ECOMOD)",
+    "section": "",
+    "text": "Purpose: Guides policymakers in developing strategies to reduce coastal eutrophication\nImpact: Helps protect marine ecosystems from excessive nutrient pollution\n\n\n\n\n\nPurpose: Analyzes fish larvae survival rates across different:\n\nLocations\nSeasons\nEnvironmental conditions\n\nImpact: Provides crucial insights for fisheries management and marine conservation\n\n\nThrough these advanced modeling techniques, we’re better equipped to understand and protect our ocean’s complex ecosystems, ensuring their preservation for future generations."
+  },
+  {
+    "objectID": "posts/activities/workshop2/index.html",
+    "href": "posts/activities/workshop2/index.html",
+    "title": "COHERENS Workshop #2",
+    "section": "",
+    "text": "This workshop is divided in two parts:\n\nJupyterHub on ECMWF, what is it and why use it?\nA gentle introduction to neural networks, large language models and use cases of generative AI resources\n\n\n\n\n\nNote - click on F for full screen and O for an overview of the slide deck."
+  },
+  {
+    "objectID": "posts/activities/workshop2/index.html#slides",
+    "href": "posts/activities/workshop2/index.html#slides",
+    "title": "COHERENS Workshop #2",
+    "section": "",
+    "text": "Note - click on F for full screen and O for an overview of the slide deck."
+  },
+  {
+    "objectID": "posts/projects/FOCCUS/index.html",
+    "href": "posts/projects/FOCCUS/index.html",
+    "title": "FOCCUS",
+    "section": "",
+    "text": "January 2024 - December 2026"
+  },
+  {
+    "objectID": "posts/projects/FOCCUS/index.html#foccus---forecasting-and-observing-the-open-to-coastal-ocean-for-copernicus-users",
+    "href": "posts/projects/FOCCUS/index.html#foccus---forecasting-and-observing-the-open-to-coastal-ocean-for-copernicus-users",
+    "title": "FOCCUS",
+    "section": "",
+    "text": "January 2024 - December 2026"
+  },
+  {
+    "objectID": "posts/projects/FOCCUS/index.html#summary",
+    "href": "posts/projects/FOCCUS/index.html#summary",
+    "title": "FOCCUS",
+    "section": "Summary",
+    "text": "Summary\nFOCCUS aims at enhancing CMEMS (Copernicus Marine Environment Monitoring Service), integrating Copernicus and European Member states coastal services, through seamless and fit-for-use monitoring and forecasting of the ocean from global to regional and coastal scales. Novel approaches (i.e. new space and in-situ observations, innovation in data fusion, processing and visualisation, numerical coastal predictions with interfaces for downscaling from CMEMS) will be used for effective uptakes from the Member states to ensure a more sustainable Blue Economy and coastal resilience to climate change."
+  },
+  {
+    "objectID": "posts/projects/FOCCUS/index.html#team-members-involved",
+    "href": "posts/projects/FOCCUS/index.html#team-members-involved",
+    "title": "FOCCUS",
+    "section": "Team members involved",
+    "text": "Team members involved\nArthur Capet and Florian Ricour"
+  },
+  {
+    "objectID": "posts/projects/FOCCUS/index.html#ecomod-tasks-and-responsabilities",
+    "href": "posts/projects/FOCCUS/index.html#ecomod-tasks-and-responsabilities",
+    "title": "FOCCUS",
+    "section": "ECOMOD tasks and responsabilities",
+    "text": "ECOMOD tasks and responsabilities\n\nTask 6.1: Design and test modelling interfaces between CMEMS and MSCS\n\nSubtask 6.1.2 Implementation of new nesting capabilities\n\nTask 6.2: Implement new modelling techniques for use in operational production chains\n\nSubtask 6.2.1 Ensemble approaches\n\nTask 7.1: Validation and demonstration of modelling interfaces improvements\n\nSubtask 7.1.1 MSCSs performance assessment\nSubtask 7.1.2 Transfer of knowledge across system\nSubtask 7.1.3 Demonstration cases\n\nTask 7.2: Assess and demonstrate the added value of new modelling techniques\n\nSubtask 7.2.1 Ensemble evaluation\n\nTask 10.1. Communication, Dissemination, and Management of Project Results Exploitation\nTask 10.2. Member states - Copernicus engagement\n\nSubtask 10.2.1. Inventory of MS coastal systems"
+  },
+  {
+    "objectID": "posts/projects/FOCCUS/index.html#partners",
+    "href": "posts/projects/FOCCUS/index.html#partners",
+    "title": "FOCCUS",
+    "section": "Partners",
+    "text": "Partners\n\nHelmholtz-Zentrum Hereon GmbH (HEREON)\nMercator Ocean (MOi)\nFondazione Centro Euro-Mediterraneo sui Cambiamenti Climatici (CMCC)\nService Hydrographique et Océanographique de la Marine (SHOM)\nCollecte Localisation Satellites (CLS)\nSOCIB - Consorcio para el diseño, construcción, equipamiento y explotación del sistema de observación costero de las Illes Balears (SOCIB)\nConsiglio Nazionale delle Ricerche (CNR)\nStichting Deltares (DELTARES)\nStiftelsen Nansen Senter for Miljø og Fjernmåling (NERSC)\nMeteorologisk Institutt (MET.NO)\nSveriges Meteorologiska och Hydrologiska Institut (SMHI)\nAtlantic Associacao para um Laboratorio Colaborativo do Atlântico (+ATLANTIC)\nInstitut Royal des Sciences Naturelles de Belgique (RBINS)\nMaritime Hydrographic Directorate (MHD)\nEuropean Global Ocean Observing System (EUROGOOS)\nBrockmann Consult GmbH (BC)\nDanmarks Meteorologiske Institut (DMI)\nInstitut Francais de Recherche pour l’Exploitation de la Mer (Ifremer)\nSeascape Belgium (SSBE)"
+  },
+  {
+    "objectID": "posts/projects/FOCCUS/index.html#funding-and-contract",
+    "href": "posts/projects/FOCCUS/index.html#funding-and-contract",
+    "title": "FOCCUS",
+    "section": "Funding and contract",
+    "text": "Funding and contract\nThis project is funded by the European Commission"
+  },
+  {
+    "objectID": "posts/projects/DEHEAT/index.html",
+    "href": "posts/projects/DEHEAT/index.html",
+    "title": "DEHEAT",
+    "section": "",
+    "text": "December 2021 - December 2026"
+  },
+  {
+    "objectID": "posts/projects/DEHEAT/index.html#deheat---natural-analogues-and-system-scale-modeling-of-marine-enhanced-silicate-weathering",
+    "href": "posts/projects/DEHEAT/index.html#deheat---natural-analogues-and-system-scale-modeling-of-marine-enhanced-silicate-weathering",
+    "title": "DEHEAT",
+    "section": "",
+    "text": "December 2021 - December 2026"
+  },
+  {
+    "objectID": "posts/projects/DEHEAT/index.html#summary",
+    "href": "posts/projects/DEHEAT/index.html#summary",
+    "title": "DEHEAT",
+    "section": "Summary",
+    "text": "Summary\nFacing climate change is a societal challenge, and calls for ambitious, transformative, and collective action. To keep global warming below 2°C, we will need to rely on negative emission technologies (NETs). A promising NET approach is Enhanced Silicate Weathering (ESW). ESW makes use of the natural weathering reaction, whereby silicate dissolution consumes atmospheric CO2. DEHEAT will assess the efficiency of marine ESW in stimulating oceanic CO2 uptake by increasing alkalinity and evaluate its environmental impact, by applying an innovative fully integrated approach combining extensive field campaigns with state-of-the-art numerical models"
+  },
+  {
+    "objectID": "posts/projects/DEHEAT/index.html#team-members-involved",
+    "href": "posts/projects/DEHEAT/index.html#team-members-involved",
+    "title": "DEHEAT",
+    "section": "Team members involved",
+    "text": "Team members involved\nArthur Capet and Geneviève Lacroix"
+  },
+  {
+    "objectID": "posts/projects/DEHEAT/index.html#ecomod-tasks-and-responsabilities",
+    "href": "posts/projects/DEHEAT/index.html#ecomod-tasks-and-responsabilities",
+    "title": "DEHEAT",
+    "section": "ECOMOD tasks and responsabilities",
+    "text": "ECOMOD tasks and responsabilities\n\nTask 3.1. Establish a biogeochemical baseline of the North Sea\n\nTask 3.2. Set up the North Sea BGC module (done in the FEDtWIN project ReCAP)\nTask 3.3. Development of a sediment silica weathering model for coupling to COHERENS\nTask 3.4. Scenarios of large-scale deployment of ESW as a NET\nTask 4.1. Coordination and project management\nTask 4.2. Reporting\nTask 5.1. Gathering environmental data and metadata (from WP1)\nTask 5.2. Long-term preservation and dissemination of the data and metadata\nTask 5.3. Archiving and preservation of developed computer code"
+  },
+  {
+    "objectID": "posts/projects/DEHEAT/index.html#partners",
+    "href": "posts/projects/DEHEAT/index.html#partners",
+    "title": "DEHEAT",
+    "section": "Partners",
+    "text": "Partners\n\nRBINS coordination (Sebastian van de Velde and Geneviève Lacroix)\nUniversiteit Antwerpen (Prof. Filip Meysman)\nUniversité Libre de Bruxelles (Prof. Sandra Arndt and Prof. Steeve Bonneville)"
+  },
+  {
+    "objectID": "posts/projects/DEHEAT/index.html#funding-and-contract",
+    "href": "posts/projects/DEHEAT/index.html#funding-and-contract",
+    "title": "DEHEAT",
+    "section": "Funding and contract",
+    "text": "Funding and contract\nThis project is funded by the Belgian Science Policy"
+  },
+  {
+    "objectID": "publications/articles/barbut2024.html",
+    "href": "publications/articles/barbut2024.html",
+    "title": "Lessons from the calibration and sensitivity analysis of a fish larval transport model",
+    "section": "",
+    "text": "Barbut, L., Lehuta, S., Volckaert, F. A., & Lacroix, G. (2024). Lessons from the calibration and sensitivity analysis of a fish larval transport model. Marine Ecology Progress Series, 731, 67-88."
+  },
+  {
+    "objectID": "publications/articles/barbut2024.html#citation-apa-7",
+    "href": "publications/articles/barbut2024.html#citation-apa-7",
+    "title": "Lessons from the calibration and sensitivity analysis of a fish larval transport model",
+    "section": "",
+    "text": "Barbut, L., Lehuta, S., Volckaert, F. A., & Lacroix, G. (2024). Lessons from the calibration and sensitivity analysis of a fish larval transport model. Marine Ecology Progress Series, 731, 67-88."
+  },
+  {
+    "objectID": "publications/articles/barbut2024.html#abstract",
+    "href": "publications/articles/barbut2024.html#abstract",
+    "title": "Lessons from the calibration and sensitivity analysis of a fish larval transport model",
+    "section": "Abstract",
+    "text": "Abstract\nNumerous fish populations show strong year-to-year variations in recruitment. The early life stages play a crucial role in determining recruitment and dispersal patterns. A helpful tool to understand recruitment and dispersal involves simulations with a Lagrangian transport model, which results from the coupling between a hydrodynamic model and an individual-based model. Larval transport models require sound knowledge of the biological processes governing larval dispersal, and they may be highly sensitive to the parameters selected. Various assumptions about larval traits, behaviour and other model parameters can be tested by comparing simulation results with field data to identify the most sensitive parameters and to improve model calibration. This study shows that biological parameterization is more important than inter-annual variability in explaining the year-to-year differences in larval recruitment of common sole in the North Sea and the eastern English Channel. In contrast, year-to-year variability of connectivity leads to higher variability than changes in the biological parameters. The most influential parameters are pelagic larval duration, spawning period and mortality. Calibration over a 12 yr recruitment survey shows that a scenario with low mortality associated with a long larval duration and behaviour involving nycthemeral and tidal migration best reproduces the observations. This research provides insights into factors influencing fish dispersal and recruitment, suggesting a strategy for enhancing the accuracy of models in upcoming studies. The study supports the improvement of larval dispersal modelling by incorporating an easily applicable sensitivity analysis for both calibration and validation. Incorporating sensitivity analyses enhances larval dispersal models, providing performing tools that can contribute to informed fisheries management and understanding of recruitment variability."
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "",
+    "section": "",
+    "text": "Home\n    Publications\n  \n\n\n\n   \n     \n     \n       Order By\n       Default\n         \n          Title\n        \n         \n          Author\n        \n         \n          Publication\n        \n         \n          Year\n        \n     \n  \n    \n      \n      \n    \n\n\n\n  \n    Lessons from the calibration and sensitivity analysis of a fish larval transport model\n    Barbut et al.\n    Marine Ecology Progress Series\n    (2024)\n    \n      Details\n    \n    \n    \n      DOI\n    \n    \n    \n    \n  \n\n  \n    Complex effect of projected sea temperature and wind change on flatfish dispersal\n    Lacroix et al.\n    Global Change Biology\n    (2018)\n    \n      Details\n    \n    \n    \n      DOI\n    \n    \n    \n    \n  \n\n\n\nNo matching items"
   }
 ]
