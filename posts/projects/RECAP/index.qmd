@@ -1,0 +1,57 @@
+---
+title: "RECAP"
+description: "Regional-scale assessment of the land-ocean Continuum ecosystems vulnerability to Anthropogenic Pressure"
+author: "A. Capet"
+date: "2025-03-18"
+categories: [Modeling, Estuaries]
+image: "images/the-seacoast-of-pourville-low-tide.jpg"
+
+execute:
+  echo: false
+  warning: false
+  error: true
+  cache: true
+  
+format: 
+  html:
+    page-layout: full
+
+
+#bibliography: references.bib
+#cls: journal-of-oceanography.csl
+#link-citations: true
+---
+
+
+## FOCCUS - Forecasting and observing the open-to-coastal ocean for Copernicus users
+
+January 2020 - January 2030
+
+## Summary
+
+[RECAP](https://www.belspo.be/belspo/FED-tWIN/fiche_en.stm?prfid=2019008)
+
+Coastal environments provide valuable goods and services for society and are strongly affected by human activities.
+Globally, coastal waters represent over half of the ocean's economic value (>2500 billion USD annually).
+However, 70% of this production depends on the ocean’s health status, which is currently threatened by a plethora of anthropogenic perturbations. In particular, coastal environments suffer from the detrimental effects of these perturbations (e.g. hypoxia, acidification, eutrophication, harmful algal blooms, biodiversity and fish stocks losses). This alarming trend thus calls for urgent and efficient sustainable coastal management plans through ecosystem-based approaches as advised by EU legislations (e.g. Marine Strategy Framework Directive, MSFD). Reaching this goal inevitably requires a better quantitative understanding of the complex forcings and the coupled physical-biogeochemical-ecological process interplay that shape the structure and functioning of coastal ecosystems, as well as their resilience to anthropogenic perturbations. Coastal oceans, and more specifically the North Sea, are integral parts of the land-ocean aquatic continuum (LOAC). Understanding the structure and functioning of the North Sea, especially its response to projected global change, thus necessarily entails consideration of the entire continuum at different scales, from streams to the ocean. Furthermore, evaluating global change effects on ecosystem health and resilience is limited by our ability to capture the adaptive dynamics of coastal systems. Therefore, ReCAP aims at making a step change in analysing and predicting the evolution of the LOAC by developing the very first boundless model that represents the North Sea from shelf to its surrounding river-catchment network and from surface to sediment, as well as implementing improved process-based representations of ecosystem dynamics, resilience and adaptation to changing environmental conditions. This innovative, boundless model will provide an integrated assessment of the coastal ecosystem response to changes in land-use/management, urbanization, river damming, atmospheric composition and climate at the North Sea LOAC scale.
+
+More specifically, the resulting novel model framework, COHERENS_LOAC, will be used to: 
+
+* Establish a Greenhouse Gas budget for the North Sea LOAC and evaluate its related socio-economic contribution; 
+* Assess the response of the North Sea LOAC to historical and projected global change in terms of ecosystem health and resilience, as well as socio-economic value.
+
+The long-term, collaborative framework of the FED-tWIN program allows for such an ambitious model development and valorisation. It will ideally combine and further develop the expertise of the RBINS-ULB consortium to address a wide range of questions of high societal relevance at an unprecedented level of integration, detail and realism. It builds on past collaborations and capitalizes on the partners recent model developments, thus significantly mitigating risks. Furthermore, building on this innovative and unique observation, analysis and forecasting framework, the proposed FED-tWIN profile will be highly resilient and competitive, allowing for fast and efficient adaptation to emerging societal challenges and new funding opportunities. The exceptional framework of the program, which supports project development over a 10-year period will ideally place RBINS and ULB at the forefront of LOAC-coastal research worldwide and help develop new projects with high societal benefits at national and international scales.
+
+## Team members involved
+
+Arthur Capet 
+
+## ECOMOD tasks and responsabilities
+
+## Partners
+
+1. Université Libre de Bruxelles, [B-Geosys](https://biogeomod.ulb.be/) ([Pierre Regnier](https://scholar.google.com/citations?hl=en&user=6SD0EA8AAAAJ), [Goulven Laruelle](https://scholar.google.com/citations?hl=en&user=CdHtWf4AAAAJ), [Sandra Arndt](https://scholar.google.com/citations?hl=en&user=xJeUnBsAAAAJ))
+
+## Funding and contract
+
+This project is funded by the [Belgian Science Policy](https://www.belspo.be/), un der [the FedTwin program](https://www.belspo.be/belspo/FED-tWIN/index_en.stm)
