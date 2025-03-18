@@ -98,76 +98,6 @@
     "text": "Funding and contract\nThis project is funded by the FPS Economy (Energy Transition Fund)"
   },
   {
-    "objectID": "posts/projects/COHERENS/index.html",
-    "href": "posts/projects/COHERENS/index.html",
-    "title": "COHERENS",
-    "section": "",
-    "text": "Work in progress."
-  },
-  {
-    "objectID": "projects.html",
-    "href": "projects.html",
-    "title": "Overview of our projects",
-    "section": "",
-    "text": "ReCAP\n\n\n\nModeling\n\n\nEstuaries\n\n\n\nRegional-scale assessment of the land-ocean Continuum ecosystems vulnerability to Anthropogenic Pressure\n\n\n\nA. Capet\n\n\nMar 18, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFOCCUS\n\n\n\nModeling\n\n\nEnsembles\n\n\nPlumes\n\n\n\n\n\n\n\n\n\n\nMar 17, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSWiM\n\n\n\nModeling\n\n\n\n\n\n\n\n\n\n\nMar 17, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDEHEAT\n\n\n\nModeling\n\n\n\n\n\n\n\n\n\n\nMar 17, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCOHERENS\n\n\n\nModeling\n\n\n\n\n\n\n\n\n\n\nJan 24, 2025\n\n\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "activities.html",
-    "href": "activities.html",
-    "title": "Overview of our team activities and workshops",
-    "section": "",
-    "text": "COHERENS Workshop #2\n\n\n\nworkshop\n\n\nAI\n\n\nJupyterHub\n\n\nECMWF\n\n\n\n\n\n\n\nFlorian Ricour and Ludovic Lepers\n\n\nNov 27, 2024\n\n\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Marine Ecosystem Modelling (ECOMOD)",
-    "section": "",
-    "text": "The microscopic marine environment holds secrets of incredible diversity. Each drop of seawater tells a unique story - a water sample taken at one location might reveal an entirely different microbial community than another sample collected just hundreds of meters away.\nYet, amid this seemingly chaotic microscopic variability, nature follows patterns. At the macroscale, both physical and biological factors orchestrate a beautiful dance that determines which species appear where and when.\n\n\n\n🌊 What are phytoplankton?\nThese microscopic algae, suspended in the water column, are the foundation of marine life. Their survival depends on a delicate balance of several factors:\n\n☀️ Light - Essential for photosynthesis\n🧪 Nutrients - Required for growth\n🌡️ Temperature - Affects metabolic rates\n🌊 Water Movement - Influences distribution\n\nOcean currents\nBuoyancy effects\nWater turbulence\n\n\nTheir existence is constantly challenged by: * Predation from zooplankton (microscopic marine animals) * Viral attacks * Various environmental stressors\n\n\n\nBy translating these complex physical and biological processes into mathematical equations, we can create comprehensive ecosystem models. These models help us understand:\n\nSpecies growth patterns\nMortality rates\nInteractions between different species\nEnvironmental impact on marine life\n\n\n\n\n\n\n\nPurpose: Guides policymakers in developing strategies to reduce coastal eutrophication\nImpact: Helps protect marine ecosystems from excessive nutrient pollution\n\n\n\n\n\nPurpose: Analyzes fish larvae survival rates across different:\n\nLocations\nSeasons\nEnvironmental conditions\n\nImpact: Provides crucial insights for fisheries management and marine conservation\n\n\nThrough these advanced modeling techniques, we’re better equipped to understand and protect our ocean’s complex ecosystems, ensuring their preservation for future generations."
-  },
-  {
-    "objectID": "index.html#the-hidden-world-of-marine-microorganisms",
-    "href": "index.html#the-hidden-world-of-marine-microorganisms",
-    "title": "Marine Ecosystem Modelling (ECOMOD)",
-    "section": "",
-    "text": "The microscopic marine environment holds secrets of incredible diversity. Each drop of seawater tells a unique story - a water sample taken at one location might reveal an entirely different microbial community than another sample collected just hundreds of meters away.\nYet, amid this seemingly chaotic microscopic variability, nature follows patterns. At the macroscale, both physical and biological factors orchestrate a beautiful dance that determines which species appear where and when."
-  },
-  {
-    "objectID": "index.html#understanding-phytoplankton-natures-tiny-powerhouses",
-    "href": "index.html#understanding-phytoplankton-natures-tiny-powerhouses",
-    "title": "Marine Ecosystem Modelling (ECOMOD)",
-    "section": "",
-    "text": "🌊 What are phytoplankton?\nThese microscopic algae, suspended in the water column, are the foundation of marine life. Their survival depends on a delicate balance of several factors:\n\n☀️ Light - Essential for photosynthesis\n🧪 Nutrients - Required for growth\n🌡️ Temperature - Affects metabolic rates\n🌊 Water Movement - Influences distribution\n\nOcean currents\nBuoyancy effects\nWater turbulence\n\n\nTheir existence is constantly challenged by: * Predation from zooplankton (microscopic marine animals) * Viral attacks * Various environmental stressors"
-  },
-  {
-    "objectID": "index.html#mathematical-modeling-bringing-order-to-complexity",
-    "href": "index.html#mathematical-modeling-bringing-order-to-complexity",
-    "title": "Marine Ecosystem Modelling (ECOMOD)",
-    "section": "",
-    "text": "By translating these complex physical and biological processes into mathematical equations, we can create comprehensive ecosystem models. These models help us understand:\n\nSpecies growth patterns\nMortality rates\nInteractions between different species\nEnvironmental impact on marine life"
-  },
-  {
-    "objectID": "index.html#real-world-applications",
-    "href": "index.html#real-world-applications",
-    "title": "Marine Ecosystem Modelling (ECOMOD)",
-    "section": "",
-    "text": "Purpose: Guides policymakers in developing strategies to reduce coastal eutrophication\nImpact: Helps protect marine ecosystems from excessive nutrient pollution\n\n\n\n\n\nPurpose: Analyzes fish larvae survival rates across different:\n\nLocations\nSeasons\nEnvironmental conditions\n\nImpact: Provides crucial insights for fisheries management and marine conservation\n\n\nThrough these advanced modeling techniques, we’re better equipped to understand and protect our ocean’s complex ecosystems, ensuring their preservation for future generations."
-  },
-  {
-    "objectID": "posts/activities/workshop2/index.html",
-    "href": "posts/activities/workshop2/index.html",
-    "title": "COHERENS Workshop #2",
-    "section": "",
-    "text": "This workshop is divided in two parts:\n\nJupyterHub on ECMWF, what is it and why use it?\nA gentle introduction to neural networks, large language models and use cases of generative AI resources\n\n\n\n\n\nNote - click on F for full screen and O for an overview of the slide deck."
-  },
-  {
-    "objectID": "posts/activities/workshop2/index.html#slides",
-    "href": "posts/activities/workshop2/index.html#slides",
-    "title": "COHERENS Workshop #2",
-    "section": "",
-    "text": "Note - click on F for full screen and O for an overview of the slide deck."
-  },
-  {
     "objectID": "posts/projects/FOCCUS/index.html",
     "href": "posts/projects/FOCCUS/index.html",
     "title": "FOCCUS",
@@ -215,6 +145,125 @@
     "title": "FOCCUS",
     "section": "Funding and contract",
     "text": "Funding and contract\nThis project is funded by the European Commission"
+  },
+  {
+    "objectID": "posts/activities/workshop2/index.html",
+    "href": "posts/activities/workshop2/index.html",
+    "title": "COHERENS Workshop #2",
+    "section": "",
+    "text": "This workshop is divided in two parts:\n\nJupyterHub on ECMWF, what is it and why use it?\nA gentle introduction to neural networks, large language models and use cases of generative AI resources\n\n\n\n\n\nNote - click on F for full screen and O for an overview of the slide deck."
+  },
+  {
+    "objectID": "posts/activities/workshop2/index.html#slides",
+    "href": "posts/activities/workshop2/index.html#slides",
+    "title": "COHERENS Workshop #2",
+    "section": "",
+    "text": "Note - click on F for full screen and O for an overview of the slide deck."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Marine Ecosystem Modelling (ECOMOD)",
+    "section": "",
+    "text": "The microscopic marine environment holds secrets of incredible diversity. Each drop of seawater tells a unique story - a water sample taken at one location might reveal an entirely different microbial community than another sample collected just hundreds of meters away.\nYet, amid this seemingly chaotic microscopic variability, nature follows patterns. At the macroscale, both physical and biological factors orchestrate a beautiful dance that determines which species appear where and when.\n\n\n\n🌊 What are phytoplankton?\nThese microscopic algae, suspended in the water column, are the foundation of marine life. Their survival depends on a delicate balance of several factors:\n\n☀️ Light - Essential for photosynthesis\n🧪 Nutrients - Required for growth\n🌡️ Temperature - Affects metabolic rates\n🌊 Water Movement - Influences distribution\n\nOcean currents\nBuoyancy effects\nWater turbulence\n\n\nTheir existence is constantly challenged by: * Predation from zooplankton (microscopic marine animals) * Viral attacks * Various environmental stressors\n\n\n\nBy translating these complex physical and biological processes into mathematical equations, we can create comprehensive ecosystem models. These models help us understand:\n\nSpecies growth patterns\nMortality rates\nInteractions between different species\nEnvironmental impact on marine life\n\n\n\n\n\n\n\nPurpose: Guides policymakers in developing strategies to reduce coastal eutrophication\nImpact: Helps protect marine ecosystems from excessive nutrient pollution\n\n\n\n\n\nPurpose: Analyzes fish larvae survival rates across different:\n\nLocations\nSeasons\nEnvironmental conditions\n\nImpact: Provides crucial insights for fisheries management and marine conservation\n\n\nThrough these advanced modeling techniques, we’re better equipped to understand and protect our ocean’s complex ecosystems, ensuring their preservation for future generations."
+  },
+  {
+    "objectID": "index.html#the-hidden-world-of-marine-microorganisms",
+    "href": "index.html#the-hidden-world-of-marine-microorganisms",
+    "title": "Marine Ecosystem Modelling (ECOMOD)",
+    "section": "",
+    "text": "The microscopic marine environment holds secrets of incredible diversity. Each drop of seawater tells a unique story - a water sample taken at one location might reveal an entirely different microbial community than another sample collected just hundreds of meters away.\nYet, amid this seemingly chaotic microscopic variability, nature follows patterns. At the macroscale, both physical and biological factors orchestrate a beautiful dance that determines which species appear where and when."
+  },
+  {
+    "objectID": "index.html#understanding-phytoplankton-natures-tiny-powerhouses",
+    "href": "index.html#understanding-phytoplankton-natures-tiny-powerhouses",
+    "title": "Marine Ecosystem Modelling (ECOMOD)",
+    "section": "",
+    "text": "🌊 What are phytoplankton?\nThese microscopic algae, suspended in the water column, are the foundation of marine life. Their survival depends on a delicate balance of several factors:\n\n☀️ Light - Essential for photosynthesis\n🧪 Nutrients - Required for growth\n🌡️ Temperature - Affects metabolic rates\n🌊 Water Movement - Influences distribution\n\nOcean currents\nBuoyancy effects\nWater turbulence\n\n\nTheir existence is constantly challenged by: * Predation from zooplankton (microscopic marine animals) * Viral attacks * Various environmental stressors"
+  },
+  {
+    "objectID": "index.html#mathematical-modeling-bringing-order-to-complexity",
+    "href": "index.html#mathematical-modeling-bringing-order-to-complexity",
+    "title": "Marine Ecosystem Modelling (ECOMOD)",
+    "section": "",
+    "text": "By translating these complex physical and biological processes into mathematical equations, we can create comprehensive ecosystem models. These models help us understand:\n\nSpecies growth patterns\nMortality rates\nInteractions between different species\nEnvironmental impact on marine life"
+  },
+  {
+    "objectID": "index.html#real-world-applications",
+    "href": "index.html#real-world-applications",
+    "title": "Marine Ecosystem Modelling (ECOMOD)",
+    "section": "",
+    "text": "Purpose: Guides policymakers in developing strategies to reduce coastal eutrophication\nImpact: Helps protect marine ecosystems from excessive nutrient pollution\n\n\n\n\n\nPurpose: Analyzes fish larvae survival rates across different:\n\nLocations\nSeasons\nEnvironmental conditions\n\nImpact: Provides crucial insights for fisheries management and marine conservation\n\n\nThrough these advanced modeling techniques, we’re better equipped to understand and protect our ocean’s complex ecosystems, ensuring their preservation for future generations."
+  },
+  {
+    "objectID": "activities.html",
+    "href": "activities.html",
+    "title": "Overview of our team activities and workshops",
+    "section": "",
+    "text": "COHERENS Workshop #2\n\n\n\nworkshop\n\n\nAI\n\n\nJupyterHub\n\n\nECMWF\n\n\n\n\n\n\n\nFlorian Ricour and Ludovic Lepers\n\n\nNov 27, 2024\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Overview of our projects",
+    "section": "",
+    "text": "ReCAP\n\n\n\nModeling\n\n\nEstuaries\n\n\n\nRegional-scale assessment of the land-ocean Continuum ecosystems vulnerability to Anthropogenic Pressure\n\n\n\nA. Capet\n\n\nMar 18, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFOCCUS\n\n\n\nModeling\n\n\nEnsembles\n\n\nPlumes\n\n\n\n\n\n\n\n\n\n\nMar 17, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSWiM\n\n\n\nModeling\n\n\n\n\n\n\n\n\n\n\nMar 17, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDEHEAT\n\n\n\nModeling\n\n\n\n\n\n\n\n\n\n\nMar 17, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCOHERENS\n\n\n\nModeling\n\n\n\n\n\n\n\n\n\n\nJan 24, 2025\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "posts/projects/COHERENS/index.html",
+    "href": "posts/projects/COHERENS/index.html",
+    "title": "COHERENS",
+    "section": "",
+    "text": "Work in progress."
+  },
+  {
+    "objectID": "posts/projects/ReCAP/index.html",
+    "href": "posts/projects/ReCAP/index.html",
+    "title": "ReCAP",
+    "section": "",
+    "text": "January 2020 - January 2030"
+  },
+  {
+    "objectID": "posts/projects/ReCAP/index.html#foccus---forecasting-and-observing-the-open-to-coastal-ocean-for-copernicus-users",
+    "href": "posts/projects/ReCAP/index.html#foccus---forecasting-and-observing-the-open-to-coastal-ocean-for-copernicus-users",
+    "title": "ReCAP",
+    "section": "",
+    "text": "January 2020 - January 2030"
+  },
+  {
+    "objectID": "posts/projects/ReCAP/index.html#summary",
+    "href": "posts/projects/ReCAP/index.html#summary",
+    "title": "ReCAP",
+    "section": "Summary",
+    "text": "Summary\nRECAP\nCoastal environments provide valuable goods and services for society and are strongly affected by human activities. Globally, coastal waters represent over half of the ocean’s economic value (&gt;2500 billion USD annually). However, 70% of this production depends on the ocean’s health status, which is currently threatened by a plethora of anthropogenic perturbations. In particular, coastal environments suffer from the detrimental effects of these perturbations (e.g. hypoxia, acidification, eutrophication, harmful algal blooms, biodiversity and fish stocks losses). This alarming trend thus calls for urgent and efficient sustainable coastal management plans through ecosystem-based approaches as advised by EU legislations (e.g. Marine Strategy Framework Directive, MSFD). Reaching this goal inevitably requires a better quantitative understanding of the complex forcings and the coupled physical-biogeochemical-ecological process interplay that shape the structure and functioning of coastal ecosystems, as well as their resilience to anthropogenic perturbations. Coastal oceans, and more specifically the North Sea, are integral parts of the land-ocean aquatic continuum (LOAC). Understanding the structure and functioning of the North Sea, especially its response to projected global change, thus necessarily entails consideration of the entire continuum at different scales, from streams to the ocean. Furthermore, evaluating global change effects on ecosystem health and resilience is limited by our ability to capture the adaptive dynamics of coastal systems. Therefore, ReCAP aims at making a step change in analysing and predicting the evolution of the LOAC by developing the very first boundless model that represents the North Sea from shelf to its surrounding river-catchment network and from surface to sediment, as well as implementing improved process-based representations of ecosystem dynamics, resilience and adaptation to changing environmental conditions. This innovative, boundless model will provide an integrated assessment of the coastal ecosystem response to changes in land-use/management, urbanization, river damming, atmospheric composition and climate at the North Sea LOAC scale.\nMore specifically, the resulting novel model framework, COHERENS_LOAC, will be used to:\n\nEstablish a Greenhouse Gas budget for the North Sea LOAC and evaluate its related socio-economic contribution;\nAssess the response of the North Sea LOAC to historical and projected global change in terms of ecosystem health and resilience, as well as socio-economic value.\n\nThe long-term, collaborative framework of the FED-tWIN program allows for such an ambitious model development and valorisation. It will ideally combine and further develop the expertise of the RBINS-ULB consortium to address a wide range of questions of high societal relevance at an unprecedented level of integration, detail and realism. It builds on past collaborations and capitalizes on the partners recent model developments, thus significantly mitigating risks. Furthermore, building on this innovative and unique observation, analysis and forecasting framework, the proposed FED-tWIN profile will be highly resilient and competitive, allowing for fast and efficient adaptation to emerging societal challenges and new funding opportunities. The exceptional framework of the program, which supports project development over a 10-year period will ideally place RBINS and ULB at the forefront of LOAC-coastal research worldwide and help develop new projects with high societal benefits at national and international scales."
+  },
+  {
+    "objectID": "posts/projects/ReCAP/index.html#team-members-involved",
+    "href": "posts/projects/ReCAP/index.html#team-members-involved",
+    "title": "ReCAP",
+    "section": "Team members involved",
+    "text": "Team members involved\nArthur Capet"
+  },
+  {
+    "objectID": "posts/projects/ReCAP/index.html#ecomod-tasks-and-responsabilities",
+    "href": "posts/projects/ReCAP/index.html#ecomod-tasks-and-responsabilities",
+    "title": "ReCAP",
+    "section": "ECOMOD tasks and responsabilities",
+    "text": "ECOMOD tasks and responsabilities"
+  },
+  {
+    "objectID": "posts/projects/ReCAP/index.html#partners",
+    "href": "posts/projects/ReCAP/index.html#partners",
+    "title": "ReCAP",
+    "section": "Partners",
+    "text": "Partners\n\nUniversité Libre de Bruxelles, B-Geosys (Pierre Regnier, Goulven Laruelle, Sandra Arndt)"
+  },
+  {
+    "objectID": "posts/projects/ReCAP/index.html#funding-and-contract",
+    "href": "posts/projects/ReCAP/index.html#funding-and-contract",
+    "title": "ReCAP",
+    "section": "Funding and contract",
+    "text": "Funding and contract\nThis project is funded by the Belgian Science Policy, under the FedTwin program"
   },
   {
     "objectID": "posts/projects/DEHEAT/index.html",
@@ -292,54 +341,5 @@
     "title": "",
     "section": "",
     "text": "Home\n    Publications\n  \n\n\n\n   \n     \n     \n       Order By\n       Default\n         \n          Title\n        \n         \n          Author\n        \n         \n          Publication\n        \n         \n          Year\n        \n     \n  \n    \n      \n      \n    \n\n\n\n  \n    Lessons from the calibration and sensitivity analysis of a fish larval transport model\n    Barbut et al.\n    Marine Ecology Progress Series\n    (2024)\n    \n      Details\n    \n    \n    \n      DOI\n    \n    \n    \n    \n  \n\n  \n    Complex effect of projected sea temperature and wind change on flatfish dispersal\n    Lacroix et al.\n    Global Change Biology\n    (2018)\n    \n      Details\n    \n    \n    \n      DOI\n    \n    \n    \n    \n  \n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "posts/projects/ReCAP/index.html",
-    "href": "posts/projects/ReCAP/index.html",
-    "title": "ReCAP",
-    "section": "",
-    "text": "January 2020 - January 2030"
-  },
-  {
-    "objectID": "posts/projects/ReCAP/index.html#foccus---forecasting-and-observing-the-open-to-coastal-ocean-for-copernicus-users",
-    "href": "posts/projects/ReCAP/index.html#foccus---forecasting-and-observing-the-open-to-coastal-ocean-for-copernicus-users",
-    "title": "ReCAP",
-    "section": "",
-    "text": "January 2020 - January 2030"
-  },
-  {
-    "objectID": "posts/projects/ReCAP/index.html#summary",
-    "href": "posts/projects/ReCAP/index.html#summary",
-    "title": "ReCAP",
-    "section": "Summary",
-    "text": "Summary\nRECAP\nCoastal environments provide valuable goods and services for society and are strongly affected by human activities. Globally, coastal waters represent over half of the ocean’s economic value (&gt;2500 billion USD annually). However, 70% of this production depends on the ocean’s health status, which is currently threatened by a plethora of anthropogenic perturbations. In particular, coastal environments suffer from the detrimental effects of these perturbations (e.g. hypoxia, acidification, eutrophication, harmful algal blooms, biodiversity and fish stocks losses). This alarming trend thus calls for urgent and efficient sustainable coastal management plans through ecosystem-based approaches as advised by EU legislations (e.g. Marine Strategy Framework Directive, MSFD). Reaching this goal inevitably requires a better quantitative understanding of the complex forcings and the coupled physical-biogeochemical-ecological process interplay that shape the structure and functioning of coastal ecosystems, as well as their resilience to anthropogenic perturbations. Coastal oceans, and more specifically the North Sea, are integral parts of the land-ocean aquatic continuum (LOAC). Understanding the structure and functioning of the North Sea, especially its response to projected global change, thus necessarily entails consideration of the entire continuum at different scales, from streams to the ocean. Furthermore, evaluating global change effects on ecosystem health and resilience is limited by our ability to capture the adaptive dynamics of coastal systems. Therefore, ReCAP aims at making a step change in analysing and predicting the evolution of the LOAC by developing the very first boundless model that represents the North Sea from shelf to its surrounding river-catchment network and from surface to sediment, as well as implementing improved process-based representations of ecosystem dynamics, resilience and adaptation to changing environmental conditions. This innovative, boundless model will provide an integrated assessment of the coastal ecosystem response to changes in land-use/management, urbanization, river damming, atmospheric composition and climate at the North Sea LOAC scale.\nMore specifically, the resulting novel model framework, COHERENS_LOAC, will be used to:\n\nEstablish a Greenhouse Gas budget for the North Sea LOAC and evaluate its related socio-economic contribution;\nAssess the response of the North Sea LOAC to historical and projected global change in terms of ecosystem health and resilience, as well as socio-economic value.\n\nThe long-term, collaborative framework of the FED-tWIN program allows for such an ambitious model development and valorisation. It will ideally combine and further develop the expertise of the RBINS-ULB consortium to address a wide range of questions of high societal relevance at an unprecedented level of integration, detail and realism. It builds on past collaborations and capitalizes on the partners recent model developments, thus significantly mitigating risks. Furthermore, building on this innovative and unique observation, analysis and forecasting framework, the proposed FED-tWIN profile will be highly resilient and competitive, allowing for fast and efficient adaptation to emerging societal challenges and new funding opportunities. The exceptional framework of the program, which supports project development over a 10-year period will ideally place RBINS and ULB at the forefront of LOAC-coastal research worldwide and help develop new projects with high societal benefits at national and international scales."
-  },
-  {
-    "objectID": "posts/projects/ReCAP/index.html#team-members-involved",
-    "href": "posts/projects/ReCAP/index.html#team-members-involved",
-    "title": "ReCAP",
-    "section": "Team members involved",
-    "text": "Team members involved\nArthur Capet"
-  },
-  {
-    "objectID": "posts/projects/ReCAP/index.html#ecomod-tasks-and-responsabilities",
-    "href": "posts/projects/ReCAP/index.html#ecomod-tasks-and-responsabilities",
-    "title": "ReCAP",
-    "section": "ECOMOD tasks and responsabilities",
-    "text": "ECOMOD tasks and responsabilities"
-  },
-  {
-    "objectID": "posts/projects/ReCAP/index.html#partners",
-    "href": "posts/projects/ReCAP/index.html#partners",
-    "title": "ReCAP",
-    "section": "Partners",
-    "text": "Partners\n\nUniversité Libre de Bruxelles, B-Geosys (Pierre Regnier, Goulven Laruelle, Sandra Arndt)"
-  },
-  {
-    "objectID": "posts/projects/ReCAP/index.html#funding-and-contract",
-    "href": "posts/projects/ReCAP/index.html#funding-and-contract",
-    "title": "ReCAP",
-    "section": "Funding and contract",
-    "text": "Funding and contract\nThis project is funded by the Belgian Science Policy, under the FedTwin program"
   }
 ]

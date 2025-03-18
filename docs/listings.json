@@ -1,5 +1,11 @@
 [
   {
+    "listing": "/activities.html",
+    "items": [
+      "/posts/activities/workshop2/index.html"
+    ]
+  },
+  {
     "listing": "/projects.html",
     "items": [
       "/posts/projects/ReCAP/index.html",
@@ -7,12 +13,6 @@
       "/posts/projects/SWiM/index.html",
       "/posts/projects/DEHEAT/index.html",
       "/posts/projects/COHERENS/index.html"
-    ]
-  },
-  {
-    "listing": "/activities.html",
-    "items": [
-      "/posts/activities/workshop2/index.html"
     ]
   },
   {
