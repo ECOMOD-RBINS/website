@@ -6,8 +6,11 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
+<meta name="author" content="A. Capet">
+<meta name="dcterms.date" content="2025-03-18">
+<meta name="description" content="Regional-scale assessment of the land-ocean Continuum ecosystems vulnerability to Anthropogenic Pressure">
 
-<title>Overview of our projects</title>
+<title>ReCAP</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -23,25 +26,23 @@ ul.task-list li input[type="checkbox"] {
 </style>
 
 
-<script src="site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="site_libs/quarto-nav/headroom.min.js"></script>
-<script src="site_libs/clipboard/clipboard.min.js"></script>
-<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
-<script src="site_libs/quarto-search/fuse.min.js"></script>
-<script src="site_libs/quarto-search/quarto-search.js"></script>
-<meta name="quarto:offset" content="./">
-<link href="./favicon.ico" rel="icon">
-<script src="site_libs/quarto-listing/list.min.js"></script>
-<script src="site_libs/quarto-listing/quarto-listing.js"></script>
-<script src="site_libs/quarto-html/quarto.js"></script>
-<script src="site_libs/quarto-html/popper.min.js"></script>
-<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="site_libs/quarto-html/anchor.min.js"></script>
-<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
-<script src="site_libs/bootstrap/bootstrap.min.js"></script>
-<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<script src="../../../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../../../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../../../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../../../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../../../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../../../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../../../">
+<link href="../../../favicon.ico" rel="icon">
+<script src="../../../site_libs/quarto-html/quarto.js"></script>
+<script src="../../../site_libs/quarto-html/popper.min.js"></script>
+<script src="../../../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../../../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../../../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../../../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../../../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../../../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -69,73 +70,15 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
-<script>
 
-  window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-listing .list');
-    if (!listingTargetEl) {
-      // No listing discovered, do not attach.
-      return; 
-    }
 
-    const options = {
-      valueNames: ['listing-title','listing-author','listing-date','listing-image','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
-      
-      searchColumns: ["listing-title","listing-author","listing-date","listing-image","listing-description","listing-categories"],
-    };
-
-    window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
-
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  });
-
-  window.addEventListener('hashchange',() => {
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  })
-  </script>
-
-  <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
-  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
-
-<script type="text/javascript">
-const typesetMath = (el) => {
-  if (window.MathJax) {
-    // MathJax Typeset
-    window.MathJax.typeset([el]);
-  } else if (window.katex) {
-    // KaTeX Render
-    var mathElements = el.getElementsByClassName("math");
-    var macros = [];
-    for (var i = 0; i < mathElements.length; i++) {
-      var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN") {
-        window.katex.render(texText.data, mathElements[i], {
-          displayMode: mathElements[i].classList.contains('display'),
-          throwOnError: false,
-          macros: macros,
-          fleqn: false
-        });
-      }
-    }
-  }
-}
-window.Quarto = {
-  typesetMath
-};
-</script>
-
-<link rel="stylesheet" href="styles.css">
+<link rel="stylesheet" href="../../../styles.css">
 </head>
 
 <body class="nav-fixed">
 
 <div id="quarto-search-results"></div>
-  <header id="quarto-header" class="headroom fixed-top">
+  <header id="quarto-header" class="headroom fixed-top quarto-banner">
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
             <div id="quarto-search" class="" title="Search"></div>
@@ -145,27 +88,27 @@ window.Quarto = {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link" href="./index.html"> 
+    <a class="nav-link" href="../../../index.html"> 
 <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./news.html"> 
+    <a class="nav-link" href="../../../news.html"> 
 <span class="menu-text">News</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./team.html"> 
+    <a class="nav-link" href="../../../team.html"> 
 <span class="menu-text">Team</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link active" href="./projects.html" aria-current="page"> 
+    <a class="nav-link" href="../../../projects.html"> 
 <span class="menu-text">Projects</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./activities.html"> 
+    <a class="nav-link" href="../../../activities.html"> 
 <span class="menu-text">Activities</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./publications.html"> 
+    <a class="nav-link" href="../../../publications.html"> 
 <span class="menu-text">Publications</span></a>
   </li>  
 </ul>
@@ -176,203 +119,90 @@ window.Quarto = {
     </nav>
 </header>
 <!-- content -->
-<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
+<header id="title-block-header" class="quarto-title-block default page-columns page-full">
+  <div class="quarto-title-banner page-columns page-full">
+    <div class="quarto-title column-page">
+      <h1 class="title">ReCAP</h1>
+                  <div>
+        <div class="description">
+          Regional-scale assessment of the land-ocean Continuum ecosystems vulnerability to Anthropogenic Pressure
+        </div>
+      </div>
+                          <div class="quarto-categories">
+                <div class="quarto-category">Modeling</div>
+                <div class="quarto-category">Estuaries</div>
+              </div>
+                  </div>
+  </div>
+    
+  
+  <div class="quarto-title-meta column-page">
+
+      <div>
+      <div class="quarto-title-meta-heading">Author</div>
+      <div class="quarto-title-meta-contents">
+               <p>A. Capet </p>
+            </div>
+    </div>
+      
+      <div>
+      <div class="quarto-title-meta-heading">Published</div>
+      <div class="quarto-title-meta-contents">
+        <p class="date">March 18, 2025</p>
+      </div>
+    </div>
+    
+      
+    </div>
+    
+  
+  </header><div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(5)</span></div><div class="category" data-category="Ensembles">Ensembles <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Estuaries">Estuaries <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Modeling">Modeling <span class="quarto-category-count">(5)</span></div><div class="category" data-category="Plumes">Plumes <span class="quarto-category-count">(1)</span></div></div></div>
+    
 <!-- main -->
-<main class="content column-page-left" id="quarto-document-content">
-
-<header id="title-block-header" class="quarto-title-block default">
-<div class="quarto-title">
-<h1 class="title">Overview of our projects</h1>
-</div>
-
-
-
-<div class="quarto-title-meta column-page-left">
-
-    
-  
-    
-  </div>
-  
-
-
-</header>
+<main class="content quarto-banner-title-block column-page" id="quarto-document-content">
 
 
 
 
 
+<section id="foccus---forecasting-and-observing-the-open-to-coastal-ocean-for-copernicus-users" class="level2">
+<h2 class="anchored" data-anchor-id="foccus---forecasting-and-observing-the-open-to-coastal-ocean-for-copernicus-users">FOCCUS - Forecasting and observing the open-to-coastal ocean for Copernicus users</h2>
+<p>January 2020 - January 2030</p>
+</section>
+<section id="summary" class="level2">
+<h2 class="anchored" data-anchor-id="summary">Summary</h2>
+<p><a href="https://www.belspo.be/belspo/FED-tWIN/fiche_en.stm?prfid=2019008">RECAP</a></p>
+<p>Coastal environments provide valuable goods and services for society and are strongly affected by human activities. Globally, coastal waters represent over half of the ocean’s economic value (&gt;2500 billion USD annually). However, 70% of this production depends on the ocean’s health status, which is currently threatened by a plethora of anthropogenic perturbations. In particular, coastal environments suffer from the detrimental effects of these perturbations (e.g.&nbsp;hypoxia, acidification, eutrophication, harmful algal blooms, biodiversity and fish stocks losses). This alarming trend thus calls for urgent and efficient sustainable coastal management plans through ecosystem-based approaches as advised by EU legislations (e.g.&nbsp;Marine Strategy Framework Directive, MSFD). Reaching this goal inevitably requires a better quantitative understanding of the complex forcings and the coupled physical-biogeochemical-ecological process interplay that shape the structure and functioning of coastal ecosystems, as well as their resilience to anthropogenic perturbations. Coastal oceans, and more specifically the North Sea, are integral parts of the land-ocean aquatic continuum (LOAC). Understanding the structure and functioning of the North Sea, especially its response to projected global change, thus necessarily entails consideration of the entire continuum at different scales, from streams to the ocean. Furthermore, evaluating global change effects on ecosystem health and resilience is limited by our ability to capture the adaptive dynamics of coastal systems. Therefore, ReCAP aims at making a step change in analysing and predicting the evolution of the LOAC by developing the very first boundless model that represents the North Sea from shelf to its surrounding river-catchment network and from surface to sediment, as well as implementing improved process-based representations of ecosystem dynamics, resilience and adaptation to changing environmental conditions. This innovative, boundless model will provide an integrated assessment of the coastal ecosystem response to changes in land-use/management, urbanization, river damming, atmospheric composition and climate at the North Sea LOAC scale.</p>
+<p>More specifically, the resulting novel model framework, COHERENS_LOAC, will be used to:</p>
+<ul>
+<li>Establish a Greenhouse Gas budget for the North Sea LOAC and evaluate its related socio-economic contribution;</li>
+<li>Assess the response of the North Sea LOAC to historical and projected global change in terms of ecosystem health and resilience, as well as socio-economic value.</li>
+</ul>
+<p>The long-term, collaborative framework of the FED-tWIN program allows for such an ambitious model development and valorisation. It will ideally combine and further develop the expertise of the RBINS-ULB consortium to address a wide range of questions of high societal relevance at an unprecedented level of integration, detail and realism. It builds on past collaborations and capitalizes on the partners recent model developments, thus significantly mitigating risks. Furthermore, building on this innovative and unique observation, analysis and forecasting framework, the proposed FED-tWIN profile will be highly resilient and competitive, allowing for fast and efficient adaptation to emerging societal challenges and new funding opportunities. The exceptional framework of the program, which supports project development over a 10-year period will ideally place RBINS and ULB at the forefront of LOAC-coastal research worldwide and help develop new projects with high societal benefits at national and international scales.</p>
+</section>
+<section id="team-members-involved" class="level2">
+<h2 class="anchored" data-anchor-id="team-members-involved">Team members involved</h2>
+<p>Arthur Capet</p>
+</section>
+<section id="ecomod-tasks-and-responsabilities" class="level2">
+<h2 class="anchored" data-anchor-id="ecomod-tasks-and-responsabilities">ECOMOD tasks and responsabilities</h2>
+</section>
+<section id="partners" class="level2">
+<h2 class="anchored" data-anchor-id="partners">Partners</h2>
+<ol type="1">
+<li>Université Libre de Bruxelles, <a href="https://biogeomod.ulb.be/">B-Geosys</a> (<a href="https://scholar.google.com/citations?hl=en&amp;user=6SD0EA8AAAAJ">Pierre Regnier</a>, <a href="https://scholar.google.com/citations?hl=en&amp;user=CdHtWf4AAAAJ">Goulven Laruelle</a>, <a href="https://scholar.google.com/citations?hl=en&amp;user=xJeUnBsAAAAJ">Sandra Arndt</a>)</li>
+</ol>
+</section>
+<section id="funding-and-contract" class="level2">
+<h2 class="anchored" data-anchor-id="funding-and-contract">Funding and contract</h2>
+<p>This project is funded by the <a href="https://www.belspo.be/">Belgian Science Policy</a>, under <a href="https://www.belspo.be/belspo/FED-tWIN/index_en.stm">the FedTwin program</a></p>
 
-<div class="quarto-listing quarto-listing-container-grid" id="listing-listing">
-<div class="list grid quarto-listing-cols-3">
-<div class="g-col-1" data-index="0" data-categories="Modeling,Estuaries" data-listing-date-sort="1742252400000" data-listing-file-modified-sort="1742319150694" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="537">
-<a href="./posts/projects/ReCAP/index.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img src="./posts/projects/ReCAP/images/the-seacoast-of-pourville-low-tide.jpg" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-ReCAP
-</h5>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('Modeling'); return false;">
-Modeling
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('Estuaries'); return false;">
-Estuaries
-</div>
-</div>
-<div class="card-text listing-description">
-Regional-scale assessment of the land-ocean Continuum ecosystems vulnerability to Anthropogenic Pressure
-</div>
-<div class="card-attribution card-text-small justify">
-<div class="listing-author">
-A. Capet
-</div>
-<div class="listing-date">
-Mar 18, 2025
-</div>
-</div>
-</div>
-</div>
-</a>
-</div>
-<div class="g-col-1" data-index="1" data-categories="Modeling,Ensembles,Plumes" data-listing-date-sort="1742166000000" data-listing-file-modified-sort="1742218303543" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="358">
-<a href="./posts/projects/FOCCUS/index.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img src="./posts/projects/FOCCUS/images/foccus.png" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-FOCCUS
-</h5>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('Modeling'); return false;">
-Modeling
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('Ensembles'); return false;">
-Ensembles
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('Plumes'); return false;">
-Plumes
-</div>
-</div>
-<div class="card-text listing-description">
-January 2024 - December 2026
-</div>
-<div class="card-attribution card-text-small justify">
-<div class="listing-author">
 
-</div>
-<div class="listing-date">
-Mar 17, 2025
-</div>
-</div>
-</div>
-</div>
-</a>
-</div>
-<div class="g-col-1" data-index="2" data-categories="Modeling" data-listing-date-sort="1742166000000" data-listing-file-modified-sort="1742211618118" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="148">
-<a href="./posts/projects/SWiM/index.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img src="./posts/projects/SWiM/images/swim.jpeg" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-SWiM
-</h5>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('Modeling'); return false;">
-Modeling
-</div>
-</div>
-<div class="card-text listing-description">
-November 2024 - October 2026
-</div>
-<div class="card-attribution card-text-small justify">
-<div class="listing-author">
+</section>
 
-</div>
-<div class="listing-date">
-Mar 17, 2025
-</div>
-</div>
-</div>
-</div>
-</a>
-</div>
-<div class="g-col-1" data-index="3" data-categories="Modeling" data-listing-date-sort="1742166000000" data-listing-file-modified-sort="1742218145116" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="232">
-<a href="./posts/projects/DEHEAT/index.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img src="./posts/projects/DEHEAT/images/deheat.png" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-DEHEAT
-</h5>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('Modeling'); return false;">
-Modeling
-</div>
-</div>
-<div class="card-text listing-description">
-December 2021 - December 2026
-</div>
-<div class="card-attribution card-text-small justify">
-<div class="listing-author">
-
-</div>
-<div class="listing-date">
-Mar 17, 2025
-</div>
-</div>
-</div>
-</div>
-</a>
-</div>
-<div class="g-col-1" data-index="4" data-categories="Modeling" data-listing-date-sort="1737673200000" data-listing-file-modified-sort="1737721842713" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="3">
-<a href="./posts/projects/COHERENS/index.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img src="./posts/projects/COHERENS/images/illustration.jpg" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-COHERENS
-</h5>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('Modeling'); return false;">
-Modeling
-</div>
-</div>
-<div class="card-text listing-description">
-Work in progress.
-</div>
-<div class="card-attribution card-text-small justify">
-<div class="listing-author">
-
-</div>
-<div class="listing-date">
-Jan 24, 2025
-</div>
-</div>
-</div>
-</div>
-</a>
-</div>
-</div>
-<div class="listing-no-matching d-none">
-No matching items
-</div>
-</div></main> <!-- /main -->
+</main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {

@@ -1,5 +1,5 @@
 ---
-title: "RECAP"
+title: "ReCAP"
 description: "Regional-scale assessment of the land-ocean Continuum ecosystems vulnerability to Anthropogenic Pressure"
 author: "A. Capet"
 date: "2025-03-18"
@@ -54,4 +54,4 @@ Arthur Capet
 
 ## Funding and contract
 
-This project is funded by the [Belgian Science Policy](https://www.belspo.be/), un der [the FedTwin program](https://www.belspo.be/belspo/FED-tWIN/index_en.stm)
+This project is funded by the [Belgian Science Policy](https://www.belspo.be/), under [the FedTwin program](https://www.belspo.be/belspo/FED-tWIN/index_en.stm)
