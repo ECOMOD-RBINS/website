@@ -341,5 +341,54 @@
     "title": "",
     "section": "",
     "text": "Home\n    Publications\n  \n\n\n\n   \n     \n     \n       Order By\n       Default\n         \n          Title\n        \n         \n          Author\n        \n         \n          Publication\n        \n         \n          Year\n        \n     \n  \n    \n      \n      \n    \n\n\n\n  \n    Lessons from the calibration and sensitivity analysis of a fish larval transport model\n    Barbut et al.\n    Marine Ecology Progress Series\n    (2024)\n    \n      Details\n    \n    \n    \n      DOI\n    \n    \n    \n    \n  \n\n  \n    Complex effect of projected sea temperature and wind change on flatfish dispersal\n    Lacroix et al.\n    Global Change Biology\n    (2018)\n    \n      Details\n    \n    \n    \n      DOI\n    \n    \n    \n    \n  \n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "posts/projects/OUTFLOW/index.html",
+    "href": "posts/projects/OUTFLOW/index.html",
+    "title": "OUTFLOW",
+    "section": "",
+    "text": "November 2024 - October 2026"
+  },
+  {
+    "objectID": "posts/projects/OUTFLOW/index.html#outflow---quantifying-the-contribution-of-fouling-fauna-to-the-local-carbon-budget-of-an-offshore-wind-farm",
+    "href": "posts/projects/OUTFLOW/index.html#outflow---quantifying-the-contribution-of-fouling-fauna-to-the-local-carbon-budget-of-an-offshore-wind-farm",
+    "title": "OUTFLOW",
+    "section": "",
+    "text": "November 2024 - October 2026"
+  },
+  {
+    "objectID": "posts/projects/OUTFLOW/index.html#summary",
+    "href": "posts/projects/OUTFLOW/index.html#summary",
+    "title": "OUTFLOW",
+    "section": "Summary",
+    "text": "Summary\nOUTFLOW will investigate how ocean sprawl, currently much related to the installation of offshore wind farms (OWFs), affects the organic matter (OM) dynamics at the local and regional scale. While OWFs are installed in an attempt to combat climate change (Priority 2), the presence of OWFs affects the potential of the local environment to support and preserve life (i.e. habitability) through the replacement of mobile sands with artificial hard structures resulting in the loss of habitat for soft-sediment organisms and gain for fouling organisms. The presence of the fouling fauna leads to a functional shift towards suspension feeding organisms and a subsequent alteration of the interactions between species and their environment (Priority 1), affecting carbon and nitrogen (Priority 1) cycling pathways. The fouling fauna filters a significant amount of water in search of food, hereby secreting faecal pellets (FP), which are deposited on the surrounding sea floor. Locally, this leads to imbalances in biogeochemical cycles (Priority 2) in the sediment, and altered faunal communities, to such extent that the altered sediments can act as a carbon sink (Priority 3) contributing as Blue Carbon reservoirs to mitigating climate change (Priority 2). Given the increasing effort to install OWFs in coastal areas in Europe and beyond, assessing cumulative effects on the ecological integrity (Priority 1) of the marine ecosystem at the regional scale requires upscaling of local changes to geographical scales that are relevant for managerial purposes."
+  },
+  {
+    "objectID": "posts/projects/OUTFLOW/index.html#team-members-involved",
+    "href": "posts/projects/OUTFLOW/index.html#team-members-involved",
+    "title": "OUTFLOW",
+    "section": "Team members involved",
+    "text": "Team members involved\nArthur Capet and Pauline Denis"
+  },
+  {
+    "objectID": "posts/projects/OUTFLOW/index.html#ecomod-tasks-and-responsabilities",
+    "href": "posts/projects/OUTFLOW/index.html#ecomod-tasks-and-responsabilities",
+    "title": "OUTFLOW",
+    "section": "ECOMOD tasks and responsabilities",
+    "text": "ECOMOD tasks and responsabilities\n\nTask 5.1 Gathering forcing data for the biogeochemical model.\n\nThe upscaling will require the collection of the necessary underlying data for the modelling, and will be done by re-using own data, by harvesting data from publicly available databases, data available through D.4.1.1 or model simulations. Deliverable 5.1.1. will be a collection of supporting data for further modelling efforts.\n\nTask 5.2 Upscaling at the North Sea scale\n\nBased on D.5.1.1, D.3.2.1. and data collected during Task 1.1., a spatial upscaling to the North Sea scale will be done by updating the biogeochemical model MIRO&CO to include filtration rates and FP production by the fouling fauna. The spatial information needed to run scenarios (gridded maps on OWF location with relevant information on future turbine dimensions and decommissioning scenarios) will be produced. Deliverable 5.2.1. will be an updated version of MIRO & CO (Month 45); D.5.2.2. comprises the gridded maps underpinning the scenario runs.\n\nTask 5.3 Simulations\n\nBased on the updated MIRO & CO version (D.5.2.1) and the relevant spatial information (D.5.2.2.), the possible redistribution of OM at the scale of the North Sea will be estimated. In addition, taking into account the data on Blue Carbon potential generated through D.4.2.1, the Blue Carbon potential of the North Sea sediments will be assessed. Deliverable 5.3.3. will be a mapping of the rearrangement of sedimentary carbon pools at the scale of the North Sea, as a consequence of the current and expected OWFs and different decommissioning scenarios."
+  },
+  {
+    "objectID": "posts/projects/OUTFLOW/index.html#partners",
+    "href": "posts/projects/OUTFLOW/index.html#partners",
+    "title": "OUTFLOW",
+    "section": "Partners",
+    "text": "Partners\n\nRBINS\nUGENT"
+  },
+  {
+    "objectID": "posts/projects/OUTFLOW/index.html#funding-and-contract",
+    "href": "posts/projects/OUTFLOW/index.html#funding-and-contract",
+    "title": "OUTFLOW",
+    "section": "Funding and contract",
+    "text": "Funding and contract\nThis project is funded by the Belgian Science Policy (BELSPO)"
   }
 ]
