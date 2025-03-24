@@ -1,0 +1,86 @@
+---
+title: "OUTFLOW"
+description: ""
+author: ""
+date: "2025-03-17"
+categories: [Modeling, Offshore Renewable Energy]
+image: "images/Outflow_logo_final.png"
+
+execute:
+  echo: false
+  warning: false
+  error: true
+  cache: true
+  
+format: 
+  html:
+    page-layout: full
+
+#bibliography: references.bib
+#cls: journal-of-oceanography.csl
+#link-citations: true
+---
+
+## OUTFLOW - Quantifying the cOntribUTion of Fouling fauna to the Local carbon budget of an Offshore Wind farm
+
+November 2024 - October 2026
+
+## Summary
+
+OUTFLOW will investigate how ocean sprawl, currently much related to the installation of offshore 
+wind farms (OWFs), affects the organic matter (OM) dynamics at the local and regional scale. While 
+OWFs are installed in an attempt to combat climate change (Priority 2), the presence of OWFs 
+affects the potential of the local environment to support and preserve life (i.e. habitability) through 
+the replacement of mobile sands with artificial hard structures resulting in the loss of habitat for 
+soft-sediment organisms and gain for fouling organisms. The presence of the fouling fauna leads 
+to a functional shift towards suspension feeding organisms and a subsequent alteration of the 
+interactions between species and their environment (Priority 1), affecting carbon and nitrogen 
+(Priority 1) cycling pathways. The fouling fauna filters a significant amount of water in search of 
+food, hereby secreting faecal pellets (FP), which are deposited on the surrounding sea floor. 
+Locally, this leads to imbalances in biogeochemical cycles (Priority 2) in the sediment, and altered 
+faunal communities, to such extent that the altered sediments can act as a carbon sink (Priority 3) contributing
+as Blue Carbon reservoirs to mitigating climate change (Priority 2). Given the 
+increasing effort to install OWFs in coastal areas in Europe and beyond, assessing cumulative 
+effects on the ecological integrity (Priority 1) of the marine ecosystem at the regional scale 
+requires upscaling of local changes to geographical scales that are relevant for managerial 
+purposes.
+
+## Team members involved
+
+Arthur Capet and Pauline Denis
+
+## ECOMOD tasks and responsabilities
+
+- **Task 5.1** Gathering forcing data for the biogeochemical model.
+
+The upscaling will require the collection of the necessary underlying data for the modelling, and 
+will be done by re-using own data, by harvesting data from publicly available databases, data 
+available through D.4.1.1 or model simulations. Deliverable 5.1.1. will be a collection of supporting 
+data for further modelling efforts.
+
+- **Task 5.2** Upscaling at the North Sea scale
+
+Based on D.5.1.1, D.3.2.1. and data collected during Task 1.1., a spatial upscaling to the North Sea 
+scale will be done by updating the biogeochemical model MIRO&CO to include filtration rates and 
+FP production by the fouling fauna. The spatial information needed to run scenarios (gridded maps 
+on OWF location with relevant information on future turbine dimensions and decommissioning 
+scenarios) will be produced. Deliverable 5.2.1. will be an updated version of MIRO & CO (Month 
+45); D.5.2.2. comprises the gridded maps underpinning the scenario runs.
+
+- **Task 5.3** Simulations
+
+Based on the updated MIRO & CO version (D.5.2.1) and the relevant spatial information (D.5.2.2.), 
+the possible redistribution of OM at the scale of the North Sea will be estimated. In addition, taking 
+into account the data on Blue Carbon potential generated through D.4.2.1, the Blue Carbon 
+potential of the North Sea sediments will be assessed. Deliverable 5.3.3. will be a mapping of the 
+rearrangement of sedimentary carbon pools at the scale of the North Sea, as a consequence of the 
+current and expected OWFs and different decommissioning scenarios.
+
+## Partners
+
+1. RBINS
+2. UGENT
+
+## Funding and contract
+
+This project is funded by the Belgian Science Policy (BELSPO)
