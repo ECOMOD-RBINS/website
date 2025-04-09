@@ -1,5 +1,5 @@
 ---
-title: "ReCAP"
+title: "RECAP"
 description: "Regional-scale assessment of the land-ocean Continuum ecosystems vulnerability to Anthropogenic Pressure"
 author: "A. Capet"
 date: "2025-03-18"
@@ -23,7 +23,7 @@ format:
 ---
 
 
-## FOCCUS - Forecasting and observing the open-to-coastal ocean for Copernicus users
+## RECAP - (TITLE !)
 
 January 2020 - January 2030
 

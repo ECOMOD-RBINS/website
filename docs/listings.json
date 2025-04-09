@@ -1,19 +1,19 @@
 [
   {
-    "listing": "/activities.html",
-    "items": [
-      "/posts/activities/workshop2/index.html"
-    ]
-  },
-  {
     "listing": "/projects.html",
     "items": [
-      "/posts/projects/ReCAP/index.html",
+      "/posts/projects/RECAP/index.html",
+      "/posts/projects/SWIM/index.html",
       "/posts/projects/FOCCUS/index.html",
-      "/posts/projects/SWiM/index.html",
       "/posts/projects/OUTFLOW/index.html",
       "/posts/projects/DEHEAT/index.html",
       "/posts/projects/COHERENS/index.html"
+    ]
+  },
+  {
+    "listing": "/activities.html",
+    "items": [
+      "/posts/activities/workshop2/index.html"
     ]
   },
   {
