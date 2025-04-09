@@ -2,7 +2,7 @@
 title: "COHERENS"
 description: ""
 author: ""
-date: "2025-01-24"
+date: ""
 categories: [Modeling]
 image: "images/illustration.jpg"
 
@@ -21,4 +21,30 @@ format:
 #link-citations: true
 ---
 
-Work in progress.
+# COHERENS -- COupled Hydrodynamical-Ecological model for REgioNal and Shelf seas
+
+COHERENS is a state-of-the-art, multi-purpose numerical modeling system designed to simulate hydrodynamic, ecological, and sediment transport processes in regional, shelf, and coastal seas. Its development is led by the Royal Belgian Institute of Natural Sciences.
+
+COHERENS offers a comprehensive framework that integrates:
+
+- 3D hydrodynamic modeling
+- Sediment and morphological dynamics
+- Biogeochemical and ecological processes
+- Tracer and contaminant transport
+
+Its modular and flexible architecture makes it suitable for a wide range of applications, from academic research to operational forecasting and environmental impact assessments.
+
+COHERENS is part of an open-source initiative, and while the codebase is currently being finalized and cleaned, it will soon be freely available to everyone under the EUPL license. Stay tuned for the public release!
+
+**Source code:** [Coming soon]
+
+**User documentation:** [Coming soon]
+
+## Applications
+
+Coming soon.
+
+## Publications
+
+Coming soon.
+
