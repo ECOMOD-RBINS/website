@@ -3,7 +3,7 @@ title: "SHRIMP-II"
 description: "Application du modèle COHERENS à l'analyse du cycle de vie des crevettes et des huîtres"
 author: ""
 date: "2025-04-11"
-categories: [Modeling]
+categories: [Modeling, Capacity building]
 image: "images/shrimp.png"
 
 execute:
