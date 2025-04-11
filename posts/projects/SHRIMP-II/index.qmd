@@ -1,1 +1,48 @@
+---
+title: "SHRIMP-II"
+description: ""
+author: ""
+date: "2025-04-11"
+categories: [Modeling]
+image: "images/shrimp.png"
+
+execute:
+  echo: false
+  warning: false
+  error: true
+  cache: true
+  
+format: 
+  html:
+    page-layout: full
+
+#bibliography: references.bib
+#cls: journal-of-oceanography.csl
+#link-citations: true
+---
+
+## SHRIMP-II -  Application du modèle COHERENS à l'analyse du cycle de vie des crevettes et des huîtres
+
+December 2024 - July 2029
+
+## Summary
+This project aims to enhance the understanding and sustainable management of coastal aquatic resources in the lake Nokoué-Cotonou Channel region. It focuses on analyzing the life cycle and distribution of shrimp in relation to environmental scenarios and their interactions with physical, chemical, and biological parameters, with the goal of developing a numerical model for resource optimization. The project also investigates the impact of sediment transport on the dynamics of the Cotonou channel mouth and its influence on tidal cycles and larval transport, while assessing potential management strategies. Additionally, it supports capacity building for women and identifies suitable zones for oyster aquaculture development. A comprehensive inventory and spatio-temporal analysis of phytoplankton in the coastal marine area will be conducted. Finally, the project emphasizes the dissemination of results within the scientific community and the sharing of findings with local stakeholders, including managers, municipalities, fishers, and local communities.
+
+## Team members involved
+
+Geneviève Lacroix
+
+## ECOMOD tasks and responsabilities
+
+Coordination and capacity building
+
+
+## Partners
+ 
+1. RBINS coordination (Geneviève Lacroix)
+2. Institut de Recherches Halieutiques et Océanologiques du Bénin (IRHOB), Benin (Sylvain Gozingan, Wilfried Sintondji, Yaovi Zounon et Zacharie Sohou)
+
+## Funding and contract
+
+This project is funded by the Directorate-General for Development Cooperation and Humanitarian Aid (DGD) through the CEBioS (Capacities for Biodiversity and Sustainable Development) program (https://cebios.naturalsciences.be/)
 
