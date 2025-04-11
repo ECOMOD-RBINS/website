@@ -4,7 +4,7 @@ description: "Application du modèle COHERENS à l'analyse du cycle de vie des c
 author: ""
 date: "2025-04-11"
 categories: [Modeling, Capacity building]
-image: "images/shrimp.png"
+image: "images/shrimp.jpg"
 
 execute:
   echo: false
