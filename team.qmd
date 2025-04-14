@@ -172,7 +172,9 @@
   
   <div class="profile-card">
     <div class="profile-image">
-      <img src="images/OG.jpg" alt="Olivier Gourgue">
+      <a href="/posts/members/OG">
+        <img src="images/OG.jpg" alt="Olivier Gourgue">
+      </a>
     </div>
     <h3 class="profile-name">
       <span class="first-name">Olivier</span>
@@ -184,7 +186,7 @@
       <a href="https://github.com/ogourgue"><i class="fa-brands fa-github"></i></a>
       <a href="https://orcid.org/0000-0003-0022-3637"><i class="fa-brands fa-orcid"></i></a>
       <!-- <a href=""><i class="fa-brands fa-linkedin"></i></a> -->
-      <a href="https://www.naturalsciences.be/olivier.gourgue"><i class="fa-solid fa-id-card"></i></a>
+      <!-- <a href="https://www.naturalsciences.be/olivier.gourgue"><i class="fa-solid fa-id-card"></i></a> -->
     </div>
   </div>
   
