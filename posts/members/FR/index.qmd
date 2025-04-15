@@ -45,9 +45,11 @@ Florian Ricour is a marine data scientist, specialized in machine learning, biog
 
 ### 2023
 
-- **Ricour, F.**, Guidi, L., Gehlen, M., DeVries, T. and Legendre, L., 2023. Century-scale carbon sequestration flux throughout the ocean by the biological pump. **Nature Geoscience**, 16(12), pp.1105-1113. [DOI](https://doi.org/10.1038/s41561-023-01318-9)
+- **Ricour, F.**, Guidi, L., Gehlen, M., DeVries, T. and Legendre, L., 2023. Century-scale carbon sequestration flux throughout the ocean by the biological pump. Nature Geoscience, 16(12), pp.1105-1113. [DOI](https://doi.org/10.1038/s41561-023-01318-9)
 
-- Terrats, L., Claustre, H., Briggs, N., Poteau, A., Briat, B., Lacour, L., **Ricour, F.**, Mangin, A. and Neukermans, G., 2023. Biogeochemical‐argo floats reveal stark latitudinal gradient in the Southern Ocean deep carbon flux driven by phytoplankton community composition. **Global Biogeochemical Cycles**, 37(11), p.e2022GB007624. [DOI](https://doi.org/10.1029/2022GB007624)
+- Terrats, L., Claustre, H., Briggs, N., Poteau, A., Briat, B., Lacour, L., **Ricour, F.**, Mangin, A. and Neukermans, G., 2023. Biogeochemical‐argo floats reveal stark latitudinal gradient in the Southern Ocean deep carbon flux driven by phytoplankton community composition. Global Biogeochemical Cycles, 37(11), p.e2022GB007624. [DOI](https://doi.org/10.1029/2022GB007624)
+
+- **Ricour, F.**, 2023, Towards a new insight of the carbon transport in the global ocean, Doctoral Dissertation. [PDF](https://orbi.uliege.be/handle/2268/304539)
 
 ### 2022
 
@@ -55,7 +57,7 @@ Florian Ricour is a marine data scientist, specialized in machine learning, biog
 
 ### 2021
 
-- **Ricour, F.**, Capet, A., d'Ortenzio, F., Delille, B. and Grégoire, M., 2021. Dynamics of the deep chlorophyll maximum in the Black Sea as depicted by BGC-Argo floats. **Biogeosciences**, 18(2), pp.755-774. [DOI](https://doi.org/10.5194/bg-18-755-2021, 2021)
+- **Ricour, F.**, Capet, A., d'Ortenzio, F., Delille, B. and Grégoire, M., 2021. Dynamics of the deep chlorophyll maximum in the Black Sea as depicted by BGC-Argo floats. Biogeosciences, 18(2), pp.755-774. [DOI](https://doi.org/10.5194/bg-18-755-2021, 2021)
 
 ## Datasets, code and software
 
