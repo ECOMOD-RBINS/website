@@ -1,0 +1,72 @@
+---
+title: "Florian Ricour"
+description: ""
+author: ""
+date: ""
+categories: 
+image: ""
+
+execute:
+  echo: false
+  warning: false
+  error: true
+  cache: true
+  
+format: 
+  html:
+    page-layout: article
+---
+
+<div style="text-align: center;">
+  ![](../../../images/FR.jpg){width=50%}
+</div>
+
+## Biography
+Florian Ricour is a marine data scientist, specialized in machine learning, biogeochemical modeling and data visualization tools. During his PhD, he developed an embedded zooplankton classification algorithm for autonomous underwater vehicles and reassessed the global carbon sequestration of the Biological Carbon Pump using a continuous approach to carbon storage. His postdoc at RBINS focuses now on the development of biogeochemical models using innovative tools such as [FABM](https://github.com/fabm-model/fabm).
+
+### Experience
+- **Royal Belgian Institute of Natural Sciences** | Brussels, Belgium <br>
+  Project Leader | 2024-Current
+- **Uliège** | Liège, Belgium <br>
+  Researcher | 2018-2019
+
+### Education
+- **Sorbonne University** | Villefranche-sur-Mer, France <br>
+  PhD Science | 2020-2023 <br>
+- **ULiège** | Liège, Belgium <br>
+  PhD Science | 2019-2023 <br>
+  MSc Oceanography | 2016-2018 <br>
+  BSc Engineering Science | 2013-2016
+
+## Projects
+- [FOCCUS](../../projects/FOCCUS): Forecasting and observing the open-to-coastal ocean for Copernicus users
+
+## Publications <!-- Harvard citation style -->
+
+### 2023
+
+- **Ricour, F.**, Guidi, L., Gehlen, M., DeVries, T. and Legendre, L., 2023. Century-scale carbon sequestration flux throughout the ocean by the biological pump. **Nature Geoscience**, 16(12), pp.1105-1113. [DOI](https://doi.org/10.1038/s41561-023-01318-9)
+
+- Terrats, L., Claustre, H., Briggs, N., Poteau, A., Briat, B., Lacour, L., **Ricour, F.**, Mangin, A. and Neukermans, G., 2023. Biogeochemical‐argo floats reveal stark latitudinal gradient in the Southern Ocean deep carbon flux driven by phytoplankton community composition. **Global Biogeochemical Cycles**, 37(11), p.e2022GB007624. [DOI](https://doi.org/10.1029/2022GB007624)
+
+### 2022
+
+- Vogt, M., Benedetti, F., Sarmento, H., Huber, P., Arboleda-Baena, C., Bader, R.R., Eriksson, D., Knecht, N., Chénier, N., Jaillon, O., Frémont, P., Lombard, F., Guidi, L., **Ricour, F.**, Van Sebille, E., Schmiz, S., Manral, D., Clerc, C., Santos, G., Maiorano, L., De Angelis, D., Chaffron, S., Eveillard, D., Amaral-Zettler, L., Gehlen, M., Benard, G. and Frölicher, T., 2023. AtlantECO Deliverable 2.1: AtlantECO-BASE1. [PDF](https://orbi.uliege.be/bitstream/2268/304961/1/AtlantECO_Deliverable_D2.1.pdf)
+
+### 2021
+
+- **Ricour, F.**, Capet, A., d'Ortenzio, F., Delille, B. and Grégoire, M., 2021. Dynamics of the deep chlorophyll maximum in the Black Sea as depicted by BGC-Argo floats. **Biogeosciences**, 18(2), pp.755-774. [DOI](https://doi.org/10.5194/bg-18-755-2021, 2021)
+
+## Datasets, code and software
+
+### 2024
+
+- Picheral, M., Courchet, L., Jalabert, L., Motreuil, S., Carray-Counil, L., **Ricour, F.** and Petit, F., 2024, UVP6Net : plankton images captured with the UVP6. [DOI](https://doi.org/10.17882/101948)
+
+- **Ricour, F.**, Catalano C., Picheral M., Irisson, J-O., 2024, UVPec - Underwater Vision Profiler Embedded Classifier. [DOI](https://zenodo.org/records/10694204)
+
+### 2023
+
+- Terrats, L., Claustre, H., Briggs, N., Poteau, A., Briat, B., Lacour, L., **Ricour, F.**, Mangin, A. and Neukermans, G., 2023, BioGeoChemical-Argo float data including bio-optical profiles and POC flux at 1000m in the Southern Ocean from 2014 to 2019. [DOI](https://doi.org/10.17882/94676)
+
+
