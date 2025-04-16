@@ -2,7 +2,7 @@
 title: "ECOMPV"
 description: "Eco-designing Marine PhotoVoltaic installations"
 author: ""
-date: "2025-04-16"
+date: ""
 categories: [Modeling, Offshore renewable energy]
 image: "images/ecompv.jpeg"
 
