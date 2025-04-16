@@ -136,9 +136,9 @@
   </div>
   
   <div class="profile-card">
-    <a href="/posts/members/PD">
     <div class="profile-image">
-      <img src="images/PD.jpg" alt="Pauline Denis">
+      <a href="/posts/members/PD">
+        <img src="images/PD.jpg" alt="Pauline Denis">
     </div>
 
     <h3 class="profile-name">
