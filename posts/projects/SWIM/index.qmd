@@ -1,6 +1,6 @@
 ---
 title: "SWIM"
-description: "Solar and Wind Energy in the Belgian Marine Zone"
+description: "Solar and WInd energy in the Belgian Marine zone"
 author: ""
 date: ""
 categories: [Modeling , Offshore renewable energy]
@@ -21,7 +21,7 @@ format:
 #link-citations: true
 ---
 
-## SWiM - Solar and Wind Energy in the Belgian Marine Zone
+## SWiM - Solar and WInd energy in the Belgian Marine zone
 
 November 2024 - October 2026
 
