@@ -1,0 +1,62 @@
+---
+title: "Pauline Denis"
+description: ""
+author: ""
+date: ""
+categories: 
+image: ""
+
+execute:
+  echo: false
+  warning: false
+  error: true
+  cache: true
+  
+format: 
+  html:
+    page-layout: article
+    
+#bibliography: references.bib
+#cls: journal-of-oceanography.csl
+#link-citations: true
+---
+
+<div style="text-align: center;">
+  <img src="../../../images/PD.jpg" style="width: 50%;" />
+</div>
+
+## Biography
+
+Pauline is an early career physical oceanographer. Pauline's research focuses on modelling the environmental impacts of offshore renewable marine energy infrastructures, particularly floating solar panels within offshore wind farms in the the North Sea. On one hand, she specializes in hydrodynamic modelling, given her background in physics, to study aspects such as current fields and turbulence. On the other hand, she also investigates the biogeochemical processes that solar structures may induce, including bio-colonization, fecal pellet deposition, carbon enrichment of the seabed, sediment dynamics, and benthos equilibrium.  
+
+Pauline recently started her PhD in collaboration with Ghent University, supervised by [Arthur Capet](../AC) and [Jan Vanaverbeke](https://mareco-odnature.naturalsciences.be/teammember/vanaverbeke-jan/) (from [MARECO](https://mareco-odnature.naturalsciences.be/) team).  
+
+Pauline enjoys organizing events within the team and at RBINS, and loves traveling to present her research at various conferences.
+
+### Experience
+- **Ghent University** | Ghent, Belgium<br />
+  PhD Student | 2024-Current
+- **Royal Belgian Institute of Natural Sciences** | Brussels, Belgium<br />
+  Scientific collaborator | 2022-Current
+- **Royal Belgian Institute of Natural Sciences** | Brussels, Belgium<br />
+  Master student intern | 2022-2022
+
+
+### Education
+- **Toulon University** | Toulon, France<br />
+  MSc Oceanography | 2020-2022<br />
+- **UMONS** | Mons, Belgium<br />
+  BSc Physics | 2017-2020<br />
+
+
+## Projects
+- [ECOMPV:](../../projects/ECOMPV) Eco-designing Marine photoVoltaic installations.
+- [SWIM:](../../projects/SWIM) Solar and WInd energy in the Belgian Marine zone.
+- [COHERENS:](../../projects/COHERENS) COupled Hydrodynamical-Ecological model for REgioNal and Shelf seas.
+
+## Publications
+### 2025
+_A few publications are coming soon!_
+
+## Awards
+- VLIZ Marine Science Day (March 2025): 2nd best presentation award
