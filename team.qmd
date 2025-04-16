@@ -136,9 +136,11 @@
   </div>
   
   <div class="profile-card">
+    <a href="/posts/members/PD">
     <div class="profile-image">
       <img src="images/PD.jpg" alt="Pauline Denis">
     </div>
+
     <h3 class="profile-name">
       <span class="first-name">Pauline</span>
       <span class="last-name">Denis</span>
@@ -147,7 +149,7 @@
     <div class="profile-links">
       <a href="mailto:pauline.denis@naturalsciences.be?"><i class="fa-solid fa-envelope"></i></a>
       <a href="https://gitlab.naturalsciences.be/pdenis"><i class="fa-brands fa-github"></i></a>
-      <a href=""><i class="fa-brands fa-orcid"></i></a>
+      <a href="https://orcid.org/0009-0007-2895-2440"><i class="fa-brands fa-orcid"></i></a>
       <a href="https://www.linkedin.com/in/pauline-denis-41627a240/"><i class="fa-brands fa-linkedin"></i></a>
     </div>
   </div>
