@@ -53,7 +53,7 @@ Arthur Capet and Pauline Denis
 
 ## Partners
 
-1. RBINS (MARECO coordinator : https://mareco-odnature.naturalsciences.be/project/ecompv/)
+1. RBINS ([MARECO](https://mareco-odnature.naturalsciences.be/project/ecompv/) coordinator)
 2. Ghent University
 3. Tractebel
 4. Jan De Nul
