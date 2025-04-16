@@ -23,4 +23,5 @@ Same thing as for the project section but in `posts/activities`
 
 ##### When you push on the repo
 
+/!\ For information /!\ DO NOT PUSH YOUR `docs/` folder on your branch, otherwise it will cause annoying conflits to solve between the master branch and yours.
 In order for the website to run, we need the HTML code so the `docs` folder needs to be pushed (will be updated after rendering) as well as your local changes.
