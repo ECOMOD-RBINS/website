@@ -2,21 +2,58 @@
 
 ## April 2025
 
-To come.
+### WGIPEM Annual Meeting (March, 31 - Apr, 3)
+
+Several team members attended the WGIPEM Annual Meeting (_ICES Working Group on Integrative, Physical-biological and Ecosystem Modelling_). The meeting took place in Norrköping, Sweden, with most participants joining remotely. Arthur, Geneviève, and Pauline had the opportunity to present their research, leading to many interactions, insightful discussions, and potential future collaborations.
+
+![](/images/news/wgipem.jpg){width=400}
 
 ## March 2025
 
-#### FOCCUS General Assembly (March, 17-19)
+### FOCCUS General Assembly (March, 17-19)
 
-Arthur and Florian attended the FOCCUS General Assembly at Palma de Mallorca for the technical review of the project and scientific round tables
+Arthur and Florian attended the FOCCUS General Assembly at Palma de Mallorca (Spain) for the technical review of the project and scientific round tables.
 
 ![View of Palma Bay](/images/news/palma_mallorca_march2025.jpg){width=400 fig-align="left"}
 
-#### VLIZ Marine Science Day (March, 5)
+### SWIM Workshop (March, 6)
+
+Pauline, Arthur and Geneviève organized the first [SWIM](posts/projects/SWIM/) project [workshop](https://www.swimproject.be/results-workshop-01/) at RBINS. Managed by Blue Cluster, the workshop brought together policymakers, industry experts, and researchers to discuss key challenges and opportunities related to regulation, tendering, and environmental permitting criteria for floating solar installations.
+
+![](/images/news/swimworkshop.jpg){width=400}
+
+### VLIZ Marine Science Day (March, 5)
 
 Pauline was awarded the second prize for best oral presentation at the VLIZ Marine Science Day in Bruges, Belgium. She was elected for this by an audience of approximately 500 attendees, for her presentation _Assessing the hydrodynamic impacts and carbon deposition pattern associated with floating solar structures within a Belgian offshore wind farm_
 
 ![](/images/news/vliz_march2025.jpg){width=400}
 
+## February 2025
 
+### "Saviez-vous?" seminar (Feb, 21)
 
+Leo had the opportunity to give a major presentation at the latest "Saviez-vous?" seminar at RBINS, Brussels. His talk focused on interactions between ocean currents and fish larvae, titled: _"Currents and larvae: an invisible journey through the heart of the ocean."_ “Saviez-vous?” is a public lecture series organized by the Royal Belgian Institute of Natural Sciences, offering accessible talks by researchers to share current scientific insights and discoveries with a broad audience.
+
+![](/images/news/leorbins.jpg){width=400}
+
+### Visit of Flanders Hydraulics (Feb, 4)
+
+Olivier, Hugo, and Pauline were invited to a meeting at the Flanders Hydraulics offices in Antwerp, Belgium. This RBINS–FH meeting provided an opportunity to identify potential future collaborations. We also had the chance to visit their impressive facilities.
+
+![](/images/news/flandershydraulics.jpg){width=400}
+
+## November 2024
+
+### Team building ECOMOD-SUMO (Nov, 20)
+
+As a joint team-building activity with the SUMO team, we all went hiking in the marshes of the "Drowned Land of Saeftinghe" (NL) to explore this unique and geologically fascinating landscape. The mud didn’t get the better of us!
+
+![](/images/news/saefthinge.jpg){width=400}
+
+## September 2024
+
+### ICES Annual Science Conference (Sep, 09-12)
+
+Pauline and Arthur attended the ICES Annual Science Conference in Newcastle, UK. As part of the [ECOMPV](posts/projects/ECOMPV/) project, they both presented their research on modelling the impact of floating solar panels in the North Sea. Arthur focused on the shading and biogeochemical aspects, while Pauline presented results on the hydrodynamic impacts.
+
+![](/images/news/ices2024.jpg){width=400}
