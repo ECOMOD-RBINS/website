@@ -139,6 +139,7 @@
     <div class="profile-image">
       <a href="/posts/members/PD">
         <img src="images/PD.jpg" alt="Pauline Denis">
+      </a>
     </div>
 
     <h3 class="profile-name">
