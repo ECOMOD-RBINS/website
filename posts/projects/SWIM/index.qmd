@@ -1,9 +1,9 @@
 ---
 title: "SWIM"
-description: ""
+description: "Solar and WInd energy in the Belgian Marine zone"
 author: ""
-date: "2025-03-17"
-categories: [Modeling]
+date: ""
+categories: [Modeling , Offshore renewable energy]
 image: "images/swim.jpeg"
 
 execute:
@@ -21,13 +21,13 @@ format:
 #link-citations: true
 ---
 
-## SWiM - Solar and Wind Energy in the Belgian Marine Zone
+## SWiM - Solar and WInd energy in the Belgian Marine zone
 
 November 2024 - October 2026
 
 ## Summary
 
-The aim of [SWiM](https://www.swimproject.be/) is to conduct research on the combination of marine technologies in the Exclusive Economic Zone of Belgium, in particular to integrate Offshore Floating Photovoltaics (OFPV) in wind farms. The six partners of SWiM will model the performance as a function of environmental variables, assess the limits to electricity generation imposed by the cables to shore, work out criteria for the mooring and anchoring, define rules for the placement and evaluate potential environmental impacts. Workshops with stakeholders will be held to derive policy advice
+The aim of [SWiM](https://www.swimproject.be/) is to conduct research on the combination of marine technologies in the Exclusive Economic Zone of Belgium, in particular to integrate Offshore Floating Photovoltaics (OFPV) in wind farms. The six partners of SWiM will model the performance as a function of environmental variables, assess the limits to electricity generation imposed by the cables to shore, work out criteria for the mooring and anchoring, define rules for the placement and evaluate potential environmental impacts. Workshops with stakeholders will be held to derive policy advice.
 
 ## Team members involved
 
@@ -35,7 +35,8 @@ Arthur Capet and Pauline Denis
 
 ## ECOMOD tasks and responsabilities
 
-- Task 4.1. Physiological process rates of biofoling communities
+#### Work Package 4: Environmental aspects (ECOMOD leader)
+- Task 4.1. Physiological process rates of biofoling communities (MARECO)
 - Task 4.2. Impact of anchoring systems
 - Task 4.3. Regional impact of biofouling ecological processes
 
