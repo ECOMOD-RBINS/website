@@ -1,0 +1,64 @@
+---
+title: "ECOMPV"
+description: "Eco-designing Marine PhotoVoltaic installations"
+author: ""
+date: ""
+categories: [Modeling, Offshore renewable energy]
+image: "images/ecompv.jpeg"
+
+execute:
+  echo: false
+  warning: false
+  error: true
+  cache: true
+  
+format: 
+  html:
+    page-layout: full
+
+#bibliography: references.bib
+#cls: journal-of-oceanography.csl
+#link-citations: true
+---
+
+## EcoMPV - Eco-designing Marine PhotoVoltaic installations
+
+December 2022 - November 2025
+
+## Summary
+
+EcoMPV will deepen the knowledge about environmental challenges related to offshore PV 
+installations, aiming at technical solutions to mitigate undesired consequences and maximize 
+beneficial impacts. We will address knowledge gaps about (1) altered underwater light field, 
+hydrodynamics, pelagic biogeochemistry and primary production, (2) the artificial habitat provision 
+for colonizing fauna and fish, and (3) effects on carbon fluxes and sequestration. Advice for 
+ecodesigning offshore PV installations, paving the way to its environmental licensing, will be 
+formulated.
+
+## Team members involved
+
+Arthur Capet and Pauline Denis
+
+## ECOMOD tasks and responsabilities
+
+#### Work package 1: Effect of MPVs on phytoplankton production and biogeochemical processes 
+
+- Task 1.1. Hydrodynamic modeling (with MFC)
+- Task 1.3. Primary production: biogeochemical modelling (ECOMOD leader)
+
+#### Work package 3: Effect of MPVs on carbon sequestration 
+
+- Task 3.3. Faecal pellets deposition pattern (with MFC)
+- Task 3.4. Carbon sequestration potential
+
+## Partners
+
+1. RBINS ([MARECO](https://mareco-odnature.naturalsciences.be/project/ecompv/) coordinator)
+2. Ghent University
+3. Tractebel
+4. Jan De Nul
+5. DEME
+
+## Funding and contract
+
+This project is funded by the FPS Economy (Energy Transition Fund)
