@@ -1,8 +1,8 @@
 ---
 title: "SWIM"
-description: ""
+description: "Solar and Wind Energy in the Belgian Marine Zone"
 author: ""
-date: "2025-03-17"
+date: "2025-04-16"
 categories: [Modeling , Offshore renewable energy]
 image: "images/swim.jpeg"
 
