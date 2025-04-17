@@ -85,7 +85,9 @@
 <div class="profile-container">
   <div class="profile-card">
     <div class="profile-image">
-      <img src="images/GL.jpg" alt="Geneviève Lacroix">
+      <a href="/posts/members/GL">
+        <img src="images/GL.jpg" alt="Geneviève Lacroix">
+      </a>
     </div>
     <h3 class="profile-name">
       <span class="first-name">Geneviève</span>
