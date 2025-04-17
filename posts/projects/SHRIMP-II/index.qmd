@@ -49,11 +49,11 @@ This project is funded by the Directorate-General for Development Cooperation an
 - ### Restitution meeting - Ganvié, Benin - March 2024
 
 ::: {layout-ncol=3}
-![](images/Atelier-restitution-Ganvié_March2024_01.jpg)
+![](images/Atelier-restitution-Ganvie_March2024_01.jpg)
 
-![](images/Atelier-restitution-Ganvié_March2024_02.jpg)
+![](images/Atelier-restitution-Ganvie_March2024_02.jpg)
 
-![](images/Atelier-restitution-Ganvié_March2024_03.jpg)
+![](images/Atelier-restitution-Ganvie_March2024_03.jpg)
 :::
 
 - ### Policy brief SHRIMP-I
