@@ -1,4 +1,4 @@
-## Installation:
+## Installation
 
 - Install VScode or another IDE that works with quarto (RStudio, Positron)
 - Install [Quarto](https://quarto.org/docs/download/index.html)
@@ -7,7 +7,7 @@
   - need to install the [extension for quarto](https://marketplace.visualstudio.com/items?itemName=quarto.quarto) (in VScode 'extensions' tab)
   - need to install the following quarto extension (in your terminal): `quarto add quarto-ext/fontawesome`
  
-## Visualisation:
+## Visualization
 
 - [Documentation](https://quarto.org/docs/websites/) on building a quarto website
 - When you have made some changes, you can execute `quarto preview` in your terminal to preview your changes, it will open a localhost:port that you can view on your favorite web browser. Note that you can also preview your changes directly inside VScode/RStudio, depending on your specific configuration.
@@ -15,7 +15,7 @@
 - Before deploying your website (i.e. in our case, pushing changes on the git repo), execute `quarto render`
 - `_quarto.yml` defines the structure of the website
 
-## Best Practice:
+## Best practices
 
 - Clone the project in your terminal: `git clone https://github.com/ECOMOD-RBINS/website.git`
 - Create an issue for each modification/addition you want to make
@@ -30,25 +30,25 @@
 - Create a `pull request` (possible from the github page) to _merge_ your branch into the master
 - Wait that the owner accept your pull request and merge your modifications into the website
 
-## Modifications/Additions:
+## Modifications and/or additions
 Please check what has already been done on the website and use the same template/structure in your files.
 
-### Add a new project:
+### Add a new project
 - Go to `/posts/projects/` 
 - Create a new folder with the name of your project
 - In the folder, create a new file called `index.qmd`. This file should start with a snipped of YAML code (between --- YAML DATA ---). Below this, just write some markdown and you are good to go.
 - In the folder, create a new folder called `images` to put the logo of your project or any images or figures you would like to share.
 
-### Add a new activity:
+### Add a new activity
 - Go to `/posts/activities/` 
 - Follow the same instructions as for new projects
 
-### Add some news:
+### Add some news
 - Go to `news.qmd` 
 - Add your news
 - Add your images related to news in `/images/news/` 
 
-### Add description profile page:
+### Add a description profile page
 - Go to `/posts/members/` 
 - Create a new folder with your initials
 - In the folder, create a new file called `index.qmd`. Put your info in it.
@@ -56,11 +56,11 @@ Please check what has already been done on the website and use the same template
 - In `team.qmd`, you can also modify your email, LinkedIn, Orcid,... links.
 - To modify your profile photo, go to `/images/your_initials`
 
-### Add a new publication:
+### Add a new publication
 - Go to `/publications/articles/` 
 - Create a new file called `your_article.qmd`. Put your info in it (e.g. Lacroix2018.qmd).
 
-### Modify the Home page:
+### Modify the main (home) page
 - Go to `index.qmd`
 
 /!\ Never modify anything in the `docs/` folder ! It will automatically be updated with `quarto render`.
