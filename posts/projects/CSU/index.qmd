@@ -1,0 +1,38 @@
+---
+title: "North Sea model"
+description: ""
+author: ""
+date: ""
+categories: [Modeling]
+image: "images/Picture1.png"
+
+execute:
+  echo: false
+  warning: false
+  error: true
+  cache: true
+  
+format: 
+  html:
+    page-layout: article
+    
+#bibliography: references.bib
+#cls: journal-of-oceanography.csl
+#link-citations: true
+---
+
+## North Sea Model
+
+<div style="text-align: center;">
+  <img src="images/bathymetry_domains.png" alt="Bathymetry domains" style="width: 100%;" />
+</div>
+
+<div style="text-align: center;">
+  <img src="images/m2_amplitude.png" alt="M2 amplitude" style="width: 34%;" />
+</div>
+
+Content will be added soon...
+
+### Team members involved
+
+Hugo Romanelli & Olivier Gourgue, with contributions from the entire ECOMOD team.
