@@ -19,7 +19,9 @@ website:
       - href: publications.qmd
         text: Publications
   page-footer:
-    center: "Copyright &copy; 2025 ECOMOD. All rights reserved."
+    left: "Copyright &copy; 2025 ECOMOD. All rights reserved."
+    center: "Site developed by [Florian Ricour](https://fricour.github.io/)"
+    right: "Built with [Quarto](https://quarto.org/)"
     background: light
   favicon: favicon.ico
 

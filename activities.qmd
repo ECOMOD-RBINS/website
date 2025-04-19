@@ -1,5 +1,5 @@
 ---
-title: "Overview of our team activities and workshops"
+title: "In construction..."
 listing:
   contents: posts/activities
   sort: "date desc"
