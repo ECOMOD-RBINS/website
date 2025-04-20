@@ -1,14 +1,11 @@
 [
   {
-    "listing": "/activities.html",
-    "items": []
-  },
-  {
     "listing": "/projects.html",
     "items": [
       "/posts/projects/CSU/index.html",
       "/posts/projects/COHERENS/index.html",
       "/posts/projects/SWIM/index.html",
+      "/posts/projects/OWIDEX/index.html",
       "/posts/projects/SHRIMP-II/index.html",
       "/posts/projects/CLIMDIS/index.html",
       "/posts/projects/ECOMPV/index.html",
@@ -17,6 +14,10 @@
       "/posts/projects/OUTFLOW/index.html",
       "/posts/projects/DEHEAT/index.html"
     ]
+  },
+  {
+    "listing": "/activities.html",
+    "items": []
   },
   {
     "listing": "/publications.html",

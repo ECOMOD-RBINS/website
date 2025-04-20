@@ -22,7 +22,7 @@ format:
 </div>
 
 ## Biography
-Florian Ricour is a marine data scientist, specialized in machine learning, biogeochemical modeling and data visualization tools. During his PhD, he developed an embedded zooplankton classification algorithm for autonomous underwater vehicles and reassessed the global carbon sequestration of the Biological Carbon Pump using a continuous approach to carbon storage. His postdoc at RBINS focuses now on the development of biogeochemical models using innovative tools such as [FABM](https://github.com/fabm-model/fabm).
+Florian Ricour is a marine data scientist specializing in machine learning, biogeochemical modeling, and data visualization tools. During his PhD, he developed an embedded zooplankton classification algorithm for autonomous underwater vehicles and reassessed global carbon sequestration of the Biological Carbon Pump using a continuous approach to carbon storage. His current postdoctoral research at RBINS focuses on developing biogeochemical modules using innovative tools such as [FABM](https://github.com/fabm-model/fabm), studying ensemble modeling in the North Sea, and designing interactive Shiny web applications for scientific analysis.
 
 ### Experience
 - **Royal Belgian Institute of Natural Sciences** | Brussels, Belgium <br>
@@ -40,6 +40,8 @@ Florian Ricour is a marine data scientist, specialized in machine learning, biog
 
 ## Projects
 - [FOCCUS](../../projects/FOCCUS): Forecasting and observing the open-to-coastal ocean for Copernicus users
+- [ECOMPV](../../projects/ECOMPV): Eco-designing Marine PhotoVoltaic installations
+- [OWIDEX](../../projects/OWIDEX): Offshore Wind Decommissioning Expertise Centre
 
 ## Publications <!-- Harvard citation style -->
 
@@ -65,10 +67,9 @@ Florian Ricour is a marine data scientist, specialized in machine learning, biog
 
 - Picheral, M., Courchet, L., Jalabert, L., Motreuil, S., Carray-Counil, L., **Ricour, F.** and Petit, F., 2024, UVP6Net : plankton images captured with the UVP6. [DOI](https://doi.org/10.17882/101948)
 
-- **Ricour, F.**, Catalano C., Picheral M., Irisson, J-O., 2024, UVPec - Underwater Vision Profiler Embedded Classifier. [DOI](https://zenodo.org/records/10694204)
+- **Ricour, F.**, Catalano C., Picheral M., Irisson, J-O., 2024, UVPec - Underwater Vision Profiler Embedded Classifier. 
+[![PyPI version](https://badge.fury.io/py/uvpec.svg)](https://badge.fury.io/py/uvpec) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3566012.svg)](https://zenodo.org/records/10694204)
 
 ### 2023
 
 - Terrats, L., Claustre, H., Briggs, N., Poteau, A., Briat, B., Lacour, L., **Ricour, F.**, Mangin, A. and Neukermans, G., 2023, BioGeoChemical-Argo float data including bio-optical profiles and POC flux at 1000m in the Southern Ocean from 2014 to 2019. [DOI](https://doi.org/10.17882/94676)
-
-

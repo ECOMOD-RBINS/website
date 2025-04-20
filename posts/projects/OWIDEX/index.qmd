@@ -1,0 +1,30 @@
+---
+title: "OWIDEX"
+description: ""
+author: ""
+date: ""
+categories: [Shiny, Ecosystemic Services]
+image: "images/owidex.jpeg"
+
+execute:
+  echo: false
+  warning: false
+  error: true
+  cache: true
+  
+format: 
+  html:
+    page-layout: article
+    
+#bibliography: references.bib
+#cls: journal-of-oceanography.csl
+#link-citations: true
+---
+
+## OWIDEX - Offshore Wind Decommissioning Expertise Centre
+
+Content will be added soon...
+
+### Team members involved
+
+Arthur Capet and Florian Ricour
