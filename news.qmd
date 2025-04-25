@@ -1,6 +1,20 @@
 # ECOMOD latest updates
 
+## May 2025
+
+### Maria's 3-month Visit (March - May)
+
+Maria Pedreros, originally from Chile, returned to Brussels for the second time to work with us as she finalizes the last phase of her PhD. Maria adapted the ocean-based [COHERENS](posts/projects/COHERENS/) model to simulate how seasonal temperature variations affect Chile’s Lake Lanalhue. Despite challenges like coarse weather data and necessary lake-specific adjustments, the model successfully captured the lake’s real-life patterns of stratifying in summer and mixing in winter. Great work, Maria!
+
+![](/images/news/maria.jpg){width=400}
+
 ## April 2025
+
+### Press release of Olivier's work (Apr, 17)
+
+Saltmarshes are among nature’s best defenses against rising sea levels, acting as natural barriers that protect coastlines. New research shows that dense vegetation on saltmarshes makes them more vulnerable to sea level rise because the vegetation hinders sediment transport. A surprising twist, as it was believed that dense vegetation played a crucial role in helping these ecosystems survive. [Check it out!](https://www.naturalsciences.be/en/science/news/dense-vegetation-makes-saltmarshes-more-vulnerable-to-sea-level-rise)
+
+![Image : aerial-photos.com / Alamy Stock Photo](/images/news/saltmarshes.jpg){width=400 fig-align="left"}
 
 ### WGIPEM Annual Meeting (March, 31 - Apr, 3)
 
