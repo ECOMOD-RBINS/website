@@ -1,0 +1,56 @@
+---
+title: "FORCOAST"
+description: "Earth Observation Services for Fishery, Bivalves Mariculture and Oysterground Restoration along European Coasts"
+author: ""
+date: ""
+categories: [Modeling]
+image: "images/Logo_FORCOAST.jpg"
+
+execute:
+  echo: false
+  warning: false
+  error: true
+  cache: true
+  
+format: 
+  html:
+    page-layout: full
+
+#bibliography: references.bib
+#cls: journal-of-oceanography.csl
+#link-citations: true
+---
+
+## FORCOAST - Earth Observation Services for Fishery, Bivalves Mariculture and Oysterground Restoration along European Coasts
+
+November 2019 - April 2022
+
+## Summary
+The FORCOAST project addresses the topic “DT-SPACE-01-EO-2018-2020 COPERNICUS MARKET UPTAKE” which seeks to foster market development exploiting the value of Copernicus Earth Observation Products. FORCOAST aims to provide information services that offer high resolution water quality and met-ocean indicators in coastal and nearshore areas, to improve operation, planning and management of different marine activities in the sectors of wild fisheries, oystergrounds restoration, and bivalve mariculture. FORCOAST information products and services will be co-designed with stakeholders, thereby ensuring that these products and services are tailored to meet their needs. FORCOAST is developing, testing and demonstrating, in operational mode, novel Copernicus-based downstream information services that will incorporate Copernicus Marine, Land and Climate Services Products, local monitoring data and advanced modelling in the service. The services will integrate Copernicus Earth Observation Products with local models and other diverse data sources (local, regional or global) with ICT (enhancing new frontiers opened by web, and use of cloud) across the different market segments. FORCOAST will provide consistent coastal data products, based on a standardized data processing scheme. FORCOAST is supporting the concept of developing an advanced platform and cloud computing for Copernicus-based downstream services utilizing one of the DIAS systems. The availability and accessibility of data and derived products generated will stimulate their exploitation by a wide range of user communities in the targeted sectors. FORCOAST will provide those services in eight pilot service uptake sites covering five different regional waters (North Sea, Baltic Sea, Mediterranean Sea, Black Sea and the coastal Atlantic Ocean).
+
+::: {layout-ncol="3"}
+![](images/Logo_FORCOAST.png)
+
+![](images/Forcoast_1.jpg)
+
+![](images/Forcoast_2.jpg)
+:::
+
+## Team members involved
+Léo Barbut and Geneviève Lacroix
+
+## ECOMOD tasks and responsabilities
+Larval dispersal modelling of blue mussels and flat oysters.
+
+## Partners
+Deltares (Coordinator), 21 partners
+
+[Belgian partners]{.underline}:
+1\. Brevisco (Dr. Bert Groenendael, Dr. Stephanie Debels)
+2\. Flanders Research Institute for Agriculture, Fisheries and Food - ILVO (Dr. Daan Delbare)
+3\. Royal Belgian Institute of Natural Sciences - RBINS (Dr. Geneviève Lacroix, Dr. Léo Barbut, Dr Sébastien Legrand, Dr Katrijn Baetens)
+
+## Funding and contract
+This project is funded by EU-H2020-SPACE-2019 program - Grant agreement number 870465
+
+[FORCOAST](https://forcoast.eu/)
