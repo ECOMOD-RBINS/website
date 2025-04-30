@@ -1,0 +1,54 @@
+---
+title: "COST-SEA-UNICORN"
+description: "Unifying Approaches to Marine Connectivity for improved Resource Management for the Seas"
+author: ""
+date: ""
+categories: [Modeling]
+image: "images/Logo_COST-SEA-UNICORN.jpg"
+
+execute:
+  echo: false
+  warning: false
+  error: true
+  cache: true
+  
+format: 
+  html:
+    page-layout: full
+
+#bibliography: references.bib
+#cls: journal-of-oceanography.csl
+#link-citations: true
+---
+
+## COST-SEA-UNICORN - Unifying Approaches to Marine Connectivity for improved Resource Management for the Seas
+
+September 2020 - September 2024
+
+## Summary
+
+SEA-UNICORN brings together a broad, inter-disciplinary community of scientists, marine stakeholders and policy-makers, from more than 100 organizations spread around the world, in order to advance knowledge and unify concepts and approaches in the emerging field of Marine Functional Connectivity (MFC). SEA-UNICORN scientists will share their complementary expertise to identify knowledge gaps in the field of MFC, and integrate information gained from a wide range of tools such as genetics, remote sensing / telemetry, morphological analyses, and dispersal modelling. Inputs from theoreticians, ecosystem modellers, and conservation scientists, but also from marine policy-makers and resource or ecosystem managers in the network, will also contribute to advance concepts and methods in MFC science. Our common aim is to improve knowledge on MFC and facilitate the incorporation of MFC data into the projection models and decision support tools used for decision-taking in marine policy and management.
+
+![](images/Logo_COST-SEA-UNICORN.png){fig-align="center" width="391"}
+
+![Scheme of the connectivity pattern between the ICES management units as predicted by the dispersal model. Arrow thickness represents the strength of the connection: Dashed (1–5%), thin (5–35%), medium (35–80%), and large (\> 80%). Yellow represents eastern English Channel, blue southern North Sea and red central North Sea (from Barbut et al., 2019).](images/Sea-Unicorn_1.png){fig-align="center" width="700"}
+
+## Team members involved
+
+Léo Barbut and Geneviève Lacroix
+
+## ECOMOD tasks and responsabilities
+
+Larval dispersal modelling of blue mussels and flat oysters.
+
+## Partners
+
+Université de Montpellier (Coodinator) + 72 partners Belgian's collaborators:
+
+[Belgian partners]{.underline}: 1. Royal Belgian Institute of Natural Sciences - RBINS (Dr. Geneviève Lacroix, Dr. Léo Barbut) 2. Laboratory of Biodiversity and Evolutionary Genomics, Katholieke Universiteit Leuven (Prof. Filip Volckaert) 3. UCLouvain (Prof. Emmanuel Hanert) 4. Flanders Research Institute for Agriculture, Fisheries and Food (Dr. Hans Polet, Dr. Jochen Depestele, Dr. Kris Hostens) 5. WWF Belgium (Dr. Sarah Vanden Eede)
+
+## Funding and contract
+
+This project is funded by the EU – COST ACTION CA19107
+
+[COS-SEA-UNICORN](https://www.sea-unicorn.com/)
