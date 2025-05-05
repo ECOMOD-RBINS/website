@@ -1,0 +1,67 @@
+---
+title: "SYMAPA"
+description: "Synergy between Mariculture & Passive Fisheries"
+author: ""
+date: ""
+categories: [Modeling]
+image: "images/Logo_SYMAPA.jpg"
+
+execute:
+  echo: false
+  warning: false
+  error: true
+  cache: true
+  
+format: 
+  html:
+    page-layout: full
+
+#bibliography: references.bib
+#cls: journal-of-oceanography.csl
+#link-citations: true
+---
+
+## SYMAPA - Synergy between Mariculture & Passive Fisheries
+
+October 2019 - September 2022
+
+## Summary
+
+The main objective of this project is to find a synergy between mariculture and passive fisheries, so that both activities can be combined with higher profits and other benefits. Especially to seek a WIN-WIN situation between these two activities, such as sharing an area closed for beam trawl fishing, shipping time, mooring installation, etc. In the long term this could increase the national consumption of marine resources in a sustainable manner, resulting in lower impact on the marine ecosystem and in a lower carbon or product foot print. The following research lines are set out in this project, each with its own SMART targets and deliverables:
+
+• New substrates and habitat enrichment: The project will identify efficient substrates to capture spat and dedicated biodegradable substrates for habitat enrichment. As there is no knowledge available of the effect of integrated multi trophic aquaculture and habitat enrichment, monitoring of macrobenthos and fishes is essential to quantify the effects. Therefore an effective monitoring program must be set up to evaluate the effects of mariculture and passive fisheries on the marine environment, as well as for parameters that influence the growth of target species and operations at sea. • Innovative passive fishing gears: Identification of the best functioning passive fishing gears for the existing conditions in the Belgian part of the North Sea and effective stimuli to increase the capture efficiency of passive fishing gear.
+
+• Concept of the North Sea seafarm of tomorrow: The project will evaluate all materials to ensure that the outcome is a North Sea proof production unit for farming bivalves and seaweed.
+
+• Sustainable multi-use and value chain of marine resources.
+
+::: {layout-ncol="3"}
+![](images/Logo_SYMAPA.png)
+
+![](images/Symapa_1.jpg)
+
+![](images/Symapa_2.jpg)
+:::
+
+## Team members involved
+
+Léo Barbut and Geneviève Lacroix
+
+## ECOMOD tasks and responsabilities
+
+Larval dispersal modelling of blue mussels and flat oysters.
+
+## Partners
+
+1.  Brevisco (Dr. Bert Groenendael, Dr. Stephanie Debels)
+2.  Colruyt Group (Dr. Wannes Voorend, Ir. Laura Pilgrim, Dr. Nicolas Vanoostende)
+3.  At Sea Nova (Dr. Patrick Raub)
+4.  Vlaamse Visveiling (Dr. Sylvie Because)
+5.  Flanders Research Institute for Agriculture, Fisheries and Food - ILVO (Dr. Daan Delbare, Dr. Els Vanderperren, Dr. Mattias Van Opstal, Dr. Jasper Van Vlasselaer)
+6.  Royal Belgian Institute of Natural Sciences - RBINS (Dr. Geneviève Lacroix, Dr. Léo Barbut)
+
+## Funding and contract
+
+This project is funded by Blue Cluster - VLAIO, under the contract n°HBC.2019.0068
+
+[SYMAPA](https://www.blauwecluster.be/project/symapa-synergy-between-mariculture-passive-fisheries)
