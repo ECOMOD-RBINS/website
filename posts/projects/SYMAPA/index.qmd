@@ -4,7 +4,7 @@ description: "Synergy between Mariculture & Passive Fisheries"
 author: ""
 date: ""
 categories: [Modeling]
-image: "images/Logo_SYMAPA.jpg"
+image: "images/Logo_SYMAPA.png"
 
 execute:
   echo: false
@@ -21,7 +21,7 @@ format:
 #link-citations: true
 ---
 
-## SYMAPA - Synergy between Mariculture & Passive Fisheries
+## [SYMAPA](https://www.blauwecluster.be/project/symapa-synergy-between-mariculture-passive-fisheries) - Synergy between Mariculture & Passive Fisheries
 
 October 2019 - September 2022
 
@@ -62,6 +62,4 @@ Larval dispersal modelling of blue mussels and flat oysters.
 
 ## Funding and contract
 
-This project is funded by Blue Cluster - VLAIO, under the contract n°HBC.2019.0068
-
-[SYMAPA](https://www.blauwecluster.be/project/symapa-synergy-between-mariculture-passive-fisheries)
+This [project](https://www.blauwecluster.be/project/symapa-synergy-between-mariculture-passive-fisheries) is funded by Blue Cluster - VLAIO, under the contract n°HBC.2019.0068

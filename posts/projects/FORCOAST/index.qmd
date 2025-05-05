@@ -4,7 +4,7 @@ description: "Earth Observation Services for Fishery, Bivalves Mariculture and O
 author: ""
 date: ""
 categories: [Modeling]
-image: "images/Logo_FORCOAST.jpg"
+image: "images/Logo_FORCOAST.png"
 
 execute:
   echo: false
@@ -21,7 +21,7 @@ format:
 #link-citations: true
 ---
 
-## FORCOAST - Earth Observation Services for Fishery, Bivalves Mariculture and Oysterground Restoration along European Coasts
+## [FORCOAST](https://forcoast.eu/) - Earth Observation Services for Fishery, Bivalves Mariculture and Oysterground Restoration along European Coasts
 
 November 2019 - April 2022
 
@@ -46,11 +46,10 @@ Larval dispersal modelling of blue mussels and flat oysters.
 Deltares (Coordinator), 21 partners
 
 [Belgian partners]{.underline}:
-1\. Brevisco (Dr. Bert Groenendael, Dr. Stephanie Debels)
-2\. Flanders Research Institute for Agriculture, Fisheries and Food - ILVO (Dr. Daan Delbare)
-3\. Royal Belgian Institute of Natural Sciences - RBINS (Dr. Geneviève Lacroix, Dr. Léo Barbut, Dr Sébastien Legrand, Dr Katrijn Baetens)
+
+1.  Brevisco (Dr. Bert Groenendael, Dr. Stephanie Debels)
+2.  Flanders Research Institute for Agriculture, Fisheries and Food - ILVO (Dr. Daan Delbare)
+3.  Royal Belgian Institute of Natural Sciences - RBINS (Dr. Geneviève Lacroix, Dr. Léo Barbut, Dr. Sébastien Legrand, Dr. Katrijn Baetens)
 
 ## Funding and contract
-This project is funded by EU-H2020-SPACE-2019 program - Grant agreement number 870465
-
-[FORCOAST](https://forcoast.eu/)
+This [project](https://forcoast.eu/) is funded by EU-H2020-SPACE-2019 program - Grant agreement number 870465

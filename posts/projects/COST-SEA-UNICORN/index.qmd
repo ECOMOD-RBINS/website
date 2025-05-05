@@ -4,7 +4,7 @@ description: "Unifying Approaches to Marine Connectivity for improved Resource M
 author: ""
 date: ""
 categories: [Modeling]
-image: "images/Logo_COST-SEA-UNICORN.jpg"
+image: "images/Logo_COST-SEA-UNICORN.png"
 
 execute:
   echo: false
@@ -21,7 +21,7 @@ format:
 #link-citations: true
 ---
 
-## COST-SEA-UNICORN - Unifying Approaches to Marine Connectivity for improved Resource Management for the Seas
+## [COST-SEA-UNICORN](https://www.sea-unicorn.com/) - Unifying Approaches to Marine Connectivity for improved Resource Management for the Seas
 
 September 2020 - September 2024
 
@@ -49,6 +49,4 @@ Université de Montpellier (Coodinator) + 72 partners Belgian's collaborators:
 
 ## Funding and contract
 
-This project is funded by the EU – COST ACTION CA19107
-
-[COS-SEA-UNICORN](https://www.sea-unicorn.com/)
+This [project](https://www.sea-unicorn.com/) is funded by the EU – COST ACTION CA19107
