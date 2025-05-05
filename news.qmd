@@ -2,6 +2,12 @@
 
 ## May 2025
 
+### EGU General Assembly 2025 (Apr, 27 - May, 2)
+
+With 2 oral presentations (by Arthur and Pauline), 1 poster, and 2 co-organized sessions, ECOMOD was well represented at this year’s EGU Conference in Vienna, Austria!
+
+![](/images/news/EGU25.jpg){width=400}
+
 ### Maria's 3-month Visit (March - May)
 
 Maria Pedreros, originally from Chile, returned to Brussels for the second time to work with us as she finalizes the last phase of her PhD. Maria adapted the ocean-based [COHERENS](posts/projects/COHERENS/) model to simulate how seasonal temperature variations affect Chile’s Lake Lanalhue. Despite challenges like coarse weather data and necessary lake-specific adjustments, the model successfully captured the lake’s real-life patterns of stratifying in summer and mixing in winter. Great work, Maria!
