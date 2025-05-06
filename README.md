@@ -20,7 +20,7 @@
 - Clone the project in your terminal: `git clone https://github.com/ECOMOD-RBINS/website.git`
 - Create an issue for each modification/addition you want to make
 - From your issue, create a new branch
-- In the terminal, fetch updates (i.e. your new branch) from the remote (i.e. the remote repository) with: `git fetch origin`
+- In the terminal, fetch updates (i.e. your new branch) from the remote (i.e. the remote repository) with: `git fetch origin`. Git fetch downloads changes from the remote repository to your local repository, but it doesn't automatically merge these changes into your working files. It simply retrieves the data and updates your remote-tracking branches while `git pull` is basically a `git fetch` followed by a `git merge`, it downloads changes from the remote repository and immediately tries to merge them into your current branch.
 - In the terminal, go to your branch: `git checkout your_branch`
 - To check whether or not the master is up to date
 (in case there have been any changes since the new branch was created that could potentially create conflicts)
