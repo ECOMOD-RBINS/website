@@ -29,6 +29,7 @@
   - `git push` /!\ **DO NOT PUSH `docs/` folder** on your branch, otherwise it will cause annoying conflits to solve between the master branch and yours!
 - Create a `pull request` (possible from the github page) to _merge_ your branch into the master
 - Wait that the owner accept your pull request and merge your modifications into the website
+- TODO Geneviève: add git pull/merge instructions
 
 ## Modifications and/or additions
 Please check what has already been done on the website and use the same template/structure in your files.
