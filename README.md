@@ -20,7 +20,12 @@
 - Clone the project in your terminal: `git clone https://github.com/ECOMOD-RBINS/website.git`
 - Create an issue for each modification/addition you want to make
 - From your issue, create a new branch
+- In the terminal, connect to the remote repository: `git fetch origin`
 - In the terminal, go to your branch: `git checkout your_branch`
+- To check whether or not the master is up to date
+(in case there have been any changes since the new branch was created that could potentially create conflicts)
+	1. From master branch: git pull
+	2. If the status is up-to-date, OK. If not, switch to the new branch and merge the updated master: git merge master
 - Make your modifications/additions
 - Send your modifications to your branch
   - `git status`
@@ -29,7 +34,6 @@
   - `git push` /!\ **DO NOT PUSH `docs/` folder** on your branch, otherwise it will cause annoying conflits to solve between the master branch and yours!
 - Create a `pull request` (possible from the github page) to _merge_ your branch into the master
 - Wait that the owner accept your pull request and merge your modifications into the website
-- TODO Geneviève: add git pull/merge instructions
 
 ## Modifications and/or additions
 Please check what has already been done on the website and use the same template/structure in your files.
