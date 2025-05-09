@@ -1,0 +1,23 @@
+---
+title: "Vegetation controls on channel network complexity in coastal wetlands"
+type: "article"
+author: "van de Vijsel et al."
+year: "2023"
+publication: "Nature Communications"
+preprint: ""
+doi: "https://doi.org/10.1038/s41467-023-42731-3"
+materials: ""
+toc: false
+categories:
+  - coastal wetland
+  - modeling
+  - salt marsh
+---
+
+## Citation
+
+> van de Vijsel, R.C., van Belzen, J., Bouma, T.J., van der Wal, D., Borsje, B.W., Temmerman, S., Cornacchia, L., **Gourgue, O.**, van de Koppel, J. (2023), Vegetation controls on channel network complexity in coastal wetlands. Nature Communications, 14, 7158.
+
+## Abstract
+
+Channel networks are key to coastal wetland functioning and resilience under climate change. Vegetation affects sediment and hydrodynamics in many different ways, which calls for a coherent framework to explain how vegetation shapes channel network geometry and functioning. Here, we introduce an idealized model that shows how coastal wetland vegetation creates more complexly branching networks by increasing the ratio of channel incision versus topographic diffusion rates, thereby amplifying the channelization feedback that recursively incises finer-scale side-channels. This complexification trend qualitatively agrees with and provides an explanation for field data presented here as well as in earlier studies. Moreover, our model demonstrates that a stronger biogeomorphic feedback leads to higher and more densely vegetated marsh platforms and more extensive drainage networks. These findings may inspire future field research by raising the hypothesis that vegetation-induced self-organization enhances the storm surge buffering capacity of coastal wetlands and their resilience under sea-level rise.

@@ -1,0 +1,22 @@
+---
+title: "A 3D numerical baroclinic application of the COHERENS model in the Gulf of Guinea, West Africa"
+type: "article"
+author: "Gozingan et al."
+year: "2024"
+publication: "Regional Studies in Marine Science"
+preprint: ""
+doi: "https://doi.org/10.1016/j.rsma.2024.103811"
+materials: ""
+toc: false
+categories:
+  - coherens
+  - modeling  
+---
+
+## Citation
+
+> **Gozingan, A.S.**, Sohou, Z., Baetens, K., Bonou, F., Baloïtcha, E., **Gourgue, O.**, **Romanelli, H.**, **Capet, A.**, **Lacroix, G.** (2024), A 3D numerical baroclinic application of the COHERENS model in the Gulf of Guinea, West Africa, *Regional Studies in Marine Science*, 79, 103811.
+
+## Abstract
+
+In this study, we have developed a three-dimensional (3D) numerical model based on COHERENS modelling system to describe the tidal, wind-driven and thermohaline induced hydrodynamic regime in the coastal water of the Gulf of Guinea. The model is validated with respect to water levels, sea currents, temperature and salinity during 2017. Validation for astronomical tides showed that the model is able to simulate observed tidal elevation and phases for both diurnal and semi-diurnal principal constituents with a consistent level of agreement at measurement station. A statistical analysis of the results showed that the correlation coefficient and skill index between the modelled and observed tidal elevations are both above 0.96 with an average RMSE of 9 cm. The atmospheric contribution to water levels was also validated. In this case, we observe a good agreement between modelled and measured water levels with a correlation coefficient of 0.75 and an average RMSE of 1.23 cm. The validation of spatial distribution and vertical evolution of zonal current, salinity and temperature also indicated a high model accuracy for these variables. Overall, we show that our model of the Gulf of Guinea leads to highly accurate simulations, providing a basis for further fundamental and applied research studies in the area.

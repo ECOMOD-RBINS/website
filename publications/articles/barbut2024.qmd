@@ -9,14 +9,13 @@ doi: "https://doi.org/10.3354/meps14536"
 materials: ""
 toc: false
 categories:
-  - Modeling
   - larval transport
-  - journal article
+  - modeling
 ---
 
-## Citation (APA 7)
+## Citation
 
-> Barbut, L., Lehuta, S., Volckaert, F. A., & Lacroix, G. (2024). Lessons from the calibration and sensitivity analysis of a fish larval transport model. Marine Ecology Progress Series, 731, 67-88.
+> **Barbut, L.**, Lehuta, S., Volckaert, F. A., **Lacroix, G.** (2024), Lessons from the calibration and sensitivity analysis of a fish larval transport model. *Marine Ecology Progress Series*, 731, 67-88.
 
 ## Abstract
 

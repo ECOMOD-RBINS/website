@@ -1,0 +1,32 @@
+---
+title: "Dense vegetation hinders sediment transport toward saltmarsh interiors"
+type: "article"
+author: "Gourgue et al."
+year: "2024"
+publication: "Limnology and Oceanography Letters"
+preprint: ""
+doi: "https://doi.org/10.1002/lol2.10436"
+materials: ""
+toc: false
+categories:
+  - biogeomorphology
+  - coastal wetland
+  - demeter
+  - modeling  
+  - saltmarsh
+---
+
+## Citation
+
+> **Gourgue, O.**, Belliard, J.-P., Xu, Y., Kleinhans, M.G., Fagherazzi, S. Temmerman, S. (2024), Dense vegetation hinders sediment transport toward saltmarsh interiors. *Limnology and Oceanography Letters*, 9: 764-775.
+
+## Abstract
+
+To save saltmarshes and their valuable ecosystem services from sea level rise, it is crucial to understand their natural ability to gain elevation by sediment accretion. In that context, a widely accepted paradigm is that dense vegetation favors sediment accretion and hence saltmarsh resilience to sea level rise. Here, however, we reveal how dense vegetation can inhibit sediment accretion on saltmarsh platforms. Using a process-based modeling approach to simulate biogeomorphic development of typical saltmarsh landscapes, we identify two key mechanisms by which vegetation hinders sediment transport from tidal channels toward saltmarsh interiors. First, vegetation concentrates tidal flow and sediment transport inside channels, reducing sediment supply to platforms. Second, vegetation enhances sediment deposition near channels, limiting sediment availability for platform interiors. Our findings suggest that the resilience of saltmarshes to sea level rise may be more limited than previously thought.
+
+<br><br>
+
+<div style="text-align: center;">
+  <img src="gourgue2025.gif" style="width: 80%;" />
+</div>
+Evolution of stem density (top) and bed elevation (bottom) for dense *Spartina* marshes (left), sparse *Salicornia* marshes (middle), and unvegetated mudflats (right). This is an animated version of Figure 1 in the paper.

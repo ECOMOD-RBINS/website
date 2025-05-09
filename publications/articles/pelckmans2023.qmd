@@ -1,0 +1,23 @@
+---
+title: "Mangrove ecosystem properties regulate high water levels in a river delta"
+type: "article"
+author: "Pelckmans et al."
+year: "2023"
+publication: "Natural Hazards and Earth System Sciences"
+preprint: ""
+doi: "https://doi.org/10.5194/nhess-23-3169-2023"
+materials: ""
+toc: false
+categories:
+  - coastal wetland
+  - mangrove
+  - modeling
+---
+
+## Citation
+
+> Pelckmans, I., Belliard, J.-P., Dominguez-Granda, L. E., Slobbe, C., Temmerman, S., **Gourgue, O.** (2023), Mangrove ecosystem properties regulate high water levels in a river delta, Natural Hazards and Earth System Sciences, 23, 3169–3183.
+
+## Abstract
+
+Intertidal wetlands, such as mangroves in the tropics, are increasingly recognized for their role in nature-based mitigation of coastal flood risks. Yet it is still poorly understood how effective they are at attenuating the propagation of extreme sea levels through large (order of 100 km2) estuarine or deltaic systems, with complex geometry formed by networks of branching channels intertwined with mangrove and intertidal flat areas. Here, we present a delta-scale hydrodynamic modelling study, aiming to explicitly account for these complex landforms, for the case of the Guayas delta (Ecuador), the largest estuarine system on the Pacific coast of Latin America. Despite coping with data scarcity, our model accurately reproduces the observed propagation of high water levels during a spring tide. Further, based on a model sensitivity analysis, we show that high water levels are most sensitive to the mangrove platform elevation and degree of channelization but to a much lesser extent to vegetation-induced friction. Mangroves with a lower surface elevation, lower vegetation density, and higher degree of channelization all favour a more efficient flooding of the mangroves and therefore more effectively attenuate the high water levels in the deltaic channels. Our findings indicate that vast areas of channelized mangrove forests, rather than densely vegetated forests, are most effective for nature-based flood risk mitigation in a river delta.

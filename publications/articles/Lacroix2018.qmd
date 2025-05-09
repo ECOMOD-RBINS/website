@@ -11,12 +11,11 @@ toc: false
 categories:
   - climate change
   - flatfish
-  - journal article
 ---
 
-## Citation (APA 7)
+## Citation
 
-> Lacroix, G., Barbut, L., & Volckaert, F. A. (2018). Complex effect of projected sea temperature and wind change on flatfish dispersal. Global Change Biology, 24(1), 85-100.
+> **Lacroix, G.**, **Barbut, L.**, Volckaert, F. A. (2018), Complex effect of projected sea temperature and wind change on flatfish dispersal. *Global Change Biology*, 24(1), 85-100.
 
 ## Abstract
 

@@ -1,0 +1,24 @@
+---
+title: "Coastal marsh vulnerability to sea-level rise is exacerbated by plant species invasion"
+type: "article"
+author: "Wang et al."
+year: "2025"
+publication: "Global Change Biology"
+preprint: ""
+doi: "https://doi.org/10.1111/gcb.70058"
+materials: ""
+toc: false
+categories:
+  - biogeomorphology
+  - coastal wetland
+  - modeling
+  - saltmarsh
+---
+
+## Citation
+
+> Wang, D., Gu, C., Temmerman, S., Belliard, J.-P., **Gourgue, O.**, Xue, L. Bai, J. (2025), Coastal Marsh Vulnerability to Sea-Level Rise Is Exacerbated by Plant Species Invasion. *Global Change Biology*, 31: e70058.
+
+## Abstract
+
+Coastal salt marshes and their valuable ecosystem services are vulnerable to degradation due to rising sea levels, to which they can adapt through biogeomorphic feedbacks. However, the invasion of plant species, particularly eco-engineering species that alter these interactions, may degrade the structural integrity and functionality of salt marshes, potentially reducing their resilience to sea-level rise. Such impacts presently remain poorly understood. Focusing on coastal marshes of China, we utilized a coupled biogeomorphic model to explore the effects of Spartina alterniflora invasion versus native Suaeda salsa on coastal geomorphology, considering different sea-level rise and tidal scenarios. Our results revealed that Spartina alterniflora invasion contributed to the formation of a “levee-basin” geomorphological structure at both the landscape scale (from seaward to landward zones) and the local scale (from channel fringes to marsh interiors). This pattern led to a prominent marsh depression, particularly in “basin” areas under microtidal conditions, indicating increased vulnerability to rising sea levels in invaded systems. Additionally, the proliferation of Spartina alterniflora could completely displace Suaeda salsa. Our findings emphasize the importance of controlling plant invasion to safeguard ecosystem resilience to environmental change.

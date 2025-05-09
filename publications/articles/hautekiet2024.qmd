@@ -1,0 +1,25 @@
+---
+title: "On the relative role of abiotic and biotic controls in channel network development: insights from scaled tidal flume experiments"
+type: "article"
+author: "Hautekiet et al."
+year: "2024"
+publication: "Earth Surface Dynamics"
+preprint: ""
+doi: "https://doi.org/10.5194/esurf-12-601-2024"
+materials: ""
+toc: false
+categories:
+  - biogeomorphology
+  - coastal wetland
+  - flume experiment
+  - saltmarsh
+---
+
+## Citation
+
+> Hautekiet, S., Rossius, J.-E., Gourgue, O., Kleinhans, M., Temmerman, S. (2024), On the relative role of abiotic and biotic controls in channel network development: insights from scaled tidal flume experiments, *Earth Surface Dynamics*, 12, 601–619.
+
+
+## Abstract
+
+Tidal marshes provide highly valued ecosystem services, which depend on variations in the geometric properties of the tidal channel networks dissecting marsh landscapes. The development and evolution of channel network properties are controlled by both abiotic (dynamic flow–landform feedbacks) and biotic processes (e.g. vegetation–flow–landform feedbacks). However, the relative role of biotic and abiotic processes, and under which condition one or the other is more dominant, remains poorly understood. In this study, we investigated the impact of spatio-temporal plant colonization patterns on tidal channel network development through flume experiments. Four scaled experiments mimicking tidal landscape development were conducted in a tidal flume facility: two control experiments without vegetation, a third experiment with hydrochorous vegetation colonization (i.e. seed dispersal via the tidal flow), and a fourth with patchy colonization (i.e. by direct seeding on the sediment bed). Our results show that more dense and efficient channel networks are found in the vegetation experiments, especially in the hydrochorous seeding experiment with slower vegetation colonization. Further, an interdependency between abiotic and biotic controls on channel development can be deduced. Whether biotic factors affect channel network development seems to depend on the force of the hydrodynamic energy and the stage of the system development. Vegetation–flow–landform feedbacks are only dominant in contributing to channel development in places where intermediate hydrodynamic energy levels occur and mainly have an impact during the transition phase from a bare to a vegetated landscape state. Overall, our findings suggest a zonal domination of abiotic processes at the seaward side of intertidal basins, while biotic processes have an additional effect on system development more towards the landward side.
