@@ -68,7 +68,7 @@ Please check what has already been done on the website and use the same template
 ### Modify the main (home) page
 - Go to `index.qmd`
 
-/!\ Never modify anything in the `docs/` folder ! It will automatically be updated with `quarto render`.
+/!\ Never modify anything in the `docs/` folder ! It will automatically be updated with `quarto render`. 
 
 
 
