@@ -1,0 +1,22 @@
+---
+title: "A global meta-analysis on the drivers of salt marsh planting success and implications for ecosystem services"
+type: "article"
+author: "Liu et al."
+year: "2024"
+publication: "Nature Communications"
+preprint: ""
+doi: "https://doi.org/10.1038/s41467-024-47769-5"
+materials: ""
+toc: false
+categories:
+  - coastal wetland
+  - saltmarsh
+---
+
+## Citation
+
+> Liu, Z., Fagherazzi, S., He, Q., **Gourgue, O.**, Bai, J., Liu, X., Miao, C., Hu, Z., Cui, B. (2024), A global meta-analysis on the drivers of salt marsh planting success and implications for ecosystem services. *Nature Communications*, 15, 3643.
+
+## Abstract
+
+Planting has been widely adopted to battle the loss of salt marshes and to establish living shorelines. However, the drivers of success in salt marsh planting and their ecological effects are poorly understood at the global scale. Here, we assemble a global database, encompassing 22,074 observations reported in 210 studies, to examine the drivers and impacts of salt marsh planting. We show that, on average, 53% of plantings survived globally, and plant survival and growth can be enhanced by careful design of sites, species selection, and novel planted technologies. Planting enhances shoreline protection, primary productivity, soil carbon storage, biodiversity conservation and fishery production (effect sizes = 0.61, 1.55, 0.21, 0.10 and 1.01, respectively), compared with degraded wetlands. However, the ecosystem services of planted marshes, except for shoreline protection, have not yet fully recovered compared with natural wetlands (effect size = −0.25, 95% CI −0.29, −0.22). Fortunately, the levels of most ecological functions related to climate change mitigation and biodiversity increase with plantation age when compared with natural wetlands, and achieve equivalence to natural wetlands after 5–25 years. Overall, our results suggest that salt marsh planting could be used as a strategy to enhance shoreline protection, biodiversity conservation and carbon sequestration.

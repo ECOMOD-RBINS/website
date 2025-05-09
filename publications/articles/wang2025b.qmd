@@ -1,0 +1,24 @@
+---
+title: "How does landscape vegetation configuration regulate local channel initiation in a rapidly expanding micro-tidal system?"
+type: "article"
+author: "Wang et al."
+year: "2025"
+publication: "Journal of Hydrology"
+preprint: ""
+doi: "https://doi.org/10.1016/j.jhydrol.2024.132473"
+materials: ""
+toc: false
+categories:
+  - biogeomorphology
+  - coastal wetland
+  - modeling
+  - saltmarsh
+---
+
+## Citation
+
+> Wang, D., Bai, J., Gu, C., **Gourgue, O.**, Belliard, J.-P., Cui, L., Ke, Y., Xue, L., Wen, L, Temmerman, S. (2025), How does landscape vegetation configuration regulate local channel initiation in a rapidly expanding micro-tidal system? *Journal of Hydrology*, 649, 132473.
+
+## Abstract
+
+Tidal channels are essential morphological structures that mediate hydrological connectivity and maintain coastal resilience. Previous studies on vegetation-induced channel development primarily focused on the stages of initial establishment or later elaboration, characterized by slow and localized changes. However, the impact of rapid shifts in landscape vegetation on the initiation of tidal channels, such as main or tributary channels, remains poorly understood, particularly in micro-tidal system. In this study, we investigated this relationship through satellite imagery analysis and biogeomorphic modeling of a rapidly expanding micro-tidal marsh in the Yellow River Delta, China, which has experienced an invasion by Spartina alterniflora over the past decade. The satellite imagery demonstrated that Spartina alterniflora invasion has increased drainage density and reduced overland flow path length. Our modeling results showed that local flow acceleration between vegetation patches was insufficient to rapidly initiate channels under micro-tidal conditions. As the patchy marsh coalesced and expanded into a contiguously vegetated marsh, it altered landscape-scale flow patterns, diverting from homogenous platform flow to concentrated channel flow. This shift prominently promoted the initiation of tributary channels in the landward marsh zone. The simulated scenarios of vegetation removal highlighted a marked increase in flow divergence from adjacent platforms due to changes in landscape-scale vegetation configuration. This alteration in flow pattern amplified local hydrodynamics, consequently intensifying local channel incision. Our findings emphasize that the channel initiation is significantly influenced by landscape-scale vegetation configuration under micro-tidal conditions, beyond the localized interactions between plants and flow.

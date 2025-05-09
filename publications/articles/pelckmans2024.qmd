@@ -1,0 +1,23 @@
+---
+title: "Mangroves as nature-based mitigation for ENSO-driven compound flood risks in a large river delta"
+type: "article"
+author: "Pelckmans et al."
+year: "2024"
+publication: "Hydrology and Earth System Sciences"
+preprint: ""
+doi: "https://doi.org/10.5194/hess-28-1463-2024"
+materials: ""
+toc: false
+categories:
+  - coastal wetland
+  - mangrove
+  - modeling
+---
+
+## Citation
+
+> Pelckmans, I., Belliard, J.-P., **Gourgue, O.**, Dominguez-Granda, L. E., Temmerman, S. (2024) Mangroves as nature-based mitigation for ENSO-driven compound flood risks in a large river delta, Hydrology and Earth System Sciences, 28, 1463–1476.
+
+## Abstract
+
+Densely populated coastal river deltas are very vulnerable to compound flood risks coming from both oceanic and riverine sources. Climate change may increase these compound flood risks due to sea level rise and intensifying precipitation events. Here, we investigate to what extent nature-based flood defence strategies, through the conservation of mangroves in a tropical river delta, can contribute to mitigate the oceanic and riverine components of compound flood risks. While current knowledge of estuarine compound flood risks is mostly focussed on short-term events such as storm surges (taking 1 or a few days), longer-term events, such as El Niño events (continuing for several weeks to months) along the Pacific coast of Latin America, are less studied. Here, we present a hydrodynamic modelling study of a large river delta in Ecuador aiming to elucidate the compound effects of El Niño-driven oceanic and riverine forcing on extreme high water level propagation through the delta and, in particular, the role of mangroves in reducing the compound high water levels. Our results show that the deltaic high water level anomalies are predominantly driven by the oceanic forcing but that the riverine forcing causes the anomalies to amplify upstream. Furthermore, mangroves in the delta attenuate part of the oceanic contribution to the high water level anomalies, with the attenuating effect increasing in the landward direction, while mangroves have a negligible effect on the riverine component. These findings show that mangrove conservation and restoration programmes can contribute to nature-based mitigation, especially the oceanic component of compound flood risks in a tropical river delta.
