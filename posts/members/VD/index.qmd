@@ -26,7 +26,7 @@ format:
 :::
 
 ## Biography
-Valérie Dulière is an ecosystem modeller. She has developed OSERIT, a 3D drift and fate oil spill model and worked on a wide range of applications of the Lagrangian approach from backtracking jellyfish blooms, to simulating porpoise’s behavior, tracing eutrophication problems at sea or addressing the impact of water ballast release. More recently, she started to work on connectivity in the Southern Ocean. Close collaboration with end-users and delivering tailored high quality products are of major concerns for her.
+Valérie Dulière is a ecosystem modeller. She has developed OSERIT, a 3D drift and fate oil spill model and worked on a wide range of applications of the Lagrangian approach from backtracking jellyfish blooms, to simulating porpoise’s behavior, tracing eutrophication problems at sea or addressing the impact of water ballast release. More recently, she started to work on connectivity in the Southern Ocean. Close collaboration with end-users and delivering tailored high quality products are of major concerns for her.
 
 ### Experience
 -   **Royal Belgian Institute of Natural Sciences** \| Brussels, Belgium<br /> Ecosystem modeller \| 2010-Current 
