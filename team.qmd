@@ -159,7 +159,9 @@
   
   <div class="profile-card">
     <div class="profile-image">
-      <img src="images/VD.jpg" alt="Valérie Dulière">
+      <a href="/posts/members/VD">
+        <img src="images/VD.jpg" alt="Valérie Dulière">
+      </a>
     </div>
     <h3 class="profile-name">
       <span class="first-name">Valérie</span>

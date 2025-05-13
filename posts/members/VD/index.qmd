@@ -1,0 +1,62 @@
+---
+title: "Valérie Dulière"
+description: ""
+author: ""
+date: ""
+categories: 
+image: ""
+
+execute:
+  echo: false
+  warning: false
+  error: true
+  cache: true
+
+format: 
+  html:
+    page-layout: article
+
+#bibliography: references.bib
+#cls: journal-of-oceanography.csl
+#link-citations: true
+---
+
+::: {style="text-align: center;"}
+<img src="../../../images/VD.jpg" style="width: 50%;"/>
+:::
+
+## Biography
+Valérie Dulière is an ecosystem modeller. She has developed OSERIT, a 3D drift and fate oil spill model and worked on a wide range of applications of the Lagrangian approach from backtracking jellyfish blooms, to simulating porpoise’s behavior, tracing eutrophication problems at sea or addressing the impact of water ballast release. More recently, she started to work on connectivity in the Southern Ocean. Close collaboration with end-users and delivering tailored high quality products are of major concerns for her.
+
+### Experience
+-   **Royal Belgian Institute of Natural Sciences** \| Brussels, Belgium<br /> Ecosystem modeller \| 2010-Current 
+-   **University of Washington** \| Seattle, USA<br /> Research assistant \| 2007-2009
+-   **Université de Louvain** \| Louvain-la-Neuve, Belgique <br /> Assistant and PhD researcher ( \| 2002-2007
+
+### Education
+-   **Université de Louvain** \| Louvain-la-Neuve, Belgique <br /> PhD in Sciences
+-   **Université de Louvain** \| Louvain-la-Neuve, Belgique <br /> Master in Physics
+-   **Université de Namur ** \| Namur, Belgique <br /> Bachelor in Physics
+
+## Selected Publications
+
+- Dulière, V., Ch. Guillaumot, G. Lacroix, Th. Saucède, Z. López-Farrán, B. Danis, I. Schön, K. Baetens. (2022). Dispersal models alert on the risk of non-native species introduction by Ballast water in protected areas from the Western Antarctic Peninsula. Diversity and Distributions. 28. 1-18. 10.1111/ddi.13464.
+- Hassellöv, I-M. M. Koski, K. Broeg, O. Marin-Enriquez, J. Tronczyński, V. Dulière, M. Clarke, C. Murray, S. Bailey, J. Redfern, K. de Jong, E. Ponzevera, M. Belzunce, Cl. Mason, J. Iacarella, B. Lyons, J. Fernandes & K. Parmentier. (2020). ICES VIEWPOINT BACKGROUND DOCUMENT:
+IMPACT FROM EXHAUST GAS CLEANING SYSTEMS (SCRUBBERS) ON THE MARINE ENVIRONMENT (AD HOC). 10.17895/ices.pub.7487.
+- Dulière, V., K. Baetens, G. Lacroix. (2020). Potential impact of wash water effluents from scrubbers on water acidification in the southern North Sea. 10.13140/RG.2.2.21935.76968.
+- Dulière V., N. Gypens, C. Lancelot, P. Luyten and G. Lacroix. (2017) Origin of nitrogen in the English Channel and Southern Bight of the North Sea ecosystems. Hydrobiologia.
+- Haelters J., V. Dulière, L. Vigin and S. Degraer (2015) Towards a numerical model to simulate the observed displacement of harbour porpoises Phocoena phocoena due to pile driving in Belgian waters. Hydrobiologia, 756 (1), 105-116.
+- Duliere V., F. Kerckhof and G. Lacroix (2014) Where is my jelly?. De Strandvlo, Vol. 34(2), pp. 48–56
+- Legrand S. and V. Dulière (2014) OSERIT: A downstream service dedicated to the Belgian Coastguard Agencies. In: Dahlin H., Flemming N.C., Petersson S.E. (Eds.). Sustainable Operational Oceanography, Proc. 6th Conf. on EuroGOOS, 4-6 October, Sopot (Poland), 181-188.
+- Dulière V., Y. Zhang and E.P. Salathé (2013) Changes in 20th century extreme temperature and precipitation over the western United States based on observations and regional climate model simulations. J. Climate, 26, 8556–8575.
+- Mote, P.W., E.P. Salathé, V. Dulière, and E. Jump (2008) Scenarios of Future Climate Change for the Pacific Northwest. Report prepared by the Climate Impacts Group, Center for Science in the Earth System, Joint Institute for the Study of the Atmosphere and Oceans, University of Washington, Seattle.
+
+## Awards and Fellowships
+
+### Awards
+
+-   [Dulière V.]{.underline}. Testing data assimilation with a sea ice toy-model. 2nd ENVISAT summer school, Frascati (IT)  16-26 August 2004. \[**2nd prize**\]
+-   [Dulière V.]{.underline}, Gypens N., Lancelot C., Luyten P., Desmit X., Lacroix G. 2014. Linking human activities to eutrophication along the river-ocean continuum with an ecological model. VLIZ Young Marine Scientists’s day 2014, Brugge (BE), 07 March 2014. \[**2nd prize**\]
+-   [Dulière V.]{.underline}, Kerckhof F., Lacroix G. 2014. A modelling approach to trace the origin of jellyfish swarms in the southern North Sea. Symposium “Advances in Marine Ecosystem Modelling Research (AMEMR 2014)”, Plymouth (UK), 30 June-03 July 2014.\[**First Prize poster**\]
+
+
