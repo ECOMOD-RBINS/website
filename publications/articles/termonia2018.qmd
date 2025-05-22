@@ -5,7 +5,7 @@ author: "Termonia et al."
 year: "2018"
 publication: "Climate Services"
 preprint: ""
-doi: "https://doi.org/10.1016/j.diser.2018.05.001"
+doi: "https://doi.org/10.1016/j.cliser.2018.05.001"
 materials: ""
 toc: false
 categories:
