@@ -1,0 +1,52 @@
+---
+title: "Stéphanie Ponsar"
+description: ""
+author: ""
+date: ""
+categories: 
+image: ""
+
+execute:
+  echo: false
+  warning: false
+  error: true
+  cache: true
+
+format: 
+  html:
+    page-layout: article
+
+#bibliography: references.bib
+#cls: journal-of-oceanography.csl
+#link-citations: true
+---
+
+::: {style="text-align: center;"}
+<img src="../../../images/SP.jpg" style="width: 50%;"/>
+:::
+
+## Biography
+Stéphanie Ponsar is a marine system modeller whose research centers on understanding how coastal ecosystems respond to climate change and chemical pollution. She applies a range of methods, including numerical modelling, data assimilation, and machine learning. She has contributed to the development of sediment transport and pollutant transport modules in the COHERENS model. 
+
+### Experience
+-   **Royal Belgian Institute of Natural Sciences** \| Brussels, Belgium<br /> Marine system modeller \| 2003-Current 
+-   **Royal Observatory of Belgium** \| Brussels, Belgium<br /> Aspirant du Fonds National de la Recherche Scientifique \| 1999-2003 
+
+### Education
+-   **Université de Louvain** \| Louvain-La-Neuve, Belgium<br />
+    -   PhD in Sciences
+-   **Université de Louvain** \| Louvain-La-Neuve, Belgium<br />
+    -   Master in Mathematics
+-   **Université de Namur** \| Namur, Belgium<br />
+    -   Master in Physics
+
+## Selected publications
+- Termonia P., B. Van Schaeybroeck, L. De Cruz, R. De Troch, S. Caluwaerts, O. Giot, R. Hamdi, S. Vannitsem, F. Duchêne, P. Willems, H. Tabari, E. Van Uytven, P. Hosseinzadehtalaei, N. van Lipzig, H. Wouters, S. Vanden Broucke, J.-P. van Ypersele, P. Marbaix, C. Villanueve-Birriel, X. Fettweis, C. Wuard, C. Scholzen, S. Doutreloup, K. De Ridder, A. Gobin, D. Lauwaet, T. Stavrakou, M. Bauwens, J. F. Muller,  P. Luyten, **S. Ponsar**, D. Van den Eynde, E. Pottiaux (2018) The CORDEX.be initiative as a foundation for climate services in Belgium. Climate Services, 11, 49-61. [DOI](10.1016/j.diser.2018.05.001, 2018).
+
+- **Ponsar S.**, P. Luyten and V. Dulière (2016) Data assimilation with the ensemble Kalman filter in a numerical model of the North Sea. Ocean Dynamics, 66, 955-971. [DOI](10.1007/s10236-016-0968-5).
+
+- **Ponsar S.**, P. Luyten and J. Ozer (2011) Combined model state and parameter estimation with an ensemble Kalman filter in a North Sea station 1-D numerical model. Ocean Dynamics, 61, 1869-1886. [DOI](10.1007/s10236-011-0477-5).
+
+- **Ponsar S.** and P. Luyten (2009) Data assimilation with the EnKF in a 
+1-D numerical model of the North Sea CS station. Ocean Dynamics, 59, 
+983-996. [DOI](10.1007/s10236-009-0224-3).

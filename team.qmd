@@ -105,7 +105,9 @@
   
   <div class="profile-card">
     <div class="profile-image">
-      <img src="images/LB.jpg" alt="Léo Barbut">
+        <a href="/posts/members/LB">
+          <img src="images/LB.jpg" alt="Léo Barbut">
+        </a>
     </div>
     <h3 class="profile-name">
       <span class="first-name">Léo</span>
@@ -233,7 +235,9 @@
   
   <div class="profile-card">
     <div class="profile-image">
-      <img src="images/SP.jpg" alt="Stéphanie Ponsar">
+        <a href="/posts/members/SP">
+          <img src="images/SP.jpg" alt="Stéphanie Ponsar">
+        </a>
     </div>
     <h3 class="profile-name">
       <span class="first-name">Stéphanie</span>

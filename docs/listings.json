@@ -1,9 +1,5 @@
 [
   {
-    "listing": "/activities.html",
-    "items": []
-  },
-  {
     "listing": "/projects.html",
     "items": [
       "/posts/projects/CSU/index.html",
@@ -21,6 +17,10 @@
       "/posts/projects/OUTFLOW/index.html",
       "/posts/projects/DEHEAT/index.html"
     ]
+  },
+  {
+    "listing": "/activities.html",
+    "items": []
   },
   {
     "listing": "/publications.html",
