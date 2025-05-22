@@ -26,15 +26,18 @@ format:
 :::
 
 ## Biography
+
 Geneviève Lacroix leads the Ecosystem Modelling (ECOMOD) team and is a marine ecosystem modeller specializing in the development and application of biogeochemical, individual-based, and larval transport models. Her research focuses on assessing the impacts of anthropogenic pressures and natural variability on marine ecosystems in regions including the North Sea, the Southern Ocean, the Gulf of Guinea, and Vietnam.
 
 ### Experience
+
 -   **Royal Belgian Institute of Natural Sciences** \| Brussels, Belgium<br /> Ecosystem modeller \| 2002-Current (Head of ECOMOD since 2018)
 -   **University of Liège** \| Liège, Belgium<br /> Research assistant (50%) and Contractual researcher (50%) \| 1995-2002
 -   **Université Pierre et Marie Curie** \| Villefranche-sur-mer, France<br /> PhD researcher (EU ‘Pierre et Marie Curie’ Fellowship) \| 1992-1995
 -   **University of Liège** \| Liège, Belgium<br /> Research assistant \| 1990-1992
 
 ### Education
+
 -   **Université Pierre et Marie Curie** \| Villefranche-sur-mer, France<br /> PhD in Biological Oceanology and Marine Environment - EU Label \| 1998<br />
 -   **Université Liège** \| Liège, Belgique<br />
     -   PhD in Sciences (Oceanology) - EU Label \| 1998<br />
@@ -46,12 +49,14 @@ Geneviève Lacroix leads the Ecosystem Modelling (ECOMOD) team and is a marine e
 ## Projects at RBINS
 
 ### Ongoing
+
 -   [**ReCAP**](../../projects/RECAP) - Regional scale assessment of the land ocean continuum ecosystems vulnerability to anthropogenic pressure \| 2020-2029<br />[Funding]{.underline}: Belgian Science Policy  – FED-tWIN2019-prf-008-ReCAP<br />[Partners]{.underline}: RBINS-ECOMOD (Promoter), ULB
 -   [**DE-HEAT**](../../projects/DEHEAT) - Natural analogues and system-scale modeling of marine enhanced silicate weathering \| 2021-2025<br /> [Funding]{.underline}: Belgian Science Policy (RV/21/DEHEAT)<br /> [Partners]{.underline}: RBINS-ECOMOD (Coordinator), UAntwerpen, ULB
--   **OUTFLOW** - Quantifying the cOntribUTion of Fouling fauna to the Local carbon budget of an Offshore Wind farm \| 2021-2025<br />[Funding]{.underline}: Belgian Science Policy  (BRAIN-Be 2.0) – B2/212/P1/OUTFLOW<br />[Partners]{.underline}: RBINS-MARECO (Coordinator), UGent-ISOFYS, UGent-MARBIO
--   **EcoMPV** - Eco-designing marine photovoltaic installations \| 2022-2025<br />[Funding]{.underline}: FPS Economy (Energy Trabsition Funds)<br />[Partners]{.underline}: RBINS-MARECO (Coordinator), UGhent, Tractebel, Jan De Nul, DEME
+-   [**OUTFLOW**](../../projects/OUTFLOW) - Quantifying the cOntribUTion of Fouling fauna to the Local carbon budget of an Offshore Wind farm \| 2021-2025<br />[Funding]{.underline}: Belgian Science Policy  (BRAIN-Be 2.0) – B2/212/P1/OUTFLOW<br />[Partners]{.underline}: RBINS-MARECO (Coordinator), UGent-ISOFYS, UGent-MARBIO
+-   [**EcoMPV**](../../projects/ECOMPV) - Eco-designing marine photovoltaic installations \| 2022-2025<br />[Funding]{.underline}: FPS Economy (Energy Trabsition Funds)<br />[Partners]{.underline}: RBINS-MARECO (Coordinator), UGhent, Tractebel, Jan De Nul, DEME
 -   [**FOCCUS**](../../projects/FOCCUS) - Forecasting and observing the open-to-coastal ocean for Copernicus users \| 2024-2026<br />[Funding]{.underline}: EU Commission<br />[Partners]{.underline}: HEREON (Coordination) + 18 partners (whose RBINS-MFC/ECOMOD)
 -   [**SHRIMP-II**](../../projects/SHRIMP-II) - Application du modèle COHERENS à l'analyse du cycle de vie des crevettes et des huîtres \| 2024-2028<br />[Funding]{.underline}: This project is funded by the Directorate-General for Development Cooperation and Humanitarian Aid (DGD) through the [CEBioS](#0) (Capacities for Biodiversity and Sustainable Development) program<br />[Partners]{.underline}: RBINS-ECOMOD (Coordination), IRHOB
+-   [**SWiM**](../../projects/SWIM) - Solar and Wind Energy in the Belgian Marine Zone \| 2024-2026<br />[Funding]{.underline}: FPS Economy (Energy Transition Fund)<br />[Partners]{.underline}: KULeuven (Coordination), IMEC, Universiteit Hasselst, RBINS-ECOMOD, De Blauwe Cluster, Laborelec
 -   **eDNA-OPTIMA** - Optimized eDNA Methods for Accurate Biodiversity Assessment \| 2025-2026<br />[Funding]{.underline}: VLAIO<br />[Partners]{.underline}: VLIZ (Coordination), EV-ILVO, KU Leuven - Subcontractors: Blue Cluster, RBINS-ECOMOD
 
 ### Ended
@@ -59,6 +64,7 @@ Geneviève Lacroix leads the Ecosystem Modelling (ECOMOD) team and is a marine e
 <details>
 
 <summary>Click to expand</summary>
+
 -   **PNEC-*Phaeocystis*** - Determinism of the *Phaeocystis* bloom and its consequences on the ecosystem of the eastern Channel and the southern Bight of the North Sea \| 2002-2005<br /> [Funding]{.underline}: Programme National d’Environnement Côtier (France)<br /> [Partners]{.underline}: Université des Sciences et Technologies de Lille (Coordinator), IFREMER, ULB/RBINS-REMSEM • AMORE II - Advanced MOdeling and Research on Eutrophication: Study and modelling of the interaction between eutrophication and biological resources \| 2002-2006
 -   **AMORE II** - Advanced MOdeling and Research on Eutrophication: Study and modelling of the interaction between eutrophication and biological resources \| 2002-2006<br />[Funding]{.underline}: Belgian Science Policy – EV/36/19B<br />[Partners]{.underline}: ULB (Coordinator), VUB, RBINS-REMSEM, NIOO, Oregon State University (subcontractor), Observatoire Océanologique de Banuyls
 -   **LITEAU 2** - Integrated modelling of the nutrient transfer from Seine, Somme and Scheldt basins into the Channel and the southern North Sea \| 2004-2006<br />[Funding]{.underline}: Ministère de l’Ecologie et du Développement Durable (FR) – N° 19-G/2003, Accord N°CV 04000018<br />[Partners]{.underline}: IFREMER (Coordinator), Université Pierre et Marie Curie, ULB (RBINS-REMSEM subcontrcator)
@@ -95,86 +101,97 @@ Geneviève Lacroix leads the Ecosystem Modelling (ECOMOD) team and is a marine e
 ### Peer reviewed
 
 ### 2024
--   Sintondji W.S., Sohou Z., Baetens K., Lacroix G., Fiogbé E.D. (2024) Growth and reproduction of the shrimp population in a lagoon system in southern Benin (west Africa). Crustaceana 97(1-2), 61-82. DOI: 10.1163/15685403-bja10354
--   Barbut L., Lehuta S., Volckaert F.A.M., Lacroix G. (2024) Lessons from the calibration and sensitivity analysis of a fish larval transport model. MEPS 731: 67-88. <https://doi.org/10.3354/meps14536>
--   Vinh Duy Vu, Hai Minh Nguyen, Saheed Puthan Purayil, Geneviève Lacroix, Duong Thanh Nguyen. (2024) Seasonal variation of hydrodynamics in the Cat Ba - Ha Long coastal area (Viet Nam): Results of COHERENS Model. Regional Studies in Marine Science, 80:103874. <https://doi.org/10.1016/j.rsma.2024.103874>
--   Amoussou Sylvain Gozingan, Zacharie Sohou, Katrijn Baetens, Frédéric Bonou, Ezinvi Baloïtcha, Olivier Gourgue, Hugo Romanelli, Arthur Capet, Geneviève Lacroix. (2024) A 3D numerical baroclinic application of the COHERENS model in the Gulf of Guinea, West Africa. Regional Studies in Marine Science, 79: 103811. <https://doi.org/10.1016/j.rsma.2024.103811>
--   Nasah Suciati, Yudi Haditiar, Geneviève Lacroix, Haekal Azief Haridhi, Chitra Octavina, Maria Ulfah, Muhammad Nanda, Ichsan Setiawan. (2024) Utilization of Cloud Computing for Water Quality Monitoring in the Northern Waters of Aceh. 2024. Journal of Physics: Conference Series 2916 012018. doi: 10,1088/1742-6596/2916/1/012018
--   Chitra Octavina, Maghfirah, Geneviève Lacroix, Nasah Suciati, Muhammad Fajar, Nurul Hidayatul Syufi, Haekal Azief Haridhi, Yudi Haditiar. (2024) Spatial Analysis of Plankton Distribution in Northern Waters of Aceh: an indicator of marine environmental quality. BIO Web of Conferences 156, 02005. https://doi.org/10.1051/bioconf/202515602005
+
+-   Sintondji S.W., Sohou Z., Baetens K., **Lacroix G.**, Fiogbé E.D. (2024) Growth and reproduction of the shrimp population in a lagoon system in southern Benin (West Africa). *Crustaceana,* 97(1-2): 61-82. [DOI](https://doi.org/10.1163/15685403-bja10354)
+-   Barbut L., Lehuta S., Volckaert F.A.M., **Lacroix G.** (2024) Lessons from the calibration and sensitivity analysis of a fish larval transport model. *Marine Ecological Progress Series,* 731: 67-88.[DOI](https://doi.org/10.3354/meps14536)
+-   Duy Vu V., Minh Nguyen H., Puthan Purayil S., **Lacroix G.**, Thanh Nguyen D. (2024) Seasonal variation of hydrodynamics in the Cat Ba - Ha Long coastal area (Viet Nam): Results of COHERENS Model. *Regional Studies in Marine Science*, 80:103874.[DOI](https://doi.org/10.1016/j.rsma.2024.103874)
+-   Gozingan A.S., Sohou Z., Baetens K., Bonou F., Baloïtcha E., Gourgue O., Romanelli H., Capet A., **Lacroix G.** (2024) A 3D numerical baroclinic application of the COHERENS model in the Gulf of Guinea, West Africa. *Regional Studies in Marine Science*, 79: 103811. [DOI](https://doi.org/10.1016/j.rsma.2024.103811)
+-   Suciati N., Haditiar Y., **Lacroix G.**, Haridhi H.A., Octavina C., Ulfah M., Nanda M., Setiawan I. (2024) Utilization of Cloud Computing for Water Quality Monitoring in the Northern Waters of Aceh. 2024. *Journal of Physics: Conference Series,* 2916 012018. [DOI](https://iopscience.iop.org/article/10.1088/1742-6596/2916/1/012018)
+-   Octavina C., Maghfirah, **Lacroix G.**, Suciati N., Fajar M., Syufi N.H., Haridhi H.A., Haditiar Y. (2024) Spatial Analysis of Plankton Distribution in Northern Waters of Aceh: an indicator of marine environmental quality. *BIO Web of Conferences,* 156: 02005. [DOI](https://doi.org/10.1051/bioconf/202515602005)
 
 ### 2023
--   Sonja Maria van Leeuwen, Hermann Lenhart, Theo C. Prins, Anouk Blauw, Xavier Desmit, Liam Fernand, Rene Friedland, Onur Kerimoglu, Geneviève Lacroix, Annelotte Van Der Linden, Alain Lefebvre, Johan Van Der Molen, Martin Plus, Itzel Ruvalcaba Baroni, Tiago Silva, Christoph Stegert, Tineke A Troost and Lauriane Vilmin. 2023. Deriving pre-eutrophic conditions from an ensemble model approach for the North-West European Seas. Frontiers in Marine Science 10:1129951. Doi: [10.3389/fmars.2023.1129951](https://doi.org/10.3389/fmars.2023.1129951)
--   Sintondji, S., Sohou, Z., Goussanou, A., Godome, T., Baetens, K., Lacroix, G., & Fiogbé, E. (2023). Distribution model of shrimp species in Lake Nokoué, southern Benin, West Africa. Crustaceana 96(7), 605-625. Doi: 10.1163/15685403-bja10304
--   Stechele B., Barbut L., Lacroix G., van Duren L.A., Van Lancker V., Degraer S., Montereale Gavazzi G., Bossier P., Declercq A.M., Nevejan N. (2023). Northern Europe's suitability for offshore European flat oyster (*Ostrea edulis*) habitat restoration based on population dynamics. Frontiers in Marine Science, Section Marine Ecosystem Ecology. Vol. 10.  <https://doi.org/10.3389/fmars.2023.1224346>
+
+-   van Leeuwen S.M., Lenhart H., Prins T.C., Blauw A., Desmit X., Fernand L., Friedland R., Kerimoglu O., **Lacroix G.**, Van Der Linden A., Lefebvre A., Van Der Molen J., Plus M., Ruvalcaba Baroni I., Silva T., Stegert C., Troost T.A., Vilmin L. (2023) Deriving pre-eutrophic conditions from an ensemble model approach for the North-West European Seas. *Frontiers in Marine Science,* 10:1129951. [DOI](https://doi.org/10.3389/fmars.2023.1129951)
+-   Sintondji S., Sohou Z., Goussanou A., Godome T., Baetens K., **Lacroix G.**, Fiogbé E. (2023) Distribution model of shrimp species in Lake Nokoué, southern Benin, West Africa. *Crustaceana,* 96(7): 605-625. [DOI](http://dx.doi.org/10.1163/15685403-bja10304)
+-   Stechele B., Barbut L., **Lacroix G.**, van Duren L.A., Van Lancker V., Degraer S., Montereale Gavazzi G., Bossier P., Declercq A.M., Nevejan N. (2023) Northern Europe's suitability for offshore European flat oyster (*Ostrea edulis*) habitat restoration based on population dynamics. *Frontiers in Marine Science*, Section Marine Ecosystem Ecology. Vol. 10. [DOI](https://doi.org/10.3389/fmars.2023.1224346)
 
 ### 2022
--   van de Wolfshaar K.E., Barbut L., Lacroix G. (2022) From spawning to first-year recruitment: the fate of juvenile sole growth and survival under future climate conditions in the North Sea. *ICES Journal of Marine Science*, 79(2): 495-505 – Doi: [10.1093/icesjms/fsab025](https://doi.org/10.1093/icesjms/fsab025)
--   Dulière V., Guillaumot C., Lacroix G., Saucede T., López-Farran Z., Danis B., Schön I., Baetens K. (2022) Dispersal models alert on the risk of non-native species introduction by Ballast water in protected areas from the Western Antarctic Peninsula. Diversity and distributions, 28: 649-666. Doi: [10.1111/ddi.13464](https://doi.org/10.1111/ddi.13464)
--   Stechele B., van der Zande D., Alvera Azcárate A., Delbare D., Lacroix G., Nevejan N. (2022) Biological site suitability for exposed self-regulating cultivation of blue mussel (*Mytilus edulis*): a Belgian case study. Aquacultural Engineering 98 (102264). Doi: [10.1016/j.aquaeng.2022.102264](https://www.sciencedirect.com/science/article/abs/pii/S0144860922000401?via%3Dihub)
--   Sintondji S.W., Gozingan A.S., Sohou Z., Taymans M., Baetens K., Lacroix G., Fiogbé E.D. 2022. Prediction of the distribution of shrimp species found in southern Benin through the lake Nokoué-Ocean complex. 2022. Journal of Aquaculture, Marine Biology & Ecology, JAMBE-116. Doi: [10.37722/JAMBE.2022201](https://kosmospublishers.com/wp-content/uploads/2022/06/Prediction-of-the-distribution-of-shrimp-species-found-in-southern-Benin-through-the-lake-Nokou%C3%A9-Ocean.pdf)
--   Sintondji S.W., Sohou Z., Baetens K., Lacroix G., Fiogbé E.D. 2022. Characterization of a West African coastal lagoon system: Case of Lake Nokoué with its inlet (Cotonou, South Benin). Ecologies 2022, 3, 467-479. Doi: [10.3390/ecologies3040033](https://doi.org/10.3390/ecologies3040033), <https://www.mdpi.com/2673-4133/3/4/33>
+
+-   van de Wolfshaar K.E., Barbut L., **Lacroix G.** (2022) From spawning to first-year recruitment: the fate of juvenile sole growth and survival under future climate conditions in the North Sea. *ICES Journal of Marine Science*, 79(2): 495-505. [DOI](https://doi.org/10.1093/icesjms/fsab025)
+-   Dulière V., Guillaumot C., **Lacroix G.**, Saucede T., López-Farran Z., Danis B., Schön I., Baetens K. (2022) Dispersal models alert on the risk of non-native species introduction by Ballast water in protected areas from the Western Antarctic Peninsula. *Diversity and distributions*, 28: 649-666. [DOI](https://doi.org/10.1111/ddi.13464)
+-   Stechele B., van der Zande D., Alvera Azcárate A., Delbare D., **Lacroix G.**, Nevejan N. (2022) Biological site suitability for exposed self-regulating cultivation of blue mussel (*Mytilus edulis*): a Belgian case study. *Aquacultural Engineering,* 98 (102264). [DOI](https://doi.org/10.1016/j.aquaeng.2022.102264)
+-   Sintondji S.W., Gozingan A.S., Sohou Z., Taymans M., Baetens K., **Lacroix G.**, Fiogbé E.D. (2022) Prediction of the distribution of shrimp species found in southern Benin through the lake Nokoué-Ocean complex. 2022. *Journal of Aquaculture, Marine Biology & Ecology,* 116. [DOI](http://dx.doi.org/10.37722/JAMBE.2022201)
+-   Sintondji S.W., Sohou Z., Baetens K., **Lacroix G.**, Fiogbé E.D. (2022) Characterization of a West African coastal lagoon system: Case of Lake Nokoué with its inlet (Cotonou, South Benin). *Ecologies,* 2022(3): 467-479. [DOI](https://doi.org/10.3390/ecologies3040033)
 
 ### 2021
--   Paoletti S., Bekaert K., Barbut L., Lacroix G., Volckaert F.A.M., Hostens K. (2021) Validating a biophysical dispersal model with the early life-history traits of common sole (*Solea solea L.*). PLoS ONE 16(9): e0257709 – Doi: [10.1371/journal.pone.0257709](https://doi.org/10.1371/journal.pone.0257709)
+
+-   Paoletti S., Bekaert K., Barbut L., **Lacroix G.**, Volckaert F.A.M., Hostens K. (2021) Validating a biophysical dispersal model with the early life-history traits of common sole (*Solea solea L.*). *PLoS ONE,* 16(9): e0257709. [DOI](https://doi.org/10.1371/journal.pone.0257709)
 
 ### 2020
--   Barbut L., Vastenhoud B., Vigin L., Degrear S., Volckaert F.A.M., Lacroix G. (2020) The proportion of flatfish recruitment in the North Sea potentially affected by offshore windfarms. *ICES Journal of Marine Science* 77(3): 1277-1237 – Doi: [10.1093/icesjms/fsz050](https://doi.org/10.1093/icesjms/fsz050)
+
+-   Barbut L., Vastenhoud B., Vigin L., Degrear S., Volckaert F.A.M., **Lacroix G.** (2020) The proportion of flatfish recruitment in the North Sea potentially affected by offshore windfarms. *ICES Journal of Marine Science,* 77(3): 1277-1237. [DOI](https://doi.org/10.1093/icesjms/fsz050)
 
 ### 2019
--   Dulière V., Gypens N., Lancelot C., Luyten P., Lacroix G. (2019) Origin of nitrogen in the English Channel and Southern Bight of the North Sea ecosystems. *Hydrobiologia* 845: 13-33 – Doi: [10.1007/s10750-017-3419-5](https://doi.org/10.1007/s10750-017-3419-5)
--   Barbut L., Groot Crego C., Delerue-Ricard S., Vandamme S., Volckaert F.A.M., Lacroix G. (2019) How larval traits of six flatfish species impact connectivity. Limnology and Oceanography 64:1150-1171 – Doi:[10.1002/lno.11104](https://doi.org/10.1002/lno.11104)
--   Degraer S., Van Lancker V., Van Dijk T.A.G.P., Birchenough S.N.R., De Witte B., Elliott M., Le Bot S., Reiss H., Stelzenmüller V., Van Gaever S., Balian E., Cox D., Hernandez F., Lacroix G., Lindeboom H., Reubens J., Soetaert K. (2019) Interdisciplinary science to support North Sea marine management: lessons learned and future demands. *Hydrobiologia* 845: 1-11 – Doi: [10.1007/s10750-019-04109-9](https://link.springer.com/article/10.1007/s10750-019-04109-9)
+
+-   Dulière V., Gypens N., Lancelot C., Luyten P., **Lacroix G.** (2019) Origin of nitrogen in the English Channel and Southern Bight of the North Sea ecosystems. *Hydrobiologia,* 845: 13-33. [DOI](https://doi.org/10.1007/s10750-017-3419-5)
+-   Barbut L., Groot Crego C., Delerue-Ricard S., Vandamme S., Volckaert F.A.M., **Lacroix G.** (2019) How larval traits of six flatfish species impact connectivity. *Limnology and Oceanography,* 64: 1150-1171. [DOI](https://doi.org/10.1002/lno.11104)
+-   Degraer S., Van Lancker V., Van Dijk T.A.G.P., Birchenough S.N.R., De Witte B., Elliott M., Le Bot S., Reiss H., Stelzenmüller V., Van Gaever S., Balian E., Cox D., Hernandez F., **Lacroix G.**, Lindeboom H., Reubens J., Soetaert K. (2019) Interdisciplinary science to support North Sea marine management: lessons learned and future demands. *Hydrobiologia,* 845: 1-11. [DOI](https://link.springer.com/article/10.1007/s10750-019-04109-9)
 
 ### 2018
--   Lacroix G., Barbut L., Volckaert F.A.M. (2018) Complex response of projected sea temperature and w ind change on flatfish dispersal. *Global Change Biology*, 24:85-100 – Doi: [10.1111/gcb.13915](https://doi.org/10.1111/gcb.13915)
--   Ménesguen A., Desmit X., Dulière V., Lacroix G., Thouvenin B., Thieu V., Dussauze M. (2018) How to avoid eutrophication in coastal seas? A new approach to derive river-specific combined nitrate and phosphate maximum concentrations. *Science of the Total Environment* 628-629: 400-414 – Doi: [10.1016/j.scitotenv.2018.02.025](https://doi.org/10.1016/j.scitotenv.2018.02.025)
--   Maar M., Butenschon M., Daewel U., Eggert A., Fan W., Hjollo S., Hufnagl M., Huret M., Ji R., Lacroix G., Peck M., Radtke H., Sailley S., Sinerchia M., Skogen M., Travers-Trolet M., Troost T., van de Wolfshaar K. (2018) Lower trophic level complexity mediates responses to top-down 1 forcing: Insights from a comparative modelling approach. *Ecological Modelling*, 376: 54-67 – Doi: [10.1016/j.ecolmodel.2018.03.003](https://doi.org/10.1016/j.ecolmodel.2018.03.003)
--   Desmit X., Thieu V., Billen G., Campuzano F., Dulière V., Garnier J., Lassaletta L., Ménesguen A., Neves R., Pinto L., Silvestre M., Sobrinho J., Lacroix G. (2018) Reducing marine eutrophication may require a paradigmatic change. *Science of the Total Environment* 635:1444-1466 – Doi: [10.1016/j.scitotenv.2018.04.181](https://doi.org/10.1016/j.scitotenv.2018.04.181)
--   Ménesguen A. and Lacroix G. (2018) Modelling the marine eutrophication: a review. *Science of the Total environment* 636: 339-354 – Doi: [10.1016/j.scitotenv.2018.04.183](https://doi.org/10.1016/j.scitotenv.2018.04.183)
+
+-   **Lacroix G.**, Barbut L., Volckaert F.A.M. (2018) Complex response of projected sea temperature and w ind change on flatfish dispersal. *Global Change Biology*, 24: 85-100. [DOI](https://doi.org/10.1111/gcb.13915)
+-   Ménesguen A., Desmit X., Dulière V., **Lacroix G.**, Thouvenin B., Thieu V., Dussauze M. (2018) How to avoid eutrophication in coastal seas? A new approach to derive river-specific combined nitrate and phosphate maximum concentrations. *Science of the Total Environment,* 628-629: 400-414. [DOI](https://doi.org/10.1016/j.scitotenv.2018.02.025)
+-   Maar M., Butenschon M., Daewel U., Eggert A., Fan W., Hjollo S., Hufnagl M., Huret M., Ji R., **Lacroix G.**, Peck M., Radtke H., Sailley S., Sinerchia M., Skogen M., Travers-Trolet M., Troost T., van de Wolfshaar K. (2018) Lower trophic level complexity mediates responses to top-down 1 forcing: Insights from a comparative modelling approach. *Ecological Modelling*, 376: 54-67. [DOI](https://doi.org/10.1016/j.ecolmodel.2018.03.003)
+-   Desmit X., Thieu V., Billen G., Campuzano F., Dulière V., Garnier J., Lassaletta L., Ménesguen A., Neves R., Pinto L., Silvestre M., Sobrinho J., **Lacroix G.** (2018) Reducing marine eutrophication may require a paradigmatic change. *Science of the Total Environment,* 635: 1444-1466. [DOI](https://doi.org/10.1016/j.scitotenv.2018.04.181)
+-   Ménesguen A. and **Lacroix G.** (2018) Modelling the marine eutrophication: a review. *Science of the Total environment,* 636: 339-354. [DOI](https://doi.org/10.1016/j.scitotenv.2018.04.183)
 
 ### 1998-2017
 
 <details>
 
 <summary>Click to expand</summary>
--   Lacroix G., Nival P. (1998) Influence of Meteorological Variability on Primary Production Dynamics in the Ligurian Sea (NW Med Sea) with a 1D Hydrodynamic/Biological Model. *Journal of Marine Systems*, 16: 23-50 – Doi: [10.1016/S0924-7963(97)00098-5](https://doi.org/10.1016/S0924-7963(97)00098-5)
--   Grégoire M., Lacroix G. (2001) Study of the oxygen budget of the Black Sea waters using a 3D coupled hydrodynamical-biogeochemical model. *Journal of Marine Systems*. 31: 175-202 – Doi: [10.1016/S0924-7963(01)00052-5](https://doi.org/10.1016/S0924-7963(01)00052-5)
--   Lacroix G., Grégoire M. (2002) Revisited ecosystem model (MODECOGeL) of the Ligurian Sea: seasonal and interannual variability due to atmospheric forcing. *Journal of Marine Systems*, 37(4): 229-258 – Doi: [10.1016/S0924-7963(02)00190-2](https://doi.org/10.1016/S0924-7963(02)00190-2)
--   Borges A. V., Djenidi S., Lacroix G., Théate J., Delille B. and Frankignoulle M. (2003) Atmospheric CO~2~ flux from mangrove surrounding waters. *Geophysical Research Letters*, 30(11): 1558 – Doi: [10.1029/2003GL017143](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2003GL017143)
--   Grégoire M., Lacroix G. (2003) Exchange processes and nitrogen cycling on the shelf and continental slope of the Black Sea basin. *Global Biogeochemical Cycles*, Vol. 17, No 2: 1073 – Doi:[10.1029/2002GB001882](https://doi.org/10.1029/2002GB001882)
--   Delhez E.J.M., G. Lacroix and E. Deleersnijder (2004) The age as a diagnostic of the dynamics of marine ecosystem models, *Ocean Dynamics*, 54: 221-231 – Doi: [10.1007/s10236-003-0075-2](https://link.springer.com/article/10.1007/s10236-003-0075-2)
--   Lacroix G., Ruddick K., Ozer J., Lancelot C. (2004) Modelling the impact of the Scheldt and Rhine/Meuse plumes on the salinity distribution in Belgian waters (Southern North Sea). *Journal of Sea Research*, 52: 149-163 – Doi: [10/1016/j.seares.2004.01.003](https://doi.org/10.1016/j.seares.2004.01.003)
--   Nezlin N.P., Lacroix G., Kostianoy A.G., Djenidi S. (2004) Remotely sensed seasonal dynamics of phytoplankton in the Ligurian Sea in 1997-1999. *Journal of Geophysical Research*, Vol. 109. C07103 – Doi: [10.1029/2000JC000628](https://doi.org/10.1029/2000JC000628)
--   Skliris N., Lacroix G., Djenidi S. (2004) Effects of extreme meteorological conditions on coastal dynamics near a submarine canyon. *Continental Shelf Research* 24(9): 1033-1045 – Doi: [10.1016/j.csr.2004.02.012](http://dx.doi.org/10.1016/j.csr.2004.02.012)
--   Lancelot C, Spitz Y, Gypens N, Ruddick K, Becquevort S, Rousseau V, Lacroix G, Billen G. (2005) Modelling diatom and *Phaeocystis* blooms and nutrient cycles in the Southern Bight of the North Sea: the MIRO model. *Marine Ecology Progress Series* 289 : 63-78 – Doi: [10.3354/meps289063](https://www.int-res.com/abstracts/meps/v289/p63-78/)
--   Magri Hoeltzener S., Brasseur P., Lacroix G. (2005) Data assimilation in a marine ecosystem model of the Ligurian Sea. *Comptes Rendus - Geoscience* 2005/09, 337(12): 1065-1074 – Doi: [10.1016/j.crte.2005.05.004](https://doi.org/10.1016/j.crte.2005.05.004)
--   Gypens N., Lacroix G. and Lancelot C. (2007) Causes of variability in diatom and *Phaeocystis* blooms in Belgian coastal waters between 1989 and 2003: a model study. *Journal of Sea Research*, 57(1): 19-35 – Doi: [10.1016/j.seares.2006.07.004](https://doi.org/10.1016/j.seares.2006.07.004)
--   Lacroix G., Ruddick K., Park Y., Gypens N., Lancelot C. (2007) Validation of the 3D biogeochemical model MIRO&CO with field nutrient and phytoplankton data and MERIS-derived surface chlorophyll *a* images. *Journal of Marine Systems*, 64(1-4): 66-88 – Doi: [10.1016/j.jmarsys.2006.01.010](https://doi.org/10.1016/j.jmarsys.2006.01.010)
--   Lacroix G., Ruddick K., Gypens N., Lancelot C. (2007) Modelling the relative impact of rivers (Scheldt/Rhine/Seine) and Western Channel waters on the nutrient and diatoms/*Phaeocystis* distributions in Belgian waters (Southern North Sea). *Continental Shelf Research*, 27(10-11): 1422-1446 – Doi: [10.1016/j.csr.2007.01.013](https://doi.org/10.1016/j.csr.2007.01.013)
--   Lenhart H-J., Mills D.K., Baretta-Bekker H., van Leeuwen S.M., van der Molen J., Baretta J.W., Blaas M., Desmit X., Kühn W., Lacroix G., Los H.J., Ménesguen A., Neves R., Proctor R., Ruardij P., Skogen M.D., Vanhoutte-Brunier A., Villars M.T., Wakelin S.L. (2010) Predicting the consequences of nutrient reduction on the eutrophication status of the North Sea. *Journal of Marine Systems*, 81: 148-170 – Doi: [10.1016/j.jmarsys.2009.12.014](https://doi.org/10.1016/j.jmarsys.2009.12.014)
--   Park Y., Ruddick K., Lacroix G. (2010) Detection of algal blooms in European waters based on satellite chlorophyll data from MERIS and MODIS. *International Journal of Remote Sensing*. 31(24): 6567-6583 – Doi: [10.1080/01431161003801369](https://www.tandfonline.com/doi/full/10.1080/01431161003801369)
--   Savina M., Lacroix G., Ruddick K. (2010) Modelling the transport of common sole larvae in the Southern North Sea: influence of hydrodynamics and larval vertical movements. *Journal of Marine Systems*, 81: 86-98 – Doi: [10.1016/j.jmarsys.2009.12.008](https://doi.org/10.1016/j.jmarsys.2009.12.008)
--   Sirjacobs D., Alvera-Azcárate A., Barth A., Lacroix G., Park Y., Nechad B., Ruddick K., Beckers J-M. (2011) Cloud filling of ocean color and sea surface temperature remote sensing products over the Southern North Sea by the Data Interpolating Empirical Orthogonal Functions methodology. *Journal of Sea Research.* 65(1): 114-130 – Doi: [10.1016/j.seares.2010.08.002](https://doi.org/10.1016/j.seares.2010.08.002)
--   Arndt S., Lacroix G., Gypens N., Regnier P., Lancelot C. (2011) Nutrient dynamics and phytoplankton development along an estuary-coastal zone continuum: A model study. *Journal of Marine Systems* 84(3-4): 49-66 – Doi: [10.1016/j.jmarsys.2010.08.005](https://doi.org/10.1016/j.jmarsys.2010.08.005)
--   Gypens N., Lacroix G., Lancelot C., Borges A. (2011) Seasonal and inter-annual variability of air-sea CO2 fluxes and seawater carbonate chemistry in the Southern Bight of the North Sea. *Progress in Oceanography* 88: 59-77 – Doi: [10.1016/j.pocean.2010.11.004](https://doi.org/10.1016/j.pocean.2010.11.004)
--   Lacroix G., Maes G.E., Bolle L.J., Volckaert F.A.M. (2013) Modelling dispersal dynamics of the early life stages of a marine flatfish (*Solea solea* L.). Journal of Sea Research 84:13-25 – Doi: [10.1016/j.seares.2012.07.010](https://doi.org/10.1016/j.seares.2012.07.010)
--   Vandamme S.G., Maes G.E., Raeymaekers J.A., Cottonie K., Imsland A.K., Hellemans B., Lacroix G., Mac Aoidh E., Martinsohn J.T., Martinez P., Robbens J., Vilas R., Volckaert F.A. (2014) Regional environmental pressure influence population differentiation in turbot (*Scophthalmus máximum*). Molecular Ecology 23(6): 618-636 – Doi: [10/1111/mec.12628](https://doi.org/10.1111/mec.12628)
--   Desmit X., Ruddick K., Lacroix G. (2015) Salinity predicts the distribution of chlorophyll a spring peak in the southern North Sea continental waters. *Journal of Sea Research* 103:59-74 – Doi: [10.1016/j.seares.2015.02.007](https://doi.org/10.1016/j.seares.2015.02.007)
--   Hufnagl M., Payne M., Lacroix G., Bolle L., Daewel U., Dickey-Collas M., Gerkema T., Huret M., Janssen F., Kreus M., Pätsch J., Pohlmann T., Ruardij P., Schrum C., Skogen M., Tiessen M., Petitgas P., van Beek J., Van der Veer H., Callies U. (2017) Variation that can be expected when using particle tracking models in connectivity studies. *Journal of Sea research* 127: 133-149 – Doi: [10.1016/j.seares.2017.04.009](https://doi.org/10.1016/j.seares.2017.04.009)
+
+-   **Lacroix G.**, Nival P. (1998) Influence of Meteorological Variability on Primary Production Dynamics in the Ligurian Sea (NW Med Sea) with a 1D Hydrodynamic/Biological Model. *Journal of Marine Systems*, 16: 23-50. [DOI](https://doi.org/10.1016/S0924-7963(97)00098-5)
+-   Grégoire M., **Lacroix G.** (2001) Study of the oxygen budget of the Black Sea waters using a 3D coupled hydrodynamical-biogeochemical model. *Journal of Marine Systems*, 31: 175-202. [DOI](https://doi.org/10.1016/S0924-7963(01)00052-5)
+-   **Lacroix G.**, Grégoire M. (2002) Revisited ecosystem model (MODECOGeL) of the Ligurian Sea: seasonal and interannual variability due to atmospheric forcing. *Journal of Marine Systems*, 37(4): 229-258. [DOI](https://doi.org/10.1016/S0924-7963(02)00190-2)
+-   Borges A. V., Djenidi S., **Lacroix G.**, Théate J., Delille B. and Frankignoulle M. (2003) Atmospheric CO~2~ flux from mangrove surrounding waters. *Geophysical Research Letters*, 30(11): 1558. [DOI](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2003GL017143)
+-   Grégoire M., **Lacroix G.** (2003) Exchange processes and nitrogen cycling on the shelf and continental slope of the Black Sea basin. *Global Biogeochemical Cycles*, Vol. 17(2): 1073. [DOI](https://doi.org/10.1029/2002GB001882)
+-   Delhez E.J.M., **Lacroix G.**, Deleersnijder E. (2004) The age as a diagnostic of the dynamics of marine ecosystem models, *Ocean Dynamics*, 54: 221-231. [DOI](https://link.springer.com/article/10.1007/s10236-003-0075-2)
+-   **Lacroix G.**, Ruddick K., Ozer J., Lancelot C. (2004) Modelling the impact of the Scheldt and Rhine/Meuse plumes on the salinity distribution in Belgian waters (Southern North Sea). *Journal of Sea Research*, 52: 149-163. [DOI](https://doi.org/10.1016/j.seares.2004.01.003)
+-   Nezlin N.P., **Lacroix G.**, Kostianoy A.G., Djenidi S. (2004) Remotely sensed seasonal dynamics of phytoplankton in the Ligurian Sea in 1997-1999. *Journal of Geophysical Research*, Vol. 109. C07103. [DOI](https://doi.org/10.1029/2000JC000628)
+-   Skliris N., **Lacroix G.**, Djenidi S. (2004) Effects of extreme meteorological conditions on coastal dynamics near a submarine canyon. *Continental Shelf Research,* 24(9): 1033-1045. [DOI](http://dx.doi.org/10.1016/j.csr.2004.02.012)
+-   Lancelot C, Spitz Y, Gypens N, Ruddick K, Becquevort S, Rousseau V, Lacroix G, Billen G. (2005) Modelling diatom and *Phaeocystis* blooms and nutrient cycles in the Southern Bight of the North Sea: the MIRO model. *Marine Ecology Progress Series,* 289: 63-78. [DOI](https://www.int-res.com/abstracts/meps/v289/p63-78/)
+-   Magri Hoeltzener S., Brasseur P., **Lacroix G.** (2005) Data assimilation in a marine ecosystem model of the Ligurian Sea. *Comptes Rendus - Geoscience,* 2005/09, 337(12): 1065-1074. [DOI](https://doi.org/10.1016/j.crte.2005.05.004)
+-   Gypens N., **Lacroix G.** and Lancelot C. (2007) Causes of variability in diatom and *Phaeocystis* blooms in Belgian coastal waters between 1989 and 2003: a model study. *Journal of Sea Research*, 57(1): 19-35. [DOI](https://doi.org/10.1016/j.seares.2006.07.004)
+-   **Lacroix G.**, Ruddick K., Park Y., Gypens N., Lancelot C. (2007) Validation of the 3D biogeochemical model MIRO&CO with field nutrient and phytoplankton data and MERIS-derived surface chlorophyll *a* images. *Journal of Marine Systems*, 64(1-4): 66-88. [DOI](https://doi.org/10.1016/j.jmarsys.2006.01.010)
+-   **Lacroix G.**, Ruddick K., Gypens N., Lancelot C. (2007) Modelling the relative impact of rivers (Scheldt/Rhine/Seine) and Western Channel waters on the nutrient and diatoms/*Phaeocystis* distributions in Belgian waters (Southern North Sea). *Continental Shelf Research*, 27(10-11): 1422-1446. [DOI](https://doi.org/10.1016/j.csr.2007.01.013)
+-   Lenhart H-J., Mills D.K., Baretta-Bekker H., van Leeuwen S.M., van der Molen J., Baretta J.W., Blaas M., Desmit X., Kühn W., **Lacroix G.**, Los H.J., Ménesguen A., Neves R., Proctor R., Ruardij P., Skogen M.D., Vanhoutte-Brunier A., Villars M.T., Wakelin S.L. (2010) Predicting the consequences of nutrient reduction on the eutrophication status of the North Sea. *Journal of Marine Systems*, 81: 148-170. [DOI](https://doi.org/10.1016/j.jmarsys.2009.12.014)
+-   Park Y., Ruddick K., **Lacroix G.** (2010) Detection of algal blooms in European waters based on satellite chlorophyll data from MERIS and MODIS. *International Journal of Remote Sensing,* 31(24): 6567-6583. [DOI](https://www.tandfonline.com/doi/full/10.1080/01431161003801369)
+-   Savina M., **Lacroix G.**, Ruddick K. (2010) Modelling the transport of common sole larvae in the Southern North Sea: influence of hydrodynamics and larval vertical movements. *Journal of Marine Systems*, 81: 86-98. [DOI](https://doi.org/10.1016/j.jmarsys.2009.12.008)
+-   Sirjacobs D., Alvera-Azcárate A., Barth A., **Lacroix G.**, Park Y., Nechad B., Ruddick K., Beckers J-M. (2011) Cloud filling of ocean color and sea surface temperature remote sensing products over the Southern North Sea by the Data Interpolating Empirical Orthogonal Functions methodology. *Journal of Sea Research,* 65(1): 114-130. [DOI](https://doi.org/10.1016/j.seares.2010.08.002)
+-   Arndt S., **Lacroix G.**, Gypens N., Regnier P., Lancelot C. (2011) Nutrient dynamics and phytoplankton development along an estuary-coastal zone continuum: A model study. *Journal of Marine Systems,* 84(3-4): 49-66. [DOI](https://doi.org/10.1016/j.jmarsys.2010.08.005)
+-   Gypens N., **Lacroix G.**, Lancelot C., Borges A. (2011) Seasonal and inter-annual variability of air-sea CO2 fluxes and seawater carbonate chemistry in the Southern Bight of the North Sea. *Progress in Oceanography,* 88: 59-77. [DOI](https://doi.org/10.1016/j.pocean.2010.11.004)
+-   **Lacroix G.**, Maes G.E., Bolle L.J., Volckaert F.A.M. (2013) Modelling dispersal dynamics of the early life stages of a marine flatfish (*Solea solea* L.). *Journal of Sea Research,* 84: 13-25. [DOI](https://doi.org/10.1016/j.seares.2012.07.010)
+-   Vandamme S.G., Maes G.E., Raeymaekers J.A., Cottonie K., Imsland A.K., Hellemans B., **Lacroix G.**, Mac Aoidh E., Martinsohn J.T., Martinez P., Robbens J., Vilas R., Volckaert F.A. (2014) Regional environmental pressure influence population differentiation in turbot (*Scophthalmus máximum*). *Molecular Ecology,* 23(6): 618-636. [DOI](https://doi.org/10.1111/mec.12628)
+-   Desmit X., Ruddick K., **Lacroix G.** (2015) Salinity predicts the distribution of chlorophyll a spring peak in the southern North Sea continental waters. *Journal of Sea Research,* 103: 59-74. [DOI](https://doi.org/10.1016/j.seares.2015.02.007)
+-   Hufnagl M., Payne M., **Lacroix G.**, Bolle L., Daewel U., Dickey-Collas M., Gerkema T., Huret M., Janssen F., Kreus M., Pätsch J., Pohlmann T., Ruardij P., Schrum C., Skogen M., Tiessen M., Petitgas P., van Beek J., Van der Veer H., Callies U. (2017) Variation that can be expected when using particle tracking models in connectivity studies. *Journal of Sea research,* 127: 133-149. [DOI](https://doi.org/10.1016/j.seares.2017.04.009)
 
 </details>
 
 ### **Peer-reviewed books**
--   Ruddick K., Lacroix G., Park Y., Rousseau V., De Cauwer V., Sterckx S. (2008). Overview of ocean colour: theoretical background, sensors and applicability to detection and monitoring of harmful algal blooms (capabilities and limitations), in: Babin M. et al. (Ed.) *Real-time coastal observing systems for* marine ecosystem dynamics and harmful algal blooms: Theory, instrumentation and modelling. Oceanographic Methodology Series. UNESCO. Paris. ISBN 978-92-3-104042-9. Pp: 331-383.
--   Ruddick K., Lacroix G., Lancelot C., Nechad B., Park Y., Peters S., Van Mol B. (2008). Optical remote sensing of the North Sea. In Barale V., & Gade M. (Ed.), *Remote sensing of the European Seas*. Springer-Verlag. ISBN: 978-1-4020-6771-6. pp: 79-90.
+
+-   Ruddick K., **Lacroix G.**, Park Y., Rousseau V., De Cauwer V., Sterckx S. (2008). Overview of ocean colour: theoretical background, sensors and applicability to detection and monitoring of harmful algal blooms (capabilities and limitations), In: Babin M., Collin S. & Cullen J.(Eds.) *Real-time coastal observing systems for marine ecosystem dynamics and harmful algal blooms: Theory, instrumentation and modelling*. Oceanographic Methodology Series (p. 830). UNESCO. Paris. ISBN 978-92-3-104042-9.
+-   Ruddick K., **Lacroix G.**, Lancelot C., Nechad B., Park Y., Peters S., Van Mol B. (2008). Optical remote sensing of the North Sea. In Barale V., & Gade M. (Ed.), *Remote sensing of the European Seas*. Springer-Verlag. ISBN: 978-1-4020-6771-6. pp: 79-90.
 
 ### **Scientific contribution to collaborative publications**
--   Lancelot C., Lacroix G., Gypens N., Ruddick K. (2006) Ecological modelling as a scientific tool for assessing eutrophication and mitigation strategies for Belgian coastal waters. In Rousseau V., Lancelot C. and Cox D. (Ed). *Current status of Eutrophication in the Belgian Coastal Zone*. Presses Universitaires de Bruxelles. pp. 91-110.
--   Ruddick K., Lacroix G. (2006) Hydrodynamics and meteorology of the Belgian Coastal zone. In Rousseau V., Lancelot C. and Cox D. (Ed). *Current status of Eutrophication in the Belgian Coastal Zone*. Presses Universitaires de Bruxelles. pp. 1-15.
--   Lacroix G., McCloghrie P., Huret M., North E.W. (2009) Hydrodynamic models. In Manual of Recommended Practices for Modelling Physical – Biological Interactions during Fish Early Life. Pp. 3-8. Ed. By E.W. North, A. Gallego and P. Petitgas. *ICES Cooperative Research Report* No. 295. 111 pp.
--   Paris C.B., Irisson J-O., Lacroix G., Fiksen O., Leis J.M., Mullon C. (2009) Application 2: Connectivity. In Manual of Recommended Practices for Modelling Physical – Biological Interactions during Fish Early Life. Pp. 63-76. Ed. by E.W. North, A. Gallego and P. Petitgas. *ICES Cooperative Research Report* No. 295. 111 pp.
+
+-   Lancelot C., **Lacroix G.**, Gypens N., Ruddick K. (2006) Ecological modelling as a scientific tool for assessing eutrophication and mitigation strategies for Belgian coastal waters. In Rousseau V., Lancelot C. and Cox D. (Ed). *Current status of Eutrophication in the Belgian Coastal Zone*. Presses Universitaires de Bruxelles. pp. 91-110.
+-   Ruddick K., **Lacroix G.** (2006) Hydrodynamics and meteorology of the Belgian Coastal zone. In Rousseau V., Lancelot C. and Cox D. (Ed). *Current status of Eutrophication in the Belgian Coastal Zone*. Presses Universitaires de Bruxelles. pp. 1-15.
+-   **Lacroix G.**, McCloghrie P., Huret M., North E.W. (2009) Hydrodynamic models. In Manual of Recommended Practices for Modelling Physical – Biological Interactions during Fish Early Life. Pp. 3-8. Ed. By E.W. North, A. Gallego and P. Petitgas. *ICES Cooperative Research Report* No. 295. 111 pp.
+-   Paris C.B., Irisson J-O., **Lacroix G.**, Fiksen O., Leis J.M., Mullon C. (2009) Application 2: Connectivity. In Manual of Recommended Practices for Modelling Physical – Biological Interactions during Fish Early Life. Pp. 63-76. Ed. by E.W. North, A. Gallego and P. Petitgas. *ICES Cooperative Research Report* No. 295. 111 pp.
 
 ### **Vulgarisation publications, radio, tv, press and internet**
+
 -   Press publication: "Chaînes de vie dans la grande bleue. Tout en modèles et simulations pour mieux comprendre et gérer les ressources marines". Interview Kristell Van Hove, Le Matin, 7 Sept. 1999
 -   Design of an information leaflet for the European (ERASMUS) DEA in Marine Environment Modelling, 1999
 -   Design and update of a web site for the European (ERASMUS) DEA in Marine Environment Modelling, 1999
@@ -205,7 +222,7 @@ Geneviève Lacroix leads the Ecosystem Modelling (ECOMOD) team and is a marine e
 -   Webnews “Award for Léo Barbut’s scientific poster at Aquatic Science Meeting ASLO 2015” (21.04.2015)
 -   Belspo 2015. SSD la science pour un développement durable. Bilan d’un programme de recherche thématique et multidisciplinaire. AMORE-project (1997-2010). L’eutrophisation de la mer du Nord modélisée (p.56-58). Interview C. Lancelot and G. Lacroix by P. De Buyst
 -   Communiqué de presse: [Expertise Scientifique Collective (ESCo) CNRS sur l'eutrophisation](https://www.cnrs.fr/fr/presse/restitution-de-lexpertise-scientifique-collective-sur-leutrophisation)
--   Press release « Y aura-t-il plus de soles en mer du Nord en raison du changement climatique ? » + radio, newspapers, webmedias  (30.10.2017)
+-   Press release «Y aura-t-il plus de soles en mer du Nord en raison du changement climatique ? » + radio, newspapers, webmedias (30.10.2017)
 -   Webnews “Will climate change lead to more sole in the North Sea?” (15.12.2017)
 -   Présentation des activités de modélisation dans la cadre de la visite de la délégation Shanghai (12.09.2018)
 -   News Water ballast (27.09.2019), [Transport of organisms by ballast water: are Belgian and Dutch waters part of a Same Risk Area? – OD Nature News (naturalsciences.be)](https://odnaturenews.naturalsciences.be/post/759) \[<https://odnaturenews.naturalsciences.be/post/759>\]
@@ -216,8 +233,10 @@ Geneviève Lacroix leads the Ecosystem Modelling (ECOMOD) team and is a marine e
 -   Matin Libre (30.12.2024) [Lancement des activités du Projet GTI-DNA_Shrimp: Vers la mise en place d’une base spécifique des crevettes pour une gestion durable](https://matinlibre.com/2024/12/30/lacement-des-activites-du-projet-gti-dna_shrimp-vers-la-mise-en-place-dune-base-specifique-des-crevettes-pour-une-gestion-durable/?amp=1&sfnsn=wa)
 -   CEBioS Policy Brief N°18 (03.02.2025) [Les enjeux de la gestion durable des crevettes de la lagune Nokoué au Bénin - 2024/2025](https://cebios.naturalsciences.be/wp-content/uploads/2025/02/Shrimp_Policy_Brief_Final.pdf)
 -   CEBioS news (03.02.2025) [Policy brief on the challenges of sustainable management of shrimp from the Nokoué lagoon in Benin (FR)](https://cebios.naturalsciences.be/news/policy-brief-on-the-challenges-of-sustainable-management-of-shrimp-from-the-nokoue-lagoon-in-benin-fr/)
+-   CEBioS Policy Brief N°17 (30.04.2025) [Using the COHERENS model scenarios to safeguard Ha Long Bay waters - 2024/2025](https://cebios.naturalsciences.be/wp-content/uploads/2025/04/280425_template_A4_IMER_PB.pdf)
 
 ## **Memberships**
+
 -   Belgian representative in the working group "OSPAR Intersessional Correspondance Group on Eutrophication Modelling (ICG-EMO)" \[from 2005\]
 -   Belgian representative in the ICES "Working Group on Integrative, Physical-Biological and Ecosystem Modelling (WGIPEM)" (formerly WGPBI) \[from 2008\]
 -   Member of the Coordination Group of the International Research Group on Marine Connectivity (iMarCo) \[from 2015\]
@@ -225,6 +244,7 @@ Geneviève Lacroix leads the Ecosystem Modelling (ECOMOD) team and is a marine e
 ## Awards and Fellowships
 
 ### Awards
+
 -   [Lacroix G.]{.underline} 1990. Modélisation 1D d'un Système Biologique Couplé à un Modèle Hydrodynamique. 1st ”Forum des jeunes Océanographes” organised by IRMA, Liège (BE), June 1990. \[**2nd prize**\]
 -   [Lacroix G.]{.underline} 1992. Résultats préliminaires d'un modèle couplé Hydrodynamique/écosystème pour une zone côtière Méditerranéenne. 2^nd^ ”Forum des jeunes Océanographes” organised by IRMA, Liège (BE), April 1992. \[**3rd prize**\]
 -   [Lacroix G]{.underline}., Nezlin N., Djenidi S. 2001. "Ecosystem response to the atmospheric forcing in the Ligurian Sea in 1997-1999". 36th CIESM Congress, Monte-Carlo, Sep. 2001. \[**Best poster award**\]
@@ -235,6 +255,7 @@ Geneviève Lacroix leads the Ecosystem Modelling (ECOMOD) team and is a marine e
 -   Delerue-Ricard S., Stynen H., Barbut L., Glatczak D., Vanden Bavière A., Coscia I., Robbens J., [Lacroix G.]{.underline}, Volckaert F.A.M. No anonymity for fish: tracing sole juveniles arriving at the Belgian nursery combining genomics, otolith microchemistry and otolith shape analysis. North Sea Open Science Conference (NSOSC2016), Ostend (BE), 7-10 Nov. 2016. \[**1st prize**\]
 
 ### Fellowship
+
 -   1990: Travel grant IRMA (Institut de Recherches Marines et d'Interactions Air-mer, ULiège)
 -   1990: Travel grant in the frame of EU summer school "Modelling of Marine Ecosystems" (EIASO), France
 -   1990-1991: Bourse de perfectionnement du patrimoine
