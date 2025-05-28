@@ -14,7 +14,7 @@ format:
 ECOMOD is part of the [ECODAM](https://www.naturalsciences.be/nl/wetenschap/onderzoek/research-teams/ecosystems-data-processing-and-modelling-ecodam) (Ecosystems, data processing and modelling) group of the Operational Directorate Natural Environment ([OD Nature](https://odnature.naturalsciences.be/home/)) within the Institute of Natural Sciences.
 :::
 ::: {.column width="45%"}
-![](images/ECOMOD_team.jpg){fig-align="right" width="450"}
+![](images/ECOMOD_Team.jpg){fig-align="right" width="450"}
 *Picture to Update*
 :::
 ::::
@@ -259,12 +259,19 @@ The team **provides support to users** and is involved in **capacity building** 
 :::
 
 <div style="text-align: center;">
-<img src="posts/projects/CLIMDIS/images/CLIMDIS_HaLongBay.png" width="50%" id="slideshow">
-<p id="caption" style="font-style: italic; margin-top: 8px;">First image caption</p>
+<img src="/posts/projects/CLIMDIS/images/CLIMDIS_HaLongBay.png" width="50%" id="slideshow">
+<p id="caption" style="font-style: italic; margin-top: 8px;">Modelling South China Sea and Ha Long Bay, Vietnam</p>
 <script>
 document.addEventListener('DOMContentLoaded', function() {
-  const images = ["posts/projects/CLIMDIS/images/CLIMDIS_HaLongBay.png", "posts/projects/SHRIMP-II/images/SHRIMP_Nokoue.png", "images/Lake_Lanalhue_Chile.png"];
-  const captions = ["Modelling South China Sea and Ha Long Bay, Vietnam", "Modelling Gulf of Guinea and Lake Nokoué, Benin", "Modelling Lake Lanalhue, Chile"];
+  const images = [
+    "/posts/projects/CLIMDIS/images/CLIMDIS_HaLongBay.png", 
+    "/posts/projects/SHRIMP-II/images/SHRIMP_Nokoue.png", 
+    "/images/Lake_Lanalhue_Chile.png"];
+  const captions = [
+    "Modelling South China Sea and Ha Long Bay, Vietnam", 
+    "Modelling Gulf of Guinea and Lake Nokoué, Benin", 
+    "Modelling Lake Lanalhue, Chile"
+  ];
   let currentIndex = 0;
   const img = document.getElementById("slideshow");
   const caption = document.getElementById("caption");
@@ -277,6 +284,7 @@ document.addEventListener('DOMContentLoaded', function() {
 });
 </script>
 </div>
+
 
 
 ---

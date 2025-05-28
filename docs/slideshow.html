@@ -1,0 +1,129 @@
+<style>
+    .slideshow-container {
+        text-align: center;
+        margin: 20px 0;
+    }
+    
+    .slideshow-image {
+        max-width: 50%;
+        height: auto;
+        display: block;
+        margin: 0 auto;
+    }
+    
+    .slideshow-caption {
+        font-style: italic;
+        margin-top: 8px;
+        color: #666;
+    }
+    
+    .dots-container {
+        margin-top: 15px;
+    }
+    
+    .dot {
+        height: 15px;
+        width: 15px;
+        margin: 0 5px;
+        background-color: #bbb;
+        border-radius: 50%;
+        display: inline-block;
+        cursor: pointer;
+        transition: background-color 0.3s ease;
+    }
+    
+    .dot:hover {
+        background-color: #717171;
+    }
+    
+    .dot.active {
+        background-color: #333;
+    }
+    </style>
+    
+    <div class="slideshow-container">
+        <img src="posts/projects/CLIMDIS/images/CLIMDIS_HaLongBay.png" 
+             class="slideshow-image" 
+             id="quarto-slideshow">
+        <p class="slideshow-caption" id="quarto-caption">
+            Modelling South China Sea and Ha Long Bay, Vietnam
+        </p>
+        
+        <div class="dots-container" id="quarto-dots-container">
+            <span class="dot active" onclick="goToQuartoSlide(0)"></span>
+            <span class="dot" onclick="goToQuartoSlide(1)"></span>
+            <span class="dot" onclick="goToQuartoSlide(2)"></span>
+        </div>
+    </div>
+    
+    <script>
+    (function() {
+        // Use unique variable names to avoid conflicts
+        const quartoImages = [
+            "posts/projects/CLIMDIS/images/CLIMDIS_HaLongBay.png", 
+            "posts/projects/SHRIMP-II/images/SHRIMP_Nokoue.png", 
+            "images/Lake_Lanalhue_Chile.png"
+        ];
+        
+        const quartoCaptions = [
+            "Modelling South China Sea and Ha Long Bay, Vietnam", 
+            "Modelling Gulf of Guinea and Lake Nokoué, Benin", 
+            "Modelling Lake Lanalhue, Chile"
+        ];
+        
+        let quartoCurrentIndex = 0;
+        let quartoSlideInterval;
+        
+        // Wait for DOM to be ready
+        function initQuartoSlideshow() {
+            const img = document.getElementById("quarto-slideshow");
+            const caption = document.getElementById("quarto-caption");
+            const dots = document.querySelectorAll('#quarto-dots-container .dot');
+            
+            if (!img || !caption || dots.length === 0) {
+                // If elements aren't ready, try again in 100ms
+                setTimeout(initQuartoSlideshow, 100);
+                return;
+            }
+            
+            function updateQuartoSlide(index) {
+                quartoCurrentIndex = index;
+                img.src = quartoImages[quartoCurrentIndex];
+                caption.textContent = quartoCaptions[quartoCurrentIndex];
+                
+                // Update active dot
+                dots.forEach((dot, i) => {
+                    dot.classList.toggle('active', i === quartoCurrentIndex);
+                });
+            }
+            
+            function startQuartoSlideshow() {
+                quartoSlideInterval = setInterval(function() {
+                    quartoCurrentIndex = (quartoCurrentIndex + 1) % quartoImages.length;
+                    updateQuartoSlide(quartoCurrentIndex);
+                }, 5000);
+            }
+            
+            function resetQuartoSlideshow() {
+                clearInterval(quartoSlideInterval);
+                startQuartoSlideshow();
+            }
+            
+            // Global function for dot clicks
+            window.goToQuartoSlide = function(index) {
+                updateQuartoSlide(index);
+                resetQuartoSlideshow();
+            };
+            
+            // Start the slideshow
+            startQuartoSlideshow();
+        }
+        
+        // Initialize when DOM is ready
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', initQuartoSlideshow);
+        } else {
+            initQuartoSlideshow();
+        }
+    })();
+    </script>
