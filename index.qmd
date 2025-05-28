@@ -3,6 +3,10 @@ title: "Webpage under development!"
 format:
   html:
     css: styles.css
+resources: 
+    - posts/projects/CLIMDIS/images/CLIMDIS_HaLongBay.png
+    - posts/projects/SHRIMP-II/images/SHRIMP_Nokoue.png
+    - images/Lake_Lanalhue_Chile.png
 ---
 
 # Marine Ecosystem Modelling (ECOMOD)
@@ -259,14 +263,14 @@ The team **provides support to users** and is involved in **capacity building** 
 :::
 
 <div style="text-align: center;">
-<img src="/posts/projects/CLIMDIS/images/CLIMDIS_HaLongBay.png" width="50%" id="slideshow">
+<img src="posts/projects/CLIMDIS/images/CLIMDIS_HaLongBay.png" width="50%" id="slideshow">
 <p id="caption" style="font-style: italic; margin-top: 8px;">Modelling South China Sea and Ha Long Bay, Vietnam</p>
 <script>
 document.addEventListener('DOMContentLoaded', function() {
   const images = [
-    "/docs/posts/projects/CLIMDIS/images/CLIMDIS_HaLongBay.png", 
-    "/docs/posts/projects/SHRIMP-II/images/SHRIMP_Nokoue.png", 
-    "/docs/images/Lake_Lanalhue_Chile.png"];
+    "posts/projects/CLIMDIS/images/CLIMDIS_HaLongBay.png", 
+    "posts/projects/SHRIMP-II/images/SHRIMP_Nokoue.png", 
+    "images/Lake_Lanalhue_Chile.png"];
   const captions = [
     "Modelling South China Sea and Ha Long Bay, Vietnam", 
     "Modelling Gulf of Guinea and Lake Nokoué, Benin", 
