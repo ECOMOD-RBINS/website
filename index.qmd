@@ -260,15 +260,13 @@ The team **provides support to users** and is involved in **capacity building** 
 
 <div style="text-align: center;">
 <img src="/posts/projects/CLIMDIS/images/CLIMDIS_HaLongBay.png" width="50%" id="slideshow">
-<img src="/posts/projects/SHRIMP-II/images/SHRIMP_Nokoue.png" width="0%" id="slideshow">
-<img src="/images/Lake_Lanalhue_Chile.png" width="0%" id="slideshow">
 <p id="caption" style="font-style: italic; margin-top: 8px;">Modelling South China Sea and Ha Long Bay, Vietnam</p>
 <script>
 document.addEventListener('DOMContentLoaded', function() {
   const images = [
-    "/posts/projects/CLIMDIS/images/CLIMDIS_HaLongBay.png", 
-    "/posts/projects/SHRIMP-II/images/SHRIMP_Nokoue.png", 
-    "/images/Lake_Lanalhue_Chile.png"];
+    "/docs/posts/projects/CLIMDIS/images/CLIMDIS_HaLongBay.png", 
+    "/docs/posts/projects/SHRIMP-II/images/SHRIMP_Nokoue.png", 
+    "/docs/images/Lake_Lanalhue_Chile.png"];
   const captions = [
     "Modelling South China Sea and Ha Long Bay, Vietnam", 
     "Modelling Gulf of Guinea and Lake Nokoué, Benin", 
