@@ -34,17 +34,23 @@ COHERENS offers a comprehensive framework that integrates:
 
 Its modular and flexible architecture makes it suitable for a wide range of applications, from academic research to operational forecasting and environmental impact assessments.
 
-COHERENS is part of an open-source initiative, and while the codebase is currently being finalized and cleaned, it will soon be freely available to everyone under the EUPL license. Stay tuned for the public release!
+COHERENS is part of an open-source initiative, freely available to everyone under the EUPL license.
 
-**Source code:** [Coming soon]
+**Source code:** https://gitlab.naturalsciences.be/ecomod/coherens_v3
 
-**User documentation:** [Coming soon]
+**User documentation:** https://doi.org/10.5281/zenodo.11261106
 
 ## Applications
 
 Coming soon.
 
-## Publications
+## Publications by ECOMOD
+*All publications use COHERENS.*
+
+Coming soon.
+
+## Publications by others
+*All publications use COHERENS.*
 
 Coming soon.
 
