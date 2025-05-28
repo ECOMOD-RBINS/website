@@ -36,9 +36,9 @@ Its modular and flexible architecture makes it suitable for a wide range of appl
 
 COHERENS is part of an open-source initiative, freely available to everyone under the EUPL license.
 
-**Source code:** https://gitlab.naturalsciences.be/ecomod/coherens_v3
+**Source code:** [https://gitlab.naturalsciences.be/ecomod/coherens_v3](https://gitlab.naturalsciences.be/ecomod/coherens_v3)
 
-**User documentation:** https://doi.org/10.5281/zenodo.11261106
+**User documentation:** [https://doi.org/10.5281/zenodo.11261106](https://doi.org/10.5281/zenodo.11261106)
 
 ## Applications
 
