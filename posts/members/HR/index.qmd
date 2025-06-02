@@ -1,0 +1,46 @@
+---
+title: "Hugo Romanelli"
+description: ""
+author: ""
+date: ""
+categories: 
+image: ""
+
+execute:
+  echo: false
+  warning: false
+  error: true
+  cache: true
+  
+format: 
+  html:
+    page-layout: article
+    
+#bibliography: references.bib
+#cls: journal-of-oceanography.csl
+#link-citations: true
+---
+
+<div style="text-align: center;">
+  <img src="../../../images/HR.jpg" style="width: 50%;" />
+</div>
+
+## Biography
+Hugo Romanelli is a junior researcher and physical oceanographer specializing in hydrodynamics, with a particular focus on the North Sea. He is involved in the development of ocean modeling, contributing to a better understanding of marine and coastal dynamics. As the manager of the ocean model COHERENS, Hugo works on improving its accuracy and performance. With expertise in physical oceanography, he studies ocean circulation, transport processes, and environmental interactions, aiming to enhance the representation of hydrodynamic processes, particularly in the North Sea.
+
+### Experience
+- **Royal Belgian Institute of Natural Sciences** | Brussels, Belgium<br />
+  Junior Researcher | 2022-Current
+
+### Education
+- **ULiège** | Liège, Belgium<br />
+  MSc Oceanography | 2019-2021<br />
+- **UMons** | Mons, Belgium<br />
+  BSc Physics | 2015-2019
+
+## Projects
+- [COHERENS:](../../projects/COHERENS) COupled Hydrodynamical-Ecological model for REgioNal and Shelf seas.
+
+## Publications
+### 2024
+- A.S. Gozingan, Z. Sohou, K. Baetens, F. Bonou, E. Baloïtcha, O. Gourgue, **H. Romanelli**, A. Capet, G. Lacroix, A 3D numerical baroclinic application of the COHERENS model in the Gulf of Guinea, West Africa, *Regional Studies in Marine Science*, 79, 103811. [DOI](https://doi.org/10.1016/j.rsma.2024.103811)
