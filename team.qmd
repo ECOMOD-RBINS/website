@@ -274,7 +274,9 @@
   
   <div class="profile-card">
     <div class="profile-image">
-      <img src="images/HR.jpg" alt="Hugo Romanelli">
+      <a href="/posts/members/HR">
+        <img src="images/HR.jpg" alt="Hugo Romanelli">
+      </a>
     </div>
     <h3 class="profile-name">
       <span class="first-name">Hugo</span>
