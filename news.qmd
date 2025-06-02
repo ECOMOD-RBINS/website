@@ -1,6 +1,11 @@
 # ECOMOD latest updates
 
 ## May 2025
+### North Sea Working Group (May, 1)
+
+During the last EGU Conference, ECOMOD colleagues and other scientists came together to initiate the creation of a North Sea Working Group. The aim is to strengthen networking across North Sea institutes, build consortia, share data and knowledge, and develop collaborative initiatives. Stay tuned!
+
+![Image : Andrea van Langen Rosón (VLIZ)](/images/news/northseaWG.jpg){width=400 fig-align="left"}
 
 ### EGU General Assembly 2025 (Apr, 27 - May, 2)
 
