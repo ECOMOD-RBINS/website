@@ -113,29 +113,62 @@ Coming soon.
 - A. Mano, O. Malve, S. Koponen, K. Kallio, A. Taskinen, J. Ropponen, J. Juntunen, N. Liukko, Assimilation of satellite data to 3D hydrodynamic model of Lake Säkylän Pyhäjärv, *Water Science & Technology*, 71, 7, 1033-1039. [DOI](https://doi.org/10.2166/wst.2015.042)
 - L. Zhu, Q. Wang, Numerical Mesocosm Experimental Study on Harmful Algal Blooms of Two Algal Species in the East China Sea, *Mathematical Problems in Engineering*, 169860. [DOI](https://doi.org/10.1155/2015/169860)
 
+### 2014
+- Q. Wang, L. Zhu, D. Wang, A numerical model study on multi-species harmful algal blooms coupled with background ecological fields, *Acta Oceanologica Sinica*, 33, 8, 95–105. [DOI](https://doi.org/10.1007/s13131-014-0459-9)
+- J.F. Lopes, J.A. Ferreira, A.C. Cardoso, A.C. Rocha, Variability of temperature and chlorophyll of the Iberian Peninsula near costal ecosystem during an upwelling event for the present climate and a future climate scenario, *Journal of Marine Systems*, 129, 271-288. [DOI](https://doi.org/10.1016/j.jmarsys.2013.07.002)
+
 ### 2013
+- J. Hinwood, J. Luick, Closed basin modes of a dual basin harbour, *Pure and Applied Geophysics*, 170, 11, 1881–1897. [DOI](https://doi.org/10.1007/s00024-012-0611-4)
+- **G. Lacroix**, G.E. Maes, L.J. Bolle, F.A.M. Volckaert, Modelling dispersal dynamics of the early life stages of a marine flatfish (Solea solea L.), *Journal of Sea Research*, 84, 13-25. [DOI](https://doi.org/10.1016/j.seares.2012.07.010)
+- J. Bendtsen, J.L.S. Hansen, A model of life cycle, connectivity and population stability of benthic macro-invertebrates in the North Sea/Baltic Sea transition zone, *Ecological Modelling*, 267, 54-65. [DOI](https://doi.org/10.1016/j.ecolmodel.2013.07.012)
 - S. Hassanzadeh, O. Hajrasouliha, A.R. Latifi, A. Nohegar, The impact of physical processes on oil pollution diffusion in the Persian Gulf, *Environmental Forensics*, 14, 4, 312-323. [DOI](https://doi.org/10.1080/15275922.2013.843612)
+- J. Kotta, M. Pärnoja, T. Katajisto, M. Lehtiniemi, S.A. Malavin, G. Reisalu, V.E. Panov, Is a rapid expansion of the invasive amphipod Gammarus tigrinus Sexton, 1939
+associated with its niche selection: a case study in the Gulf of Finland, the Baltic Sea, *Aquatic Invasions*, 8, 3, 319–332. [DOI](http://doi.org/10.3391/ai.2013.8.3.08)
+- J. Bendtsen, J.L.S. Hansen, Effects of global warming on hypoxia in the Baltic Sea–North Sea transition zone, *Ecological Modelling*, 264, 17-26. [DOI](https://doi.org/10.1016/j.ecolmodel.2012.06.018)
+- T. Van Oyen, P. Blondeaux, D. Van den Eynde, Sediment sorting along tidal sand waves: A comparison between field observations and theoretical predictions, *Continental Shelf Research*, 63, 23-33. [DOI](https://doi.org/10.1016/j.csr.2013.04.005)
 - N. Guillou, G. Chapalain, E. Duvieilbourg, Sea surface temperature modelling in the Sea of Iroise: assessment of boundary conditions, *Ocean Dynamics*, 63, 7, 849-863. [DOI](https://doi.org/10.1007/s10236-013-0627-z)
 - N. Guillou, G. Chapalain, E. Duvieilbourg, Modelling impact of bottom roughness on sea surface temperature in the Sea of Iroise, *Continental Shelf Research*, 54, 80-92. [DOI](https://doi.org/10.1016/j.csr.2012.12.003)
 
 ### 2012
 - L. Tuomi, K. Myrberg, A. Lehmann, The performance of the parameterisations of vertical turbulence in the 3D modelling of hydrodynamics in the Baltic Sea, *Continental Shelf Research*, 50-51, 64-79. [DOI](https://doi.org/10.1016/j.csr.2012.08.007)
+- M. Baeye, M. Fettweis, S. Legrand, Y. Dupont, V. Van Lancker, Mine burial in the seabed of high-turbidity area—Findings of a first experiment, *Continental Shelf Research*, 43, 107-119. [DOI](https://doi.org/10.1016/j.csr.2012.05.009)
+- J. Kämpf, Lee effects of localized upwelling in a shelf-break canyon, *Continental Shelf Research*, 42, 78-88. [DOI](https://doi.org/10.1016/j.csr.2012.05.005)
 - N. Guillou, G. Chapalain, Modeling the tide-induced modulation of wave Height in the outer Seine estuary, *Journal of Coastal Research*, 28, 3, 613-623. [DOI](https://doi.org/10.2112/JCOASTRES-D-11-00075.1)
+- S. Hassanzadeh, F. Hosseinibalam, A. Rezaei-Latifi, Three-dimensional numerical modeling of the water exchange between the Persian Gulf and the Gulf of Oman through the Strait of Hormuz, *Oceanological and Hydrobiological Studies*, 41, 1, 85-98. [DOI](https://doi.org/10.2478/s13545-012-0010-6)
 - B. Liang, H. Zhao, H. Li, G. Wu, Numerical study of three-dimensional wave-induced longshore current’s effects on sediment spreading of the Huanghe River mouth, *Acta Oceanologica Sinica*, 31, 2, 129-138. [DOI](https://doi.org/10.1007/s13131-012-0199-7)
+- G. Zeng, J. Hu, H. Hong, Y. Qi, Numerical Study on M2 Tidal System in the Taiwan Strait, *Procedia Environmental Sciences*, 12, A, 702-707. [DOI](https://doi.org/10.1016/j.proenv.2012.01.337)
 
 ### 2011
+- N. Guillou, G. Chapalain, P. Sergent, Effects of the tide-induced water levels and currents on the wave heights in the Seine estuary, *La Houille Blanche*, 97, 6, 49-55. [DOI](https://doi.org/10.1051/lhb/2011061)
+- F. Hosseinibalam, S. Hassanzadeh, A. Rezaei-Latifi, Three-dimensional numerical modeling of thermohaline and wind-driven circulations in the Persian Gulf, *Applied Mathematical Modelling*, 35, 12, 5884-5902. [DOI](https://doi.org/10.1016/j.apm.2011.05.040)
 - N. Guillou, G. Chapalain, Modelling impact of northerly wind-generated waves on sediments resuspensions in the Dover Strait and adjacent waters, *Continental Shelf Research*, 31, 18, 1894-1903. [DOI](https://doi.org/10.1016/j.csr.2011.08.011)
 - N. Guillou, G. Chapalain, Effects of waves on the initiation of headland-associated sandbanks, *Continental Shelf Research*, 31, 11, 1202-1213. [DOI](https://doi.org/10.1016/j.csr.2011.04.013)
 - J.Z. Shi, L.-F. Lu, A short note on the dispersion, mixing, stratification and circulation within the plume of the partially-mixed Changjiang River estuary, China, *Journal of Hydro-environment Research*, 5, 2, 111-126. [DOI](https://doi.org/10.1016/j.jher.2010.06.002)
 - S. Hassanzadeh, F. Hosseinibalam, A. Rezaei-Latifi, Numerical modelling of salinity variations due to wind and thermohaline forcing in the Persian Gulf, *Applied Mathematical Modelling*, 35, 3, 1512-1537. [DOI](https://doi.org/10.1016/j.apm.2010.09.029)
+- J.M. Zaldívar, D. Marinov, S. Dueri, J. Castro-Jiménez, C. Micheletti, A.P. Worth, An integrated approach for bioaccumulation assessment in mussels: Towards the development of Environmental Quality Standards for biota, *Ecotoxicology and Environmental Safety*, 74, 3, 244-252. [DOI](https://doi.org/10.1016/j.ecoenv.2010.10.025)
+- X. Sun, H. Bian, C. Luo, J. Li, L. Wang, Numerical simulation of seasonal variation of temperature in the Bohai Sea, *Procedia Environmental Sciences*, 10, C, 1914-1919. [DOI](https://doi.org/10.1016/j.proenv.2011.09.300)
 
 ### 2010
+- J. Kämpf, On preconditioning of coastal upwelling in the eastern Great Australian Bight, *Journal of Geophysical Research: Oceans*, 115, C12071. [DOI](https://doi.org/10.1029/2010JC006294)
 - J.Z. Shi, L.-F. Lu, Y.-N. Liu, The hydrodynamics of an idealized estuarine plume along a straight coast: A numerical study, *Environmental Modeling & Assessment*, 15, 6, 487-502. [DOI](https://doi.org/10.1007/s10666-010-9219-1)
+- J. Kämpf, N. Payne, P. Malthouse, Marine Connectivity in a Large Inverse Estuary, *Journal of Coastal Research*, 26, 6, 1047-1056. [DOI](https://doi.org/10.2112/JCOASTRES-D-10-00043.1)
+- B. Liang, H. Li, J. Zhang, Study of wave induced radiation stress and vertical mixing in the Yellow River runoff diffusion, *Journal of Hydrodynamics*, 22, 5, 97–100. [DOI](https://doi.org/10.1016/S1001-6058(09)60176-1)
+- M. Maar, K. Timmermann, J. K. Petersen, K.E. Gustafsson, L.M. Storm, A model study of the regulation of blue mussels by nutrient loadings and water column stability in a shallow estuary, the Limfjorden, *Journal of Sea Research*, 64, 3, 322-333. [DOI](https://doi.org/10.1016/j.seares.2010.04.007)
 - J.Z. Shi, C. Li, X. Dou, Three-dimensional modeling of tidal circulation within the north and south passages of the partially-mixed Changjiang River Estuary, China, *Journal of Hydrodynamics*, 22, 5, 633-638. [DOI](https://doi.org/10.1016/S1001-6058(10)60010-8)
+- K. Timmermann, S. Markager, K.E. Gustafsson, Streams or open sea? Tracing sources and effects of nutrient loadings in a shallow estuary with a 3D hydrodynamic–ecological model, *Journal of Marine Systems*, 82, 3, 111-121. [DOI](https://doi.org/10.1016/j.jmarsys.2010.04.008)
+- M. Fettweis, F. Francken, D. Van den Eynde, T. Verwaest, J. Janssens, V. Van Lancker, Storm influence on SPM concentrations in a coastal turbidity maximum area with high anthropogenic impact (southern North Sea), *Continental Shelf Research*, 30, 13, 1417-1427. [DOI](https://doi.org/10.1016/j.csr.2010.05.001)
+- A. Giardino, D. Van den Eynde, J. Monbaliu, Wave effects on the morphodynamic evolution of an offshore sand bank, *Journal of Coastal Research*, SI51, 127-140. [JSTOR](https://www.jstor.org/stable/40928825)
 - B. Liang, D. Lee, H. Li, J. Zhang, Sensitivity study of the effects of wave-induced vertical mixing on vertical exchange processes, *Journal of Hydrodynamics*, 22, 3, 410-418. [DOI](https://doi.org/10.1016/S1001-6058(09)60072-X)
+- D. Van den Eynde, A. Giardino, J. Portilla, M. Fettweis, F. Francken, J. Monbaliu, Modelling the Effects of Sand Extraction, on Sediment Transport due to Tides, on the Kwinte Bank, *Journal of Coastal Research*, SI51, 101-116. [JSTOR](https://www.jstor.org/stable/40928823)
+- P. Palomar, I.J. Losada, Desalination in Spain: Recent developments and recommendations, *Desalination*, 255, 1–3, 97-106. [DOI](https://doi.org/10.1016/j.desal.2010.01.008)
 - D. Wu, Y. Yan, Numerical simulation of the transport and diffusion of dissolved pollutants in the Changjiang (Yangtze) river estuary, *Chinese Journal of Oceanology and Limnology*, 28, 3, 649-657. [DOI](https://doi.org/10.1007/s00343-010-9081-7)
 - N. Guillou, G. Chapalain, Numerical simulation of tide-induced transport of heterogeneous sediments in the English Channel, *Continental Shelf Research*, 30, 7, 806-819. [DOI](https://doi.org/10.1016/j.csr.2010.01.018)
+- S. Dueri, D. Marinov, A. Fiandrino J. Tronczyński, J.-M. Zaldívar, Implementation of a 3D Coupled Hydrodynamic and Contaminant Fate Model for PCDD/Fs in Thau Lagoon (France): The Importance of Atmospheric Sources of Contamination, *Environmental Research and Public Health*, 7, 4, 1467-1485. [DOI](https://doi.org/10.3390/ijerph7041467)
+- H.-J. Lenhart, D.K. Mills, H. Baretta-Bekker, S.M. van Leeuwen, J. van der Molen, J.W. Baretta, M. Blaas, X. Desmit, W. Kühn, **G. Lacroix**, H.J. Los, A. Ménesguen, R. Neves, R. Proctor, P. Ruardij, M.D. Skogen, A. Vanhoutte-Brunier, M.T. Villars, S.L. Wakelin, Predicting the consequences of nutrient reduction on the eutrophication status of the North Sea, *Journal of Marine Systems*, 81, 1–2, 148-170. [DOI](https://doi.org/10.1016/j.jmarsys.2009.12.014)
+- M. Savina, **G. Lacroix**, K. Ruddick, Modelling the transport of common sole larvae in the southern North Sea: Influence of hydrodynamics and larval vertical movements, *Journal of Marine Systems*, 81, 1–2, 86-98. [DOI](https://doi.org/10.1016/j.jmarsys.2009.12.008)
 - J. Zhang, B. Liang, H. Li, Numerical simulation of wave-induced current with vertically varied radiation stress, *Journal of Hydrodynamics*, 22, 2, 254-259. [DOI](https://doi.org/10.1016/S1001-6058(09)60052-4)
+- M. Mestres, J.P. Sierra, C. Mösso, A. Sánchez-Arcilla, Modelling the sensitivity to various factors of shipborne pollutant discharges, *Environmental Modelling & Software*, 25, 3, 333-343. [DOI](https://doi.org/10.1016/j.envsoft.2009.08.006)
+- U. Gräwe, J.-O. Wolff, J. Ribbe, Impact of climate variability on an east Australian bay, *Estuarine, Coastal and Shelf Science*, 86, 2, 247-257. [DOI](https://doi.org/10.1016/j.ecss.2009.11.020)
 - N. Guillou, G. Chapalain, Storm waves-induced resuspensions of seabed sediments in the Dover Strait: Comparison of modelling results with measurements, *European Journal of Environmental and Civil Engineering*, 14, 2, 163-179. [DOI](https://doi.org/10.1080/19648189.2010.9693210)
 
 ### 2009
