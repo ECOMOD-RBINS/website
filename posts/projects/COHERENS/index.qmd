@@ -89,7 +89,7 @@ Coming soon.
 - S. Afsharian, P.A. Taylor, On the potential impact of Lake Erie wind farms on water temperatures and mixed-layer depths: Some preliminary 1-D modeling using COHERENS, *Journal of Geophysical Research: Oceans*, 124, 3, 1736-1749. [DOI]( https://doi.org/10.1029/2018JC014577)
 
 ### 2018
-- J. Kämp, On the dynamics of canyon–flow interactions, *Marine Science and Engineering*, 6, 4, 129. [DOI](https://doi.org/10.3390/jmse6040129)
+- J. Kämpf, On the dynamics of canyon–flow interactions, *Marine Science and Engineering*, 6, 4, 129. [DOI](https://doi.org/10.3390/jmse6040129)
 - S.H. Gharbi, A.M. Albarakati, M.A. Alsaafani, Saheed P.P., T.M. Alraddadi, Simulation of tidal hydrodynamics in the Red Sea using COHERENS model, *Regional Studies in Marine Science*, 22, 49-60. [DOI](https://doi.org/10.1016/j.rsma.2018.05.007)
 - L. Tuomi, E. Miettunen, P. Alenius, K. Myrberg, Evaluating hydrography, circulation and transport in a coastal archipelago using a high-resolution 3D hydrodynamic model, *Journal of Marine Systems*, 180, 24-36. [DOI](ttps://doi.org/10.1016/j.jmarsys.2017.12.006)
 - **G. Lacroix**, **L. Barbut**, F.A.M. Volckaert, Complex effect of projected sea temperature and wind change on flatfish dispersal, *Global Change Biology*, 24, 1, 85-100. [DOI](https://doi.org/10.1111/gcb.13915)
