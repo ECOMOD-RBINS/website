@@ -5,7 +5,6 @@ author: ""
 date: ""
 categories: [Modeling]
 image: "images/illustration.jpg"
-priority: 1
 
 execute:
   echo: false
@@ -173,34 +172,67 @@ associated with its niche selection: a case study in the Gulf of Finland, the Ba
 - N. Guillou, G. Chapalain, Storm waves-induced resuspensions of seabed sediments in the Dover Strait: Comparison of modelling results with measurements, *European Journal of Environmental and Civil Engineering*, 14, 2, 163-179. [DOI](https://doi.org/10.1080/19648189.2010.9693210)
 
 ### 2009
+- **S. Ponsar**, P. Luyten, Data assimilation with the EnKF in a 1-D numerical model of a North Sea station, *Ocean Dynamics*, 59, 6, 983–996. [DOI](https://doi.org/10.1007/s10236-009-0224-3)
 - U. Gräwe, J.-O. Wolff, J. Ribbe, Mixing, hypersalinity and gradients in Hervey Bay, Australia, *Ocean Dynamics*, 59, 5, 643-658. [DOI](https://doi.org/10.1007/s10236-009-0195-4)
+- K.-Y. Heo, J.-W. Lee, K.-J. Ha, K.-C. Jun, K.-S. Park, J.-I. Kwon, Simulation of atmospheric states for a storm surge on the west coast of Korea: model comparison between MM5, WRF and COAMPS, *Natural Hazards*, 51, 1, 151–162. [DOI](https://doi.org/10.1007/s11069-009-9395-y)
+- D. Marinov, S. Dueri, I. Puillat, R. Carafa, E. Jurado, N. Berrojalbiz, J. Dachs, J.-M. Zaldívar, Integrated modelling of Polycyclic Aromatic Hydrocarbons in the marine environment: Coupling of hydrodynamic, fate and transport, bioaccumulation and planktonic food-web models, *Marine Pollution Bulletin*, 58, 10, 1554-1561. [DOI](https://doi.org/10.1016/j.marpolbul.2009.05.009)
+- S. Dueri, I. Dahllöf, M. Hjorth, D. Marinov, J.M. Zaldívar, Modeling the combined effect of nutrients and pyrene on the plankton population: Validation using mesocosm experiment data and scenario analysis, *Ecological Modelling*, 220, 17, 2060-2067. [DOI](https://doi.org/10.1016/j.ecolmodel.2009.04.052)
 - N. Guillou, G. Chapalain, L. Thais, Three-dimensional modeling of tide-induced suspended transport of seabed multicomponent sediments in the eastern English Channel, *Journal of Geophysical Research: Oceans*, 114, C07025. [DOI](https://doi.org/10.1029/2008JC004791)
+- T. Van Oyen, P. Blondeaux, Tidal sand wave formation: Influence of graded suspended sediment transport, *Journal of Geophysical Research: Oceans*, 114, C07004. [DOI](https://doi.org/10.1029/2008JC005136)
+- J. Kämpf, Impacts of blending on dilution of negatively buoyant brine discharge in a shallow tidal sea, *Marine Pollution Bulletin*, 58, 7, 1032-1038. [DOI](https://doi.org/10.1016/j.marpolbul.2009.02.009)
 - N. Li, Z. Mao, Q. Zhang, The impact of physical processes on pollutant transport in Hangzhou Bay, *Chinese Journal of Oceanology and Limnology*, 27, 2, 266-276. [DOI](https://doi.org/10.1007/s00343-009-9118-y)
+- S. Dueri, J. Castro-Jiménez, J.-M. Zaldívar, Modelling the influence of thermal stratification and complete mixing on the distribution and fluxes of polychlorinated biphenyls in the water column of Ispra Bay (Lake Maggiore), *Chemosphere*, 75, 9, 1266-1272. [DOI](https://doi.org/10.1016/j.chemosphere.2009.01.066)
+- J.F. Lopes, A.C. Cardoso, M.T. Moita, A.C. Rocha, J.A. Ferreira, Modelling the temperature and the phytoplankton distributions at the Aveiro near coastal zone, Portugal, *Ecological Modelling*, 220, 7, 940-961. [DOI](https://doi.org/10.1016/j.ecolmodel.2008.11.024)
+- R. Carafa, D. Marinov, S. Dueri, J. Wollgast, G. Giordani, P. Viaroli, J.-M. Zaldívar, A bioaccumulation model for herbicides in Ulva rigida and Tapes philippinarum in Sacca di Goro lagoon (Northern Adriatic), *Chemosphere*, 74, 8, 1044-1052. [DOI](https://doi.org/10.1016/j.chemosphere.2008.10.058)
 - J. Kämpf, C. Brokensha, T. Bolton, Hindcasts of the fate of desalination brine in large inverse estuaries: Spencer Gulf and Gulf St. Vincent, South Australia, *Desalination and Water Treatment*, 2, 1-3, 335-344. [DOI](https://doi.org/10.5004/dwt.2009.264)
+- J. Bendtsen, K.E. Gustafsson, J. Söderkvist, J.L.S. Hansen, Ventilation of bottom water in the North Sea–Baltic Sea transition zone, *Journal of Marine Systems*, 75, 1–2, 138-149. [DOI](https://doi.org/10.1016/j.jmarsys.2008.08.006)
+- J. Kämpf, On the interaction of time-variable flows with a shelfbreak canyon, *Journal of Physical Oceanography*, 39, 1, 248-260. [DOI](https://doi.org/10.1175/2008JPO3753.1)
+- M. Mestres, J.P. Sierra, A. Pascual, C. Mösso, J. González del Río, M. Rodilla, Bacterial pollution in Cullera Bay (Spanish Mediterranean coast), *Journal of Coastal Research*, SI56, 861-865. [JSTOR](https://www.jstor.org/stable/25737701)
 
 ### 2008
+- D. Marinov, J. M. Zaldívar, A. Norro, G. Giordani, P. Viaroli, Integrated modelling in coastal lagoons: Sacca di Goro case study, *Hydrobiologia*, 611, 147–165. [DOI](https://doi.org/10.1007/s10750-008-9451-8)
 - J. Ribbe, J.-O. Wolff, J. Staneva, U. Gräwe, Assessing water renewal time scales for marine environments from three-dimensional modelling: A case study for Hervey Bay, Australia, *Environmental Modelling & Software*, 23, 10-11, 1217-1228. [DOI](https://doi.org/10.1016/j.envsoft.2008.02.007)
+- J.L. Luick, J.B. Hinwood, Water levels in a dual-basin harbour in response to infragravity and edge waves, *Progress in Oceanography*, 77, 4, 367-375. [DOI](https://doi.org/10.1016/j.pocean.2006.04.002)
+- W. Willems, P. Goethals, D. Van den Eynde, G. Van Hoey, V. Van Lancker, E. Verfaillie, M. Vincx, S. Degraer, Where is the worm? Predictive modelling of the habitat preferences of the tube-building polychaete Lanice conchilega, *Ecological Modelling*, 212, 1–2, 74-79. [DOI](https://doi.org/10.1016/j.ecolmodel.2007.10.017)
 - B. Liang, H. Li, D. Lee, Bottom shear stress under wave-current interaction, *Journal of Hydrodynamics*, 20, 1, 88-95. [DOI](https://doi.org/10.1016/S1001-6058(08)60032-3)
+- V. Zintzen, A. Norro, C. Massin, J. Mallefet, Spatial variability of epifaunal communities from artificial habitat: Shipwrecks in the Southern Bight of the North Sea, *Estuarine, Coastal and Shelf Science*, 76, 2, 327-344. [DOI](https://doi.org/10.1016/j.ecss.2007.07.012)
+- V. Zintzen, A. Norro, C. Massin, J. Mallefet, Temporal variation of Tubularia indivisa (Cnidaria, Tubulariidae) and associated epizoites on artificial habitat communities in the North Sea, *Marine Biology*, 153, 405–420. [DOI](https://doi.org/10.1007/s00227-007-0819-5)
 
 ### 2007
 - L.-F. Lu, J.Z. Shi, The dispersal processes within the tide-modulated Changjiang River plume, China, *Numerical Methods in Fluids*, 55, 12, 1143-1155. [DOI](https://doi.org/10.1002/fld.1520)
+- J. Kämpf, On the magnitude of upwelling fluxes in shelf-break canyons, *Continental Shelf Research*, 27, 17, 2211-2223. [DOI](https://doi.org/10.1016/j.csr.2007.05.010)
+- K.E. Gustafsson, J. Bendtsen, Elucidating the dynamics and mixing agents of a shallow fjord through age tracer modelling, *Estuarine, Coastal and Shelf Science*, 74, 4, 641-654. [DOI](https://doi.org/10.1016/j.ecss.2007.05.023)
+- M. Mestres, J.P. Sierra, A. Sánchez-Arcilla, Factors influencing the spreading of a low-discharge river plume, *Continental Shelf Research*, 27, 16, 2116-2134. [DOI](https://doi.org/10.1016/j.csr.2007.05.008)
+- P.A. Sandery, J. Kämpf, Transport timescales for identifying seasonal variation in Bass Strait, south-eastern Australia, *Estuarine, Coastal and Shelf Science*, 74, 4, 684-696. [DOI](https://doi.org/10.1016/j.ecss.2007.05.011)
 - B. Liang, H. Li, D. Lee, Numerical study of three-dimensional suspended sediment transport in waves and currents, *Ocean Engineering*, 34, 11-12, 1569-1583. [DOI](https://doi.org/10.1016/j.oceaneng.2006.12.002)
-- **G. Lacroix**, K. Ruddick, N. Gypens, C. Lancelot, Modelling the relative impact of rivers (Scheldt/Rhine/Seine) and Western Channel waters on the nutrient and diatoms/Phaeocystis distributions in Belgian waters (Southern North Sea), *Continental Shelf Research*, 27, 10-11, 1422-1446. [DOI](https://doi.org/10.1016/j.csr.2007.01.013)
-- M. Mestres, A. Sánchez-Arcilla, J. P. Sierra, Modeled Dynamics of a Small-scale River Plume under Different Forcing Conditions, *Journal of Coastal Research*, 10047, 84-96. [DOI](https://doi.org/10.2112/1551-5036-47.sp1.84)
 - X. Chen, L. Zhu, H. Zhang, Numerical simulation of summer circulation in the East China Sea and its application in estimating the sources of red tides in the Yangtze River estuary and adjacent sea areas, *Journal of Hydrodynamics*, 19, 3, 272-281. [DOI](https://doi.org/10.1016/S1001-6058(07)60059-6)
+- M. Fettweis, B. Nechad, D. Van den Eynde, An estimate of the suspended particulate matter (SPM) transport in the southern North Sea using SeaWiFS images, in situ measurements and numerical model results, *Continental Shelf Research*, 27, 10–11, 1568-1583.
+- **G. Lacroix**, K. Ruddick, N. Gypens, C. Lancelot, Modelling the relative impact of rivers (Scheldt/Rhine/Seine) and Western Channel waters on the nutrient and diatoms/Phaeocystis distributions in Belgian waters (Southern North Sea), *Continental Shelf Research*, 27, 10-11, 1422-1446. [DOI](https://doi.org/10.1016/j.csr.2007.01.013)
+- M. Mestres, A. Sánchez-Arcilla, J. P. Sierra, Modeled dynamics of a small-scale river plume under different forcing conditions, *Journal of Coastal Research*, 10047, 84-96. [DOI](https://doi.org/10.2112/1551-5036-47.sp1.84)
+- M. Mestres, J.P. Sierra, A. Sánchez-Arcilla, Baroclinic and wind-induced circulation in Tarragona harbour (northeastern Spain), *Scientia Marina*, 71, 2, 223-238. [DOI](https://doi.org/10.3989/scimar.2007.71n2223)
+- A. Sánchez-Arcilla, C. Mösso, M. Mestres, L. Cupul, J.P. Sierra, M. Rodilla, I. Romero, J. González del Río, Hydrodynamics of a coastal bay: Natural and man-made barriers, *Journal of Coastal Research*, SI47, 2-16. [JSTOR](https://www.jstor.org/stable/25737354)
+- J.P. Sierra, C. Mösso, J. Gonzalez del Río, M. Mestres, L. Cupul, A. Sánchez-Arcilla, M. Rodilla, S. Falco, I. Romero, D. González- Marco, J. Puigdefábregas, Sources and sinks of nutrients and pollutants in Cullera Bay, *Journal of Coastal Research*, SI47, 31-39. [JSTOR](https://www.jstor.org/stable/25737356)
 - E. Jurado, J.-M. Zaldívar, D. Marinov, J. Dachs, Fate of persistent organic pollutants in the water column: Does turbulent mixing matter? *Marine Pollution Bulletin*, 54, 4, 441-451. [DOI](https://doi.org/10.1016/j.marpolbul.2006.11.028)
 - **G. Lacroix**, K. Ruddick, Y. Park, N. Gypens, C. Lancelot, Validation of the 3D biogeochemical model MIRO&CO with field nutrient and phytoplankton data and MERIS-derived surface chlorophyll a images, *Journal of Marine Systems*, 64, 1-4, 66-88. [DOI](https://doi.org/10.1016/j.jmarsys.2006.01.010)
 
 ### 2006
+- M. Fettweis, F. Francken, V. Pison, D. Van den Eynde, Suspended particulate matter dynamics and aggregate sizes in a high turbidity area, *Marine Geology*, 235, 1–4, 63-74. [DOI](https://doi.org/10.1016/j.margeo.2006.10.005)
+- M. Mestres, A. Sánchez-Arcilla, J.P. Sierra, C. Mösso, P. Tagliani, O. Möller, L.F. Niencheski, Coastal bays as a sink for pollutants and sediment, *Journal of Coastal Research*, SI39, 1546-1550. [JSTOR](https://www.jstor.org/stable/25743015)
+- A. Pereira, P. Duarte, A. Norro, Different modelling tools of aquatic ecosystems: A proposal for a unified approach, *Ecological Informatics*, 1, 4, 407-421. [DOI](https://doi.org/10.1016/j.ecoinf.2006.09.004)
 - R. Carafa, D. Marinov, S. Dueri, J. Wollgast, J. Ligthart, E. Canuti, P. Viaroli, J.M. Zaldívar, A 3D hydrodynamic fate and transport model for herbicides in Sacca di Goro coastal lagoon (Northern Adriatic), *Marine Pollution Bulletin*, 52, 10, 1231-1248. [DOI](https://doi.org/10.1016/j.marpolbul.2006.02.025)
 - B. Liang, H. Li & D. Lee, Numerical study of wave effects on surface wind stress and surface mixing length by three-dimensional circulation modeling, *Journal of Hydrodynamics*, 18, 4, 397-404. [DOI](https://doi.org/10.1016/S1001-6058(06)60111-X)
+- J. Bendtsen, K.E. Gustafsson, J.K. Petersen, Modelling vertical mixing in the surface boundary layer using artificial age tracers, *Journal of Marine Systems*, 60, 1–2, 115-128. [DOI](https://doi.org/10.1016/j.jmarsys.2005.11.009)
 - D. Marinov, A. Norro, J.-M. Zaldívar, Application of COHERENS model for hydrodynamic investigation of Sacca di Goro coastal lagoon (Italian Adriatic Sea shore), *Ecological Modelling*, 193, 1-2, 52-68. [DOI](https://doi.org/10.1016/j.ecolmodel.2005.07.042)
 - J. Kämpf, M. Sadrinasab, The circulation of the Persian Gulf: a numerical study, *Ocean Science*, 2, 1, 27-41. [DOI](https://doi.org/10.5194/os-2-27-2006)
+
+### 2004
+- M. Sadrinasab, J. Kämpf, Three-dimensional flushing times of the Persian Gulf, *Geophysical Research Letters*, 31, L24301. [DOI](https://doi.org/10.1029/2004GL020425)
 - **G. Lacroix**, K. Ruddick, J. Ozer, C. Lancelot, Modelling the impact of the Scheldt and Rhine/Meuse plumes on the salinity distribution in Belgian waters (southern North Sea), *Journal of Sea Research*, 52, 3, 149-163. [DOI](https://doi.org/10.1016/j.seares.2004.01.003)
+- É.J.M Delhez, P. Damm, E. de Goede, J.M. de Kok, F. Dumas, H. Gerritsen, J.E. Jones, J. Ozer, T. Pohlmann, P.S. Rasch, M. Skogen, R. Proctor, Variability of shelf-seas hydrodynamic models: lessons from the NOMADS2 Project, *Journal of Marine Systems*, 45, 1–2, 39-53. [DOI](https://doi.org/10.1016/j.jmarsys.2003.09.003)
 
 ### 2003
+- P.J. Luyten, J.E. Jones, R. Proctor, A numerical study of the long- and short-term temperature variability and thermal circulation in the North Sea, *Journal of Physical Oceanography*, 33, 1, 37-56. [DOI](https://doi.org/10.1175/1520-0485(2003)033%3C0037:ANSOTL%3E2.0.CO;2)
 - A. Moll, G. Radach, Review of three-dimensional ecological modelling related to the North Sea shelf system: Part 1: models and their results, *Progress in Oceanography*, 57, 2, 175-217. [DOI](https://doi.org/10.1016/S0079-6611(03)00067-3)
 
 ### 2002
 - G. Umgiesser, P.J. Luyten, S. Carniel, Exploring the thermal cycle of the Northern North Sea area using a 3-D circulation model: the example of PROVESS NNS station, *Journal of Sea Research*, 48, 4, 271-286. [DOI](https://doi.org/10.1016/S1385-1101(02)00193-4)
-- J.-Y. Lee, P. Tett, K. Jones, S. Jones, P. Luyten, C. Smith, K. Wild-Allen, The PROWQM physical–biological model with benthic–pelagic coupling applied to the northern North Sea, *Journal of Sea Research*, 48, 4, 287-331. [DOI](https://doi.org/10.1016/S1385-1101(02)00182-X)

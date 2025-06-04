@@ -1,10 +1,14 @@
 [
   {
+    "listing": "/activities.html",
+    "items": []
+  },
+  {
     "listing": "/projects.html",
     "items": [
-      "/posts/projects/COHERENS/index.html",
       "/posts/projects/CSU/index.html",
       "/posts/projects/CLIMDIS/index.html",
+      "/posts/projects/COHERENS/index.html",
       "/posts/projects/COST-SEA-UNICORN/index.html",
       "/posts/projects/DEHEAT/index.html",
       "/posts/projects/ECOMPV/index.html",
@@ -17,10 +21,6 @@
       "/posts/projects/SWIM/index.html",
       "/posts/projects/SYMAPA/index.html"
     ]
-  },
-  {
-    "listing": "/activities.html",
-    "items": []
   },
   {
     "listing": "/publications.html",
