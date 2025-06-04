@@ -6,8 +6,7 @@ format:
 resources: # source info https://quarto.org/docs/websites/website-tools.html#site-resources based on https://github.com/quarto-dev/quarto-cli/discussions/7306
     - posts/projects/CLIMDIS/images/CLIMDIS_HaLongBay.png
     - posts/projects/SHRIMP-II/images/SHRIMP_Nokoue.png
-    - images/Lake_Lanalhue_Chile.png
-    - images/Tools.jpg
+    - images/homepage/Lake_Lanalhue_Chile.png
 ---
 
 # Marine Ecosystem Modelling (ECOMOD)
@@ -19,14 +18,14 @@ resources: # source info https://quarto.org/docs/websites/website-tools.html#sit
 ECOMOD is part of the [ECODAM](https://www.naturalsciences.be/nl/wetenschap/onderzoek/research-teams/ecosystems-data-processing-and-modelling-ecodam) (Ecosystems, data processing and modelling) group of the Operational Directorate Natural Environment ([OD Nature](https://odnature.naturalsciences.be/home/)) within the Institute of Natural Sciences.
 :::
 ::: {.column width="45%"}
-![](images/ECOMOD_Team.jpg){fig-align="right" width="450"}
+![](images/homepage/ECOMOD_Team.jpg){fig-align="right" width="450"}
 :::
 ::::
 
 ## About
 
 ::: image-container
-![](images/NorthSea.webp)
+![](images/homepage/NorthSea.webp)
 
 ::: image-overlay-text
 **ECOMOD** focuses on aquatic ecosystems and how these relate to societal matters and has a strong expertise in the development and use of marine ecosystems modelling tools to support the management of the marine environment, particularly for Belgian waters, but also the Southern Ocean, Benin and Vietnam.
@@ -36,7 +35,7 @@ ECOMOD is part of the [ECODAM](https://www.naturalsciences.be/nl/wetenschap/onde
 <!--- Pictogrammes --->
 {{< include custom_html/vision-component.html >}}
 
-![](images/Tools.jpg){height=50} Modelling tools
+![](images/homepage/tools.png){height=40} Modelling tools
 --- 
 
 ::: large-text
@@ -51,16 +50,16 @@ To achieve our goals, we are developing and using different types of models (hyd
     -   [**Demeter**](https://github.com/ogourgue/demeter): The Multiscale biogeomorphic modeling framework
     -   [**TidalGeoPro**](https://github.com/ogourgue/tidalgeopro): A Python package to analyze geometric and hydraulic properties of tidal channels
     -   [**VFC**](https://github.com/ogourgue/vfc): A vegetation/Flow Convolution Python module
-    -   [**UVPec**](https://zenodo.org/records/10694204): Underwater Vision Profiler Embedded Classifier
+    -   [**UVPec**](https://pypi.org/project/uvpec/): Underwater Vision Profiler Embedded Classifier
 
 -   ECOMOD is **using modelling tools** such as [**Parcels**](https://oceanparcels.org/index.html), for particle tracking simulations.
 :::
 ::: {.column style="width=40%; padding-left: 15px"}
-![](images/COHERENS_Modelling_System_Applications.png){width="400"}
+![](images/homepage/COHERENS_Modelling_System_Applications.png){width="400"}
 :::
 ::::
 
-![](images/Capacity_Building.jpg){height=60} Support, training and capacity building
+![](images/homepage/capacity_building.png){height=50} Support, training and capacity building
 ---
 
 ::: large-text
@@ -70,7 +69,7 @@ The team **provides support to users** and is involved in **capacity building** 
 <!--- Carousel --->
 {{< include custom_html/carousel.html >}}
 
-![](images/Applications.jpg){height=50} Domain of expertise and applications
+![](images/homepage/applications.png){height=50} Domain of expertise and applications
 ---
 
 ### To Update (simplify text & include it in the different tabs) - Need pictures representing different applications with self-explaining captions
@@ -108,7 +107,7 @@ The marine models are used to:
 
 Link to the tab "Activities"?
 
-![](images/Contact.jpg){height=40 width=40} Contact
+![](images/homepage/Contact.jpg){height=40 width=40} Contact
 ---
 
 
@@ -121,5 +120,5 @@ If you want to:
 Don't hesitate to <span id="contact-link">contact us</span>.
 
 <script>
-document.getElementById('contact-link').innerHTML = '<a href="mailto:contact-ecomod@naturalsciences.be"><strong>contact us</strong></a>';
+document.getElementById('contact-link').innerHTML = '<a href="mailto:ecomod-contact@naturalsciences.be"><strong>contact us</strong></a>';
 </script>
