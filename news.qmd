@@ -1,6 +1,24 @@
 # ECOMOD latest updates
 
 ## May 2025
+### Liège colloquium (May, 26 - May, 30)
+
+This year's the [56th Liège Colloquium](https://www.ocean-colloquium.uliege.be/cms/c_14229949/en/international-liege-colloquium-on-ocean-dynamics?id=c_14229949&id=c_14229949), focused on Marine Carbon Dioxide Removal. Marine-based CDR techniques are gaining attention to achieve the CO2 removal necessary for climate stabilisation. The colloquium brought together experts from diverse disciplines to discuss marine CDR approaches' potential, feasibility, efficiency, risks, and the need for adequate monitoring and policy regulations. Arthur presented, as a co-author; a poster made by Keziah Pepiette and Sandra Arndt (ULB) exploring the response of benthic biogeochemistry to scenario of olivine enrichement, which is perceived as a technically tractable mean to enhance ocean alkalinity, and increase mare CO2 uptake.
+
+![](/images/news/liegecolloquium.jpg){width=400}
+
+### EuroGOOS General Assembly (May, 19 - May, 21)
+
+EuroGOOS held it's [2025 General Assembly](https://eurogoos.eu/download/2025-eurogoos-ga-doc-1-1-agenda/?wpdmdl=15015&refresh=68413e24ca86b1749106212) this 19-21 May 2025 in Helsinky. Arthur Capet took part, as co-chair of the Coastal Working Group, and to present recent analyses of the OceanPrediction [Atlas](https://www.unoceanprediction.org/en/atlas/models). 127 European operational ocean forecasting systems are already represented!
+
+![](/images/news/eurogoos.jpg){width=400}
+
+
+### North Sea Working Group (May, 1)
+
+During the last EGU Conference, ECOMOD colleagues and other scientists came together to initiate the creation of a North Sea Working Group. The aim is to strengthen networking across North Sea institutes, build consortia, share data and knowledge, and develop collaborative initiatives. Stay tuned!
+
+![Image : Andrea van Langen Rosón (VLIZ)](/images/news/northseaWG.jpg){width=400 fig-align="left"}
 
 ### EGU General Assembly 2025 (Apr, 27 - May, 2)
 
