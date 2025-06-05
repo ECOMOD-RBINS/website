@@ -133,6 +133,7 @@ Coming soon.
 - J.F. Lopes, J.A. Ferreira, A.C. Cardoso, A.C. Rocha, Variability of temperature and chlorophyll of the Iberian Peninsula near costal ecosystem during an upwelling event for the present climate and a future climate scenario, *Journal of Marine Systems*, 129, 271-288. [DOI](https://doi.org/10.1016/j.jmarsys.2013.07.002)
 
 ### 2013
+- P. Passy, N. Gypens, G. Billen, J. Garnier, V. Thieu, V. Rousseau, J. Callens, J.-Y. Parent, C. Lancelot, A model reconstruction of riverine nutrient fluxes and eutrophication in the Belgian Coastal Zone since 1984, *Journal of Marine Systems*, 128, 106-122. [DOI](https://doi.org/10.1016/j.jmarsys.2013.05.005)
 - J. Hinwood, J. Luick, Closed basin modes of a dual basin harbour, *Pure and Applied Geophysics*, 170, 11, 1881–1897. [DOI](https://doi.org/10.1007/s00024-012-0611-4)
 - **G. Lacroix**, G.E. Maes, L.J. Bolle, F.A.M. Volckaert, Modelling dispersal dynamics of the early life stages of a marine flatfish (Solea solea L.), *Journal of Sea Research*, 84, 13-25. [DOI](https://doi.org/10.1016/j.seares.2012.07.010)
 - J. Bendtsen, J.L.S. Hansen, A model of life cycle, connectivity and population stability of benthic macro-invertebrates in the North Sea/Baltic Sea transition zone, *Ecological Modelling*, 267, 54-65. [DOI](https://doi.org/10.1016/j.ecolmodel.2013.07.012)
@@ -151,7 +152,7 @@ associated with its niche selection: a case study in the Gulf of Finland, the Ba
 - N. Guillou, G. Chapalain, Modeling the tide-induced modulation of wave Height in the outer Seine estuary, *Journal of Coastal Research*, 28, 3, 613-623. [DOI](https://doi.org/10.2112/JCOASTRES-D-11-00075.1)
 - S. Hassanzadeh, F. Hosseinibalam, A. Rezaei-Latifi, Three-dimensional numerical modeling of the water exchange between the Persian Gulf and the Gulf of Oman through the Strait of Hormuz, *Oceanological and Hydrobiological Studies*, 41, 1, 85-98. [DOI](https://doi.org/10.2478/s13545-012-0010-6)
 - B. Liang, H. Zhao, H. Li, G. Wu, Numerical study of three-dimensional wave-induced longshore current’s effects on sediment spreading of the Huanghe River mouth, *Acta Oceanologica Sinica*, 31, 2, 129-138. [DOI](https://doi.org/10.1007/s13131-012-0199-7)
-- G. Zeng, J. Hu, H. Hong, Y. Qi, Numerical Study on M2 Tidal System in the Taiwan Strait, *Procedia Environmental Sciences*, 12, A, 702-707. [DOI](https://doi.org/10.1016/j.proenv.2012.01.337)
+- G. Zeng, J. Hu, H. Hong, Y. Qi, Numerical study on M2 tidal system in the Taiwan Strait, *Procedia Environmental Sciences*, 12, A, 702-707. [DOI](https://doi.org/10.1016/j.proenv.2012.01.337)
 
 ### 2011
 - N. Guillou, G. Chapalain, P. Sergent, Effects of the tide-induced water levels and currents on the wave heights in the Seine estuary, *La Houille Blanche*, 97, 6, 49-55. [DOI](https://doi.org/10.1051/lhb/2011061)
@@ -161,6 +162,7 @@ associated with its niche selection: a case study in the Gulf of Finland, the Ba
 - J.Z. Shi, L.-F. Lu, A short note on the dispersion, mixing, stratification and circulation within the plume of the partially-mixed Changjiang River estuary, China, *Journal of Hydro-environment Research*, 5, 2, 111-126. [DOI](https://doi.org/10.1016/j.jher.2010.06.002)
 - S. Hassanzadeh, F. Hosseinibalam, A. Rezaei-Latifi, Numerical modelling of salinity variations due to wind and thermohaline forcing in the Persian Gulf, *Applied Mathematical Modelling*, 35, 3, 1512-1537. [DOI](https://doi.org/10.1016/j.apm.2010.09.029)
 - J.M. Zaldívar, D. Marinov, S. Dueri, J. Castro-Jiménez, C. Micheletti, A.P. Worth, An integrated approach for bioaccumulation assessment in mussels: Towards the development of Environmental Quality Standards for biota, *Ecotoxicology and Environmental Safety*, 74, 3, 244-252. [DOI](https://doi.org/10.1016/j.ecoenv.2010.10.025)
+- N. Gypens, **G. Lacroix**, C. Lancelot, A.V. Borges, Seasonal and inter-annual variability of air–sea CO2 fluxes and seawater carbonate chemistry in the Southern North Sea, *Progress in Oceanography*, 88, 1–4, 59-77. [DOI](https://doi.org/10.1016/j.pocean.2010.11.004)
 - X. Sun, H. Bian, C. Luo, J. Li, L. Wang, Numerical simulation of seasonal variation of temperature in the Bohai Sea, *Procedia Environmental Sciences*, 10, C, 1914-1919. [DOI](https://doi.org/10.1016/j.proenv.2011.09.300)
 
 ### 2010
