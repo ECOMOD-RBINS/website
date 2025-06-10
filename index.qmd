@@ -1,5 +1,5 @@
 ---
-title: "!!! IN CONSTRUCTION !!!"
+title: ""
 format:
   html:
     css: styles.css
@@ -72,7 +72,7 @@ The team **provides support to users** and is involved in **capacity building** 
 ![](images/homepage/applications.png){height=50} Domain of expertise and applications
 ---
 
-### To Update (simplify text & include it in the different tabs) - Need pictures representing different applications with self-explaining captions
+<!-- ### To Update (simplify text & include it in the different tabs) - Need pictures representing different applications with self-explaining captions
 
 The marine models are used to:
 
@@ -89,13 +89,14 @@ The marine models are used to:
 
 -   Testing management options, advising on mitigation scenarios<br />
     *Oyster bed restoration, river loads reduction scenarios, monitoring options (reduce costs)*
+-->
 
 ::: {.panel-tabset}
-## Application_1
+## Application1
 ![](posts/projects/SHRIMP-II/images/shrimp.jpg){fig-align="right" width="400"}
 *Caption 1*
 
-## Application_2
+## Application2
 ![](posts/projects/CLIMDIS/images/Halong_Bay.jpg){fig-align="right" width="400"}
 *Caption 2*
 :::
@@ -105,19 +106,18 @@ The marine models are used to:
 
 :::
 
-Link to the tab "Activities"?
+<!-- Link to the tab "Activities"? -->
 
 ![](images/homepage/Contact.jpg){height=40 width=40} Contact
 ---
 
+If you would like to:
 
-If you want to:
+- **Learn more about our research activities** – Explore our current projects, publications, and scientific contributions
+- **Utilize our research tools and methodologies** – Access our datasets, protocols, and analytical frameworks
+- **Establish new research collaborations** – Connect with our team to discuss joint projects and partnerships
 
-- Learn more about our activities
-- Make use of one of our tools
-- Set up new collaborations
-
-Don't hesitate to <span id="contact-link">contact us</span>.
+<span id="contact-link">Contact us</span> to discuss how we can work together.
 
 <script>
 document.getElementById('contact-link').innerHTML = '<a href="mailto:ecomod-contact@naturalsciences.be"><strong>contact us</strong></a>';
