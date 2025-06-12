@@ -90,14 +90,21 @@ The marine models are used to:
     *Oyster bed restoration, river loads reduction scenarios, monitoring options (reduce costs)*
 -->
 
+
 ::: {.panel-tabset}
+
 ## Lake Nokoué, Benin
+
 ![](posts/projects/SHRIMP-II/images/shrimp.jpg){width="400"}
-*Enhance the understanding and sustainable management of coastal aquatic resources in the lake Nokoué-Cotonou Channel region.*
+
+*Enhance the understanding and sustainable management of coastal aquatic resources in the Lake Nokoué-Cotonou Channel region.*
 
 ## Ha Long Bay, Vietnam
+
 ![](posts/projects/CLIMDIS/images/Halong_Bay.jpg){width="400"}
-*Understanding of the extent of the impact of pollutants and the effects of human activity and climate change on the water quality in Ha Long Bay.*
+
+*Understanding the extent of the impact of pollutants and the effects of human activity and climate change on water quality in Ha Long Bay.*
+
 :::
 
 ::: large-text
@@ -116,7 +123,7 @@ If you would like to:
 - **Utilize our research tools and methodologies** – Access our datasets, protocols, and analytical frameworks
 - **Establish new research collaborations** – Connect with our team to discuss joint projects and partnerships
 
-<span id="contact-link">Contact us</span> to discuss how we can work together.
+Don't hesitate to <span id="contact-link">contact us</span>!
 
 <script>
 document.getElementById('contact-link').innerHTML = '<a href="mailto:ecomod-contact@naturalsciences.be"><strong>contact us</strong></a>';
