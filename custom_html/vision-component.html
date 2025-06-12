@@ -6,17 +6,17 @@
     gap: 20px;
     margin: 20px 0;
   }
-  
+
   .vision-item {
     text-align: center;
     cursor: pointer;
     transition: transform 0.2s ease;
   }
-  
+
   .vision-item:hover {
     transform: scale(1.05);
   }
-  
+
   .vision-item img {
     width: 100%;
     max-width: 150px;
@@ -24,13 +24,13 @@
     border-radius: 8px;
     box-shadow: 0 2px 8px rgba(0,0,0,0.1);
   }
-  
+
   .vision-item p {
     margin-top: 10px;
     font-style: italic;
     font-weight: bold;
   }
-  
+
   .modal {
     display: none;
     position: fixed;
@@ -41,7 +41,7 @@
     height: 100%;
     background-color: rgba(0,0,0,0.5);
   }
-  
+
   .modal-content {
     background-color: white;
     margin: 5% auto;
@@ -52,7 +52,7 @@
     position: relative;
     box-shadow: 0 4px 20px rgba(0,0,0,0.3);
   }
-  
+
   .close {
     color: #aaa;
     float: right;
@@ -63,11 +63,11 @@
     right: 15px;
     top: 10px;
   }
-  
+
   .close:hover { color: #000; }
-  
+
   .modal-title {
-    color: #2c3e50; 
+    color: #2c3e50;
     margin-bottom: 20px;
     border-bottom: 2px solid #3498db;
     padding-bottom: 10px;
@@ -76,17 +76,17 @@
 
 <div class="vision-container">
     <div class="vision-item" onclick="openModal('visionModal')">
-        <img src="images/homepage/Vision.png" alt="Vision">
+        <img src="images/homepage/Picto_Vision.png" alt="Vision">
         <p>Our Vision</p>
     </div>
-    
+
     <div class="vision-item" onclick="openModal('missionModal')">
-        <img src="images/homepage/Mission.png" alt="Mission">
+        <img src="images/homepage/Picto_Mission.png" alt="Mission">
         <p>Our Mission</p>
     </div>
-    
+
     <div class="vision-item" onclick="openModal('objectivesModal')">
-        <img src="images/homepage/Objectives.png" alt="Objectives">
+        <img src="images/homepage/Picto_Objectives.png" alt="Objectives">
         <p>Our Objectives</p>
     </div>
 </div>
@@ -95,10 +95,9 @@
 <div id="visionModal" class="modal">
     <div class="modal-content">
         <span class="close" onclick="closeModal('visionModal')">&times;</span>
-        <h2 class="modal-title">Our Vision - TO UPDATE</h2>
+        <h2 class="modal-title">Our Vision</h2>
         <div class="modal-text">
-             <img src="images/homepage/Vision_ChatGPT_1.png" alt="Vision" style="width: 100%; max-width: 400px; margin-bottom: 15px; border-radius: 8px;">
-            <p>"<b>Through these advanced modeling techniques, we're better equipped to understand and protect our ocean's complex ecosystems, ensuring their preservation for future generations.</b>"</p>
+             <img src="images/homepage/Vision.png" alt="Vision" style="width: 100%; max-width: 500px; margin-bottom: 15px; border-radius: 8px;">
         </div>
     </div>
 </div>
@@ -106,12 +105,14 @@
 <div id="missionModal" class="modal">
     <div class="modal-content">
         <span class="close" onclick="closeModal('missionModal')">&times;</span>
-        <h2 class="modal-title">Our Mission - TO UPDATE</h2>
+        <h2 class="modal-title">Our Mission</h2>
         <div class="modal-text">
             <ul>
-                <li>To provide excellent and relevant sciences in marine ecosystems</li>
-                <li>To provide support & advices to public authorities & scientific community</li>
-                <li>To vulgarise and disseminate sciences</li>
+                <li>Improve scientific knowledge in marine ecosystems through interdisciplinary research</li>
+                <li>Support and advise stakeholders</li>
+                <li>Disseminate science and raise public awareness</li>
+                <li>Develop open-source numerical models and community tools</li>
+                <li>Manage RBINS' Research Infrastructure COHERENS</li>
             </ul>
         </div>
     </div>
@@ -120,7 +121,7 @@
 <div id="objectivesModal" class="modal">
     <div class="modal-content">
         <span class="close" onclick="closeModal('objectivesModal')">&times;</span>
-        <h2 class="modal-title">Our Strategic Objectives - TO UPDATE</h2>
+        <h2 class="modal-title">Our Strategic Objectives</h2>
         <div class="modal-text">
             <ul>
                 <li>To provide <b>stakeholders</b> with <b>scientifically-based advice as support to marine management</b>, in order to cope with a changing environment due to anthropogenic pressures, to use of natural resources in a sustainable way and to cope with environmental risks</li>

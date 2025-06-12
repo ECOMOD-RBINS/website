@@ -24,13 +24,9 @@ ECOMOD is part of the [ECODAM](https://www.naturalsciences.be/nl/wetenschap/onde
 
 ## About
 
-::: image-container
-![](images/homepage/NorthSea.webp)
 
-::: image-overlay-text
-**ECOMOD** focuses on aquatic ecosystems and how these relate to societal matters and has a strong expertise in the development and use of marine ecosystems modelling tools to support the management of the marine environment, particularly for Belgian waters, but also the Southern Ocean, Benin and Vietnam.
-:::
-:::
+![](images/homepage/About.png){width="1000"}
+
 
 <!--- Pictogrammes --->
 {{< include custom_html/vision-component.html >}}
@@ -58,6 +54,9 @@ To achieve our goals, we are developing and using different types of models (hyd
 ![](images/homepage/COHERENS_Modelling_System_Applications.png){width="400"}
 :::
 ::::
+
+<p>"<b>Through these advanced modelling techniques, we're better equipped to understand and protect our ocean's complex ecosystems, ensuring their preservation for future generations.</b>"</p>
+
 
 ![](images/homepage/capacity_building.png){height=50} Support, training and capacity building
 ---
@@ -92,13 +91,13 @@ The marine models are used to:
 -->
 
 ::: {.panel-tabset}
-## Application1
-![](posts/projects/SHRIMP-II/images/shrimp.jpg){fig-align="right" width="400"}
-*Caption 1*
+## Lake Nokoué, Benin
+![](posts/projects/SHRIMP-II/images/shrimp.jpg){width="400"}
+*Enhance the understanding and sustainable management of coastal aquatic resources in the lake Nokoué-Cotonou Channel region.*
 
-## Application2
-![](posts/projects/CLIMDIS/images/Halong_Bay.jpg){fig-align="right" width="400"}
-*Caption 2*
+## Ha Long Bay, Vietnam
+![](posts/projects/CLIMDIS/images/Halong_Bay.jpg){width="400"}
+*Understanding of the extent of the impact of pollutants and the effects of human activity and climate change on the water quality in Ha Long Bay.*
 :::
 
 ::: large-text
