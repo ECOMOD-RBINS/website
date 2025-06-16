@@ -293,15 +293,15 @@
   
   <div class="profile-card">
     <div class="profile-image">
-      <img src="images/NTL.jpg" alt="Nathan Terseleer Lillo">
+      <img src="images/NTL.jpg" alt="Nathan Terseleer">
     </div>
     <h3 class="profile-name">
       <span class="first-name">Nathan</span>
-      <span class="last-name">Terseleer Lillo</span>
+      <span class="last-name">Terseleer</span>
     </h3>
-    <p class="profile-title">TEP Lover</p>
+    <p class="profile-title">Model Whisperer</p>
     <div class="profile-links">
-      <a href="mailto:nathan.terseleerlillo@naturalsciences.be?"><i class="fa-solid fa-envelope"></i></a>
+      <a href="mailto:nterseleer@naturalsciences.be?"><i class="fa-solid fa-envelope"></i></a>
       <a href="https://github.com/nterseleer"><i class="fa-brands fa-github"></i></a>
       <a href="https://orcid.org/0000-0001-6484-1413"><i class="fa-brands fa-orcid"></i></a>
       <a href=""><i class="fa-brands fa-linkedin"></i></a>
