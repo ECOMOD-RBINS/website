@@ -293,7 +293,9 @@
   
   <div class="profile-card">
     <div class="profile-image">
-      <img src="images/NTL.jpg" alt="Nathan Terseleer">
+      <a href="/posts/members/NTL">
+        <img src="images/NTL.jpg" alt="Nathan Terseleer">
+      </a>
     </div>
     <h3 class="profile-name">
       <span class="first-name">Nathan</span>
