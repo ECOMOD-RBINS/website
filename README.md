@@ -39,13 +39,13 @@
 Please check what has already been done on the website and use the same template/structure in your files.
 
 ### Add a new project
-- Go to `/posts/projects/` 
+- Go to `/projects/` 
 - Create a new folder with the name of your project
 - In the folder, create a new file called `index.qmd`. This file should start with a snipped of YAML code (between --- YAML DATA ---). Below this, just write some markdown and you are good to go.
 - In the folder, create a new folder called `images` to put the logo of your project or any images or figures you would like to share.
 
 ### Add a new activity
-- Go to `/posts/activities/` 
+- Go to `/activities/` 
 - Follow the same instructions as for new projects
 
 ### Add some news
