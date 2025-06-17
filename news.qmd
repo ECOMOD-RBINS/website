@@ -1,6 +1,24 @@
 # ECOMOD latest updates
 
 ## May 2025
+### Liège colloquium (May, 26 - May, 30)
+
+This year's the [56th Liège Colloquium](https://www.ocean-colloquium.uliege.be/cms/c_14229949/en/international-liege-colloquium-on-ocean-dynamics?id=c_14229949&id=c_14229949), focused on Marine Carbon Dioxide Removal. Marine-based CDR techniques are gaining attention to achieve the CO2 removal necessary for climate stabilisation. The colloquium brought together experts from diverse disciplines to discuss marine CDR approaches' potential, feasibility, efficiency, risks, and the need for adequate monitoring and policy regulations. Arthur presented, as a co-author; a poster made by Keziah Pepiette and Sandra Arndt (ULB) exploring the response of benthic biogeochemistry to scenario of olivine enrichement, which is perceived as a technically tractable mean to enhance ocean alkalinity, and increase mare CO2 uptake.
+
+![](/images/news/liegecolloquium.jpg){width=400}
+
+### EuroGOOS General Assembly (May, 19 - May, 21)
+
+EuroGOOS held it's [2025 General Assembly](https://eurogoos.eu/download/2025-eurogoos-ga-doc-1-1-agenda/?wpdmdl=15015&refresh=68413e24ca86b1749106212) this 19-21 May 2025 in Helsinky. Arthur Capet took part, as co-chair of the Coastal Working Group, and to present recent analyses of the OceanPrediction [Atlas](https://www.unoceanprediction.org/en/atlas/models). 127 European operational ocean forecasting systems are already represented!
+
+![](/images/news/eurogoos.jpg){width=400}
+
+
+### North Sea Working Group (May, 1)
+
+During the last EGU Conference, ECOMOD colleagues and other scientists came together to initiate the creation of a North Sea Working Group. The aim is to strengthen networking across North Sea institutes, build consortia, share data and knowledge, and develop collaborative initiatives. Stay tuned!
+
+![Image : Andrea van Langen Rosón (VLIZ)](/images/news/northseaWG.jpg){width=400 fig-align="left"}
 
 ### EGU General Assembly 2025 (Apr, 27 - May, 2)
 
@@ -15,6 +33,12 @@ Maria Pedreros, originally from Chile, returned to Brussels for the second time 
 ![](/images/news/maria.jpg){width=400}
 
 ## April 2025
+
+### Policy brief CLIMDIS (Apr, 30)
+
+The [Policy Brief](https://cebios.naturalsciences.be/wp-content/uploads/2025/04/280425_template_A4_IMER_PB.pdf) on the use of COHERENS to model scenarios to safeguard Halong Bay waters has been released. This Policy brief, which is an outcome of the project [CLIMDIS](../../projects/CLIMDIS) funded by [BELSPO](https://www.belspo.be/belspo/coordination/doc/biCoop/CLIMDIS_en.pdf), has been designed in collaboration with [CEBioS](https://cebios.naturalsciences.be/) (Capacities for Biodiversity and Sustainable Development) program.
+
+![](/images/news/halongbay.jpg){width="400"}
 
 ### Press release of Olivier's work (Apr, 17)
 
@@ -61,6 +85,13 @@ Leo had the opportunity to give a major presentation at the latest "Saviez-vous?
 Olivier, Hugo, and Pauline were invited to a meeting at the Flanders Hydraulics offices in Antwerp, Belgium. This RBINS–FH meeting provided an opportunity to identify potential future collaborations. We also had the chance to visit their impressive facilities.
 
 ![](/images/news/flandershydraulics.jpg){width=400}
+
+### Policy brief SHRIMP (Feb, 3)
+
+The [Policy Brief](https://cebios.naturalsciences.be/wp-content/uploads/2025/02/Shrimp_Policy_Brief_Final.pdf) on the challenges of sustainable management of shrimp from the Nokoué lagoon in Benin has been released. It is an outcome of the project [SHRIMP](../../projects/SHRIMP-II) funded through the [CEBioS](https://cebios.naturalsciences.be/) (Capacities for Biodiversity and Sustainable Development) program.
+
+![](/images/news/shrimp.jpg){width="400"}
+
 
 ## November 2024
 

@@ -105,7 +105,9 @@
   
   <div class="profile-card">
     <div class="profile-image">
-      <img src="images/LB.jpg" alt="Léo Barbut">
+        <a href="/posts/members/LB">
+          <img src="images/LB.jpg" alt="Léo Barbut">
+        </a>
     </div>
     <h3 class="profile-name">
       <span class="first-name">Léo</span>
@@ -233,7 +235,9 @@
   
   <div class="profile-card">
     <div class="profile-image">
-      <img src="images/SP.jpg" alt="Stéphanie Ponsar">
+        <a href="/posts/members/SP">
+          <img src="images/SP.jpg" alt="Stéphanie Ponsar">
+        </a>
     </div>
     <h3 class="profile-name">
       <span class="first-name">Stéphanie</span>
@@ -270,7 +274,9 @@
   
   <div class="profile-card">
     <div class="profile-image">
-      <img src="images/HR.jpg" alt="Hugo Romanelli">
+      <a href="/posts/members/HR">
+        <img src="images/HR.jpg" alt="Hugo Romanelli">
+      </a>
     </div>
     <h3 class="profile-name">
       <span class="first-name">Hugo</span>
@@ -287,15 +293,17 @@
   
   <div class="profile-card">
     <div class="profile-image">
-      <img src="images/NTL.jpg" alt="Nathan Terseleer Lillo">
+      <a href="/posts/members/NTL">
+        <img src="images/NTL.jpg" alt="Nathan Terseleer">
+      </a>
     </div>
     <h3 class="profile-name">
       <span class="first-name">Nathan</span>
-      <span class="last-name">Terseleer Lillo</span>
+      <span class="last-name">Terseleer</span>
     </h3>
-    <p class="profile-title">TEP Lover</p>
+    <p class="profile-title">Model Whisperer</p>
     <div class="profile-links">
-      <a href="mailto:nathan.terseleerlillo@naturalsciences.be?"><i class="fa-solid fa-envelope"></i></a>
+      <a href="mailto:nterseleer@naturalsciences.be?"><i class="fa-solid fa-envelope"></i></a>
       <a href="https://github.com/nterseleer"><i class="fa-brands fa-github"></i></a>
       <a href="https://orcid.org/0000-0001-6484-1413"><i class="fa-brands fa-orcid"></i></a>
       <a href=""><i class="fa-brands fa-linkedin"></i></a>

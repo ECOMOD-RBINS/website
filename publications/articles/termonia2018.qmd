@@ -1,0 +1,19 @@
+---
+title: "The CORDEX.be initiative as a foundation for climate services in Belgium"
+type: "article"
+author: "Termonia et al."
+year: "2018"
+publication: "Climate Services"
+preprint: ""
+doi: "https://doi.org/10.1016/j.cliser.2018.05.001"
+materials: ""
+toc: false
+categories:
+  - climate change
+---
+
+## Citation
+
+> P. TERMONIA, B. VAN SCHAEYBROECK, L. DE CRUZ, R. DE TROCH, S. CALUWAERTS, O. GIOT, R. HAMDI, S. VANNITSEM, F. DUCHENE, P. WILLEMS, H. TABARI, E. VAN UYTVEN, P. HOSSEINZADEHTALAEI, N. VAN LIPZIG, H. WOUTERS, S. VANDEN BROUCKE, J.-P. VAN YPERSELE, P. MARBAIX, C. VILLANUEVE-BIRRIEL, X. FETTWEIS, C. WYARD, C. SCHOLZEN, S. DOUTRELOUP, K. DE RIDDER, A. GOBIN, D. LAUWAET, T. STAVRAKOU, M. BAUWENS, J. F. MULLER,  P. LUYTEN, **S. PONSAR**, D. VAN DEN EYNDE, E. POTTIAUX (2018), The CORDEX.be initiative as a foundation for climate services in Belgium. *Climate Services*, 11, 49-61.
+
+## Abstract

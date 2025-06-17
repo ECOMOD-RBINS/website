@@ -1,1 +1,68 @@
 /* css styles */
+
+.large-text {
+  font-size: 20px;
+}
+
+.list-space {
+  margin-bottom: 2px;  /* reduce space between items */
+  line-height: 1.2;    /* tighter line spacing */
+}
+
+.image-container {
+  position: relative;
+  width: 100%;
+  max-width: 1200px;
+}
+
+.image-container img {
+  width: 100%;
+  height: 300px;
+  display: block;
+}
+
+.image-overlay-text {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: white;
+  font-size: 30px;
+  text-align: center;
+  width: 80%;
+  text-shadow: 2px 2px 4px #000000;
+}
+
+/* CAPTCHA */
+captcha-container {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin: 10px 0;
+}
+
+.captcha-input {
+  width: 60px;
+  padding: 8px;
+  text-align: center;
+  height: 20px;
+  box-sizing: border-box;
+}
+
+.check-btn {
+  padding: 8px 12px;
+  height: 36px;
+  box-sizing: border-box;
+}
+
+.email-reveal {
+  display: none;
+  font-weight: bold;
+  min-width: 250px;
+}
+
+.error-msg {
+  color: red;
+  display: none;
+  min-width: 250px;
+}

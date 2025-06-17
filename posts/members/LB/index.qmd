@@ -1,0 +1,59 @@
+---
+title: "Leo Barbut"
+description: ""
+author: ""
+date: ""
+categories: 
+image: ""
+
+execute:
+  echo: false
+  warning: false
+  error: true
+  cache: true
+  
+format: 
+  html:
+    page-layout: article
+---
+
+<div style="text-align: center;">
+  ![](../../../images/LB.jpg){width=50%}
+</div>
+
+## Biography
+Leo's research primarily focuses on marine ecology and marine connectivity, with a particular interest in the impact of climate change and human activities on fish populations. His work often involves the use of biophysical models to study the dispersal and recruitment of fish larvae, as well as the effects of environmental factors on fish growth and survival. He is also investigating the transport and dispersion of environmental DNA (eDNA) in marine systems to improve biodiversity monitoring and support conservation efforts.
+
+
+## Projects
+- [SYMAPA](../../projects/SYMAPA): SYMAPA
+- [FORCOAST](../../projects/FORCOAST): FORCOAST
+- [eDNAOPTIMA] Assessing biodiversity through eDNA
+
+## Publications <!-- Harvard citation style -->
+
+- **Barbut, L.**, Lehuta, S., Volckaert, F. A. M., & Lacroix, G. (2024). Lessons from the calibration and sensitivity analysis of a fish larval transport model. Marine Ecology Progress Series, 731. [DOI](https://doi.org/10.3354/meps14536)
+
+- Stechele, B., **Barbut, L.**, Lacroix, G., van Duren, L. A., Van Lancker, V., Degraer, S., Gavazzi, G. M., Bossier, P., Declercq, A. M., & Nevejan, N. (2023). Northern European suitability for offshore European flat oyster (Ostrea edulis) habitat restoration based on population dynamics. Frontiers in Marine Science, 10. [DOI](https://doi.org/10.3389/fmars.2023.1224346)
+
+- Van De Wolfshaar, K. E., **Barbut, L.**, & Lacroix, G. (2022). From spawning to first-year recruitment: The fate of juvenile sole growth and survival under future climate conditions in the North Sea. ICES Journal of Marine Science, 79(2), 495–505. [DOI](https://doi.org/10.1093/icesjms/fsab025)
+
+- Paoletti, S., Bekaert, K., **Barbut, L.**, Lacroix, G., Volckaert, F. A. M., & Hostens, K. (2021). Validating a biophysical dispersal model with the early life-history traits of common sole (Solea solea L.). PLoS ONE, 16(9 September), e0257709. [DOI](https://doi.org/10.1371/journal.pone.0257709)
+
+- **Barbut, L.**, Vastenhoud, B., Vigin, L., Degraer, S., Volckaert, F. A. M., & Lacroix, G. (2020). The proportion of flatfish recruitment in the North Sea potentially affected by offshore windfarms. ICES Journal of Marine Science, 77(3), 1227-1237. [DOI](https://doi.org/10.1093/icesjms/fsz050)
+
+- **Barbut, L.**, Groot Crego, C., Delerue-Ricard, S., Vandamme, S., Volckaert, F. A. M., & Lacroix, G. (2019). How larval traits of six flatfish species impact connectivity. Limnology and Oceanography, 64(3), 1150-1171. [DOI](https://doi.org/10.1002/lno.11104)
+
+- Delerue-Ricard, S., Stynen, H., **Barbut, L.**, Morat, F., Mahé, K., Hablützel, P. I., Hostens, K., & Volckaert, F. A. M. (2019). Size-effect, asymmetry, and small-scale spatial variation in otolith shape of juvenile sole in the Southern North Sea. Hydrobiologia, 845(1), 95-108. [DOI](https://doi.org/10.1007/s10750-018-3736-3)
+
+- Lacroix, G., **Barbut, L.**, & Volckaert, F. A. M. (2018). Complex effect of projected sea temperature and wind change on flatfish dispersal. Global Change Biology, 24(1), 85–100. [DOI](https://doi.org/10.1111/gcb.13915)
+
+
+
+
+
+
+
+
+ 
+

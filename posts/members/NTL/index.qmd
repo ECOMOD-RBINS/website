@@ -1,0 +1,57 @@
+---
+title: "Nathan Terseleer"
+description: ""
+author: ""
+date: ""
+categories: 
+image: ""
+
+execute:
+  echo: false
+  warning: false
+  error: true
+  cache: true
+  
+format: 
+  html:
+    page-layout: article
+    
+#bibliography: references.bib
+#cls: journal-of-oceanography.csl
+#link-citations: true
+---
+
+<div style="text-align: center;">
+  <img src="../../../images/NTL.jpg" style="width: 50%;" />
+</div>
+
+## Biography
+Nathan Terseleer is a marine ecosystem modeler who integrates process-based numerical modelling with advanced environmental data analysis to investigate the complex dynamics of coastal and offshore marine systems. At the Royal Belgian Institute of Natural Sciences (RBINS), he leads the development of biogeochemical, plankton ecosystem, and organo-mineral interaction modules within the [COHERENS](../../projects/COHERENS) model. His research spans marine biogeochemistry, plankton ecology, and sediment dynamics, with a focus on functional diversity and particle aggregation processes. Nathan earned his PhD from the Université Libre de Bruxelles, where he advanced trait-based modelling approaches and the representation of diatom physiology, including harmful algal bloom dynamics. He is a member of the ICES Working Group on Integrative, Physical-Biological, and Ecosystem Modelling (WGIPEM), former member of the Working Group on Harmful Algal Bloom Dynamics (WGHABD), and serves as an expert for the Marine Strategy Framework Directive (MSFD) in pelagic habitat assessment.
+
+### Experience
+- **Royal Belgian Institute of Natural Sciences** | Brussels, Belgium<br />
+  Senior Researcher | 2014-Current
+
+### Education
+- **ULB** | Université Libre de Bruxelles, Brussels, Belgium<br />
+  PhD Bioengineering - Marine Ecosystem Modeling | 2009-2014<br />
+  MSc Bioengineering | 2006-2009<br />
+  BSc Bioengineering | 2004-2006
+
+## Projects
+- [BG-PART:](https://www.belspo.be/belspo//Fedra/proj.asp?l=de&COD=B2%2F202%2FP1%2FBG%2DPART) BioGeochemical PARTicle interactions and feedback loops on the Belgian Continental Shelf .
+- [COHERENS:](../../projects/COHERENS) COupled Hydrodynamical-Ecological model for REgioNal and Shelf seas.
+
+## Publications
+- Lopez, L. L., Degrendele, K., Roche, M., Barette, F., Van Lancker, V., **Terseleer, N.**, & De Backer, A. (2025). Macrobenthos and morpho-sedimentary recovery dynamics in areas following aggregate extraction cessation. Marine Pollution Bulletin, 218, 118184.
+- Desmit, X., Schartau, M., Riethmüller, R., **Terseleer, N.**, Van der Zande, D., & Fettweis, M. (2024). The transition between coastal and offshore areas in the North Sea unraveled by suspended particle composition. Science of The Total Environment, 915, 169966.
+- Krabbendam, J. M., Roche, M., Van Lancker, V. R., Nnafie, A., **Terseleer, N.**, Degrendele, K., & De Swart, H. E. (2022). Do tidal sand waves always regenerate after dredging?. Marine Geology, 451, 106866.
+- Fettweis, M., Schartau, M., Desmit, X., Lee, B. J., **Terseleer, N.**, Van der Zande, D., Parmentier, K., & Riethmüller, R. (2022). Organic matter composition of biomineral flocs and its influence on suspended particulate matter dynamics along a nearshore to offshore transect. Journal of Geophysical Research: Biogeosciences, 127(1), e2021JG006332.
+- Montereale-Gavazzi, G., Roche, M., Degrendele, K., Lurton, X., **Terseleer, N.**, Baeye, M., Francken, F. & Van Lancker, V. (2019). Insights into the short-term tidal variability of multibeam backscatter from field experiments on different seafloor types. Geosciences, 9(1), 34.
+- Montereale-Gavazzi, G., Roche, M., Lurton, X., Degrendele, K., **Terseleer, N.**, & Van Lancker, V. (2018). Seafloor change detection using multibeam echosounder backscatter: case study on the Belgian part of the North Sea. Marine Geophysical Research, 39, 229-247.
+- De Tré, G., De Mol, R., van Heteren, S., Stafleu, J., Chademenos, V., Missiaen, T., Kint, L., **Terseleer, N.** & Van Lancker, V. (2018). Data quality assessment in volunteered geographic decision support. Mobile information systems leveraging volunteered geographic information for Earth observation, 173-192.
+- **Terseleer, N.**, Bruggeman, J., Lancelot, C., & Gypens, N. (2014). Trait‐based representation of diatom functional diversity in a plankton functional type model of the eutrophied southern North Sea. Limnology and Oceanography, 59(6), 1958-1972.
+- **Terseleer, N.**, Gypens, N., & Lancelot, C. (2013). Factors controlling the production of domoic acid by Pseudo-nitzschia (Bacillariophyceae): A model study. Harmful Algae, 24, 45-53.
+
+## Book Chapter
+- Van Lancker, V., Francken, F., Kint, L., **Terseleer, N.**, Van den Eynde, D., De Mol, L., ... & van Heteren, S. (2017). Building a 4D voxel-based decision support system for a sustainable management of marine geological resources. In Oceanographic and Marine Cross-Domain Data Management for Sustainable Development (pp. 224-252). IGI Global.

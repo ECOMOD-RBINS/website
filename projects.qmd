@@ -1,8 +1,8 @@
 ---
 title: "Overview of our projects"
 listing:
-  contents: posts/projects
-  sort: "date desc"
+  contents: projects
+  sort: ["priority asc", "title asc"]
   type: grid
   categories: true
   sort-ui: false
