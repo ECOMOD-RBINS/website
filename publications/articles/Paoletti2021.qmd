@@ -1,0 +1,26 @@
+---
+title: "Validating a biophysical dispersal model with the early life-history traits of common sole (Solea solea L.)"
+type: "article"
+author: "Paoletti et al."
+year: "2021"
+publication: "PLoS ONE"
+preprint: ""
+doi: "https://doi.org/10.1371/journal.pone.0257709"
+materials: ""
+toc: false
+categories:
+  - larval transport
+  - otoliths
+  - modeling
+  - COHERENS
+  - common sole (Solea solea)
+  - North Sea
+---
+
+## Citation
+
+> Paoletti S., Bekaert K., **Barbut L.**, **Lacroix G.**, Volckaert F.A.M., Hostens K. (2021) Validating a biophysical dispersal model with the early life-history traits of common sole (*Solea solea L.*). PLoS ONE, 16(9): e0257709.
+
+## Abstract
+
+Larval dispersal and juvenile survival are crucial in determining variation in recruitment, stock size and adult distribution of commercially important fish. This study investigates the dispersal of early-life stages of common sole (*Solea solea L.*) in the southern North Sea, both empirically and through modeling. Age at different life-history events of juvenile flatfish sampled along the coasts of Belgium, the Netherlands and the United Kingdom in 2013, 2014 and 2016, was determined through the counting of daily growth rings in the otoliths. Juveniles captured between August and October were estimated to be on average 140 days old with an average pelagic larval duration of 34 days. The hatching period was estimated between early April and mid-May followed by arrival and settlement in the nurseries between May and mid-June. Growth rates were higher off the Belgian coast than in the other nursery areas, especially in 2013, possibly due to a post-settlement differentiation. Empirical pelagic larval duration and settlement distributions were compared with the Larvae&Co larval dispersal model, which combines local hydrodynamics in the North Sea with sole larval behavior. Yearly predicted and observed settlement matched partially, but the model estimated a longer pelagic phase. The observations fitted even better with the modelled average (1995–2015) distribution curves. Aberrant results for the small juvenile sole sampled along the UK coast in March 2016, led to the hypothesis of a winter disruption in the deposition of daily growth rings, potentially related to starvation and lower food availability. The similarities between measured and modelled distribution curves cross-validated both types of estimations and accredited daily ageing of juveniles as a useful method to calibrate biophysical models and to understand early-life history of fish, both important tools in support of efficient fisheries management strategies.

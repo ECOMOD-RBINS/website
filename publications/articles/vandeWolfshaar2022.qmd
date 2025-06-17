@@ -1,0 +1,25 @@
+---
+title: "From spawning to first-year recruitment: the fate of juvenile sole growth and survival under future climate conditions in the North Sea"
+type: "article"
+author: "van de Wolfshaar et al."
+year: "2022"
+publication: "ICES Journal of Marine Science"
+preprint: ""
+doi: "https://doi.org/10.1093/icesjms/fsab025"
+materials: ""
+toc: false
+categories:
+  - larval transport
+  - Dynamic Energy Budget model
+  - COHERENS
+  - modeling
+  - North Sea
+---
+
+## Citation
+
+> van de Wolfshaar K.E., **Barbut L.**, **Lacroix G.** (2022) From spawning to first-year recruitment: the fate of juvenile sole growth and survival under future climate conditions in the North Sea. ICES Journal of Marine Science, 79(2): 495-505.
+
+## Abstract
+
+This study shows the effect of climate change on the growth and survival of early life history stages of common sole (*Solea solea*) in different nursery areas of the North Sea, by combining a larval transport model with an individual-based growth model (Dynamic Energy Budget) to assess the fate from egg to young of the year at the end of the first growth season. Three scenarios of climate change, inspired by the 2040 Intergovernmental Panel on Climate Change projections, are tested and results are compared to a reference situation representative of current climate conditions. Under climate change scenarios where wind changes, water temperature increases and earlier spawning are considered, the early arrival of fish larvae in their nurseries results in larger young of the year at the end of summer. However, early arrival leads to higher mortality due to initially slow growth in spring. Future climate scenarios result in higher biomass and reduced first-year survival. How this result translates into changes at population level and stock management needs further investigation. Nonetheless, this study illustrates that processes linking life stages are paramount to understand and predict possible consequences of future climate conditions on population dynamics.

@@ -1,0 +1,22 @@
+---
+title: "Utilization of Cloud Computing for Water Quality Monitoring in the Northern Waters of Aceh"
+type: "article"
+author: "Suciati et al."
+year: "2024"
+publication: "Journal of Physics: Conference Series"
+preprint: ""
+doi: "https://iopscience.iop.org/article/10.1088/1742-6596/2916/1/012018"
+materials: ""
+toc: false
+categories:
+  - Water quality monitoring
+  - Aceh, Indonesia
+---
+
+## Citation
+
+> Suciati N., Haditiar Y., **Lacroix G.**, Haridhi H.A., Octavina C., Ulfah M., Nanda M., Setiawan I. (2024) Utilization of Cloud Computing for Water Quality Monitoring in the Northern Waters of Aceh. 2024. Journal of Physics: Conference Series, 2916 012018.
+
+## Abstract
+
+Managing marine geographic information systems is crucial, especially with climate change and the rise of spatial big data. Cloud-based geospatial systems are essential for stakeholders needing quick decision-making in marine conservation. This study examines the capabilities of Google Earth Engine (GEE) in analyzing sea surface quality in the northern waters of Aceh (NWA). The results show GEE can access remote sensing datasets and reanalysis models to map temperature, salinity, and chlorophyll-a. Annual trends reveal lower salinity near the Malacca Strait and higher levels in the Indian Ocean and Andaman Sea. GEE supports proactive coastal ecosystem management, emphasizing the role of geospatial technology in marine conservation and civil engineering for climate-resilient coastal development.

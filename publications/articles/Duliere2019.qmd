@@ -1,0 +1,25 @@
+---
+title: "Origin of nitrogen in the English Channel and Southern Bight of the North Sea ecosystems"
+type: "article"
+author: "Dulière et al."
+year: "2019"
+publication: "Hydrobiologia"
+preprint: ""
+doi: "https://doi.org/10.1007/s10750-017-3419-5"
+materials: ""
+toc: false
+categories:
+  - modeling
+  - tagging
+  - COHERENS
+  - MIRO&CO
+  - North Sea
+---
+
+## Citation
+
+> **Dulière V.**, Gypens N., Lancelot C., Luyten P., **Lacroix G.** (2019) Origin of nitrogen in the English Channel and Southern Bight of the North Sea ecosystems. Hydrobiologia, 845: 13-33.
+
+## Abstract
+
+Over the last decades, nutrients loading to the sea have significantly increased due to the growing anthropogenic pressure in the river watersheds. Some areas of the English Channel and Southern Bight of the North Sea are particularly affected by the resulting eutrophication nuisances. Establishing the link between these nuisances and anthropogenic activities requires (1) the identification of the major nutrient sources and (2) the assessment of the ecosystem response to these nutrient alterations. A nutrient tracking approach has been implemented in the marine ecological model MIRO&CO to allow tracing marine nitrogen back to its continental sources over 2000–2010. On average, nitrogen atmospheric deposition contributes between 1 and 10 mmol N/m3 to marine nutrients concentrations in the English Channel and Southern Bight of the North Sea. This corresponds to relative contributions between 10 and 30%. River contributions remained localized except for the Seine and small French rivers. Different geographical patterns of sources contribution were found for wet and dry periods. Results also showed different contribution systems between offshore and coastal areas. Relative contributions from nitrogen sources to nutrients and phytoplankton biomass are similar. This study provides useful information to help identifying the causes of marine eutrophication and mitigating its nuisances.

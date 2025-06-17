@@ -1,0 +1,25 @@
+---
+title: "How to avoid eutrophication in coastal seas? A new approach to derive river-specific combined nitrate and phosphate maximum concentrations"
+type: "article"
+author: "Ménesguen et al."
+year: "2018"
+publication: "Science of the Total Environment"
+preprint: ""
+doi: "https://doi.org/10.1016/j.scitotenv.2018.02.025"
+materials: ""
+toc: false
+categories:
+  - eutrophication
+  - MIRO&CO
+  - COHERENS
+  - modeling
+  - North Sea
+---
+
+## Citation
+
+> Ménesguen A., Desmit X., **Dulière V.**, **Lacroix G.**, Thouvenin B., Thieu V., Dussauze M. (2018) How to avoid eutrophication in coastal seas? A new approach to derive river-specific combined nitrate and phosphate maximum concentrations. Science of the Total Environment, 628-629: 400-414.
+
+## Abstract
+
+Since 1950, increase in nitrogen (N) and phosphorus (P) river loadings in the North-East Atlantic (NEA) continental seas has induced a deep change in the marine coastal ecosystems, leading to eutrophication symptoms in some areas. In order to recover a Good Ecological Status (GES) in the NEA, as required by European Water Framework Directive (WFD) and Marine Strategy Framework Directive (MSFD), reductions in N- and P-river loadings are necessary but they need to be minimal due to their economic impact on the farming industry. In the frame of the “EMoSEM” European project, we used two marine 3D ecological models (ECO-MARS3D, MIRO&CO) covering the Bay of Biscay, the English Channel and the southern North Sea to estimate the contributions of various sources (riverine, oceanic and atmospheric) to the winter nitrate and phosphate marine concentrations. The various distributed descriptors provided by the simulations allowed also to find a log-linear relationship between the 90th percentile of satellite-derived chlorophyll concentrations and the “fully bioavailable” nutrients, i.e. simulated nutrient concentrations weighted by light and stoichiometric limitation factors. Any GES threshold on the 90th percentile of marine chlorophyll concentration can then be translated in maximum admissible ‘fully bioavailable’ DIN and DIP concentrations, from which an iterative linear optimization method can compute river-specific minimal abatements of N and P loadings. The method has been applied to four major river groups, assuming either a conservative (8 μg Chl L−1) or a more socially acceptable (15 μg Chl L−1) GES chlorophyll concentration threshold. In the conservative case, maximum admissible winter concentrations for nutrients correspond to marine background values, whereas in the lenient case, they are close to values recommended by the WFD/MSFD. Both models suggest that to reach chlorophyll GES, strong reductions of DIN and DIP are required in the Eastern French and Belgian-Dutch river groups.

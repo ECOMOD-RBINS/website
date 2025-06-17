@@ -1,0 +1,26 @@
+---
+title: "Biological site suitability for exposed self-regulating cultivation of blue mussel (Mytilus edulis): a Belgian case study"
+type: "article"
+author: "Stechele et al."
+year: "2022"
+publication: "Aquacultural Engineering"
+preprint: ""
+doi: "https://doi.org/10.1016/j.aquaeng.2022.102264"
+materials: ""
+toc: false
+categories:
+  - larval transport
+  - Dynamic Energy Budget model
+  - COHERENS
+  - modeling
+  - blue mussel (Mytilus edulis)
+  - North Sea
+---
+
+## Citation
+
+> Stechele B., van der Zande D., Alvera Azcárate A., Delbare D., **Lacroix G.**, Nevejan N. (2022) Biological site suitability for exposed self-regulating cultivation of blue mussel (Mytilus edulis): a Belgian case study. Aquacultural Engineering, 98 (102264).
+
+## Abstract
+
+Several reasons, from stakeholder conflicts to water quality issues, are pushing bivalve cultivation to less accessible, exposed, and offshore waters. Because sheltered areas are absent along the Belgian coastline, the possibility to culture mussels with self-regulated systems in exposed conditions has been explored by various research projects. Farmers consider offshore environments unsuitable on the assumption that spat densities are low, and growth is insufficient for commercialization. This study evaluates the potential for self-regulated mussel cultivation in an exposed North Sea environment based on data collected from several research projects that evaluated the biological and technical feasibility of commercial longline cultivation in Belgium. The cultivation methods were variable, but always relied on wild spat that was grown to market size. No husbandry practices such as seed harvesting, thinning, grading, or socking were performed. This cultivation technique, also called self-regulating cultivation, reduces operational costs when extreme weather and exposed conditions limit handling. A 3D hydro-dynamic larvae dispersal model (LDM) was used to simulate the spatial variability in arrivals and the timing of the arrival peak. In addition, a locally validated metabolic model (DEB) for the blue mussel (*M. edulis*) was forced with 10 year optimized remote sensing observations (Copernicus, Sentinel-3/OLCI) to predict industry-relevant information such as site suitability, inter-annual growth variability, and cultivation time. This study concludes that exposed mussel cultivation near the Belgian east coast is characterised by fast growth. Mussels grown in this area will reach a marketable size (6 cm) after 12–15 months of cultivation, which is just in time for the peak consumption season (July-August). Moving offshore prolongs the cultivation cycles to 17–25 months, but provides more stable growth conditions with less inter-annual variability. When considering a cultivation period of 12 months, the mussels originating from offshore cultivation are comparable in size to the smaller Dutch “Smitse” and French "Bouchots".

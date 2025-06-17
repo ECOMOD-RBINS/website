@@ -1,0 +1,24 @@
+---
+title: "Responses of summer phytoplankton biomass to changes in top-down forcing: Insights from comparative modelling"
+type: "article"
+author: "Maar et al."
+year: "2018"
+publication: "Ecological Modelling"
+preprint: ""
+doi: "https://doi.org/10.1016/j.ecolmodel.2018.03.003"
+materials: ""
+toc: false
+categories:
+  - comparative modeling
+  - MIRO&CO
+  - COHERENS
+  - North Sea
+---
+
+## Citation
+
+> Maar M., Butenschon M., Daewel U., Eggert A., Fan W., Hjollo S., Hufnagl M., Huret M., Ji R., **Lacroix G.**, Peck M., Radtke H., Sailley S., Sinerchia M., Skogen M., Travers-Trolet M., Troost T., van de Wolfshaar K. (2018) Responses of summer phytoplankton biomass to changes in top-down forcing: Insights from comparative modelling. Ecological Modelling, 376: 54-67.
+
+## Abstract
+
+The present study describes the responses of summer phytoplankton biomass to changes in top-down forcing (expressed as zooplankton mortality) in three ecosystems (the North Sea, the Baltic Sea and the Nordic Seas) across different 3D ecosystem models. In each of the model set-ups, we applied the same changes in the magnitude of mortality (±20%) of the highest trophic zooplankton level (Z1). Model results showed overall dampened responses of phytoplankton relative to Z1 biomass. Phytoplankton responses varied depending on the food web structure and trophic coupling represented in the models. Hence, a priori model assumptions were found to influence cascades and pathways in model estimates and, thus, become highly relevant when examining ecosystem pressures such as fishing and climate change. Especially, the different roles and parameterizations of additional zooplankton groups grazed by Z1, and their importance for the outcome, emphasized the need for better calibration data. Spatial variability was high within each model indicating that physics (hydrodynamics and temperature) and nutrient dynamics also play vital roles for ecosystem responses to top-down effects. In conclusion, the model comparison indicated that changes in top-down forcing in combination with the modelled food-web structure affect summer phytoplankton biomass and, thereby, indirectly influence water quality of the systems.

@@ -1,0 +1,22 @@
+---
+title: "Characterization of a West African coastal lagoon system: Case of Lake Nokoué with its inlet (Cotonou, South Benin)"
+type: "article"
+author: "Sintondji et al."
+year: "2022"
+publication: "Ecologies"
+preprint: ""
+doi: "https://doi.org/10.3390/ecologies3040033"
+materials: ""
+toc: false
+categories:
+  - physical and chemical dynamics
+  - Lake Nokoué, Benin
+---
+
+## Citation
+
+> Sintondji S.W., Sohou Z., Baetens K., **Lacroix G.**, Fiogbé E.D. (2022) Characterization of a West African coastal lagoon system: Case of Lake Nokoué with its inlet (Cotonou, South Benin). Ecologies, 2022(3): 467-479.
+
+## Abstract
+
+The purpose of this work was to investigate the physical and chemical dynamics of Lake Nokoué for its efficient management. For this purpose, two sampling campaigns per month from five stations (North, South, Central, East and West) were conducted for a period of one year (November 2020 to November 2021). Physic and chemical parameters (temperature, salinity, depth, water transparency, pH, dissolved oxygen and total dissolved solids) were measured and wet substrate samples were collected to study the granulometry. Data analysis revealed that Lake Nokoué is mainly affected by two regimes: flooding and low water. Flooding, which is not directly related to rainfall, did not begin until one month after the major rainy season in June. The sources that contributed to the flooding of Lake Nokoué were the freshwater tributaries coming mainly from the Ouèmé River and the flow of the Sô River from August to November. The inflow of fresh water contributed to the decrease in salinity and transparency of the lake from the east to the south. During the low water period (from December to July), Lake Nokoué is characterized by an increase in salinity and transparency from the south to the northeast due to the massive intrusion of sea water into the lake. The highest dissolved oxygen levels are observed in the south and center (5.92 ± 0.46 mg/L) while it varies greatly in the north and west (*Eichhornia crassipes* concentration zone) during flooding. The average annual depth of Lake Nokoué was 1.47 ± 0.66 m with an average annual pH of 6.85 ± 0.56.
