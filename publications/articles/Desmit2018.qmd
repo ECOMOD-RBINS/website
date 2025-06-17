@@ -1,0 +1,26 @@
+---
+title: "Reducing marine eutrophication may require a paradigmatic change"
+type: "article"
+author: "Desmit et al."
+year: "2018"
+publication: "Science of the Total Environment"
+preprint: ""
+doi: "https://doi.org/10.1016/j.scitotenv.2018.04.181"
+materials: ""
+toc: false
+categories:
+  - eutrophication
+  - land-ocean continuum
+  - modeling
+  - MIRO&CO
+  - COHERENS
+  - North-East Atlantic
+---
+
+## Citation
+
+> Desmit X., Thieu V., Billen G., Campuzano F., **Dulière V.**, Garnier J., Lassaletta L., Ménesguen A., Neves R., Pinto L., Silvestre M., Sobrinho J., **Lacroix G.** (2018) Reducing marine eutrophication may require a paradigmatic change. Science of the Total Environment, 635: 1444-1466.
+
+## Abstract
+
+Marine eutrophication in the North-East Atlantic (NEA) strongly relies on nutrient enrichment at the river outlets, which is linked to human activities and land use in the watersheds. The question is whether human society can reduce its nutrient emissions by changing land use without compromising food security. A new version of Riverstrahler model (pyNuts-Riverstrahler) was designed to estimate the point and diffuse nutrient emissions (N, P, Si) to the rivers depending on land use in the watersheds across a large domain (Western Europe agro-food systems, waste water treatment). The loads from the river model have been used as inputs to three marine ecological models (PCOMS, ECO-MARS3D, MIRO&CO) covering together a large part of the NEA from the Iberian shelf to the Southern North Sea. The modelling of the land-ocean continuum allowed quantifying the impact of changes in land use on marine eutrophication. Pristine conditions were tested to scale the current eutrophication with respect to a “natural background” (sensu WFD), i.e. forested watersheds without any anthropogenic impact. Three scenarios representing potential management options were also tested to propose future perspectives in mitigating eutrophication. This study shows that a significant decrease in nitrogen fluxes from land to sea is possible by adapting human activities in the watersheds, preventing part of the eutrophication symptoms in the NEA rivers and adjacent coastal zones. It is also shown that any significant achievement in that direction would very likely require paradigmatic changes at social, economic and agricultural levels. This requires reshaping the connections between crop production and livestock farming, and between agriculture and local human food consumption. It also involves cultural changes such as less waste production and a shift towards lower-impact and healthier diets where half of the animal products consumption is replaced by vegetal proteins consumption, known as a demitarian diet (http://www.nine-esf.org/node/281/index.html)

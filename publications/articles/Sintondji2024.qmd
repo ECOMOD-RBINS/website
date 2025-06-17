@@ -1,0 +1,22 @@
+---
+title: " Growth and reproduction of the shrimp population in a lagoon system in southern Benin (west Africa)"
+type: "article"
+author: "Sintondji et al."
+year: "2024"
+publication: "Crustaceana "
+preprint: ""
+doi: "http://dx.doi.org/10.1163/15685403-bja10354"
+materials: ""
+toc: false
+categories:
+  - shrimp
+  - Lake Nokoué, Benin
+---
+
+## Citation
+
+> Sintondji, W.S., Sohou, Z., Baetens, K., **Lacroix, G.**, Fiogbé, E.D. (2024) Growth and reproduction of the shrimp population in a lagoon system in southern Benin (west Africa). Crustaceana 97(1-2): 61-82.
+
+## Abstract
+
+The aim of this work was to characterize the growth and reproduction dynamics of shrimp in the Lac Nokoué-Chenal de Cotonou complex. The results of one year’s sampling from five stations (North, South, East, Central and West) of the lagoon complex revealed that linear growth in size in Lake Nokoué is decreasing over time in *Macrobrachium macrobrachion* (the most representative species of the genus *Macrobrachium*), but positive in *Penaeus notialis* (the most representative species of the genus *Penaeus*). Size-weight relationships indicate that the lowest growth coefficient (b=1.56) is obtained in immature males of *Macrobrachium felicinum*, while the highest growth coefficient (b=3.39) is obtained in mature females of *Macrobrachium vollenhovenii*, with an average of 2.84 for all shrimp species over both sexes considered. The χ2 test indicated that only the species *Macrobrachium vollenhovenii* has a significant sexual imbalance in favour of females in Lake Nokoué. Fisher’s Least Significant Difference test indicated that the estimated first sexual maturity sizes in *Macrobrachium vollenhovenii* and *M. macrobrachion* are significantly different from those estimated in *M. felicinum* at the α=0.05 threshold. However, the same test indicates that there is not enough evidence to differentiate the sizes of first sexual maturation in *M. vollenhovenii* and *M. macrobrachion*. This work revealed that *Penaeus monodon* was the only species to show better positive growth within all its groups in Lake Nokoué while exposed to anthropogenic effects. A gradual average increase in the size of *Penaeus notialis* in Lake Nokoué is found between the beginning and end of the saline intrusion (which confirms the life cycle of the species presented). Species of the genus *Macrobrachium* showed good reproductive capacity, with the absence of sexually mature *Penaeus* in this lagoon.

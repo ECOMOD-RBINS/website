@@ -1,0 +1,22 @@
+---
+title: " Distribution model of shrimp species in Lake Nokoué, southern Benin, West Africa"
+type: "article"
+author: "Sintondji et al."
+year: "2023"
+publication: "Crustaceana"
+preprint: ""
+doi: "https://doi.org/10.1163/15685403-bja10304"
+materials: ""
+toc: false
+categories:
+  - shrimp
+  - Lake Nokoué, Benin
+---
+
+## Citation
+
+> Sintondji S., Sohou Z., Goussanou A., Godome T., Baetens K., **Lacroix G.**, Fiogbé E. (2023) Distribution model of shrimp species in Lake Nokoué, southern Benin, West Africa. Crustaceana, 96(7): 605-625.
+
+## Abstract
+
+The aim of this work was to evaluate the spatial and temporal distribution of shrimp species in the Lake Nokoué-Cotonou Channel complex for an efficient management of the fishery. The results of one year sampling from five stations (North, South, East, Central and West) in the complex revealed the following proportions: *Penaeus notialis* 73.68%, *Macrobrachium macrobrachion* 13.81%, *Macrobrachium vollenhovenii* 5.36%, *Penaeus monodon* 2.68%, *Macrobrachium felicinum* 2.20%, *Penaeus kerathurus* 1.72%, *Macrobrachium* cf. *zariquieyi* 0.27%, and *Macrobrachium equidens* 0.27%. The species *M.* cf. *zariquieyi* and *M. equidens* were never reported from Benin, but are now found in Lake Nokoué. Spatially, *Penaeus* (*Penaeus notialis*) are more abundant in the west (Acadja concentration zone), while *Macrobrachium* (*Macrobrachium macrobrachion*) are more dominant in the east (near the Ouémé entrance) and north (near the Sô entrance) of the lake. *Penaeus* are strongly present in the lagoon complex from January to August, while *Macrobrachium* are more abundant in Lake Nokoué from September to December. Spearman’s correlation analysis revealed that increasing salinity, pH, transparency and total dissolved solids (TDS) positively influenced the abundance of *P. notialis*, while increasing salinity, pH, transparency, and TDS negatively influenced the abundance of *M. macrobrachion* at the 5% significance level. For an efficient management of the shrimp fishery, it is desirable that the shrimp fishery in Lake Nokoué, mainly in the Cotonou Channel, which is a very sensitive area for their seasonal migrations, benefits from at least three months of respite per year, from November to January. This period corresponds to the strong migration of juvenile *Penaeus* towards the lake. This should allow many *Penaeus* to grow up and breed at least once in their lives, according to the species’ life cycle presented.

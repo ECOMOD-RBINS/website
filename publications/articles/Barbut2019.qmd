@@ -1,0 +1,25 @@
+---
+title: "How larval traits of six flatfish species impact connectivity"
+type: "article"
+author: "Barbut et al."
+year: "2019"
+publication: "Limnology and Oceanography"
+preprint: ""
+doi: "https://doi.org/10.1002/lno.11104"
+materials: ""
+toc: false
+categories:
+  - larval transport
+  - modeling
+  - COHERENS
+  - flatfish
+  - North Sea
+---
+
+## Citation
+
+> **Barbut L.**, Groot Crego C., Delerue-Ricard S., Vandamme S., Volckaert F.A.M., **Lacroix G.** (2019) How larval traits of six flatfish species impact connectivity. Limnology and Oceanography, 64: 1150-1171.
+
+## Abstract
+
+Connectivity and dispersal are important factors for ecosystem dynamics, conservation, and resource management. Dispersal and recruitment success are determined in early life for many marine species. For those larvae that are pelagic, transport from spawning to nursery grounds is driven by hydrodynamic processes. Other environmental factors such as temperature and biological factors such as ecophysiology, behavior, and reproductive strategy (spawning period and spawning grounds) influence the final dispersal pattern and larval survival. We utilized a Lagrangian particle tracking model coupled with a three-dimensional hydrodynamic model (Larvae&Co) to assess the connectivity patterns between spawning and nursery grounds of six commercially exploited flatfish species in the North Sea over a 10-yr period (1997–2006). Standardized analyses have highlighted how spawning and nursery grounds are connected under the combined pressure of environment and life-history traits. Results showed that the six flatfishes can be divided in two groups, each with their specific connectivity patterns. Turbot, common sole, and brill live in two subpopulations in the North Sea; common dab, European flounder, and European plaice represent a single mixed population. In general, the modeled and genetic patterns match, hence showing the strong impact of larval connectivity. The large overlap in connectivity for species that spawn during the same period and the seasonal change in hydrodynamics highlight the strong impact of a summer front in larval dispersal. Our results prove that individual-based modeling is a powerful tool to guide resource management, even in cases of limited biological information.

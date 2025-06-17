@@ -1,0 +1,37 @@
+---
+title: "Dispersal models alert on the risk of non-native species introduction by Ballast water in protected areas from the Western Antarctic Peninsula"
+type: "article"
+author: "Dulière et al."
+year: "2022"
+publication: "Diversity and distributions"
+preprint: ""
+doi: "https://doi.org/10.1111/ddi.13464"
+materials: ""
+toc: false
+categories:
+  - larval transport
+  - COHERENS
+  - modeling
+  - Western Antarctic Peninsula
+---
+
+## Citation
+
+> **Dulière V.**, Guillaumot C., **Lacroix G.**, Saucede T., López-Farran Z., Danis B., Schön I., Baetens K. (2022) Dispersal models alert on the risk of non-native species introduction by Ballast water in protected areas from the Western Antarctic Peninsula. Diversity and distributions, 28: 649-666.
+
+## Abstract
+
+Aim
+The Western Antarctic Peninsula is challenged by climate change and increasing maritime traffic that together facilitate the introduction of marine non-native species from warmer regions neighbouring the Southern Ocean. Ballast water exchange has been frequently reported as an introduction vector. This study uses a Lagrangian approach to model the passive drift of virtual propagules departing from Ballast water hypothetic exchange zones, at contrasting distances from the coasts.
+
+Location
+Western Antarctic Peninsula.
+
+Methods
+Virtual propagules were released over the 2008–2016 period and at three distances from the nearest coasts: 200 (convention for the management of Ballast Water, 2004), 50 or 11 nautical miles (NM).
+
+Results
+Results show that exchanging Ballast water at 200 NM considerably reduces the arrival of propagules in proposed marine protected areas of the western side of the Antarctic Peninsula. On the eastern side, propagules can reach north-eastern marine protected areas within a few days due to strong currents for all tested scenarios. Seasonal and yearly variations indicate that exceptional climate events could influence the trajectory of particles in the region. Ballast water should be exchanged at least 200 NM offshore on the western side of the Antarctic Peninsula and avoided on the eastern side to limit particle arrival in proposed marine protected areas. Focusing on Deception Island, our results suggested that the Patagonian crab (*Halicarcinus planatus*) observed in 2010 could have been introduced in case of Ballast water exchange at 50 NM or less from the coast.
+
+Main conclusions
+This study highlights the importance of respecting Ballast water exchange convention to limit the risk of non-native species introduction. Ballast water exchange should be operated at least at 200 NM from the coasts, which further limits particle arrival in shallow water areas. This is especially important in the context of a more visited and warmer Southern Ocean.

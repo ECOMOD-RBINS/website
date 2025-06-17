@@ -11,7 +11,7 @@ toc: false
 categories:
   - coastal wetland
   - modeling
-  - salt marsh
+  - saltmarsh
 ---
 
 ## Citation

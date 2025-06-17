@@ -1,0 +1,24 @@
+---
+title: "Seasonal variation of hydrodynamics in the Cat Ba - Ha Long coastal area (Viet Nam): Results of COHERENS Model"
+type: "article"
+author: "Duy Vu et al."
+year: "2024"
+publication: "Regional Studies in Marine Science"
+preprint: ""
+doi: "https://doi.org/10.1016/j.rsma.2024.103874"
+materials: ""
+toc: false
+categories:
+  - COHERENS
+  - modeling
+  - hydrodynamics
+  - Cat Ba - Ha Long, Vietnam
+---
+
+## Citation
+
+> Duy Vu, V., Minh Nguyen, H., Puthan Purayil, S., **Lacroix, G.**, Thanh Nguyen, D. (2024) Seasonal variation of hydrodynamics in the Cat Ba - Ha Long coastal area (Viet Nam): Results of COHERENS Model. Regional Studies in Marine Science, 80:103874
+
+## Abstract
+
+The COHERENS model is used to investigate the temporal and spatial variation of the coastal currents in 2021 at the Cat Ba - Ha Long, northern Vietnam. The findings indicate that tidal oscillation has a notable impact on the current fields in short-term variations (hours to days). Meanwhile, the wind field and river discharge are the decisive factors affecting the seasonal variation of the current fields in Cat Ba - Ha Long coastal area. Furthermore, the characteristics of residual currents are significantly affected by river discharges and wind patterns, which vary across different months and seasons. During the southwest monsoon season (May to August), the residual currents have a prevailing direction towards the sea, from the west and south-southwest towards the east and north-northeast, reaching maximum speeds of approximately 0.1–0.15 m/s. Conversely, in the transitional and northeast monsoon seasons, the directions of residual currents are from the east-northeast to the west-southwest, with peak speed up to 0.2–0.25 m/s. Notably, the residual currents in the bottom and surface layers in the eastern-southwestern area of Cat Ba Island and the north of Ha Long Bay are in opposite directions.

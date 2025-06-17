@@ -9,8 +9,10 @@ doi: "https://doi.org/10.1016/j.rsma.2024.103811"
 materials: ""
 toc: false
 categories:
-  - coherens
-  - modeling  
+  - COHERENS
+  - modeling
+  - hydrodynamics
+  - Gulf of Guinea  
 ---
 
 ## Citation

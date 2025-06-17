@@ -1,0 +1,22 @@
+---
+title: "Modelling the marine eutrophication: a review."
+type: "article"
+author: "Ménesguen et al."
+year: "2018"
+publication: "Science of the Total Environment"
+preprint: ""
+doi: "https://doi.org/10.1016/j.scitotenv.2018.04.183"
+materials: ""
+toc: false
+categories:
+  - eutrophication
+  - modeling
+---
+
+## Citation
+
+> Ménesguen A. and **Lacroix G.** (2018) Modelling the marine eutrophication: a review. Science of the Total environment, 636: 339-354.
+
+## Abstract
+
+In the frame of a national, joint scientific appraisal, 45 scientific French-speaking experts have been mandated in 2015–2016 by the French ministries of Environment and Agriculture to perform a global review of scientific literature dealing with the eutrophication phenomenon, in freshwater as well as in marine waters. This paper summarizes the main results of this review restricted to a sub-domain, the modelling approach of the marine eutrophication. After recalling the different aims pursued, an overview is given on the historical time course of this modelling effort, its world distribution and the various tools used. Then, the main results obtained are examined, highlighting the specific strengths and weaknesses of the present models. Needs for future improvement are then listed.

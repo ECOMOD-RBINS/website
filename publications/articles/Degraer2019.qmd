@@ -1,0 +1,22 @@
+---
+title: "Interdisciplinary science to support North Sea marine management: lessons learned and future demands"
+type: "article"
+author: "Degraer et al."
+year: "2019"
+publication: "Hydrobiologia"
+preprint: ""
+doi: "https://doi.org/10.1007/s10750-019-04109-9"
+materials: ""
+toc: false
+categories:
+  - marine management
+  - North Sea
+---
+
+## Citation
+
+> Degraer S., Van Lancker V., Van Dijk T.A.G.P., Birchenough S.N.R., De Witte B., Elliott M., Le Bot S., Reiss H., Stelzenmüller V., Van Gaever S., Balian E., Cox D., Hernandez F., **Lacroix G.**, Lindeboom H., Reubens J., Soetaert K. (2019) Interdisciplinary science to support North Sea marine management: lessons learned and future demands. Hydrobiologia, 845: 1-11.
+
+## Abstract
+
+The expected increase of maritime activities in the North Sea and the growing awareness of its natural environmental value require enhanced science-based environmental advice for more efficient and effective marine management. The North Sea Open Science Conference organised by the Royal Belgian Institute of Natural Sciences and the Belgian Biodiversity Platform in 2016 aimed to take stock of the present-day scientific knowledge on the North Sea ecosystem, its interactions with human activities and its management. The conference was structured along three themes: (1) ‘the scientific backbone of the North Sea ecosystem: adequacy of the knowledge base?’, (2) ‘A new era in environmental monitoring and assessment: what is at stake?’, and (3) ‘Sustainability: one for all, all for one?’. Focusing on ‘open science’, we welcomed about 200 participants from around the North Sea with different backgrounds and interests in environmental sciences. The participants were challenged to reflect on current and future challenges for the North Sea management and, in particular, to explore possible nature-friendly solutions for addressing these challenges during a series of introductory oral (69) and poster (59) presentations, and World Café and Fish Bowl participatory sessions. The participants agreed on six main actions to (1) provide a solid scientific base for marine management decisions; (2) develop society-driven research; (3) increase interdisciplinary science; (4) recognise the need for system knowledge; (5) improve communication, knowledge exchange, and collective implementation of scientific knowledge; and (6) build integrated knowledge bases. For each of these, concrete action points were identified, and this review gives the most important and relevant ones for creating the knowledge base and managerial framework for a sustainable North Sea.

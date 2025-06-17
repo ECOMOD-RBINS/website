@@ -1,0 +1,22 @@
+---
+title: "Spatial Analysis of Plankton Distribution in Northern Waters of Aceh: an indicator of marine environmental quality"
+type: "article"
+author: "Octavina et al."
+year: "2024"
+publication: "BIO Web of Conferences"
+preprint: ""
+doi: "https://doi.org/10.1051/bioconf/202515602005"
+materials: ""
+toc: false
+categories:
+  - Water quality monitoring
+  - Aceh, Indonesia
+---
+
+## Citation
+
+> Octavina C., Maghfirah, **Lacroix G.**, Suciati N., Fajar M., Syufi N.H., Haridhi H.A., Haditiar Y. (2024) Spatial Analysis of Plankton Distribution in Northern Waters of Aceh: an indicator of marine environmental quality. BIO Web of Conferences, 156: 02005.
+
+## Abstract
+
+Plankton, especially phytoplankton, serves as the essential building block of the marine food chain. As a result, the presence of plankton in a body of water is frequently utilized as a measure of water quality and primary productivity. This study aims to determine plankton's spatial patterns in Northern Aceh's waters as a bioindicator of water quality. The spatial distribution of plankton was analyzed through water sampling at several points in the sea in the Northern Waters of Aceh (NWA). Plankton analysis included abundance, diversity, and community composition. Concurrently, an analysis of environmental parameters, including temperature, salinity, pH, and dissolved oxygen, was conducted. Information on plankton abundance and environmental parameters was then linked to identify their spatial relationships. Furthermore, to understand the spatial distribution of plankton, plankton abundance was correlated with spectral bands from satellite imagery. The study results indicate spatial variation in plankton abundance in NWA due to the physicochemical parameters of the seawater. Analysis reveals that Cyanobacteria, Bacillariophyta (diatoms), Chlorophyta, Arthropoda, and Rotifera are present in NWA, with Bacillariophyta being the most dominant. The dominance of Bacillariophyta (diatoms) over Cyanobacteria, combined with the absence of *Pseudo-nitzschia spp.*, highlights the good ecological health and fertility of NWA.

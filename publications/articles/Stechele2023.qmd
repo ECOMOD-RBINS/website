@@ -1,0 +1,30 @@
+---
+title: "Northern Europe’s suitability for offshore European flat oyster (Ostrea edulis) habitat restoration based on population dynamics"
+type: "article"
+author: "Stechele et al."
+year: "2023"
+publication: "Frontiers in Marine Science"
+preprint: ""
+doi: "https://doi.org/10.3389/fmars.2023.1224346"
+materials: ""
+toc: false
+categories:
+  - larval transport
+  - Dynamic Energy Budget model
+  - modeling
+  - COHERENS
+  - European flat oyster (Ostrea edulis)
+  - North Sea
+---
+
+## Citation
+
+> Stechele B., **Barbut L.**, **Lacroix G.**, van Duren L.A., Van Lancker V., Degraer S., Montereale Gavazzi G., Bossier P., Declercq A.M., Nevejan N. (2023) Northern Europe’s suitability for offshore European flat oyster (*Ostrea edulis*) habitat restoration based on population dynamics. Frontiers in Marine Science 10:1224346.
+
+## Abstract
+
+**Introduction**: European and member state legislation encourage the sustainable development of offshore environments, with the restoration or creation of flat oyster (Ostrea edulis) habitats offering potential solutions to enhance biodiversity and provide ecosystem services. The site selection and identification of suitable habitats for flat oyster habitat restoration projects remains a significant knowledge gap.
+
+**Methods**: By combining seabed substrate information with a coupled population (Dynamic Energy Budget - Individual-Based Models) and particle tracking model (for larvae dispersal), critical insights can be gained into the spatial distribution of suitability indicators such as population growth, fitness, reproduction, and self-recruitment. By applying this model to the English Channel and the North Sea over a ten-year period, suitable locations for flat oyster habitat restoration, restorative aquaculture, or oyster-related nature-inclusive designs can be identified. Comparing historical oyster bed locations with model outputs offers insights into why these locations were suitable for oyster bed development and allows for validation of the proposed approach.
+
+**Results and discussion**: Coastal and nearshore environments are generally more suitable for flat oyster habitat restoration, and populations will grow more quickly in these areas. Offshore restoration in the North Sea presents challenges if it relies solely on self-recruitment. Besides site selection purposes, the model can be used to evaluate the effect of management strategies (e.g., initial population size) or environmental pressures (e.g., climate change, pollution) on restorations success.
