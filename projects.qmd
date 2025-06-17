@@ -1,7 +1,7 @@
 ---
 title: "Overview of our projects"
 listing:
-  contents: posts/projects
+  contents: projects
   sort: ["priority asc", "title asc"]
   type: grid
   categories: true

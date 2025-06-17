@@ -6,8 +6,10 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
+<meta name="author" content="">
+<meta name="description" content="Application du modèle COHERENS à l’analyse du cycle de vie des crevettes et des huîtres">
 
-<title>In construction…</title>
+<title>SHRIMP-II</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -23,26 +25,24 @@ ul.task-list li input[type="checkbox"] {
 </style>
 
 
-<script src="site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="site_libs/quarto-nav/headroom.min.js"></script>
-<script src="site_libs/clipboard/clipboard.min.js"></script>
-<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
-<script src="site_libs/quarto-search/fuse.min.js"></script>
-<script src="site_libs/quarto-search/quarto-search.js"></script>
-<meta name="quarto:offset" content="./">
-<link href="./favicon.ico" rel="icon">
-<script src="site_libs/quarto-listing/list.min.js"></script>
-<script src="site_libs/quarto-listing/quarto-listing.js"></script>
-<script src="site_libs/quarto-html/quarto.js" type="module"></script>
-<script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
-<script src="site_libs/quarto-html/popper.min.js"></script>
-<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="site_libs/quarto-html/anchor.min.js"></script>
-<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-226bd0f977fa82dfae4534cac220d79a.css" rel="stylesheet" id="quarto-text-highlighting-styles">
-<script src="site_libs/bootstrap/bootstrap.min.js"></script>
-<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-df027a822fe8b3ce8f01ab6063ef4d23.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<script src="../../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../../">
+<link href="../../favicon.ico" rel="icon">
+<script src="../../site_libs/quarto-html/quarto.js" type="module"></script>
+<script src="../../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="../../site_libs/quarto-html/popper.min.js"></script>
+<script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-226bd0f977fa82dfae4534cac220d79a.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../../site_libs/bootstrap/bootstrap-df027a822fe8b3ce8f01ab6063ef4d23.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -70,67 +70,9 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
-<script>
 
-  window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-listing .list');
-    if (!listingTargetEl) {
-      // No listing discovered, do not attach.
-      return; 
-    }
 
-    const options = {
-      valueNames: ['listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
-      
-      searchColumns: ["listing-categories"],
-    };
-
-    window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
-
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  });
-
-  window.addEventListener('hashchange',() => {
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  })
-  </script>
-
-  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
-  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
-
-<script type="text/javascript">
-const typesetMath = (el) => {
-  if (window.MathJax) {
-    // MathJax Typeset
-    window.MathJax.typeset([el]);
-  } else if (window.katex) {
-    // KaTeX Render
-    var mathElements = el.getElementsByClassName("math");
-    var macros = [];
-    for (var i = 0; i < mathElements.length; i++) {
-      var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN") {
-        window.katex.render(texText.data, mathElements[i], {
-          displayMode: mathElements[i].classList.contains('display'),
-          throwOnError: false,
-          macros: macros,
-          fleqn: false
-        });
-      }
-    }
-  }
-}
-window.Quarto = {
-  typesetMath
-};
-</script>
-
-<link rel="stylesheet" href="styles.css">
+<link rel="stylesheet" href="../../styles.css">
 </head>
 
 <body class="nav-fixed quarto-light">
@@ -146,27 +88,27 @@ window.Quarto = {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link" href="./index.html"> 
+    <a class="nav-link" href="../../index.html"> 
 <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./news.html"> 
+    <a class="nav-link" href="../../news.html"> 
 <span class="menu-text">News</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./team.html"> 
+    <a class="nav-link" href="../../team.html"> 
 <span class="menu-text">Team</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./projects.html"> 
+    <a class="nav-link" href="../../projects.html"> 
 <span class="menu-text">Projects</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link active" href="./activities.html" aria-current="page"> 
+    <a class="nav-link" href="../../activities.html"> 
 <span class="menu-text">Activities</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./publications.html"> 
+    <a class="nav-link" href="../../publications.html"> 
 <span class="menu-text">Publications</span></a>
   </li>  
 </ul>
@@ -180,19 +122,27 @@ window.Quarto = {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(0)</span></div></div></div>
+    
 <!-- main -->
-<main class="content column-page-left" id="quarto-document-content">
+<main class="content column-page" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">In construction…</h1>
+<h1 class="title">SHRIMP-II</h1>
+  <div class="quarto-categories">
+    <div class="quarto-category">Modeling</div>
+    <div class="quarto-category">Capacity building</div>
+  </div>
+  </div>
+
+<div>
+  <div class="description">
+    Application du modèle COHERENS à l’analyse du cycle de vie des crevettes et des huîtres
+  </div>
 </div>
 
 
-
-<div class="quarto-title-meta column-page-left">
+<div class="quarto-title-meta column-page">
 
     
   
@@ -204,16 +154,108 @@ window.Quarto = {
 </header>
 
 
-
-
-
-
-<div class="quarto-listing quarto-listing-container-grid" id="listing-listing">
-<div class="list grid quarto-listing-cols-3">
-
+<section id="shrimp-ii---application-du-modèle-coherens-à-lanalyse-du-cycle-de-vie-des-crevettes-et-des-huîtres" class="level2">
+<h2 class="anchored" data-anchor-id="shrimp-ii---application-du-modèle-coherens-à-lanalyse-du-cycle-de-vie-des-crevettes-et-des-huîtres">SHRIMP-II - Application du modèle COHERENS à l’analyse du cycle de vie des crevettes et des huîtres</h2>
+<p>December 2024 - July 2029</p>
+</section>
+<section id="summary" class="level2">
+<h2 class="anchored" data-anchor-id="summary">Summary</h2>
+<p>This project aims to enhance the understanding and sustainable management of coastal aquatic resources in the lake Nokoué-Cotonou Channel region. It focuses on analyzing the life cycle and distribution of shrimp in relation to environmental scenarios and their interactions with physical, chemical, and biological parameters, with the goal of developing a numerical model for resource optimization. The project also investigates the impact of sediment transport on the dynamics of the Cotonou channel mouth and its influence on tidal cycles and larval transport, while assessing potential management strategies. Additionally, it supports capacity building for women and identifies suitable zones for oyster aquaculture development. A comprehensive inventory and spatio-temporal analysis of phytoplankton in the coastal marine area will be conducted. Finally, the project emphasizes the dissemination of results within the scientific community and the sharing of findings with local stakeholders, including managers, municipalities, fishers, and local communities.</p>
+</section>
+<section id="team-members-involved" class="level2">
+<h2 class="anchored" data-anchor-id="team-members-involved">Team members involved</h2>
+<p>Geneviève Lacroix</p>
+</section>
+<section id="ecomod-tasks-and-responsabilities" class="level2">
+<h2 class="anchored" data-anchor-id="ecomod-tasks-and-responsabilities">ECOMOD tasks and responsabilities</h2>
+<p>Coordination and capacity building</p>
+</section>
+<section id="partners" class="level2">
+<h2 class="anchored" data-anchor-id="partners">Partners</h2>
+<ol type="1">
+<li>RBINS coordination (Geneviève Lacroix)</li>
+<li>Institut de Recherches Halieutiques et Océanologiques du Bénin (IRHOB) <img src="images/IRHOB-logo.png" class="img-fluid quarto-figure quarto-figure-right" style="width:10.0%" alt="IRHOB logo"> (Sylvain Gozingan, Wilfried Sintondji, Yaovi Zounon et Zacharie Sohou)</li>
+</ol>
+</section>
+<section id="funding-and-contract-cebios-logo" class="level2">
+<h2 class="anchored" data-anchor-id="funding-and-contract-cebios-logo">Funding and contract <img src="images/CEBioS-logo.jpg" class="img-fluid quarto-figure quarto-figure-right" style="width:10.0%" alt="CEBioS logo"></h2>
+<p>This project is funded by the Directorate-General for Development Cooperation and Humanitarian Aid (DGD) through the <a href="https://cebios.naturalsciences.be/">CEBioS</a> (Capacities for Biodiversity and Sustainable Development) program.</p>
+</section>
+<section id="dissemination-shrimp-i-2018-2024" class="level2">
+<h2 class="anchored" data-anchor-id="dissemination-shrimp-i-2018-2024">Dissemination SHRIMP-I (2018-2024)</h2>
+<ul>
+<li><h3 id="restitution-meeting---ganvié-benin---march-2024" class="anchored">Restitution meeting - Ganvié, Benin - March 2024</h3></li>
+</ul>
+<div class="quarto-layout-panel" data-layout-ncol="3">
+<div class="quarto-layout-row">
+<div class="quarto-layout-cell" style="flex-basis: 33.3%;justify-content: center;">
+<p><img src="images/Atelier-restitution-Ganvie_March2024_01.jpg" class="img-fluid"></p>
 </div>
-<div class="listing-no-matching d-none">No matching items</div>
-</div></main> <!-- /main -->
+<div class="quarto-layout-cell" style="flex-basis: 33.3%;justify-content: center;">
+<p><img src="images/Atelier-restitution-Ganvie_March2024_02.jpg" class="img-fluid"></p>
+</div>
+<div class="quarto-layout-cell" style="flex-basis: 33.3%;justify-content: center;">
+<p><img src="images/Atelier-restitution-Ganvie_March2024_03.jpg" class="img-fluid"></p>
+</div>
+</div>
+</div>
+<ul>
+<li><h3 id="policy-brief-shrimp-i" class="anchored">Policy brief SHRIMP-I</h3>
+<p>The policy brief of the project SHRIMP-I can be downloaded here: <a href="https://cebios.naturalsciences.be/wp-content/uploads/2025/02/Shrimp_Policy_Brief_Final.pdf">Policy brief SHRIMP-I</a></p></li>
+<li><h3 id="web---press" class="anchored">Web - Press</h3>
+<ul>
+<li>Presse écrite. Interview de Zacharie Sohou à l’occasion de l’organisation de la Journée mondiale de l’Océan au Bénin le 08 juin 2018. Nouvelle expression N°2198, jeudi 21 juin 2018.</li>
+<li>TV. Reportage diffusé lors du <a href="https://www.youtube.com/live/779-Gr-3lGU?feature=share">journal de 13h</a> et du <a href="https://www.youtube.com/live/Pc_KgcGtqW8?feature=share">journal de 20h</a> le 12.08.2023 sur ORTB<br>
+</li>
+<li>Presse écrite. <a href="https://lanation.bj/environnement/gestion-durable-des-ressources-halieutiques-des-resultats-de-recherches-dinstituts-devoiles">La Nation</a> : Gestion durable des ressources halieutiques: Des résultats de recherches d’instituts dévoilés</li>
+</ul></li>
+<li><h3 id="peer-reviewed-publications" class="anchored">Peer-reviewed publications</h3>
+<ul>
+<li>Sintondji S.W., Gozingan A.S., Sohou Z., Taymans M., Baetens K., Lacroix G., Fiogbé E.D. 2022. Prediction of the distribution of shrimp species found in southern Benin through the lake Nokoué-Ocean complex. Journal of Aquaculture, Marine Biology &amp; Ecology, JAMBE-116. Doi: 10.37722/JAMBE.2022201.</li>
+<li>Sintondji S.W., Sohou Z., Baetens K., Lacroix G., Fiogbé E.D. 2022. Characterization of a West African coastal lagoon system: Case of Lake Nokoué with its inlet (Cotonou, South Benin). Ecologies 2022, 3: 467-479. Doi: 10.3390/ecologies3040033</li>
+<li>Sintondji S.W., Sohou Z., Goussanou A., Godome T., Baetens K., Lacroix G., Fiogbé E.D. 2023. Distribution model of shrimp species in lake Nokoué, southern Benin West Africa. Crustaceana 96(7): 605-625. Doi: 10.1163/15685403-bja1030</li>
+<li>Amoussou Sylvain Gozingan, Zacharie Sohou, Katrijn Baetens, Frédéric Bonou, Ezinvi Baloïtcha, Olivier Gourgue, Hugo Romanelli, Arthur Capet, Geneviève Lacroix. A 3D numerical baroclinic application of the COHERENS model in the Gulf of Guinea, West Africa. Regional Studies in Marine Science, 79: 103811. https://doi.org/10.1016/j.rsma.2024.103811</li>
+</ul></li>
+<li><h3 id="oral-presentations" class="anchored">Oral presentations</h3>
+<ul>
+<li>Sintondji W., Gozingan S., Sohou Z., Baetens K., Lacroix G., Fiogbé E.D. 2021. Influence of precipitation events on the temperature of the surface waters of lake Nokoué, Benin. Xème édition des Journées Scientifiques du Centre Béninois de le Recherche Scientifique et de l’Innovation (CBRSI), Cotonou (BJ), online, 28 - 30 June 2021</li>
+<li>Sintondji W.S. 2021. Distribution spatio-temporelle des espèces de crevettes dans le complexe lac Nokoué-chenal de Cotonou au Bénin. Tropical Atlantic Climate and Coastal Variability (TACCOVAR), Benin, 27-30 September 2021</li>
+<li>Gozingan S.A., Modélisation Hydrodynamique et dynamique des populations des crevettes dans le système lac Nokoué-Chenal-océan Béninois. Réunion groupe Colruyt et CEBioS, 27th October 2021</li>
+<li>Sintondji W.S., 2021. Approches pour la relance de la filière crevettière au Bénin. Réunion groupe Colruyt et CEBioS, 27th October 2021</li>
+<li>Sintondji W., Sohou Z., Baetens K., Lacroix G., Fiogbé E.D. 2022. Efficacité de deux engins de pêche sur le flux des crevettes dans un système lagunaire Ouest Africain : cas du lac Nokoué-chenal de Cotonou. Journées scientifiques du Centre Béninois de la Recherche Scientifique et de l’Innovation (CBRSI), Cotonou (Bénin), 09-11 May 2022</li>
+<li>Gozingan S.A., Baetens K., Lacroix G., Sohou Z., Bonou F., Baloïtcha E. A 3D numerical baroclinic application of the COHERENS model in the Gulf of Guinea, West Africa. CIPMA Seminar, CIPMA-UAC, 22nd June 2022</li>
+<li>Sintondji W., Sohou Z., Baetens K., Lacroix G., Fiogbé E.D. 2022. Efficacité de deux engins de pêche sur le flux des crevettes dans un système lagunaire Ouest Africain : cas du lac Nokoué-chenal de Cotonou. XIXème édition des Journées scientifiques de Lomé (JSIL 2022), Lomé (Togo), 17-21 October 2022</li>
+<li>Gozingan S.A., Baetens K., Lacroix G., Sohou Z., Bonou F., Baloïtcha E. 2022. A 3D numerical baroclinic application of the COHERENS model in the Gulf of Guinea, West Africa. Climat de l’Atlantique. Tropical Atlantic Climate and Coastal Variability (TACCOVAR), Benin, 26-30 September 2022</li>
+<li>Lacroix G., Baetens K., Sohou Z., Sintondji W.S., Gozingan S.A. 2023. Application du modèle COHERENS pour améliorer la gestion des stocks de crevettes au Bénin. Journées de restitution des résultats de recherches du projet de modélisation hydrodynamique et de la distribution des crevettes dans le complexe lac Nokoué-océan, 08th August 2023, Cotonou, Benin</li>
+<li>Sintondji W., 2023. Réalisation d’un capteur à moindre coût, capable d’enregistrer en continu les paramètres tels que la température et la salinité. Journées de restitution des résultats de recherches du projet de modélisation hydrodynamique et de la distribution des crevettes dans le complexe lac Nokoué-océan, 08th August 2023, Cotonou, Benin</li>
+<li>Sintondji W. 2023. Diversité spécifique et distribution spatio-temporelle des crevettes dans le complexe lac Nokoué-chenal de Cotonou au Sud-Bénin. Journées de restitution des résultats de recherches du projet de modélisation hydrodynamique et de la distribution des crevettes dans le complexe lac Nokoué-océan, 08th August 2023, Cotonou, Benin</li>
+<li>Gozingan S.A., 2023. A 3D numerical baroclinic application of the COHERENS model in the Gulf of Guinea, West Africa. Journées de restitution des résultats de recherches du projet de modélisation hydrodynamique et de la distribution des crevettes dans le complexe lac Nokoué-océan, 08th August 2023, Cotonou, Benin</li>
+</ul></li>
+<li><h3 id="posters" class="anchored">Posters</h3>
+<ul>
+<li>Sintondji W., Gozingan S., Sohou Z., Baetens K., Lacroix G., Fiogbé E.D. 2022. Spatio-temporal distribution of shrimp species in the lake Nokoué-Cotonou channel complex in southern Benin. VLIZ Marine Science Day 2022, online, 02 March 2022</li>
+<li>Gozingan S., Baetens K., Lacroix G., Sohou Z., Bonou F., Baloïtcha E. 2022. The importance of grid resolution, temperature and salinity for modelling the hydrodynamic regime in the Gulf of Guinea. VLIZ Marine Science Day 2022, online, 02 March 2022</li>
+<li>Sèlomè Wilfried Sintondji, Zacharie Sohou, Katrijn Baetens, Geneviève Lacroix, Emile Didier Fiogbé. 2023. Distribution model of shrimp species in Lake Nokoué, southern Benin, West Africa. Journées de restitution des résultats de recherches du projet de modélisation hydrodynamique et de la distribution des crevettes dans le complexe lac Nokoué-océan, 08 August 2023, Cotonou, Benin</li>
+<li>Sèlomè Wilfried Sintondji, Zacharie Sohou, Katrijn Baetens, Geneviève Lacroix, Emile Didier Fiogbé. 2023. Shrimp species sampled in Lake Nokoué, South Benin, West Africa and their life cycles. Journées de restitution des résultats de recherches du projet de modélisation hydrodynamique et de la distribution des crevettes dans le complexe lac Nokoué-océan, 08 August 2023, Cotonou, Benin</li>
+<li>Sèlomè Wilfried Sintondji, Zacharie Sohou, Sylvain Gozingan, Médart Honfo, Katrijn Baetens, Geneviève Lacroix, Emile Didier Fiogbé. 2023. Influence of precipitation events on the temperature of the surface waters of Lake Nokoué, Benin. Journées de restitution des résultats de recherches du projet de modélisation hydrodynamique et de la distribution des crevettes dans le complexe lac Nokoué-océan, 08 August 2023, Cotonou, Benin</li>
+<li>Sylvain A. Gozingan, Katrijn Baetens, Geneviève Lacroix, Zacharie Sohou, Frédéric Bonou, Ezinvi Baloïtcha. A 3D numerical baroclinic application of the COHERENS model in the Gulf of Guinea, West Africa. Journées de restitution des résultats de recherches du projet de modélisation hydrodynamique et de la distribution des crevettes dans le complexe lac Nokoué-océan, 08 August 2023, Cotonou, Benin. [PDF] Sintondji W., Gozingan S., Sohou Z., Baetens K., Lacroix G., Fiogbé E.D. 2022. Spatio-temporal distribution of shrimp species in the lake Nokoué-Cotonou channel complex in southern Benin. VLIZ Marine Science Day 2022, online, 02 March 2022</li>
+<li>Gozingan S., Baetens K., Lacroix G., Sohou Z., Bonou F., Baloïtcha E. 2022. The importance of grid resolution, temperature and salinity for modelling the hydrodynamic regime in the Gulf of Guinea. VLIZ Marine Science Day 2022, online, 02 March 2022</li>
+<li>Sèlomè Wilfried Sintondji, Zacharie Sohou, Katrijn Baetens, Geneviève Lacroix, Emile Didier Fiogbé. 2023. Distribution model of shrimp species in Lake Nokoué, southern Benin, West Africa. Journées de restitution des résultats de recherches du projet de modélisation hydrodynamique et de la distribution des crevettes dans le complexe lac Nokoué-océan, 08 August 2023, Cotonou, Benin</li>
+<li>Sèlomè Wilfried Sintondji, Zacharie Sohou, Katrijn Baetens, Geneviève Lacroix, Emile Didier Fiogbé. 2023. Shrimp species sampled in Lake Nokoué, South Benin, West Africa and their life cycles. Journées de restitution des résultats de recherches du projet de modélisation hydrodynamique et de la distribution des crevettes dans le complexe lac Nokoué-océan, 08 August 2023, Cotonou, Benin</li>
+<li>Sèlomè Wilfried Sintondji, Zacharie Sohou, Sylvain Gozingan, Médart Honfo, Katrijn Baetens, Geneviève Lacroix, Emile Didier Fiogbé. 2023. Influence of precipitation events on the temperature of the surface waters of Lake Nokoué, Benin. Journées de restitution des résultats de recherches du projet de modélisation hydrodynamique et de la distribution des crevettes dans le complexe lac Nokoué-océan, 08 August 2023, Cotonou, Benin</li>
+<li>Sylvain A. Gozingan, Katrijn Baetens, Geneviève Lacroix, Zacharie Sohou, Frédéric Bonou, Ezinvi Baloïtcha. A 3D numerical baroclinic application of the COHERENS model in the Gulf of Guinea, West Africa. Journées de restitution des résultats de recherches du projet de modélisation hydrodynamique et de la distribution des crevettes dans le complexe lac Nokoué-océan, 08 August 2023, Cotonou, Benin</li>
+</ul></li>
+<li><h3 id="phd" class="anchored">PhD</h3>
+<ul>
+<li>SINTONDJI Wilfried, Diversité spécifique et distribution spatio-temporelle des crevettes dans le complexe lac Nokoué-chenal de Cotonou au Sud du Bénin., University of Abomey – Calavi, Benin. Thèse de doctorat, Octobre 2022</li>
+<li>GOZINGAN Sylvain, Hydrodynamic modeling of interactions between Nokoue lake and Guinea gulf: Residual currents and population dynamic of shrimp species, University of Abomey – Calavi, International Chair in Mathematical Physics and Applications (CIPMA – UNESCO Chair), Benin. In progress</li>
+</ul></li>
+</ul>
+
+
+</section>
+
+</main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
     const icon = "";

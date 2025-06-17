@@ -1,0 +1,868 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
+
+<meta charset="utf-8">
+<meta name="generator" content="quarto-1.7.23">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+
+<meta name="author" content="">
+
+<title>COHERENS</title>
+<style>
+code{white-space: pre-wrap;}
+span.smallcaps{font-variant: small-caps;}
+div.columns{display: flex; gap: min(4vw, 1.5em);}
+div.column{flex: auto; overflow-x: auto;}
+div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+ul.task-list{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+  width: 0.8em;
+  margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
+  vertical-align: middle;
+}
+</style>
+
+
+<script src="../../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../../">
+<link href="../../favicon.ico" rel="icon">
+<script src="../../site_libs/quarto-html/quarto.js" type="module"></script>
+<script src="../../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="../../site_libs/quarto-html/popper.min.js"></script>
+<script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-226bd0f977fa82dfae4534cac220d79a.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../../site_libs/bootstrap/bootstrap-df027a822fe8b3ce8f01ab6063ef4d23.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<script id="quarto-search-options" type="application/json">{
+  "location": "navbar",
+  "copy-button": false,
+  "collapse-after": 3,
+  "panel-placement": "end",
+  "type": "overlay",
+  "limit": 50,
+  "keyboard-shortcut": [
+    "f",
+    "/",
+    "s"
+  ],
+  "show-item-context": false,
+  "language": {
+    "search-no-results-text": "No results",
+    "search-matching-documents-text": "matching documents",
+    "search-copy-link-title": "Copy link to search",
+    "search-hide-matches-text": "Hide additional matches",
+    "search-more-match-text": "more match in this document",
+    "search-more-matches-text": "more matches in this document",
+    "search-clear-button-title": "Clear",
+    "search-text-placeholder": "",
+    "search-detached-cancel-button-title": "Cancel",
+    "search-submit-button-title": "Submit",
+    "search-label": "Search"
+  }
+}</script>
+
+
+<link rel="stylesheet" href="../../styles.css">
+</head>
+
+<body class="nav-fixed fullcontent quarto-light">
+
+<div id="quarto-search-results"></div>
+  <header id="quarto-header" class="headroom fixed-top">
+    <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
+      <div class="navbar-container container-fluid">
+            <div id="quarto-search" class="" title="Search"></div>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" role="menu" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+  <span class="navbar-toggler-icon"></span>
+</button>
+          <div class="collapse navbar-collapse" id="navbarCollapse">
+            <ul class="navbar-nav navbar-nav-scroll me-auto">
+  <li class="nav-item">
+    <a class="nav-link" href="../../index.html"> 
+<span class="menu-text">Home</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../../news.html"> 
+<span class="menu-text">News</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../../team.html"> 
+<span class="menu-text">Team</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../../projects.html"> 
+<span class="menu-text">Projects</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../../activities.html"> 
+<span class="menu-text">Activities</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../../publications.html"> 
+<span class="menu-text">Publications</span></a>
+  </li>  
+</ul>
+          </div> <!-- /navcollapse -->
+            <div class="quarto-navbar-tools">
+</div>
+      </div> <!-- /container-fluid -->
+    </nav>
+</header>
+<!-- content -->
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
+<!-- sidebar -->
+<!-- margin-sidebar -->
+    
+<!-- main -->
+<main class="content" id="quarto-document-content">
+
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+<h1 class="title">COHERENS</h1>
+  <div class="quarto-categories">
+    <div class="quarto-category">Modeling</div>
+  </div>
+  </div>
+
+
+
+<div class="quarto-title-meta">
+
+    
+  
+    
+  </div>
+  
+
+
+</header>
+
+
+<section id="coherens-coupled-hydrodynamical-ecological-model-for-regional-and-shelf-seas" class="level1">
+<h1>COHERENS – COupled Hydrodynamical-Ecological model for REgioNal and Shelf seas</h1>
+<p>COHERENS is a state-of-the-art, multi-purpose numerical modeling system designed to simulate hydrodynamic, ecological, and sediment transport processes in regional, shelf, and coastal seas. Its development is led by the Royal Belgian Institute of Natural Sciences.</p>
+<p>COHERENS offers a comprehensive framework that integrates:</p>
+<ul>
+<li>3D hydrodynamic modeling</li>
+<li>Sediment and morphological dynamics</li>
+<li>Biogeochemical and ecological processes</li>
+<li>Tracer and contaminant transport</li>
+</ul>
+<p>Its modular and flexible architecture makes it suitable for a wide range of applications, from academic research to operational forecasting and environmental impact assessments.</p>
+<p>COHERENS is part of an open-source initiative, freely available to everyone under the EUPL license.</p>
+<p><strong>Source code:</strong> <a href="https://gitlab.naturalsciences.be/ecomod/coherens_v3">https://gitlab.naturalsciences.be/ecomod/coherens_v3</a></p>
+<p><strong>User documentation:</strong> <a href="https://doi.org/10.5281/zenodo.11261106">https://doi.org/10.5281/zenodo.11261106</a></p>
+<section id="applications" class="level2">
+<h2 class="anchored" data-anchor-id="applications">Applications</h2>
+<p>Coming soon.</p>
+</section>
+<section id="publications" class="level2">
+<h2 class="anchored" data-anchor-id="publications">Publications</h2>
+<p><em>All publications use COHERENS.</em></p>
+<section id="section" class="level3">
+<h3 class="anchored" data-anchor-id="section">2025</h3>
+<ul>
+<li>J. Kämpf, How transient winds produce coastal countercurrents along a straight coastline: A process-oriented modelling study, <em>Ocean Dynamics</em>, 75, 53. <a href="https://doi.org/10.1007/s10236-025-01698-z">DOI</a></li>
+<li>R. Puspasari, R. Rachmawati, B. Nugraha, H. Madduppa, L.M.I. Sani, W. S. Pranowo, Aslan, N. N. Wiadnyana, Z. Imran, Potential relation of groupers populations between protected reef areas and nearby coastal waters using larval dispersal model and genetic method, <em>Global Ecology and Conservation</em>, 58, e03457. <a href="https://doi.org/10.1016/j.gecco.2025.e03457">DOI</a></li>
+<li>J. Kämpf, Phytoplankton and zooplankton production in the Bonney Coast upwelling, Australia: A coupled physical-biological model investigation, <em>Continental Shelf Research</em>, 285, 105373. <a href="https://doi.org/10.1016/j.csr.2024.105373">DOI</a></li>
+</ul>
+</section>
+<section id="section-1" class="level3">
+<h3 class="anchored" data-anchor-id="section-1">2024</h3>
+<ul>
+<li>V.D. Vinh, N.M. Hai, S.P. Purayil, <strong>G. Lacroix</strong>, N.T. Duong, Seasonal variation of coastal currents and residual currents in the Cat Ba - HA Long coastal area (Vietnam): Results of coherens model, <em>Regional Studies in Marine Science</em>, 80, 103874. <a href="https://doi.org/10.1016/j.rsma.2024.103874">DOI</a></li>
+<li><strong>A.S. Gozingan</strong>, Z. Sohou, K. Baetens, F. Bonou, E. Baloïtcha, O. Gourgue, <strong>H. Romanelli</strong>, <strong>A. Capet</strong>, <strong>G. Lacroix</strong>, A 3D numerical baroclinic application of the COHERENS model in the Gulf of Guinea, West Africa, <em>Regional Studies in Marine Science</em>, 79, 103811. <a href="https://doi.org/10.1016/j.rsma.2024.103811">DOI</a></li>
+<li>J. Kämpf, On the retroflection of upwelling jets near coastal bends, <em>Continental Shelf Research</em>, 279, 105276. <a href="https://doi.org/10.1016/j.csr.2024.105276">DOI</a></li>
+<li>J. Kämpf, The Bonney Coast upwelling: How physical processes shape the feeding behaviour of blue whales, <em>Continental Shelf Research</em>, 279, 105277. <a href="https://doi.org/10.1016/j.csr.2024.105277">DOI</a></li>
+<li><strong>L. Barbut</strong>, S. Lehuta, F.A.M. Volckaert, <strong>G. Lacroix</strong>, Lessons from the calibration and sensitivity analysis of a fish larval transport model, <em>Marine Ecology Progress Series</em>, 731, 67-88. <a href="https://doi.org/10.3354/meps14536">DOI</a></li>
+<li>J. Kämpf, On the wind-driven formation of plankton patches in island wakes, <em>Journal of Marine Science and Engineering</em>, 12, 1, 193. <a href="https://doi.org/10.3390/jmse12010193">DOI</a></li>
+</ul>
+</section>
+<section id="section-2" class="level3">
+<h3 class="anchored" data-anchor-id="section-2">2023</h3>
+<ul>
+<li>H. Mehrfar, A. Raeisi, M.T. Azad, S.M.R. Reisosadat, Numerical study of the effects of coastal currents and meso-scale eddies on the spread of pollution in the Persian Gulf, <em>International Journal of Environmental Science and Technology</em>, 20, 7, 7099-7116. <a href="https://doi.org/10.1007/s13762-023-04920-x">DOI</a></li>
+<li>A. R. Azarnivand, M. Sadrinasab, M. Nasseri, Climate change impacts on the seasonal variation of hydro-physical characteristics in the Persian Gulf, <em>Estuaries and Coasts</em>, 46, 2, 302–322. <a href="https://doi.org/10.1007/s12237-022-01151-0">DOI</a></li>
+<li>J. Kämpf, L. Möller, R. Baring, A. Shute, C. Cheesman, The island mass effect: a study of wind-driven nutrient upwelling around reef islands, <em>Journal of Oceanography</em>, 79, 2, 161–174. <a href="https://doi.org/10.1007/s10872-022-00673-2">DOI</a></li>
+</ul>
+</section>
+<section id="section-3" class="level3">
+<h3 class="anchored" data-anchor-id="section-3">2022</h3>
+<ul>
+<li>B. Stechele, D. van der Zande, A. Alvera-Azcárate, D. Delbare, <strong>G. Lacroix</strong>, N. Nevejan, Biological site suitability for exposed self-regulating cultivation of blue mussel (Mytilus edulis): A Belgian case study, <em>Aquacultural Engineering</em>, 98, 102264. <a href="https://doi.org/10.1016/j.aquaeng.2022.102264">DOI</a></li>
+<li><strong>V. Dulière</strong>, C. Guillaumot, <strong>G. Lacroix</strong>, T. Saucède, Z. López-Farran, B. Danis, I. Schön, K. Baetens, Dispersal models alert on the risk of non-native species introduction by ballast water in protected areas from the Western Antarctic Peninsula, <em>Diversity and Distributions</em>, 28, 4, 649-666. <a href="https://doi.org/10.1111/ddi.13464">DOI</a></li>
+</ul>
+</section>
+<section id="section-4" class="level3">
+<h3 class="anchored" data-anchor-id="section-4">2021</h3>
+<ul>
+<li>S. Paoletti , K. Bekaert, <strong>L. Barbut</strong>, <strong>G. Lacroix</strong>, F.A.M. Volckaert, K. Hostens, Validating a biophysical dispersal model with the early life-history traits of common sole (Solea solea L.), <em>PLOS One</em>, 16, 9, e0257709. <a href="https://doi.org/10.1371/journal.pone.0257709">DOI</a></li>
+<li>J. Kämpf, Modelling of physical drivers of a large feeding aggregation of killer whales (Orcinus orca) in the western Great Australian Bight, Australia, <em>Deep Sea Research Part I: Oceanographic Research Papers</em>, 171, 103526. <a href="https://doi.org/10.1016/j.dsr.2021.103526">DOI</a></li>
+<li>J. Kämpf, On the upslope sediment transport at continental margins, <em>Journal of Marine Systems</em>, 219, 103546. <a href="https://doi.org/10.1016/j.jmarsys.2021.103546">DOI</a></li>
+<li>L. Schiavon, <strong>V. Dulière</strong>, M. La Mesa, I.A.M. Marino, G. Codogno, E. Boscari, E. Riginella, A. Battistotti, M. Lucassen, L. Zane, C. Papetti, Species distribution, hybridization and connectivity in the genus Chionodraco: Unveiling unknown icefish diversity in antarctica, <em>Diversity and Distributions</em>, 27, 5, 766-783. <a href="https://doi.org/10.1111/ddi.13249">DOI</a></li>
+<li>K.E. van de Wolfshaar, <strong>L. Barbut</strong>, <strong>G. Lacroix</strong>, From spawning to first-year recruitment: the fate of juvenile sole growth and survival under future climate conditions in the North Sea, <em>ICES Journal of Marine Science</em>, 79, 2, 495–505. <a href="https://doi.org/10.1093/icesjms/fsab025">DOI</a></li>
+</ul>
+</section>
+<section id="section-5" class="level3">
+<h3 class="anchored" data-anchor-id="section-5">2020</h3>
+<ul>
+<li>H. Mehrfar, M.T. Azad, K. Lari, A.A. Bidokhti, A numerical simulation case study of the coastal currents and upwelling in the western Persian Gulf, <em>Journal of Ocean Engineering and Science</em>, 5, 4, 323-332. <a href="https://doi.org/10.1016/j.joes.2019.12.005">DOI</a></li>
+<li>E. Miettunen, L. Tuomi, K. Myrberg, Water exchange between the inner and outer archipelago areas of the Finnish Archipelago Sea in the Baltic Sea, <em>Ocean Dynamics</em>, 70, 11, 1421-1437. <a href="https://doi.org/10.1007/s10236-020-01407-y">DOI</a></li>
+<li><strong>L. Barbut</strong>, B. Vastenhoud, L. Vigin, S. Degraer, F.A.M. Volckaert, <strong>G. Lacroix</strong>, The proportion of flatfish recruitment in the North Sea potentially affected by offshore windfarms, <em>ICES Journal of Marine Science</em>, 77, 3, 1227–1237. <a href="https://doi.org/10.1093/icesjms/fsz050">DOI</a></li>
+<li>S. Afsharian, P.A. Taylor, L. Momayez, Investigating the potential impact of wind farms on Lake Erie, <em>Journal of Wind Engineering and Industrial Aerodynamics</em>, 198, 104049. <a href="https://doi.org/10.1016/j.jweia.2019.104049">DOI</a></li>
+<li>H. Mehrfar, M.T. Azad, K. Lari, A.A. Bidokhti, Seasonal variations of the coastal currents and eddies in the Persian Gulf: A numerical case study, <em>Marine Technology Society Journal</em>, 54, 1, 44-52. <a href="https://doi.org/10.4031/MTSJ.54.1.4">DOI</a></li>
+</ul>
+</section>
+<section id="section-6" class="level3">
+<h3 class="anchored" data-anchor-id="section-6">2019</h3>
+<ul>
+<li>J. Juntunen, J. Ropponen, T. Shuku, K. Krogerus, T. Huttula, The effect of local wind field on water circulation and dispersion of imaginary tracers in two small connected lakes, <em>Journal of Hydrology</em>, 579, 124137. <a href="https://doi.org/10.1016/j.jhydrol.2019.124137">DOI</a></li>
+<li><strong>V. Dulière</strong>, N. Gypens, C. Lancelot, P. Luyten, <strong>G. Lacroix</strong>, Origin of nitrogen in the English Channel and Southern Bight of the North Sea ecosystems, <em>Hydrobiologia</em>, 845, 1, 13–33. <a href="https://doi.org/10.1007/s10750-017-3419-5">DOI</a></li>
+<li>H. Komijani, J. Monbaliu, The wave-current interaction in the coastal area, <em>Journal of Marine Research</em>, 77, 5-6, 375-405. <a href="https://doi.org/10.1357/002224019833406169">DOI</a></li>
+<li><strong>L. Barbut</strong>, C. Groot Crego, S. Delerue-Ricard, S. Vandamme, F.A.M. Volckaert, <strong>G. Lacroix</strong>, How larval traits of six flatfish species impact connectivity, <em>Limnology and Oceanography</em>, 64, 3, 1150-1171. <a href="https://doi.org/10.1002/lno.11104">DOI</a></li>
+<li>J.B. Matikolaei, A.A. Bidokhti, M. Shiea, Some aspects of the deep abyssal overflow between the middle and southern basins of the Caspian Sea, <em>Ocean Science</em>, 15, 2, 459-476. <a href="https://doi.org/10.5194/os-15-459-2019">DOI</a></li>
+<li>S. Afsharian, P.A. Taylor, On the potential impact of Lake Erie wind farms on water temperatures and mixed-layer depths: Some preliminary 1-D modeling using COHERENS, <em>Journal of Geophysical Research: Oceans</em>, 124, 3, 1736-1749. <a href="https://doi.org/10.1029/2018JC014577">DOI</a></li>
+</ul>
+</section>
+<section id="section-7" class="level3">
+<h3 class="anchored" data-anchor-id="section-7">2018</h3>
+<ul>
+<li>J. Kämpf, On the dynamics of canyon–flow interactions, <em>Marine Science and Engineering</em>, 6, 4, 129. <a href="https://doi.org/10.3390/jmse6040129">DOI</a></li>
+<li>X. Desmit, V. Thieu, G. Billen, F. Campuzano, <strong>V. Dulière</strong>, J. Garnier, L. Lassaletta, A. Ménesguen, R. Neves, L. Pinto, M. Silvestre, J.L. Sobrinho, <strong>G. Lacroix</strong>, Reducing marine eutrophication may require a paradigmatic change, <em>Science of The Total Environment</em>, 635, 1444-1466. <a href="https://doi.org/10.1016/j.scitotenv.2018.04.181">DOI</a></li>
+<li>P. Termonia, B. Van Schaeybroeck, L. De Cruz, R. De Troch, S. Caluwaerts, O. Giot, R. Hamdi, S. Vannitsem, F. Duchêne, P. Willems, H. Tabari, E. Van Uytven, P. Hosseinzadehtalaei, N. Van Lipzig, H. Wouters, S. Vanden Broucke, J.-P. van Ypersele, P. Marbaix, C. Villanueva-Birriel, X. Fettweis, C. Wyard, C. Scholzen, S. Doutreloup, K. De Ridder, A. Gobin, D. Lauwaet, T. Stavrakou, M. Bauwens, J.-F. Müller, P. Luyten, <strong>S. Ponsar</strong>, D. Van den Eynde, E. Pottiaux, The CORDEX.be initiative as a foundation for climate services in Belgium, <em>Climate Services</em>, 11, 49-61. <a href="https://doi.org/10.1016/j.cliser.2018.05.001">DOI</a></li>
+<li>S.H. Gharbi, A.M. Albarakati, M.A.&nbsp;Alsaafani, Saheed P.P., T.M. Alraddadi, Simulation of tidal hydrodynamics in the Red Sea using COHERENS model, <em>Regional Studies in Marine Science</em>, 22, 49-60. <a href="https://doi.org/10.1016/j.rsma.2018.05.007">DOI</a></li>
+<li>A. Ménesguen, X. Desmit, <strong>V. Dulière</strong>, <strong>G. Lacroix</strong>, B. Thouvenin, V. Thieu, M. Dussauze, How to avoid eutrophication in coastal seas? A new approach to derive river-specific combined nitrate and phosphate maximum concentrations, <em>Science of The Total Environment</em>, 628–629, 400-414. <a href="https://doi.org/10.1016/j.scitotenv.2018.02.025">DOI</a></li>
+<li>M. Maar, M. Butenschön, U. Daewel, A. Eggert, W. Fan, S.S. Hjøllo, M. Hufnagl, M. Huret, R. Ji, <strong>G. Lacroix</strong>, M.A.&nbsp;Peck, H. Radtke, S. Sailley, M. Sinerchia, M.D.&nbsp;Skogen, M. Travers-Trolet, T.A. Troost, K. van de Wolfshaar, Responses of summer phytoplankton biomass to changes in top-down forcing: Insights from comparative modelling, <em>Ecological Modelling</em>, 376, 54-67. <a href="https://doi.org/10.1016/j.ecolmodel.2018.03.003">DOI</a></li>
+<li>L. Tuomi, E. Miettunen, P. Alenius, K. Myrberg, Evaluating hydrography, circulation and transport in a coastal archipelago using a high-resolution 3D hydrodynamic model, <em>Journal of Marine Systems</em>, 180, 24-36. <a href="ttps://doi.org/10.1016/j.jmarsys.2017.12.006">DOI</a></li>
+<li><strong>G. Lacroix</strong>, <strong>L. Barbut</strong>, F.A.M. Volckaert, Complex effect of projected sea temperature and wind change on flatfish dispersal, <em>Global Change Biology</em>, 24, 1, 85-100. <a href="https://doi.org/10.1111/gcb.13915">DOI</a></li>
+</ul>
+</section>
+<section id="section-8" class="level3">
+<h3 class="anchored" data-anchor-id="section-8">2017</h3>
+<ul>
+<li>J. Janne, M. Päivi, S. Antti, Public health and economic risk assessment of waterborne contaminants and pathogens in Finland, <em>Science of The Total Environment</em>, 599–600, 873-882. <a href="https://doi.org/10.1016/j.scitotenv.2017.05.007">DOI</a></li>
+<li>I. Amour, T. Kauranne, A variational ensemble Kalman filtering method for data assimilation using 2D and 3D version of COHERENS model, <em>Numerical Methods in Fluids</em>, 83, 6, 544-558. <a href="https://doi.org/10.1002/fld.4276">DOI</a></li>
+</ul>
+</section>
+<section id="section-9" class="level3">
+<h3 class="anchored" data-anchor-id="section-9">2016</h3>
+<ul>
+<li>S. Hassanzadeh, O. Hajrasouliha, A.R. Latifi, The role of wind in modeling of oil pollution transport and diffusion in the Persian Gulf, <em>Environmental Modeling &amp; Assessment</em>, 21, 6, 721-730. <a href="https://doi.org/10.1007/s10666-016-9526-2">DOI</a></li>
+<li>M. Ollikainen, M. Zandersen, J. Bendtsen, J. Lehtoranta, E. Saarijärvi, H. Pitkänen, Any payoff to ecological engineering? Cost-benefit analysis of pumping oxygen-rich water to control benthic release of phosphorus in the Baltic Sea, <em>Water Resources and Economics</em>, 16, 28-38. <a href="https://doi.org/10.1016/j.wre.2016.11.001">DOI</a></li>
+<li><strong>S. Ponsar</strong>, P. Luyten, <strong>V. Dulière</strong>, Data assimilation with the ensemble Kalman filter in a numerical model of the North Sea, <em>Ocean Dynamics</em>, 66, 8, 955–971. <a href="https://doi.org/10.1007/s10236-016-0968-5">DOI</a></li>
+<li>X. Yang, Z. Mao, H. Huang, Q. Zhu, Using GOCI retrieval data to initialize and validate a sediment transport model for monitoring diurnal variation of SSC in Hangzhou Bay, China, <em>Water</em>, 8, 3, 108. <a href="https://doi.org/10.3390/w8030108">DOI</a></li>
+<li>J. Kämpf, On the majestic seasonal upwelling system of the Arafura Sea, *Journal of Geophysical Research: Oceans, 121, 2, 1218-1228. <a href="https://doi.org/10.1002/2015JC011197">DOI</a></li>
+<li>A. Rezaei-Latifi, Spatial and temporal variability of the surface permittivity of Persian Gulf water at the C-band, <em>Applied Mathematical Modelling</em>, 40, 2, 1069-1081. <a href="https://doi.org/10.1016/j.apm.2015.06.025">DOI</a></li>
+<li>M.M. Namin, A.A. Bidokhti, A.K. Khaniki, I.H. Zadeh, M.T. Azad, A study of the performances of different turbulence schemes in numerical simulation of hydrodynamics of a semi-closed sea (Persian Gulf), <em>Marine Geodesy</em>, 39, 2, 141-164. <a href="https://doi.org/10.1080/01490419.2015.1134736">DOI</a></li>
+</ul>
+</section>
+<section id="section-10" class="level3">
+<h3 class="anchored" data-anchor-id="section-10">2015</h3>
+<ul>
+<li>I. Golbeck, X. Li, F. Janssen, T. Brüning, J.W. Nielsen, V. Huess, J. Söderkvist, B. Büchmann, S.-M. Siiriä, O. Vähä-Piikkiö, B. Hackett, N.M. Kristensen, H. Engedahl, E. Blockley, A. Sellar, P. Lagemaa, J. Ozer, S., P. Ljungemyr, L. Axell, Uncertainty estimation for operational ocean forecast products—a multi-model ensemble for the North Sea and the Baltic Sea, <em>Ocean Dynamics</em>, 65, 12, 1603–1631. <a href="https://doi.org/10.1007/s10236-015-0897-8">DOI</a></li>
+<li>P. Rauwoens, P. Troch, J. Vierendeels, A geometric multigrid solver for the free-surface equation in environmental models featuring irregular coastlines, <em>Journal of Computational and Applied Mathematics</em>, 289, 22-36. <a href="https://doi.org/10.1016/j.cam.2015.03.029">DOI</a></li>
+<li>J. Kämpf, Undercurrent-driven upwelling in the northwestern Arafura Sea, <em>Geophysical Research Letters</em>, 42, 21, 9362-9368. <a href="https://doi.org/10.1002/2015GL066163">DOI</a></li>
+<li>J. Kämpf, Interference of wind-driven and pressure gradient-driven flows in shallow homogeneous water bodies, <em>Ocean Dynamics</em>, 65, 11, 1399–1410. <a href="https://doi.org/10.1007/s10236-015-0882-2">DOI</a></li>
+<li>X. Desmit, K. Ruddick, <strong>G. Lacroix</strong>, Salinity predicts the distribution of chlorophyll a spring peak in the southern North Sea continental waters, <em>Journal of Sea research</em>, 103, 59-74. <a href="https://doi.org/10.1016/j.seares.2015.02.007">DOI</a></li>
+<li>M. Baeye, M. Fettweis, In situ observations of suspended particulate matter plumes at an offshore wind farm, southern North Sea, <em>Geo-Marine Letters</em>, 35, 4, 247-255. <a href="https://doi.org/10.1007/s00367-015-0404-8">DOI</a></li>
+<li>W.G. Müller, L. Pronzato, J. Rendas, H. Waldl, Efficient prediction designs for random fields, <em>Applied Stochastic Models in Business and Industry</em>, 31, 2, 178-194. <a href="https://doi.org/10.1002/asmb.2084">DOI</a></li>
+<li>J. Kämpf, H. Ellis, Hydrodynamics and flushing of Coffin Bay, South Australia: A small tidal inverse estuary of interconnected bays, <em>Journal of Coastal Research</em>, 31, 2, 447-456. <a href="https://doi.org/10.2112/JCOASTRES-D-14-00046.1">DOI</a></li>
+<li>A. Mano, O. Malve, S. Koponen, K. Kallio, A. Taskinen, J. Ropponen, J. Juntunen, N. Liukko, Assimilation of satellite data to 3D hydrodynamic model of Lake Säkylän Pyhäjärv, <em>Water Science &amp; Technology</em>, 71, 7, 1033-1039. <a href="https://doi.org/10.2166/wst.2015.042">DOI</a></li>
+<li>L. Zhu, Q. Wang, Numerical Mesocosm Experimental Study on Harmful Algal Blooms of Two Algal Species in the East China Sea, <em>Mathematical Problems in Engineering</em>, 169860. <a href="https://doi.org/10.1155/2015/169860">DOI</a></li>
+</ul>
+</section>
+<section id="section-11" class="level3">
+<h3 class="anchored" data-anchor-id="section-11">2014</h3>
+<ul>
+<li>Q. Wang, L. Zhu, D. Wang, A numerical model study on multi-species harmful algal blooms coupled with background ecological fields, <em>Acta Oceanologica Sinica</em>, 33, 8, 95–105. <a href="https://doi.org/10.1007/s13131-014-0459-9">DOI</a></li>
+<li>C. Lancelot, P. Passy, N. Gypens, Model assessment of present-day Phaeocystis colony blooms in the Southern Bight of the North Sea (SBNS) by comparison with a reconstructed pristine situation, <em>Harmful Algae</em>, 37, 172-182. <a href="https://doi.org/10.1016/j.hal.2014.05.017">DOI</a></li>
+<li>J.F. Lopes, J.A. Ferreira, A.C. Cardoso, A.C. Rocha, Variability of temperature and chlorophyll of the Iberian Peninsula near costal ecosystem during an upwelling event for the present climate and a future climate scenario, <em>Journal of Marine Systems</em>, 129, 271-288. <a href="https://doi.org/10.1016/j.jmarsys.2013.07.002">DOI</a></li>
+</ul>
+</section>
+<section id="section-12" class="level3">
+<h3 class="anchored" data-anchor-id="section-12">2013</h3>
+<ul>
+<li>P. Passy, N. Gypens, G. Billen, J. Garnier, V. Thieu, V. Rousseau, J. Callens, J.-Y. Parent, C. Lancelot, A model reconstruction of riverine nutrient fluxes and eutrophication in the Belgian Coastal Zone since 1984, <em>Journal of Marine Systems</em>, 128, 106-122. <a href="https://doi.org/10.1016/j.jmarsys.2013.05.005">DOI</a></li>
+<li>J. Hinwood, J. Luick, Closed basin modes of a dual basin harbour, <em>Pure and Applied Geophysics</em>, 170, 11, 1881–1897. <a href="https://doi.org/10.1007/s00024-012-0611-4">DOI</a></li>
+<li><strong>G. Lacroix</strong>, G.E. Maes, L.J. Bolle, F.A.M. Volckaert, Modelling dispersal dynamics of the early life stages of a marine flatfish (Solea solea L.), <em>Journal of Sea Research</em>, 84, 13-25. <a href="https://doi.org/10.1016/j.seares.2012.07.010">DOI</a></li>
+<li>J. Bendtsen, J.L.S. Hansen, A model of life cycle, connectivity and population stability of benthic macro-invertebrates in the North Sea/Baltic Sea transition zone, <em>Ecological Modelling</em>, 267, 54-65. <a href="https://doi.org/10.1016/j.ecolmodel.2013.07.012">DOI</a></li>
+<li>S. Hassanzadeh, O. Hajrasouliha, A.R. Latifi, A. Nohegar, The impact of physical processes on oil pollution diffusion in the Persian Gulf, <em>Environmental Forensics</em>, 14, 4, 312-323. <a href="https://doi.org/10.1080/15275922.2013.843612">DOI</a></li>
+<li>J. Kotta, M. Pärnoja, T. Katajisto, M. Lehtiniemi, S.A. Malavin, G. Reisalu, V.E. Panov, Is a rapid expansion of the invasive amphipod Gammarus tigrinus Sexton, 1939 associated with its niche selection: a case study in the Gulf of Finland, the Baltic Sea, <em>Aquatic Invasions</em>, 8, 3, 319–332. <a href="http://doi.org/10.3391/ai.2013.8.3.08">DOI</a></li>
+<li>J. Bendtsen, J.L.S. Hansen, Effects of global warming on hypoxia in the Baltic Sea–North Sea transition zone, <em>Ecological Modelling</em>, 264, 17-26. <a href="https://doi.org/10.1016/j.ecolmodel.2012.06.018">DOI</a></li>
+<li>T. Van Oyen, P. Blondeaux, D. Van den Eynde, Sediment sorting along tidal sand waves: A comparison between field observations and theoretical predictions, <em>Continental Shelf Research</em>, 63, 23-33. <a href="https://doi.org/10.1016/j.csr.2013.04.005">DOI</a></li>
+<li>N. Guillou, G. Chapalain, E. Duvieilbourg, Sea surface temperature modelling in the Sea of Iroise: assessment of boundary conditions, <em>Ocean Dynamics</em>, 63, 7, 849-863. <a href="https://doi.org/10.1007/s10236-013-0627-z">DOI</a></li>
+<li>N. Guillou, G. Chapalain, E. Duvieilbourg, Modelling impact of bottom roughness on sea surface temperature in the Sea of Iroise, <em>Continental Shelf Research</em>, 54, 80-92. <a href="https://doi.org/10.1016/j.csr.2012.12.003">DOI</a></li>
+</ul>
+</section>
+<section id="section-13" class="level3">
+<h3 class="anchored" data-anchor-id="section-13">2012</h3>
+<ul>
+<li>L. Tuomi, K. Myrberg, A. Lehmann, The performance of the parameterisations of vertical turbulence in the 3D modelling of hydrodynamics in the Baltic Sea, <em>Continental Shelf Research</em>, 50-51, 64-79. <a href="https://doi.org/10.1016/j.csr.2012.08.007">DOI</a></li>
+<li>M. Baeye, M. Fettweis, S. Legrand, Y. Dupont, V. Van Lancker, Mine burial in the seabed of high-turbidity area—Findings of a first experiment, <em>Continental Shelf Research</em>, 43, 107-119. <a href="https://doi.org/10.1016/j.csr.2012.05.009">DOI</a></li>
+<li>J. Kämpf, Lee effects of localized upwelling in a shelf-break canyon, <em>Continental Shelf Research</em>, 42, 78-88. <a href="https://doi.org/10.1016/j.csr.2012.05.005">DOI</a></li>
+<li>N. Guillou, G. Chapalain, Modeling the tide-induced modulation of wave Height in the outer Seine estuary, <em>Journal of Coastal Research</em>, 28, 3, 613-623. <a href="https://doi.org/10.2112/JCOASTRES-D-11-00075.1">DOI</a></li>
+<li>S. Hassanzadeh, F. Hosseinibalam, A. Rezaei-Latifi, Three-dimensional numerical modeling of the water exchange between the Persian Gulf and the Gulf of Oman through the Strait of Hormuz, <em>Oceanological and Hydrobiological Studies</em>, 41, 1, 85-98. <a href="https://doi.org/10.2478/s13545-012-0010-6">DOI</a></li>
+<li>B. Liang, H. Zhao, H. Li, G. Wu, Numerical study of three-dimensional wave-induced longshore current’s effects on sediment spreading of the Huanghe River mouth, <em>Acta Oceanologica Sinica</em>, 31, 2, 129-138. <a href="https://doi.org/10.1007/s13131-012-0199-7">DOI</a></li>
+<li>G. Zeng, J. Hu, H. Hong, Y. Qi, Numerical study on M2 tidal system in the Taiwan Strait, <em>Procedia Environmental Sciences</em>, 12, A, 702-707. <a href="https://doi.org/10.1016/j.proenv.2012.01.337">DOI</a></li>
+</ul>
+</section>
+<section id="section-14" class="level3">
+<h3 class="anchored" data-anchor-id="section-14">2011</h3>
+<ul>
+<li>N. Guillou, G. Chapalain, P. Sergent, Effects of the tide-induced water levels and currents on the wave heights in the Seine estuary, <em>La Houille Blanche</em>, 97, 6, 49-55. <a href="https://doi.org/10.1051/lhb/2011061">DOI</a></li>
+<li>F. Hosseinibalam, S. Hassanzadeh, A. Rezaei-Latifi, Three-dimensional numerical modeling of thermohaline and wind-driven circulations in the Persian Gulf, <em>Applied Mathematical Modelling</em>, 35, 12, 5884-5902. <a href="https://doi.org/10.1016/j.apm.2011.05.040">DOI</a></li>
+<li>N. Guillou, G. Chapalain, Modelling impact of northerly wind-generated waves on sediments resuspensions in the Dover Strait and adjacent waters, <em>Continental Shelf Research</em>, 31, 18, 1894-1903. <a href="https://doi.org/10.1016/j.csr.2011.08.011">DOI</a></li>
+<li>N. Guillou, G. Chapalain, Effects of waves on the initiation of headland-associated sandbanks, <em>Continental Shelf Research</em>, 31, 11, 1202-1213. <a href="https://doi.org/10.1016/j.csr.2011.04.013">DOI</a></li>
+<li>J.Z. Shi, L.-F. Lu, A short note on the dispersion, mixing, stratification and circulation within the plume of the partially-mixed Changjiang River estuary, China, <em>Journal of Hydro-environment Research</em>, 5, 2, 111-126. <a href="https://doi.org/10.1016/j.jher.2010.06.002">DOI</a></li>
+<li>S. Hassanzadeh, F. Hosseinibalam, A. Rezaei-Latifi, Numerical modelling of salinity variations due to wind and thermohaline forcing in the Persian Gulf, <em>Applied Mathematical Modelling</em>, 35, 3, 1512-1537. <a href="https://doi.org/10.1016/j.apm.2010.09.029">DOI</a></li>
+<li>J.M. Zaldívar, D. Marinov, S. Dueri, J. Castro-Jiménez, C. Micheletti, A.P. Worth, An integrated approach for bioaccumulation assessment in mussels: Towards the development of Environmental Quality Standards for biota, <em>Ecotoxicology and Environmental Safety</em>, 74, 3, 244-252. <a href="https://doi.org/10.1016/j.ecoenv.2010.10.025">DOI</a></li>
+<li>N. Gypens, <strong>G. Lacroix</strong>, C. Lancelot, A.V. Borges, Seasonal and inter-annual variability of air–sea CO2 fluxes and seawater carbonate chemistry in the Southern North Sea, <em>Progress in Oceanography</em>, 88, 1–4, 59-77. <a href="https://doi.org/10.1016/j.pocean.2010.11.004">DOI</a></li>
+<li>X. Sun, H. Bian, C. Luo, J. Li, L. Wang, Numerical simulation of seasonal variation of temperature in the Bohai Sea, <em>Procedia Environmental Sciences</em>, 10, C, 1914-1919. <a href="https://doi.org/10.1016/j.proenv.2011.09.300">DOI</a></li>
+</ul>
+</section>
+<section id="section-15" class="level3">
+<h3 class="anchored" data-anchor-id="section-15">2010</h3>
+<ul>
+<li>J. Kämpf, On preconditioning of coastal upwelling in the eastern Great Australian Bight, <em>Journal of Geophysical Research: Oceans</em>, 115, C12071. <a href="https://doi.org/10.1029/2010JC006294">DOI</a></li>
+<li>J.Z. Shi, L.-F. Lu, Y.-N. Liu, The hydrodynamics of an idealized estuarine plume along a straight coast: A numerical study, <em>Environmental Modeling &amp; Assessment</em>, 15, 6, 487-502. <a href="https://doi.org/10.1007/s10666-010-9219-1">DOI</a></li>
+<li>J. Kämpf, N. Payne, P. Malthouse, Marine Connectivity in a Large Inverse Estuary, <em>Journal of Coastal Research</em>, 26, 6, 1047-1056. <a href="https://doi.org/10.2112/JCOASTRES-D-10-00043.1">DOI</a></li>
+<li>B. Liang, H. Li, J. Zhang, Study of wave induced radiation stress and vertical mixing in the Yellow River runoff diffusion, <em>Journal of Hydrodynamics</em>, 22, 5, 97–100. <a href="https://doi.org/10.1016/S1001-6058(09)60176-1">DOI</a></li>
+<li>M. Maar, K. Timmermann, J. K. Petersen, K.E. Gustafsson, L.M. Storm, A model study of the regulation of blue mussels by nutrient loadings and water column stability in a shallow estuary, the Limfjorden, <em>Journal of Sea Research</em>, 64, 3, 322-333. <a href="https://doi.org/10.1016/j.seares.2010.04.007">DOI</a></li>
+<li>J.Z. Shi, C. Li, X. Dou, Three-dimensional modeling of tidal circulation within the north and south passages of the partially-mixed Changjiang River Estuary, China, <em>Journal of Hydrodynamics</em>, 22, 5, 633-638. <a href="https://doi.org/10.1016/S1001-6058(10)60010-8">DOI</a></li>
+<li>K. Timmermann, S. Markager, K.E. Gustafsson, Streams or open sea? Tracing sources and effects of nutrient loadings in a shallow estuary with a 3D hydrodynamic–ecological model, <em>Journal of Marine Systems</em>, 82, 3, 111-121. <a href="https://doi.org/10.1016/j.jmarsys.2010.04.008">DOI</a></li>
+<li>M. Fettweis, F. Francken, D. Van den Eynde, T. Verwaest, J. Janssens, V. Van Lancker, Storm influence on SPM concentrations in a coastal turbidity maximum area with high anthropogenic impact (southern North Sea), <em>Continental Shelf Research</em>, 30, 13, 1417-1427. <a href="https://doi.org/10.1016/j.csr.2010.05.001">DOI</a></li>
+<li>A. Giardino, D. Van den Eynde, J. Monbaliu, Wave effects on the morphodynamic evolution of an offshore sand bank, <em>Journal of Coastal Research</em>, SI51, 127-140. <a href="https://www.jstor.org/stable/40928825">JSTOR</a></li>
+<li>B. Liang, D. Lee, H. Li, J. Zhang, Sensitivity study of the effects of wave-induced vertical mixing on vertical exchange processes, <em>Journal of Hydrodynamics</em>, 22, 3, 410-418. <a href="https://doi.org/10.1016/S1001-6058(09)60072-X">DOI</a></li>
+<li>D. Van den Eynde, A. Giardino, J. Portilla, M. Fettweis, F. Francken, J. Monbaliu, Modelling the Effects of Sand Extraction, on Sediment Transport due to Tides, on the Kwinte Bank, <em>Journal of Coastal Research</em>, SI51, 101-116. <a href="https://www.jstor.org/stable/40928823">JSTOR</a></li>
+<li>P. Palomar, I.J. Losada, Desalination in Spain: Recent developments and recommendations, <em>Desalination</em>, 255, 1–3, 97-106. <a href="https://doi.org/10.1016/j.desal.2010.01.008">DOI</a></li>
+<li>D. Wu, Y. Yan, Numerical simulation of the transport and diffusion of dissolved pollutants in the Changjiang (Yangtze) river estuary, <em>Chinese Journal of Oceanology and Limnology</em>, 28, 3, 649-657. <a href="https://doi.org/10.1007/s00343-010-9081-7">DOI</a></li>
+<li>N. Guillou, G. Chapalain, Numerical simulation of tide-induced transport of heterogeneous sediments in the English Channel, <em>Continental Shelf Research</em>, 30, 7, 806-819. <a href="https://doi.org/10.1016/j.csr.2010.01.018">DOI</a></li>
+<li>S. Dueri, D. Marinov, A. Fiandrino J. Tronczyński, J.-M. Zaldívar, Implementation of a 3D Coupled Hydrodynamic and Contaminant Fate Model for PCDD/Fs in Thau Lagoon (France): The Importance of Atmospheric Sources of Contamination, <em>Environmental Research and Public Health</em>, 7, 4, 1467-1485. <a href="https://doi.org/10.3390/ijerph7041467">DOI</a></li>
+<li>H.-J. Lenhart, D.K. Mills, H. Baretta-Bekker, S.M. van Leeuwen, J. van der Molen, J.W. Baretta, M. Blaas, X. Desmit, W. Kühn, <strong>G. Lacroix</strong>, H.J. Los, A. Ménesguen, R. Neves, R. Proctor, P. Ruardij, M.D.&nbsp;Skogen, A. Vanhoutte-Brunier, M.T. Villars, S.L. Wakelin, Predicting the consequences of nutrient reduction on the eutrophication status of the North Sea, <em>Journal of Marine Systems</em>, 81, 1–2, 148-170. <a href="https://doi.org/10.1016/j.jmarsys.2009.12.014">DOI</a></li>
+<li>M. Savina, <strong>G. Lacroix</strong>, K. Ruddick, Modelling the transport of common sole larvae in the southern North Sea: Influence of hydrodynamics and larval vertical movements, <em>Journal of Marine Systems</em>, 81, 1–2, 86-98. <a href="https://doi.org/10.1016/j.jmarsys.2009.12.008">DOI</a></li>
+<li>J. Zhang, B. Liang, H. Li, Numerical simulation of wave-induced current with vertically varied radiation stress, <em>Journal of Hydrodynamics</em>, 22, 2, 254-259. <a href="https://doi.org/10.1016/S1001-6058(09)60052-4">DOI</a></li>
+<li>M. Mestres, J.P. Sierra, C. Mösso, A. Sánchez-Arcilla, Modelling the sensitivity to various factors of shipborne pollutant discharges, <em>Environmental Modelling &amp; Software</em>, 25, 3, 333-343. <a href="https://doi.org/10.1016/j.envsoft.2009.08.006">DOI</a></li>
+<li>U. Gräwe, J.-O. Wolff, J. Ribbe, Impact of climate variability on an east Australian bay, <em>Estuarine, Coastal and Shelf Science</em>, 86, 2, 247-257. <a href="https://doi.org/10.1016/j.ecss.2009.11.020">DOI</a></li>
+<li>N. Guillou, G. Chapalain, Storm waves-induced resuspensions of seabed sediments in the Dover Strait: Comparison of modelling results with measurements, <em>European Journal of Environmental and Civil Engineering</em>, 14, 2, 163-179. <a href="https://doi.org/10.1080/19648189.2010.9693210">DOI</a></li>
+</ul>
+</section>
+<section id="section-16" class="level3">
+<h3 class="anchored" data-anchor-id="section-16">2009</h3>
+<ul>
+<li><strong>S. Ponsar</strong>, P. Luyten, Data assimilation with the EnKF in a 1-D numerical model of a North Sea station, <em>Ocean Dynamics</em>, 59, 6, 983–996. <a href="https://doi.org/10.1007/s10236-009-0224-3">DOI</a></li>
+<li>U. Gräwe, J.-O. Wolff, J. Ribbe, Mixing, hypersalinity and gradients in Hervey Bay, Australia, <em>Ocean Dynamics</em>, 59, 5, 643-658. <a href="https://doi.org/10.1007/s10236-009-0195-4">DOI</a></li>
+<li>K.-Y. Heo, J.-W. Lee, K.-J. Ha, K.-C. Jun, K.-S. Park, J.-I. Kwon, Simulation of atmospheric states for a storm surge on the west coast of Korea: model comparison between MM5, WRF and COAMPS, <em>Natural Hazards</em>, 51, 1, 151–162. <a href="https://doi.org/10.1007/s11069-009-9395-y">DOI</a></li>
+<li>D. Marinov, S. Dueri, I. Puillat, R. Carafa, E. Jurado, N. Berrojalbiz, J. Dachs, J.-M. Zaldívar, Integrated modelling of Polycyclic Aromatic Hydrocarbons in the marine environment: Coupling of hydrodynamic, fate and transport, bioaccumulation and planktonic food-web models, <em>Marine Pollution Bulletin</em>, 58, 10, 1554-1561. <a href="https://doi.org/10.1016/j.marpolbul.2009.05.009">DOI</a></li>
+<li>S. Dueri, I. Dahllöf, M. Hjorth, D. Marinov, J.M. Zaldívar, Modeling the combined effect of nutrients and pyrene on the plankton population: Validation using mesocosm experiment data and scenario analysis, <em>Ecological Modelling</em>, 220, 17, 2060-2067. <a href="https://doi.org/10.1016/j.ecolmodel.2009.04.052">DOI</a></li>
+<li>N. Guillou, G. Chapalain, L. Thais, Three-dimensional modeling of tide-induced suspended transport of seabed multicomponent sediments in the eastern English Channel, <em>Journal of Geophysical Research: Oceans</em>, 114, C07025. <a href="https://doi.org/10.1029/2008JC004791">DOI</a></li>
+<li>T. Van Oyen, P. Blondeaux, Tidal sand wave formation: Influence of graded suspended sediment transport, <em>Journal of Geophysical Research: Oceans</em>, 114, C07004. <a href="https://doi.org/10.1029/2008JC005136">DOI</a></li>
+<li>J. Kämpf, Impacts of blending on dilution of negatively buoyant brine discharge in a shallow tidal sea, <em>Marine Pollution Bulletin</em>, 58, 7, 1032-1038. <a href="https://doi.org/10.1016/j.marpolbul.2009.02.009">DOI</a></li>
+<li>N. Li, Z. Mao, Q. Zhang, The impact of physical processes on pollutant transport in Hangzhou Bay, <em>Chinese Journal of Oceanology and Limnology</em>, 27, 2, 266-276. <a href="https://doi.org/10.1007/s00343-009-9118-y">DOI</a></li>
+<li>S. Dueri, J. Castro-Jiménez, J.-M. Zaldívar, Modelling the influence of thermal stratification and complete mixing on the distribution and fluxes of polychlorinated biphenyls in the water column of Ispra Bay (Lake Maggiore), <em>Chemosphere</em>, 75, 9, 1266-1272. <a href="https://doi.org/10.1016/j.chemosphere.2009.01.066">DOI</a></li>
+<li>J.F. Lopes, A.C. Cardoso, M.T. Moita, A.C. Rocha, J.A. Ferreira, Modelling the temperature and the phytoplankton distributions at the Aveiro near coastal zone, Portugal, <em>Ecological Modelling</em>, 220, 7, 940-961. <a href="https://doi.org/10.1016/j.ecolmodel.2008.11.024">DOI</a></li>
+<li>R. Carafa, D. Marinov, S. Dueri, J. Wollgast, G. Giordani, P. Viaroli, J.-M. Zaldívar, A bioaccumulation model for herbicides in Ulva rigida and Tapes philippinarum in Sacca di Goro lagoon (Northern Adriatic), <em>Chemosphere</em>, 74, 8, 1044-1052. <a href="https://doi.org/10.1016/j.chemosphere.2008.10.058">DOI</a></li>
+<li>J. Kämpf, C. Brokensha, T. Bolton, Hindcasts of the fate of desalination brine in large inverse estuaries: Spencer Gulf and Gulf St.&nbsp;Vincent, South Australia, <em>Desalination and Water Treatment</em>, 2, 1-3, 335-344. <a href="https://doi.org/10.5004/dwt.2009.264">DOI</a></li>
+<li>J. Bendtsen, K.E. Gustafsson, J. Söderkvist, J.L.S. Hansen, Ventilation of bottom water in the North Sea–Baltic Sea transition zone, <em>Journal of Marine Systems</em>, 75, 1–2, 138-149. <a href="https://doi.org/10.1016/j.jmarsys.2008.08.006">DOI</a></li>
+<li>J. Kämpf, On the interaction of time-variable flows with a shelfbreak canyon, <em>Journal of Physical Oceanography</em>, 39, 1, 248-260. <a href="https://doi.org/10.1175/2008JPO3753.1">DOI</a></li>
+<li>M. Mestres, J.P. Sierra, A. Pascual, C. Mösso, J. González del Río, M. Rodilla, Bacterial pollution in Cullera Bay (Spanish Mediterranean coast), <em>Journal of Coastal Research</em>, SI56, 861-865. <a href="https://www.jstor.org/stable/25737701">JSTOR</a></li>
+</ul>
+</section>
+<section id="section-17" class="level3">
+<h3 class="anchored" data-anchor-id="section-17">2008</h3>
+<ul>
+<li>D. Marinov, J. M. Zaldívar, A. Norro, G. Giordani, P. Viaroli, Integrated modelling in coastal lagoons: Sacca di Goro case study, <em>Hydrobiologia</em>, 611, 147–165. <a href="https://doi.org/10.1007/s10750-008-9451-8">DOI</a></li>
+<li>J. Ribbe, J.-O. Wolff, J. Staneva, U. Gräwe, Assessing water renewal time scales for marine environments from three-dimensional modelling: A case study for Hervey Bay, Australia, <em>Environmental Modelling &amp; Software</em>, 23, 10-11, 1217-1228. <a href="https://doi.org/10.1016/j.envsoft.2008.02.007">DOI</a></li>
+<li>J.L. Luick, J.B. Hinwood, Water levels in a dual-basin harbour in response to infragravity and edge waves, <em>Progress in Oceanography</em>, 77, 4, 367-375. <a href="https://doi.org/10.1016/j.pocean.2006.04.002">DOI</a></li>
+<li>W. Willems, P. Goethals, D. Van den Eynde, G. Van Hoey, V. Van Lancker, E. Verfaillie, M. Vincx, S. Degraer, Where is the worm? Predictive modelling of the habitat preferences of the tube-building polychaete Lanice conchilega, <em>Ecological Modelling</em>, 212, 1–2, 74-79. <a href="https://doi.org/10.1016/j.ecolmodel.2007.10.017">DOI</a></li>
+<li>B. Liang, H. Li, D. Lee, Bottom shear stress under wave-current interaction, <em>Journal of Hydrodynamics</em>, 20, 1, 88-95. <a href="https://doi.org/10.1016/S1001-6058(08)60032-3">DOI</a></li>
+<li>V. Zintzen, A. Norro, C. Massin, J. Mallefet, Spatial variability of epifaunal communities from artificial habitat: Shipwrecks in the Southern Bight of the North Sea, <em>Estuarine, Coastal and Shelf Science</em>, 76, 2, 327-344. <a href="https://doi.org/10.1016/j.ecss.2007.07.012">DOI</a></li>
+<li>V. Zintzen, A. Norro, C. Massin, J. Mallefet, Temporal variation of Tubularia indivisa (Cnidaria, Tubulariidae) and associated epizoites on artificial habitat communities in the North Sea, <em>Marine Biology</em>, 153, 405–420. <a href="https://doi.org/10.1007/s00227-007-0819-5">DOI</a></li>
+</ul>
+</section>
+<section id="section-18" class="level3">
+<h3 class="anchored" data-anchor-id="section-18">2007</h3>
+<ul>
+<li>L.-F. Lu, J.Z. Shi, The dispersal processes within the tide-modulated Changjiang River plume, China, <em>Numerical Methods in Fluids</em>, 55, 12, 1143-1155. <a href="https://doi.org/10.1002/fld.1520">DOI</a></li>
+<li>J. Kämpf, On the magnitude of upwelling fluxes in shelf-break canyons, <em>Continental Shelf Research</em>, 27, 17, 2211-2223. <a href="https://doi.org/10.1016/j.csr.2007.05.010">DOI</a></li>
+<li>K.E. Gustafsson, J. Bendtsen, Elucidating the dynamics and mixing agents of a shallow fjord through age tracer modelling, <em>Estuarine, Coastal and Shelf Science</em>, 74, 4, 641-654. <a href="https://doi.org/10.1016/j.ecss.2007.05.023">DOI</a></li>
+<li>M. Mestres, J.P. Sierra, A. Sánchez-Arcilla, Factors influencing the spreading of a low-discharge river plume, <em>Continental Shelf Research</em>, 27, 16, 2116-2134. <a href="https://doi.org/10.1016/j.csr.2007.05.008">DOI</a></li>
+<li>P.A. Sandery, J. Kämpf, Transport timescales for identifying seasonal variation in Bass Strait, south-eastern Australia, <em>Estuarine, Coastal and Shelf Science</em>, 74, 4, 684-696. <a href="https://doi.org/10.1016/j.ecss.2007.05.011">DOI</a></li>
+<li>B. Liang, H. Li, D. Lee, Numerical study of three-dimensional suspended sediment transport in waves and currents, <em>Ocean Engineering</em>, 34, 11-12, 1569-1583. <a href="https://doi.org/10.1016/j.oceaneng.2006.12.002">DOI</a></li>
+<li>X. Chen, L. Zhu, H. Zhang, Numerical simulation of summer circulation in the East China Sea and its application in estimating the sources of red tides in the Yangtze River estuary and adjacent sea areas, <em>Journal of Hydrodynamics</em>, 19, 3, 272-281. <a href="https://doi.org/10.1016/S1001-6058(07)60059-6">DOI</a></li>
+<li>M. Fettweis, B. Nechad, D. Van den Eynde, An estimate of the suspended particulate matter (SPM) transport in the southern North Sea using SeaWiFS images, in situ measurements and numerical model results, <em>Continental Shelf Research</em>, 27, 10–11, 1568-1583.</li>
+<li><strong>G. Lacroix</strong>, K. Ruddick, N. Gypens, C. Lancelot, Modelling the relative impact of rivers (Scheldt/Rhine/Seine) and Western Channel waters on the nutrient and diatoms/Phaeocystis distributions in Belgian waters (Southern North Sea), <em>Continental Shelf Research</em>, 27, 10-11, 1422-1446. <a href="https://doi.org/10.1016/j.csr.2007.01.013">DOI</a></li>
+<li>M. Mestres, A. Sánchez-Arcilla, J. P. Sierra, Modeled dynamics of a small-scale river plume under different forcing conditions, <em>Journal of Coastal Research</em>, 10047, 84-96. <a href="https://doi.org/10.2112/1551-5036-47.sp1.84">DOI</a></li>
+<li>M. Mestres, J.P. Sierra, A. Sánchez-Arcilla, Baroclinic and wind-induced circulation in Tarragona harbour (northeastern Spain), <em>Scientia Marina</em>, 71, 2, 223-238. <a href="https://doi.org/10.3989/scimar.2007.71n2223">DOI</a></li>
+<li>A. Sánchez-Arcilla, C. Mösso, M. Mestres, L. Cupul, J.P. Sierra, M. Rodilla, I. Romero, J. González del Río, Hydrodynamics of a coastal bay: Natural and man-made barriers, <em>Journal of Coastal Research</em>, SI47, 2-16. <a href="https://www.jstor.org/stable/25737354">JSTOR</a></li>
+<li>J.P. Sierra, C. Mösso, J. Gonzalez del Río, M. Mestres, L. Cupul, A. Sánchez-Arcilla, M. Rodilla, S. Falco, I. Romero, D. González- Marco, J. Puigdefábregas, Sources and sinks of nutrients and pollutants in Cullera Bay, <em>Journal of Coastal Research</em>, SI47, 31-39. <a href="https://www.jstor.org/stable/25737356">JSTOR</a></li>
+<li>E. Jurado, J.-M. Zaldívar, D. Marinov, J. Dachs, Fate of persistent organic pollutants in the water column: Does turbulent mixing matter? <em>Marine Pollution Bulletin</em>, 54, 4, 441-451. <a href="https://doi.org/10.1016/j.marpolbul.2006.11.028">DOI</a></li>
+<li><strong>G. Lacroix</strong>, K. Ruddick, Y. Park, N. Gypens, C. Lancelot, Validation of the 3D biogeochemical model MIRO&amp;CO with field nutrient and phytoplankton data and MERIS-derived surface chlorophyll a images, <em>Journal of Marine Systems</em>, 64, 1-4, 66-88. <a href="https://doi.org/10.1016/j.jmarsys.2006.01.010">DOI</a></li>
+</ul>
+</section>
+<section id="section-19" class="level3">
+<h3 class="anchored" data-anchor-id="section-19">2006</h3>
+<ul>
+<li>M. Fettweis, F. Francken, V. Pison, D. Van den Eynde, Suspended particulate matter dynamics and aggregate sizes in a high turbidity area, <em>Marine Geology</em>, 235, 1–4, 63-74. <a href="https://doi.org/10.1016/j.margeo.2006.10.005">DOI</a></li>
+<li>M. Mestres, A. Sánchez-Arcilla, J.P. Sierra, C. Mösso, P. Tagliani, O. Möller, L.F. Niencheski, Coastal bays as a sink for pollutants and sediment, <em>Journal of Coastal Research</em>, SI39, 1546-1550. <a href="https://www.jstor.org/stable/25743015">JSTOR</a></li>
+<li>A. Pereira, P. Duarte, A. Norro, Different modelling tools of aquatic ecosystems: A proposal for a unified approach, <em>Ecological Informatics</em>, 1, 4, 407-421. <a href="https://doi.org/10.1016/j.ecoinf.2006.09.004">DOI</a></li>
+<li>R. Carafa, D. Marinov, S. Dueri, J. Wollgast, J. Ligthart, E. Canuti, P. Viaroli, J.M. Zaldívar, A 3D hydrodynamic fate and transport model for herbicides in Sacca di Goro coastal lagoon (Northern Adriatic), <em>Marine Pollution Bulletin</em>, 52, 10, 1231-1248. <a href="https://doi.org/10.1016/j.marpolbul.2006.02.025">DOI</a></li>
+<li>B. Liang, H. Li &amp; D. Lee, Numerical study of wave effects on surface wind stress and surface mixing length by three-dimensional circulation modeling, <em>Journal of Hydrodynamics</em>, 18, 4, 397-404. <a href="https://doi.org/10.1016/S1001-6058(06)60111-X">DOI</a></li>
+<li>J. Bendtsen, K.E. Gustafsson, J.K. Petersen, Modelling vertical mixing in the surface boundary layer using artificial age tracers, <em>Journal of Marine Systems</em>, 60, 1–2, 115-128. <a href="https://doi.org/10.1016/j.jmarsys.2005.11.009">DOI</a></li>
+<li>D. Marinov, A. Norro, J.-M. Zaldívar, Application of COHERENS model for hydrodynamic investigation of Sacca di Goro coastal lagoon (Italian Adriatic Sea shore), <em>Ecological Modelling</em>, 193, 1-2, 52-68. <a href="https://doi.org/10.1016/j.ecolmodel.2005.07.042">DOI</a></li>
+<li>J. Kämpf, M. Sadrinasab, The circulation of the Persian Gulf: a numerical study, <em>Ocean Science</em>, 2, 1, 27-41. <a href="https://doi.org/10.5194/os-2-27-2006">DOI</a></li>
+</ul>
+</section>
+<section id="section-20" class="level3">
+<h3 class="anchored" data-anchor-id="section-20">2004</h3>
+<ul>
+<li>M. Sadrinasab, J. Kämpf, Three-dimensional flushing times of the Persian Gulf, <em>Geophysical Research Letters</em>, 31, L24301. <a href="https://doi.org/10.1029/2004GL020425">DOI</a></li>
+<li><strong>G. Lacroix</strong>, K. Ruddick, J. Ozer, C. Lancelot, Modelling the impact of the Scheldt and Rhine/Meuse plumes on the salinity distribution in Belgian waters (southern North Sea), <em>Journal of Sea Research</em>, 52, 3, 149-163. <a href="https://doi.org/10.1016/j.seares.2004.01.003">DOI</a></li>
+<li>É.J.M Delhez, P. Damm, E. de Goede, J.M. de Kok, F. Dumas, H. Gerritsen, J.E. Jones, J. Ozer, T. Pohlmann, P.S. Rasch, M. Skogen, R. Proctor, Variability of shelf-seas hydrodynamic models: lessons from the NOMADS2 Project, <em>Journal of Marine Systems</em>, 45, 1–2, 39-53. <a href="https://doi.org/10.1016/j.jmarsys.2003.09.003">DOI</a></li>
+</ul>
+</section>
+<section id="section-21" class="level3">
+<h3 class="anchored" data-anchor-id="section-21">2003</h3>
+<ul>
+<li>P.J. Luyten, J.E. Jones, R. Proctor, A numerical study of the long- and short-term temperature variability and thermal circulation in the North Sea, <em>Journal of Physical Oceanography</em>, 33, 1, 37-56. <a href="https://doi.org/10.1175/1520-0485(2003)033%3C0037:ANSOTL%3E2.0.CO;2">DOI</a></li>
+<li>A. Moll, G. Radach, Review of three-dimensional ecological modelling related to the North Sea shelf system: Part 1: models and their results, <em>Progress in Oceanography</em>, 57, 2, 175-217. <a href="https://doi.org/10.1016/S0079-6611(03)00067-3">DOI</a></li>
+</ul>
+</section>
+<section id="section-22" class="level3">
+<h3 class="anchored" data-anchor-id="section-22">2002</h3>
+<ul>
+<li>G. Umgiesser, P.J. Luyten, S. Carniel, Exploring the thermal cycle of the Northern North Sea area using a 3-D circulation model: the example of PROVESS NNS station, <em>Journal of Sea Research</em>, 48, 4, 271-286. <a href="https://doi.org/10.1016/S1385-1101(02)00193-4">DOI</a></li>
+</ul>
+
+
+</section>
+</section>
+</section>
+
+</main> <!-- /main -->
+<script id="quarto-html-after-body" type="application/javascript">
+  window.document.addEventListener("DOMContentLoaded", function (event) {
+    const icon = "";
+    const anchorJS = new window.AnchorJS();
+    anchorJS.options = {
+      placement: 'right',
+      icon: icon
+    };
+    anchorJS.add('.anchored');
+    const isCodeAnnotation = (el) => {
+      for (const clz of el.classList) {
+        if (clz.startsWith('code-annotation-')) {                     
+          return true;
+        }
+      }
+      return false;
+    }
+    const onCopySuccess = function(e) {
+      // button target
+      const button = e.trigger;
+      // don't keep focus
+      button.blur();
+      // flash "checked"
+      button.classList.add('code-copy-button-checked');
+      var currentTitle = button.getAttribute("title");
+      button.setAttribute("title", "Copied!");
+      let tooltip;
+      if (window.bootstrap) {
+        button.setAttribute("data-bs-toggle", "tooltip");
+        button.setAttribute("data-bs-placement", "left");
+        button.setAttribute("data-bs-title", "Copied!");
+        tooltip = new bootstrap.Tooltip(button, 
+          { trigger: "manual", 
+            customClass: "code-copy-button-tooltip",
+            offset: [0, -8]});
+        tooltip.show();    
+      }
+      setTimeout(function() {
+        if (tooltip) {
+          tooltip.hide();
+          button.removeAttribute("data-bs-title");
+          button.removeAttribute("data-bs-toggle");
+          button.removeAttribute("data-bs-placement");
+        }
+        button.setAttribute("title", currentTitle);
+        button.classList.remove('code-copy-button-checked');
+      }, 1000);
+      // clear code selection
+      e.clearSelection();
+    }
+    const getTextToCopy = function(trigger) {
+        const codeEl = trigger.previousElementSibling.cloneNode(true);
+        for (const childEl of codeEl.children) {
+          if (isCodeAnnotation(childEl)) {
+            childEl.remove();
+          }
+        }
+        return codeEl.innerText;
+    }
+    const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
+      text: getTextToCopy
+    });
+    clipboard.on('success', onCopySuccess);
+    if (window.document.getElementById('quarto-embedded-source-code-modal')) {
+      const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
+        text: getTextToCopy,
+        container: window.document.getElementById('quarto-embedded-source-code-modal')
+      });
+      clipboardModal.on('success', onCopySuccess);
+    }
+      var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+      var mailtoRegex = new RegExp(/^mailto:/);
+        var filterRegex = new RegExp('/' + window.location.host + '/');
+      var isInternal = (href) => {
+          return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
+      }
+      // Inspect non-navigation links and adorn them if external
+     var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
+      for (var i=0; i<links.length; i++) {
+        const link = links[i];
+        if (!isInternal(link.href)) {
+          // undo the damage that might have been done by quarto-nav.js in the case of
+          // links that we want to consider external
+          if (link.dataset.originalHref !== undefined) {
+            link.href = link.dataset.originalHref;
+          }
+        }
+      }
+    function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
+      const config = {
+        allowHTML: true,
+        maxWidth: 500,
+        delay: 100,
+        arrow: false,
+        appendTo: function(el) {
+            return el.parentElement;
+        },
+        interactive: true,
+        interactiveBorder: 10,
+        theme: 'quarto',
+        placement: 'bottom-start',
+      };
+      if (contentFn) {
+        config.content = contentFn;
+      }
+      if (onTriggerFn) {
+        config.onTrigger = onTriggerFn;
+      }
+      if (onUntriggerFn) {
+        config.onUntrigger = onUntriggerFn;
+      }
+      window.tippy(el, config); 
+    }
+    const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+    for (var i=0; i<noterefs.length; i++) {
+      const ref = noterefs[i];
+      tippyHover(ref, function() {
+        // use id or data attribute instead here
+        let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
+        try { href = new URL(href).hash; } catch {}
+        const id = href.replace(/^#\/?/, "");
+        const note = window.document.getElementById(id);
+        if (note) {
+          return note.innerHTML;
+        } else {
+          return "";
+        }
+      });
+    }
+    const xrefs = window.document.querySelectorAll('a.quarto-xref');
+    const processXRef = (id, note) => {
+      // Strip column container classes
+      const stripColumnClz = (el) => {
+        el.classList.remove("page-full", "page-columns");
+        if (el.children) {
+          for (const child of el.children) {
+            stripColumnClz(child);
+          }
+        }
+      }
+      stripColumnClz(note)
+      if (id === null || id.startsWith('sec-')) {
+        // Special case sections, only their first couple elements
+        const container = document.createElement("div");
+        if (note.children && note.children.length > 2) {
+          container.appendChild(note.children[0].cloneNode(true));
+          for (let i = 1; i < note.children.length; i++) {
+            const child = note.children[i];
+            if (child.tagName === "P" && child.innerText === "") {
+              continue;
+            } else {
+              container.appendChild(child.cloneNode(true));
+              break;
+            }
+          }
+          if (window.Quarto?.typesetMath) {
+            window.Quarto.typesetMath(container);
+          }
+          return container.innerHTML
+        } else {
+          if (window.Quarto?.typesetMath) {
+            window.Quarto.typesetMath(note);
+          }
+          return note.innerHTML;
+        }
+      } else {
+        // Remove any anchor links if they are present
+        const anchorLink = note.querySelector('a.anchorjs-link');
+        if (anchorLink) {
+          anchorLink.remove();
+        }
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(note);
+        }
+        if (note.classList.contains("callout")) {
+          return note.outerHTML;
+        } else {
+          return note.innerHTML;
+        }
+      }
+    }
+    for (var i=0; i<xrefs.length; i++) {
+      const xref = xrefs[i];
+      tippyHover(xref, undefined, function(instance) {
+        instance.disable();
+        let url = xref.getAttribute('href');
+        let hash = undefined; 
+        if (url.startsWith('#')) {
+          hash = url;
+        } else {
+          try { hash = new URL(url).hash; } catch {}
+        }
+        if (hash) {
+          const id = hash.replace(/^#\/?/, "");
+          const note = window.document.getElementById(id);
+          if (note !== null) {
+            try {
+              const html = processXRef(id, note.cloneNode(true));
+              instance.setContent(html);
+            } finally {
+              instance.enable();
+              instance.show();
+            }
+          } else {
+            // See if we can fetch this
+            fetch(url.split('#')[0])
+            .then(res => res.text())
+            .then(html => {
+              const parser = new DOMParser();
+              const htmlDoc = parser.parseFromString(html, "text/html");
+              const note = htmlDoc.getElementById(id);
+              if (note !== null) {
+                const html = processXRef(id, note);
+                instance.setContent(html);
+              } 
+            }).finally(() => {
+              instance.enable();
+              instance.show();
+            });
+          }
+        } else {
+          // See if we can fetch a full url (with no hash to target)
+          // This is a special case and we should probably do some content thinning / targeting
+          fetch(url)
+          .then(res => res.text())
+          .then(html => {
+            const parser = new DOMParser();
+            const htmlDoc = parser.parseFromString(html, "text/html");
+            const note = htmlDoc.querySelector('main.content');
+            if (note !== null) {
+              // This should only happen for chapter cross references
+              // (since there is no id in the URL)
+              // remove the first header
+              if (note.children.length > 0 && note.children[0].tagName === "HEADER") {
+                note.children[0].remove();
+              }
+              const html = processXRef(null, note);
+              instance.setContent(html);
+            } 
+          }).finally(() => {
+            instance.enable();
+            instance.show();
+          });
+        }
+      }, function(instance) {
+      });
+    }
+        let selectedAnnoteEl;
+        const selectorForAnnotation = ( cell, annotation) => {
+          let cellAttr = 'data-code-cell="' + cell + '"';
+          let lineAttr = 'data-code-annotation="' +  annotation + '"';
+          const selector = 'span[' + cellAttr + '][' + lineAttr + ']';
+          return selector;
+        }
+        const selectCodeLines = (annoteEl) => {
+          const doc = window.document;
+          const targetCell = annoteEl.getAttribute("data-target-cell");
+          const targetAnnotation = annoteEl.getAttribute("data-target-annotation");
+          const annoteSpan = window.document.querySelector(selectorForAnnotation(targetCell, targetAnnotation));
+          const lines = annoteSpan.getAttribute("data-code-lines").split(",");
+          const lineIds = lines.map((line) => {
+            return targetCell + "-" + line;
+          })
+          let top = null;
+          let height = null;
+          let parent = null;
+          if (lineIds.length > 0) {
+              //compute the position of the single el (top and bottom and make a div)
+              const el = window.document.getElementById(lineIds[0]);
+              top = el.offsetTop;
+              height = el.offsetHeight;
+              parent = el.parentElement.parentElement;
+            if (lineIds.length > 1) {
+              const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
+              const bottom = lastEl.offsetTop + lastEl.offsetHeight;
+              height = bottom - top;
+            }
+            if (top !== null && height !== null && parent !== null) {
+              // cook up a div (if necessary) and position it 
+              let div = window.document.getElementById("code-annotation-line-highlight");
+              if (div === null) {
+                div = window.document.createElement("div");
+                div.setAttribute("id", "code-annotation-line-highlight");
+                div.style.position = 'absolute';
+                parent.appendChild(div);
+              }
+              div.style.top = top - 2 + "px";
+              div.style.height = height + 4 + "px";
+              div.style.left = 0;
+              let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
+              if (gutterDiv === null) {
+                gutterDiv = window.document.createElement("div");
+                gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
+                gutterDiv.style.position = 'absolute';
+                const codeCell = window.document.getElementById(targetCell);
+                const gutter = codeCell.querySelector('.code-annotation-gutter');
+                gutter.appendChild(gutterDiv);
+              }
+              gutterDiv.style.top = top - 2 + "px";
+              gutterDiv.style.height = height + 4 + "px";
+            }
+            selectedAnnoteEl = annoteEl;
+          }
+        };
+        const unselectCodeLines = () => {
+          const elementsIds = ["code-annotation-line-highlight", "code-annotation-line-highlight-gutter"];
+          elementsIds.forEach((elId) => {
+            const div = window.document.getElementById(elId);
+            if (div) {
+              div.remove();
+            }
+          });
+          selectedAnnoteEl = undefined;
+        };
+          // Handle positioning of the toggle
+      window.addEventListener(
+        "resize",
+        throttle(() => {
+          elRect = undefined;
+          if (selectedAnnoteEl) {
+            selectCodeLines(selectedAnnoteEl);
+          }
+        }, 10)
+      );
+      function throttle(fn, ms) {
+      let throttle = false;
+      let timer;
+        return (...args) => {
+          if(!throttle) { // first call gets through
+              fn.apply(this, args);
+              throttle = true;
+          } else { // all the others get throttled
+              if(timer) clearTimeout(timer); // cancel #2
+              timer = setTimeout(() => {
+                fn.apply(this, args);
+                timer = throttle = false;
+              }, ms);
+          }
+        };
+      }
+        // Attach click handler to the DT
+        const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
+        for (const annoteDlNode of annoteDls) {
+          annoteDlNode.addEventListener('click', (event) => {
+            const clickedEl = event.target;
+            if (clickedEl !== selectedAnnoteEl) {
+              unselectCodeLines();
+              const activeEl = window.document.querySelector('dt[data-target-cell].code-annotation-active');
+              if (activeEl) {
+                activeEl.classList.remove('code-annotation-active');
+              }
+              selectCodeLines(clickedEl);
+              clickedEl.classList.add('code-annotation-active');
+            } else {
+              // Unselect the line
+              unselectCodeLines();
+              clickedEl.classList.remove('code-annotation-active');
+            }
+          });
+        }
+    const findCites = (el) => {
+      const parentEl = el.parentElement;
+      if (parentEl) {
+        const cites = parentEl.dataset.cites;
+        if (cites) {
+          return {
+            el,
+            cites: cites.split(' ')
+          };
+        } else {
+          return findCites(el.parentElement)
+        }
+      } else {
+        return undefined;
+      }
+    };
+    var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+    for (var i=0; i<bibliorefs.length; i++) {
+      const ref = bibliorefs[i];
+      const citeInfo = findCites(ref);
+      if (citeInfo) {
+        tippyHover(citeInfo.el, function() {
+          var popup = window.document.createElement('div');
+          citeInfo.cites.forEach(function(cite) {
+            var citeDiv = window.document.createElement('div');
+            citeDiv.classList.add('hanging-indent');
+            citeDiv.classList.add('csl-entry');
+            var biblioDiv = window.document.getElementById('ref-' + cite);
+            if (biblioDiv) {
+              citeDiv.innerHTML = biblioDiv.innerHTML;
+            }
+            popup.appendChild(citeDiv);
+          });
+          return popup.innerHTML;
+        });
+      }
+    }
+  });
+  </script>
+</div> <!-- /content -->
+<footer class="footer">
+  <div class="nav-footer">
+    <div class="nav-footer-left">
+<p>Copyright © 2025 ECOMOD. All rights reserved.</p>
+</div>   
+    <div class="nav-footer-center">
+      &nbsp;
+    </div>
+    <div class="nav-footer-right">
+<p>Built with <a href="https://quarto.org/">Quarto</a></p>
+</div>
+  </div>
+</footer>
+
+
+
+
+</body></html>
