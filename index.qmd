@@ -42,7 +42,7 @@ To achieve our goals, we are developing and using different types of models (hyd
 ::: {.column style="width:50%; text-align: justify;  font-size: 20px"}
 -   ECOMOD is responsible for the **development, upgrading and maintenance** of the RBINS Research Infrastructure [**COHERENS**](posts/projects/COHERENS) modelling system, which is publicly available.
 
--   ECOMOD also **developed codes and softwares** that are publicaly available:
+-   ECOMOD also **developed codes and softwares** that are publicly available:
     -   [**Demeter**](https://github.com/ogourgue/demeter): The Multiscale biogeomorphic modeling framework
     -   [**TidalGeoPro**](https://github.com/ogourgue/tidalgeopro): A Python package to analyze geometric and hydraulic properties of tidal channels
     -   [**VFC**](https://github.com/ogourgue/vfc): A vegetation/Flow Convolution Python module

@@ -73,6 +73,34 @@ ul.task-list li input[type="checkbox"] {
 <script>
 
   window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-listing-1 .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      
+      searchColumns: ["listing-categories"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-listing-1'] = new List('listing-listing-1', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  
+
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
     const listingTargetEl = window.document.querySelector('#listing-articles .list');
     if (!listingTargetEl) {
       // No listing discovered, do not attach.
@@ -80,7 +108,7 @@ ul.task-list li input[type="checkbox"] {
     }
 
     const options = {
-      valueNames: ['listing-project','listing-website','listing-format','listing-execute','listing-language','listing-title','listing-type','listing-author','listing-year','listing-publication','listing-preprint','listing-doi','listing-materials','listing-toc','listing-categories','listing-path','listing-outputHref','listing-description','listing-filename','listing-file-modified','listing-reading-time','listing-word-count',{ data: ['index'] },{ data: ['categories'] }],
+      valueNames: ['listing-project','listing-website','listing-format','listing-execute','listing-listing','listing-language','listing-title','listing-type','listing-author','listing-year','listing-publication','listing-preprint','listing-doi','listing-materials','listing-toc','listing-categories','listing-path','listing-outputHref','listing-description','listing-filename','listing-file-modified','listing-reading-time','listing-word-count',{ data: ['index'] },{ data: ['categories'] }],
       page: 10,
     pagination: { item: "<li class='page-item'><a class='page page-link' href='#'></a></li>" },
       searchColumns: ["listing-title","listing-author","listing-publication","listing-year"],
@@ -182,7 +210,7 @@ window.Quarto = {
 <!-- sidebar -->
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(34)</span></div><div class="category" data-category="QWNlaCUyQyUyMEluZG9uZXNpYQ==">Aceh, Indonesia <span class="quarto-category-count">(2)</span></div><div class="category" data-category="YmlvZ2VvbW9ycGhvbG9neQ==">biogeomorphology <span class="quarto-category-count">(4)</span></div><div class="category" data-category="Ymx1ZSUyMG11c3NlbCUyMChNeXRpbHVzJTIwZWR1bGlzKQ==">blue mussel (Mytilus edulis) <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Q2F0JTIwQmElMjAtJTIwSGElMjBMb25nJTJDJTIwVmlldG5hbQ==">Cat Ba - Ha Long, Vietnam <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Y2xpbWF0ZSUyMGNoYW5nZQ==">climate change <span class="quarto-category-count">(2)</span></div><div class="category" data-category="Y29hc3RhbCUyMHdldGxhbmQ=">coastal wetland <span class="quarto-category-count">(8)</span></div><div class="category" data-category="Q09IRVJFTlM=">COHERENS <span class="quarto-category-count">(17)</span></div><div class="category" data-category="Y29tbW9uJTIwc29sZSUyMChTb2xlYSUyMHNvbGVhKQ==">common sole (Solea solea) <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Y29tcGFyYXRpdmUlMjBtb2RlbGluZw==">comparative modeling <span class="quarto-category-count">(1)</span></div><div class="category" data-category="ZGVtZXRlcg==">demeter <span class="quarto-category-count">(1)</span></div><div class="category" data-category="RHluYW1pYyUyMEVuZXJneSUyMEJ1ZGdldCUyMG1vZGVs">Dynamic Energy Budget model <span class="quarto-category-count">(3)</span></div><div class="category" data-category="ZW5zZW1ibGUlMjBtb2RlbGluZw==">ensemble modeling <span class="quarto-category-count">(1)</span></div><div class="category" data-category="RXVyb3BlYW4lMjBmbGF0JTIwb3lzdGVyJTIwKE9zdHJlYSUyMGVkdWxpcyk=">European flat oyster (Ostrea edulis) <span class="quarto-category-count">(1)</span></div><div class="category" data-category="ZXV0cm9waGljYXRpb24=">eutrophication <span class="quarto-category-count">(3)</span></div><div class="category" data-category="ZmxhdGZpc2g=">flatfish <span class="quarto-category-count">(4)</span></div><div class="category" data-category="Zmx1bWUlMjBleHBlcmltZW50">flume experiment <span class="quarto-category-count">(1)</span></div><div class="category" data-category="R3VsZiUyMG9mJTIwR3VpbmVh">Gulf of Guinea <span class="quarto-category-count">(1)</span></div><div class="category" data-category="aHlkcm9keW5hbWljcw==">hydrodynamics <span class="quarto-category-count">(2)</span></div><div class="category" data-category="TGFrZSUyME5va291JUMzJUE5JTJDJTIwQmVuaW4=">Lake Nokoué, Benin <span class="quarto-category-count">(4)</span></div><div class="category" data-category="bGFuZC1vY2VhbiUyMGNvbnRpbnV1bQ==">land-ocean continuum <span class="quarto-category-count">(1)</span></div><div class="category" data-category="bGFydmFsJTIwdHJhbnNwb3J0">larval transport <span class="quarto-category-count">(8)</span></div><div class="category" data-category="bWFuZ3JvdmU=">mangrove <span class="quarto-category-count">(2)</span></div><div class="category" data-category="bWFyaW5lJTIwbWFuYWdlbWVudA==">marine management <span class="quarto-category-count">(1)</span></div><div class="category" data-category="TUlSTyUyNkNP">MIRO&amp;CO <span class="quarto-category-count">(4)</span></div><div class="category" data-category="bW9kZWxpbmc=">modeling <span class="quarto-category-count">(22)</span></div><div class="category" data-category="Tm9ydGglMjBTZWE=">North Sea <span class="quarto-category-count">(11)</span></div><div class="category" data-category="Tm9ydGgtRWFzdCUyMEF0bGFudGlj">North-East Atlantic <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Tm9ydGgtV2VzdCUyMEV1cm9wZWFuJTIwU2Vhcw==">North-West European Seas <span class="quarto-category-count">(1)</span></div><div class="category" data-category="b3RvbGl0aHM=">otoliths <span class="quarto-category-count">(1)</span></div><div class="category" data-category="cGh5c2ljYWwlMjBhbmQlMjBjaGVtaWNhbCUyMGR5bmFtaWNz">physical and chemical dynamics <span class="quarto-category-count">(1)</span></div><div class="category" data-category="c2FsdG1hcnNo">saltmarsh <span class="quarto-category-count">(6)</span></div><div class="category" data-category="c2hyaW1w">shrimp <span class="quarto-category-count">(3)</span></div><div class="category" data-category="dGFnZ2luZw==">tagging <span class="quarto-category-count">(1)</span></div><div class="category" data-category="V2F0ZXIlMjBxdWFsaXR5JTIwbW9uaXRvcmluZw==">Water quality monitoring <span class="quarto-category-count">(2)</span></div><div class="category" data-category="V2VzdGVybiUyMEFudGFyY3RpYyUyMFBlbmluc3VsYQ==">Western Antarctic Peninsula <span class="quarto-category-count">(1)</span></div></div></div>
+    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-cloud"><div class="category" data-category="QWNlaCUyQyUyMEluZG9uZXNpYQ=="><span class="quarto-category-count category-cloud-1">Aceh, Indonesia</span></div><div class="category" data-category="YmlvZ2VvbW9ycGhvbG9neQ=="><span class="quarto-category-count category-cloud-2">biogeomorphology</span></div><div class="category" data-category="Ymx1ZSUyMG11c3NlbCUyMChNeXRpbHVzJTIwZWR1bGlzKQ=="><span class="quarto-category-count category-cloud-1">blue mussel (Mytilus edulis)</span></div><div class="category" data-category="Q2F0JTIwQmElMjAtJTIwSGElMjBMb25nJTJDJTIwVmlldG5hbQ=="><span class="quarto-category-count category-cloud-1">Cat Ba - Ha Long, Vietnam</span></div><div class="category" data-category="Y2xpbWF0ZSUyMGNoYW5nZQ=="><span class="quarto-category-count category-cloud-1">climate change</span></div><div class="category" data-category="Y29hc3RhbCUyMHdldGxhbmQ="><span class="quarto-category-count category-cloud-3">coastal wetland</span></div><div class="category" data-category="Q09IRVJFTlM="><span class="quarto-category-count category-cloud-5">COHERENS</span></div><div class="category" data-category="Y29tbW9uJTIwc29sZSUyMChTb2xlYSUyMHNvbGVhKQ=="><span class="quarto-category-count category-cloud-1">common sole (Solea solea)</span></div><div class="category" data-category="Y29tcGFyYXRpdmUlMjBtb2RlbGluZw=="><span class="quarto-category-count category-cloud-1">comparative modeling</span></div><div class="category" data-category="ZGVtZXRlcg=="><span class="quarto-category-count category-cloud-1">demeter</span></div><div class="category" data-category="RHluYW1pYyUyMEVuZXJneSUyMEJ1ZGdldCUyMG1vZGVs"><span class="quarto-category-count category-cloud-1">Dynamic Energy Budget model</span></div><div class="category" data-category="ZW5zZW1ibGUlMjBtb2RlbGluZw=="><span class="quarto-category-count category-cloud-1">ensemble modeling</span></div><div class="category" data-category="RXVyb3BlYW4lMjBmbGF0JTIwb3lzdGVyJTIwKE9zdHJlYSUyMGVkdWxpcyk="><span class="quarto-category-count category-cloud-1">European flat oyster (Ostrea edulis)</span></div><div class="category" data-category="ZXV0cm9waGljYXRpb24="><span class="quarto-category-count category-cloud-1">eutrophication</span></div><div class="category" data-category="ZmxhdGZpc2g="><span class="quarto-category-count category-cloud-2">flatfish</span></div><div class="category" data-category="Zmx1bWUlMjBleHBlcmltZW50"><span class="quarto-category-count category-cloud-1">flume experiment</span></div><div class="category" data-category="R3VsZiUyMG9mJTIwR3VpbmVh"><span class="quarto-category-count category-cloud-1">Gulf of Guinea</span></div><div class="category" data-category="aHlkcm9keW5hbWljcw=="><span class="quarto-category-count category-cloud-1">hydrodynamics</span></div><div class="category" data-category="TGFrZSUyME5va291JUMzJUE5JTJDJTIwQmVuaW4="><span class="quarto-category-count category-cloud-2">Lake Nokoué, Benin</span></div><div class="category" data-category="bGFuZC1vY2VhbiUyMGNvbnRpbnV1bQ=="><span class="quarto-category-count category-cloud-1">land-ocean continuum</span></div><div class="category" data-category="bGFydmFsJTIwdHJhbnNwb3J0"><span class="quarto-category-count category-cloud-3">larval transport</span></div><div class="category" data-category="bWFuZ3JvdmU="><span class="quarto-category-count category-cloud-1">mangrove</span></div><div class="category" data-category="bWFyaW5lJTIwbWFuYWdlbWVudA=="><span class="quarto-category-count category-cloud-1">marine management</span></div><div class="category" data-category="TUlSTyUyNkNP"><span class="quarto-category-count category-cloud-2">MIRO&amp;CO</span></div><div class="category" data-category="bW9kZWxpbmc="><span class="quarto-category-count category-cloud-7">modeling</span></div><div class="category" data-category="Tm9ydGglMjBTZWE="><span class="quarto-category-count category-cloud-4">North Sea</span></div><div class="category" data-category="Tm9ydGgtRWFzdCUyMEF0bGFudGlj"><span class="quarto-category-count category-cloud-1">North-East Atlantic</span></div><div class="category" data-category="Tm9ydGgtV2VzdCUyMEV1cm9wZWFuJTIwU2Vhcw=="><span class="quarto-category-count category-cloud-1">North-West European Seas</span></div><div class="category" data-category="b3RvbGl0aHM="><span class="quarto-category-count category-cloud-1">otoliths</span></div><div class="category" data-category="cGh5c2ljYWwlMjBhbmQlMjBjaGVtaWNhbCUyMGR5bmFtaWNz"><span class="quarto-category-count category-cloud-1">physical and chemical dynamics</span></div><div class="category" data-category="c2FsdG1hcnNo"><span class="quarto-category-count category-cloud-2">saltmarsh</span></div><div class="category" data-category="c2hyaW1w"><span class="quarto-category-count category-cloud-1">shrimp</span></div><div class="category" data-category="dGFnZ2luZw=="><span class="quarto-category-count category-cloud-1">tagging</span></div><div class="category" data-category="V2F0ZXIlMjBxdWFsaXR5JTIwbW9uaXRvcmluZw=="><span class="quarto-category-count category-cloud-1">Water quality monitoring</span></div><div class="category" data-category="V2VzdGVybiUyMEFudGFyY3RpYyUyMFBlbmluc3VsYQ=="><span class="quarto-category-count category-cloud-1">Western Antarctic Peninsula</span></div></div></div>
 <!-- main -->
 <main class="content column-page-left" id="quarto-document-content"><header id="title-block-header" class="quarto-title-block"></header>
 
@@ -648,7 +676,7 @@ window.Quarto = {
     
   </li>
 
-  <li data-index="25" data-categories="bGFydmFsJTIwdHJhbnNwb3J0JTJDbW9kZWxpbmclMkNDT0hFUkVOUyUyQ2ZsYXRmaXNoJTJDTm9ydGglMjBTZWE=" data-listing-file-modified-sort="1750175465879" data-listing-reading-time-sort="2" data-listing-word-count-sort="270">
+  <li data-index="25" data-categories="bGFydmFsJTIwdHJhbnNwb3J0JTJDbW9kZWxpbmclMkNDT0hFUkVOUyUyQ2ZsYXRmaXNoJTJDTm9ydGglMjBTZWE=" data-listing-file-modified-sort="1750695015956" data-listing-reading-time-sort="2" data-listing-word-count-sort="270">
     <span class="listing-title lead">How larval traits of six flatfish species impact connectivity</span><br>
     <span class="listing-author">Barbut et al.</span><br>
     <span class="listing-publication fst-italic ">Limnology and Oceanography</span>
@@ -811,7 +839,18 @@ window.Quarto = {
 
 
 
-</main> <!-- /main -->
+<div class="quarto-listing quarto-listing-container-default" id="listing-listing-1">
+<div class="listing-actions-group">
+    <div class="input-group input-group-sm quarto-listing-filter">
+      <span class="input-group-text"><i class="bi bi-search"></i></span>
+      <input type="text" class="search form-control" placeholder="Filter">
+    </div>
+</div>
+<div class="list quarto-listing-default">
+
+</div>
+<div class="listing-no-matching d-none">No matching items</div>
+</div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
     const icon = "";
