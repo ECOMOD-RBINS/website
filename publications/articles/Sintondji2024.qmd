@@ -10,7 +10,7 @@ materials: ""
 toc: false
 categories:
   - shrimp
-  - Lake Nokoué, Benin
+  - Lake Nokoué - Benin
 ---
 
 ## Citation

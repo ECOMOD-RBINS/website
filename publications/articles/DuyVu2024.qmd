@@ -12,7 +12,7 @@ categories:
   - COHERENS
   - modeling
   - hydrodynamics
-  - Cat Ba - Ha Long, Vietnam
+  - Ha Long - Vietnam
 ---
 
 ## Citation

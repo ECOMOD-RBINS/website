@@ -13,7 +13,7 @@ categories:
   - Dynamic Energy Budget model
   - COHERENS
   - modeling
-  - blue mussel (Mytilus edulis)
+  - blue mussel
   - North Sea
 ---
 
