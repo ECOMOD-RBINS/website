@@ -114,7 +114,7 @@ The marine models are used to:
 
 <!-- Link to the tab "Activities"? -->
 
-![](images/homepage/Contact.jpg){height=40 width=40} Contact
+![](images/homepage/Picto_Contact.png){height=40} Contact
 ---
 
 If you would like to:
