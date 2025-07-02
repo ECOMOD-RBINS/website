@@ -10,7 +10,7 @@ materials: ""
 toc: false
 categories:
   - Water quality monitoring
-  - Aceh, Indonesia
+  - Aceh - Indonesia
 ---
 
 ## Citation

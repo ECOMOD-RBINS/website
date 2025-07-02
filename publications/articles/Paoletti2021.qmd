@@ -13,7 +13,7 @@ categories:
   - otoliths
   - modeling
   - COHERENS
-  - common sole (Solea solea)
+  - common sole
   - North Sea
 ---
 

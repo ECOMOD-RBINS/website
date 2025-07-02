@@ -10,7 +10,7 @@ materials: ""
 toc: false
 categories:
   - physical and chemical dynamics
-  - Lake Nokoué, Benin
+  - Lake Nokoué - Benin
 ---
 
 ## Citation

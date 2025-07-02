@@ -13,7 +13,7 @@ categories:
   - Dynamic Energy Budget model
   - modeling
   - COHERENS
-  - European flat oyster (Ostrea edulis)
+  - European flat oyster
   - North Sea
 ---
 
