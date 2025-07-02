@@ -32,6 +32,8 @@ ul.task-list li input[type="checkbox"] {
 <script src="../../site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="../../">
 <link href="../../favicon.ico" rel="icon">
+<script src="../../site_libs/quarto-listing/list.min.js"></script>
+<script src="../../site_libs/quarto-listing/quarto-listing.js"></script>
 <script src="../../site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="../../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
 <script src="../../site_libs/quarto-html/popper.min.js"></script>
@@ -69,7 +71,65 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
+<script>
 
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-listing .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      
+      searchColumns: ["listing-categories"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  </script>
+
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN") {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 <link rel="stylesheet" href="../../styles.css">
 </head>
@@ -121,22 +181,23 @@ ul.task-list li input[type="checkbox"] {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-cloud"></div></div>
 <!-- main -->
-<main class="content column-page" id="quarto-document-content">
+<main class="content column-page-left" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
 <h1 class="title">Distribution model of shrimp species in Lake Nokoué, southern Benin, West Africa</h1>
   <div class="quarto-categories">
     <div class="quarto-category">shrimp</div>
-    <div class="quarto-category">Lake Nokoué, Benin</div>
+    <div class="quarto-category">Lake Nokoué - Benin</div>
   </div>
   </div>
 
 
 
-<div class="quarto-title-meta column-page">
+<div class="quarto-title-meta column-page-left">
 
     <div>
     <div class="quarto-title-meta-heading">Author</div>
@@ -173,9 +234,21 @@ ul.task-list li input[type="checkbox"] {
 <p>The aim of this work was to evaluate the spatial and temporal distribution of shrimp species in the Lake Nokoué-Cotonou Channel complex for an efficient management of the fishery. The results of one year sampling from five stations (North, South, East, Central and West) in the complex revealed the following proportions: <em>Penaeus notialis</em> 73.68%, <em>Macrobrachium macrobrachion</em> 13.81%, <em>Macrobrachium vollenhovenii</em> 5.36%, <em>Penaeus monodon</em> 2.68%, <em>Macrobrachium felicinum</em> 2.20%, <em>Penaeus kerathurus</em> 1.72%, <em>Macrobrachium</em> cf.&nbsp;<em>zariquieyi</em> 0.27%, and <em>Macrobrachium equidens</em> 0.27%. The species <em>M.</em> cf.&nbsp;<em>zariquieyi</em> and <em>M. equidens</em> were never reported from Benin, but are now found in Lake Nokoué. Spatially, <em>Penaeus</em> (<em>Penaeus notialis</em>) are more abundant in the west (Acadja concentration zone), while <em>Macrobrachium</em> (<em>Macrobrachium macrobrachion</em>) are more dominant in the east (near the Ouémé entrance) and north (near the Sô entrance) of the lake. <em>Penaeus</em> are strongly present in the lagoon complex from January to August, while <em>Macrobrachium</em> are more abundant in Lake Nokoué from September to December. Spearman’s correlation analysis revealed that increasing salinity, pH, transparency and total dissolved solids (TDS) positively influenced the abundance of <em>P. notialis</em>, while increasing salinity, pH, transparency, and TDS negatively influenced the abundance of <em>M. macrobrachion</em> at the 5% significance level. For an efficient management of the shrimp fishery, it is desirable that the shrimp fishery in Lake Nokoué, mainly in the Cotonou Channel, which is a very sensitive area for their seasonal migrations, benefits from at least three months of respite per year, from November to January. This period corresponds to the strong migration of juvenile <em>Penaeus</em> towards the lake. This should allow many <em>Penaeus</em> to grow up and breed at least once in their lives, according to the species’ life cycle presented.</p>
 
 
+
 </section>
 
-</main> <!-- /main -->
+<div class="quarto-listing quarto-listing-container-default" id="listing-listing">
+<div class="listing-actions-group">
+    <div class="input-group input-group-sm quarto-listing-filter">
+      <span class="input-group-text"><i class="bi bi-search"></i></span>
+      <input type="text" class="search form-control" placeholder="Filter">
+    </div>
+</div>
+<div class="list quarto-listing-default">
+
+</div>
+<div class="listing-no-matching d-none">No matching items</div>
+</div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
     const icon = "";

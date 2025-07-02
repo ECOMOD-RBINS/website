@@ -36,11 +36,3 @@ execute:
   warning: false
   error: true
   cache: true
-
-# see https://quarto.org/docs/websites/website-listings.html
-listing:
-  contents: 
-    - "publications/*.qmd" 
-  categories: cloud
-  sort: "year desc"
-  filter-ui: true

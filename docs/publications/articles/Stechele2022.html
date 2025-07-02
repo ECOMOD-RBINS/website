@@ -32,6 +32,8 @@ ul.task-list li input[type="checkbox"] {
 <script src="../../site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="../../">
 <link href="../../favicon.ico" rel="icon">
+<script src="../../site_libs/quarto-listing/list.min.js"></script>
+<script src="../../site_libs/quarto-listing/quarto-listing.js"></script>
 <script src="../../site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="../../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
 <script src="../../site_libs/quarto-html/popper.min.js"></script>
@@ -69,7 +71,65 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
+<script>
 
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-listing .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      
+      searchColumns: ["listing-categories"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  </script>
+
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN") {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 <link rel="stylesheet" href="../../styles.css">
 </head>
@@ -121,9 +181,10 @@ ul.task-list li input[type="checkbox"] {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-cloud"></div></div>
 <!-- main -->
-<main class="content column-page" id="quarto-document-content">
+<main class="content column-page-left" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
@@ -133,14 +194,14 @@ ul.task-list li input[type="checkbox"] {
     <div class="quarto-category">Dynamic Energy Budget model</div>
     <div class="quarto-category">COHERENS</div>
     <div class="quarto-category">modeling</div>
-    <div class="quarto-category">blue mussel (Mytilus edulis)</div>
+    <div class="quarto-category">blue mussel</div>
     <div class="quarto-category">North Sea</div>
   </div>
   </div>
 
 
 
-<div class="quarto-title-meta column-page">
+<div class="quarto-title-meta column-page-left">
 
     <div>
     <div class="quarto-title-meta-heading">Author</div>
@@ -177,9 +238,21 @@ ul.task-list li input[type="checkbox"] {
 <p>Several reasons, from stakeholder conflicts to water quality issues, are pushing bivalve cultivation to less accessible, exposed, and offshore waters. Because sheltered areas are absent along the Belgian coastline, the possibility to culture mussels with self-regulated systems in exposed conditions has been explored by various research projects. Farmers consider offshore environments unsuitable on the assumption that spat densities are low, and growth is insufficient for commercialization. This study evaluates the potential for self-regulated mussel cultivation in an exposed North Sea environment based on data collected from several research projects that evaluated the biological and technical feasibility of commercial longline cultivation in Belgium. The cultivation methods were variable, but always relied on wild spat that was grown to market size. No husbandry practices such as seed harvesting, thinning, grading, or socking were performed. This cultivation technique, also called self-regulating cultivation, reduces operational costs when extreme weather and exposed conditions limit handling. A 3D hydro-dynamic larvae dispersal model (LDM) was used to simulate the spatial variability in arrivals and the timing of the arrival peak. In addition, a locally validated metabolic model (DEB) for the blue mussel (<em>M. edulis</em>) was forced with 10 year optimized remote sensing observations (Copernicus, Sentinel-3/OLCI) to predict industry-relevant information such as site suitability, inter-annual growth variability, and cultivation time. This study concludes that exposed mussel cultivation near the Belgian east coast is characterised by fast growth. Mussels grown in this area will reach a marketable size (6 cm) after 12–15 months of cultivation, which is just in time for the peak consumption season (July-August). Moving offshore prolongs the cultivation cycles to 17–25 months, but provides more stable growth conditions with less inter-annual variability. When considering a cultivation period of 12 months, the mussels originating from offshore cultivation are comparable in size to the smaller Dutch “Smitse” and French “Bouchots”.</p>
 
 
+
 </section>
 
-</main> <!-- /main -->
+<div class="quarto-listing quarto-listing-container-default" id="listing-listing">
+<div class="listing-actions-group">
+    <div class="input-group input-group-sm quarto-listing-filter">
+      <span class="input-group-text"><i class="bi bi-search"></i></span>
+      <input type="text" class="search form-control" placeholder="Filter">
+    </div>
+</div>
+<div class="list quarto-listing-default">
+
+</div>
+<div class="listing-no-matching d-none">No matching items</div>
+</div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
     const icon = "";
