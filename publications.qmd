@@ -25,6 +25,59 @@ listing:
   </ol>
 </nav>
 ```
+<!-- Claude helped me with this, it has been added to add a bold effect when we hover over a category in the category cloud -->
+<style>
+/* Category cloud hover effects - target individual categories only */
+.quarto-listing .listing-categories .category {
+  transition: all 0.3s ease;
+  cursor: pointer;
+  display: inline-block;
+  margin: 0.2rem 0.3rem;
+  padding: 0.2rem 0.5rem;
+  border-radius: 0.25rem;
+  background-color: #f8f9fa;
+  border: 1px solid #dee2e6;
+}
+
+/* Only apply hover effects to the specific category being hovered */
+.quarto-listing .listing-categories .category:hover:not(:has(.category:hover)) {
+  font-weight: bold !important;
+  color: #000000 !important;
+  text-decoration: none;
+  transform: scale(1.0);
+  background-color: #e9ecef;
+  border-color: #adb5bd;
+}
+
+/* Alternative selectors for different Quarto category structures */
+.listing-categories .category:hover,
+.categories .category:hover {
+  font-weight: bold !important;
+  color: #000000 !important;
+  text-decoration: none;
+  transform: scale(1.0);
+  background-color: #e9ecef;
+  border-color: #adb5bd;
+}
+
+/* For category clouds - target individual items */
+.category-cloud > .category:hover,
+.listing-category-cloud > .category:hover {
+  font-weight: bold !important;
+  color: #000000 !important;
+  text-decoration: none;
+  transform: scale(1.0);
+}
+
+/* Ensure proper spacing */
+.listing-categories {
+  margin-bottom: 1rem;
+}
+
+/* Remove the broad selector that was causing all categories to change */
+</style>
 
 :::{#articles}
 :::
+
+<!-- Found on github: (open issue for now [04/04/2025] about the harmonisation of labels), might be worth checking later on https://github.com/quarto-dev/quarto-cli/issues/12233 -->

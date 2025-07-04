@@ -3,7 +3,7 @@ title: "OUTFLOW"
 description: ""
 author: ""
 date: "2025-03-17"
-categories: [Modeling, Offshore Renewable Energy]
+categories: [Modeling, Offshore renewable energy]
 image: "images/Outflow_logo_final.png"
 
 execute:

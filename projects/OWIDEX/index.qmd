@@ -3,8 +3,9 @@ title: "OWIDEX"
 description: ""
 author: ""
 date: ""
-categories: [Shiny, Ecosystemic Services]
+categories: [Ecosystemic services]
 image: "images/owidex.jpeg"
+draft: false
 
 execute:
   echo: false

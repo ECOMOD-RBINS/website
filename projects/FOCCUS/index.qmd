@@ -3,7 +3,7 @@ title: "FOCCUS"
 description: ""
 author: ""
 date: "2025-03-17"
-categories: [Modeling, Ensembles, Plumes]
+categories: [Ensemble modeling]
 image: "images/foccus.png"
 
 execute:

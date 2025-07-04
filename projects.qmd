@@ -1,12 +1,33 @@
 ---
-title: "Overview of our projects"
+title: ""
 listing:
-  contents: projects
-  sort: ["priority asc", "title asc"]
-  type: grid
-  categories: true
-  sort-ui: false
-  filter-ui: false
+  - id: ongoing-projects
+    contents: projects
+    sort: ["priority asc", "title asc"]
+    type: grid
+    categories: true
+    sort-ui: false
+    filter-ui: false
+    field-display-names:
+      title: "Report"
+  - id: completed-projects
+    contents: completed-projects
+    sort: ["priority asc", "title asc"]
+    type: grid # table
+    categories: true
+    sort-ui: false
+    filter-ui: false
 page-layout: full
 title-block-banner: false
 ---
+
+# Ongoing projects
+
+::: {#ongoing-projects}
+:::
+
+# Completed projects
+
+::: {#completed-projects}
+:::
+
