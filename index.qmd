@@ -11,38 +11,52 @@ resources: # source info https://quarto.org/docs/websites/website-tools.html#sit
 
 # Marine Ecosystem Modelling (ECOMOD)
 
-:::: columns
+::::: columns
 ::: {.column style="width:50%; margin-right: 20px; font-size: 20px;  text-align: justify"}
 [**ECOMOD**](team.qmd) is an interdisciplinary team composed of scientists with diverse backgrounds (mechanical engineer, bioengineer, oceanographers, mathematicians, physicists, evolutionary biologist), and expertise in hydrodynamics, sediment transport, biogeochemistry, ecosystem modelling, biophysical modelling, and Individual-Based Modelling.
 
 ECOMOD is part of the [ECODAM](https://www.naturalsciences.be/nl/wetenschap/onderzoek/research-teams/ecosystems-data-processing-and-modelling-ecodam) (Ecosystems, data processing and modelling) group of the Operational Directorate Natural Environment ([OD Nature](https://odnature.naturalsciences.be/home/)) within the Institute of Natural Sciences.
 :::
+
 ::: {.column width="45%"}
 ![](images/homepage/ECOMOD_Team.jpg){fig-align="right" width="450"}
 :::
-::::
+:::::
 
-## About
+::: large-text
+<b>ECOMOD focuses on aquatic ecosystems and how these relate to societal matters and has a strong expretise in the development and use of marine ecosystems modelling tools to support the management of the marine environment, particularly for Belgian waters, but also the Southern Ocean, Benin and Vietnam.</b>
+:::
 
+## ![](images/homepage/Picto_Vision.png){height="50"} Our vision
 
-![](images/homepage/About.png){width="1000"}
+![](images/homepage/Vision.png){height="300"}
 
+## ![](images/homepage/Picto_Mission.png){height="50"} Our mission
 
-<!--- Pictogrammes --->
-{{< include custom_html/vision-component.html >}}
+::: large-text
+-   Improve scientific knowledge in marine ecosystems through interdisciplinary research
 
-![](images/homepage/tools.png){height=40} Modelling tools
---- 
+-   Support and advise stakeholders
+
+-   Disseminate science and raise public awareness
+
+-   Develop open-source numerical models and community tools
+
+-   Manage RBINS' Research Infrastructure COHERENS
+:::
+
+## ![](images/homepage/tools.png){height="40"} Modelling tools
 
 ::: large-text
 To achieve our goals, we are developing and using different types of models (hydrodynamics, sediments, biogeochemical, particle transport, contaminants), codes and softwares:
 :::
 
-:::: columns
+::::: columns
 ::: {.column style="width:50%; text-align: justify;  font-size: 20px"}
 -   ECOMOD is responsible for the **development, upgrading and maintenance** of the RBINS Research Infrastructure [**COHERENS**](posts/projects/COHERENS) modelling system, which is publicly available.
 
 -   ECOMOD also **developed codes and softwares** that are publicly available:
+
     -   [**Demeter**](https://github.com/ogourgue/demeter): The Multiscale biogeomorphic modeling framework
     -   [**TidalGeoPro**](https://github.com/ogourgue/tidalgeopro): A Python package to analyze geometric and hydraulic properties of tidal channels
     -   [**VFC**](https://github.com/ogourgue/vfc): A vegetation/Flow Convolution Python module
@@ -50,27 +64,25 @@ To achieve our goals, we are developing and using different types of models (hyd
 
 -   ECOMOD is **using modelling tools** such as [**Parcels**](https://oceanparcels.org/index.html), for particle tracking simulations.
 :::
+
 ::: {.column style="width=40%; padding-left: 15px"}
 ![](images/homepage/COHERENS_Modelling_System_Applications.png){width="400"}
 :::
-::::
+:::::
 
-<p>"<b>Through these advanced modelling techniques, we're better equipped to understand and protect our ocean's complex ecosystems, ensuring their preservation for future generations.</b>"</p>
-
-
-![](images/homepage/capacity_building.png){height=50} Support, training and capacity building
----
+## ![](images/homepage/capacity_building.png){height="50"} Support, training and capacity building
 
 ::: large-text
 The team **provides support to users** and is involved in **capacity building** activities through the [CEBioS](https://cebios.naturalsciences.be/) (Capacities for Biodiversity and Sustainable Development) program.
 :::
 
 <!--- Carousel --->
+
 {{< include custom_html/carousel.html >}}
 
-![](images/homepage/applications.png){height=50} Domain of expertise and applications
----
+## ![](images/homepage/applications.png){height="50"} Domain of expertise and applications
 
+```{=html}
 <!-- ### To Update (simplify text & include it in the different tabs) - Need pictures representing different applications with self-explaining captions
 
 The marine models are used to:
@@ -89,10 +101,9 @@ The marine models are used to:
 -   Testing management options, advising on mitigation scenarios<br />
     *Oyster bed restoration, river loads reduction scenarios, monitoring options (reduce costs)*
 -->
+```
 
-
-::: {.panel-tabset}
-
+::: panel-tabset
 ## Lake Nokoué, Benin
 
 ![](posts/projects/SHRIMP-II/images/shrimp.jpg){width="400"}
@@ -104,27 +115,26 @@ The marine models are used to:
 ![](posts/projects/CLIMDIS/images/Halong_Bay.jpg){width="400"}
 
 *Understanding the extent of the impact of pollutants and the effects of human activity and climate change on water quality in Ha Long Bay.*
-
 :::
 
 ::: large-text
 **ECOMOD**’s expertise serves international bodies like the International Council for the Exploration of the Sea ([ICES](https://www.ices.dk)), the [OSPAR](https://www.ospar.org/convention) Convention, the [EuroGOOS Coastal Working Group](https://eurogoos.eu/coastal-wg/#:~:text=The%20EuroGOOS%20Coastal%20Working%20Group%20will%20examine%20the,analysis%2C%20to%20products%20and%20services%20for%20coastal%20users) and the [UN Decade Collaborative Center Ocean Forecast](https://www.unoceanprediction.org/en/about/decade-programmes#:~:text=OceanPrediction%20Decade%20Collaborative%20Centre%20coordinates%20Decade%20Actions%20related,some%20Decade%20Programmes%20closely%20linked%20with%20OceanPrediction%20DCC).
-
 :::
 
 <!-- Link to the tab "Activities"? -->
 
-![](images/homepage/Picto_Contact.png){height=40} Contact
----
+## ![](images/homepage/Picto_Contact.png){height="40"} Contact
 
 If you would like to:
 
-- **Learn more about our research activities** – Explore our current projects, publications, and scientific contributions
-- **Utilize our research tools and methodologies** – Access our datasets, protocols, and analytical frameworks
-- **Establish new research collaborations** – Connect with our team to discuss joint projects and partnerships
+-   **Learn more about our research activities** – Explore our current projects, publications, and scientific contributions
+-   **Utilize our research tools and methodologies** – Access our datasets, protocols, and analytical frameworks
+-   **Establish new research collaborations** – Connect with our team to discuss joint projects and partnerships
 
-Don't hesitate to <span id="contact-link">contact us</span>!
+Don't hesitate to [contact us]{#contact-link}!
 
+```{=html}
 <script>
 document.getElementById('contact-link').innerHTML = '<a href="mailto:ecomod-contact@naturalsciences.be"><strong>contact us</strong></a>';
 </script>
+```
