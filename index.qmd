@@ -31,6 +31,7 @@ ECOMOD is part of the [ECODAM](https://www.naturalsciences.be/nl/wetenschap/onde
 
 ![](images/homepage/Vision.png){height="300"}
 
+
 ## ![](images/homepage/Picto_Mission.png){height="50"} Our mission
 
 ::: large-text
@@ -45,15 +46,18 @@ ECOMOD is part of the [ECODAM](https://www.naturalsciences.be/nl/wetenschap/onde
 -   Manage RBINS' Research Infrastructure COHERENS
 :::
 
+
 ## ![](images/homepage/tools.png){height="40"} Modelling tools
 
 ::: large-text
 To achieve our goals, we are developing and using different types of models (hydrodynamics, sediments, biogeochemical, particle transport, contaminants), codes and softwares:
 :::
 
-::::: columns
-::: {.column style="width:50%; text-align: justify;  font-size: 20px"}
+
 -   ECOMOD is responsible for the **development, upgrading and maintenance** of the RBINS Research Infrastructure [**COHERENS**](posts/projects/COHERENS) modelling system, which is publicly available.
+
+![](images/homepage/COHERENS_Modelling_System.jpg){width="500" fig-align="center"}
+
 
 -   ECOMOD also **developed codes and softwares** that are publicly available:
 
@@ -63,12 +67,8 @@ To achieve our goals, we are developing and using different types of models (hyd
     -   [**UVPec**](https://pypi.org/project/uvpec/): Underwater Vision Profiler Embedded Classifier
 
 -   ECOMOD is **using modelling tools** such as [**Parcels**](https://oceanparcels.org/index.html), for particle tracking simulations.
-:::
 
-::: {.column style="width=40%; padding-left: 15px"}
-![](images/homepage/COHERENS_Modelling_System_Applications.png){width="400"}
-:::
-:::::
+
 
 ## ![](images/homepage/capacity_building.png){height="50"} Support, training and capacity building
 
