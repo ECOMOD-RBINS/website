@@ -3,6 +3,12 @@ project:
   output-dir: docs
 
 website:
+  #announcement: 
+  #  icon: info-circle
+  #  dismissable: true
+  #  content: "**Alert** - this is some information that you should pay attention to"
+  #  type: primary
+  #  position: below-navbar
   navbar:
     background: "#2C3E50"
     left:
