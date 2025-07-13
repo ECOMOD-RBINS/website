@@ -1,0 +1,24 @@
+---
+title: "A description of existing operational ocean forecasting services around the globe"
+type: "article"
+author: "Cirano et al."
+year: "2025"
+publication: "State of the Planet"
+preprint: ""
+doi: "https://doi.org/10.5194/sp-5-opsr-5-2025"
+materials: ""
+toc: false
+categories:
+  - modeling
+  - operational  
+---
+
+## Citation
+
+>  Cirano, M., Alvarez-Fanjul, E., **Capet, A.**, Ciliberti, S., Clementi, E., Dewitte, B., Dinápoli, M., El Serafy, G., Hogan, P., Joseph, S., Miyazawa, Y., Montes, I., Narvaez, D. A., Regan, H., Simionato, C. G., Smith, G. C., Staneva, J., Tanajura, C. A. S., Thupaki, P., Urbano-Latorre, C., Veitch, J., and Zavala Hidalgo, J.: A description of existing operational ocean forecasting services around the globe, in: Ocean prediction: present status and state of the art (OPSR), edited by: Álvarez Fanjul, E., Ciliberti, S. A., Pearlman, J., Wilmer-Becker, K., and Behera, S., Copernicus Publications, State Planet, 5-opsr, 5, https://doi.org/10.5194/sp-5-opsr-5-2025, 2025.
+
+## Abstract
+
+Predicting the ocean state in support of human activities, environmental monitoring, and policymaking across different regions worldwide is fundamental. To properly address physical, dynamical, ice, and biogeochemical processes, numerical strategies must be employed. The authors provide an outlook on the status of operational ocean forecasting systems in eight key regions including the global ocean: the West Pacific and Marginal Seas of South and East Asia, the Indian Seas, the African Seas, the Mediterranean and Black Sea, the North East Atlantic, South and Central America, North America (including the Canadian coastal region, the United States, and Mexico), and the Arctic.
+
+The authors initiate their discussion by addressing the specific regional challenges that must be addressed and proceed to discuss the numerical strategy and the available operational systems, ranging from regional to coastal scales. This compendium serves as a foundational reference for understanding the global offering, demonstrating how the diverse physical environment – ranging from waves to ice – and the biogeochemical features besides ocean dynamics can be systematically addressed through regular, coordinated prediction efforts.

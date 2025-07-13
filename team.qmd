@@ -124,7 +124,9 @@
   
   <div class="profile-card">
     <div class="profile-image">
-      <img src="images/AC.jpg" alt="Arthur Capet">
+      <a href="/posts/members/AC">
+        <img src="images/AC.jpg" alt="Arthur Capet">
+      </a>  
     </div>
     <h3 class="profile-name">
       <span class="first-name">Arthur</span>

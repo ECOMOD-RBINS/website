@@ -1,0 +1,31 @@
+---
+title: "Control of simulated ocean ecosystem indicators by biogeochemical observations"
+type: "article"
+author: "Ciavatta et al."
+year: "2025"
+publication: ""
+preprint: ""
+doi: "https://doi.org/10.5194/sp-5-opsr-6-2025"
+materials: ""
+toc: false
+categories:
+  - modeling
+  - ensemble modeling 
+---
+
+## Citation
+
+> Ciavatta, S., Lazzari, P., Álvarez, E., Bertino, L., Bolding, K., Bruggeman, J., **Capet, A.**, Cossarini, G., Daryabor, F., Nerger, L., Popov, M., Skákala, J., Spada, S., Teruzzi, A., Wakamatsu, T., Yumruktepe, V. Ç., & Brasseur, P. (2025). Control of simulated ocean ecosystem indicators by biogeochemical observations. Progress in Oceanography, 231(103384), 103384.
+
+## Highlights
+
+* Simulation of phytoplankton phenology was improved by merging observations with models.
+* Uncertainty on plankton community structure and production decreased.
+* Uncertainty of trophic efficiency and POC might be increased by chlorophyll assimilation.
+* Controllability depended on carbon to nutrient and to chlorophyll formulations.
+* Assessment of controllability should be a standard practice in operational modeling.
+
+## Abstract
+
+To protect marine ecosystems threatened by climate change and anthropic stressors, it is essential to operationally monitor ocean health indicators. These are metrics synthetizing multiple marine processes relevant to the users of operational services. In this study, we assess whether selected ocean indicators simulated by operational models can be effectively constrained (i.e., controlled) by biogeochemical observations, by using a newly proposed methodological framework. The method consists in firstly screening the sensitivities of the indicators with respect to the initial conditions of the observable variables. These initial conditions are perturbed stochastically in Monte Carlo simulations of one-dimensional configurations of a multi-model ensemble. Then, the models are applied in three-dimensional ensemble assimilation experiments, where the reduction of the ensemble variance corroborates the controllability of the indicators by the observations. The method is applied to ten relevant ecosystem indicators (ranging from inorganic chemicals to plankton production), seven observation types (representing data from satellite and underwater platforms), and an ensemble of five biogeochemical models of different complexity, employed operationally by the European Copernicus Marine Service. Our results demonstrate that all the indicators are controlled by one or more types of observations. In particular, the indicators of phytoplankton phenology are controlled and improved by merged observations of surface ocean colour and chlorophyll profiles. Similar observations also control and reduce the uncertainty of the plankton community structure and production. However, we observe that the uncertainty of trophic efficiency and particulate organic carbon (POC) increases when chlorophyll-a data are assimilated. This may reflect reduced model skill, though the unavailability of relevant observations prevents a conclusive assessment. We recommend that the controllability assessment proposed here becomes a standard practice in the design of operational monitoring, reanalysis, and forecast systems. Such standardization would provide users of operational services with more accurate and precise estimates of ocean ecosystem indicators.
+
