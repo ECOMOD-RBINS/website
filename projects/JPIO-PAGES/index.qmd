@@ -4,7 +4,7 @@ description: "Process-based Assessment for the Good Environmental Status"
 author: ""
 date: ""
 categories: [Modeling, eDNA]
-image: "images/JPIOceans.jpg"
+image: "images/JPIOceans2.jpg"
 
 execute:
   echo: false
