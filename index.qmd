@@ -4,8 +4,8 @@ format:
   html:
     css: styles.css
 resources: # source info https://quarto.org/docs/websites/website-tools.html#site-resources based on https://github.com/quarto-dev/quarto-cli/discussions/7306
-    - posts/projects/CLIMDIS/images/CLIMDIS_HaLongBay.png
-    - posts/projects/SHRIMP-II/images/SHRIMP_Nokoue.png
+    - completed-projects/CLIMDIS/images/CLIMDIS_HaLongBay.png
+    - projects/SHRIMP-II/images/SHRIMP_Nokoue.png
     - images/homepage/Lake_Lanalhue_Chile.png
 ---
 
@@ -104,17 +104,25 @@ The marine models are used to:
 ```
 
 ::: panel-tabset
+
+## North Sea, Renewable Energy
+
+![](images/homepage/Applications_FPV.png){width="400"}
+
+*Modelling the effects of marine renewable energy offshore structures on hydrodynamics and ecosystem.*
+
 ## Lake Nokoué, Benin
 
-![](posts/projects/SHRIMP-II/images/shrimp.jpg){width="400"}
+![](projects/SHRIMP-II/images/shrimp.jpg){width="400"}
 
 *Enhance the understanding and sustainable management of coastal aquatic resources in the Lake Nokoué-Cotonou Channel region.*
 
 ## Ha Long Bay, Vietnam
 
-![](posts/projects/CLIMDIS/images/Halong_Bay.jpg){width="400"}
+![](completed-projects/CLIMDIS/images/Halong_Bay.jpg){width="400"}
 
 *Understanding the extent of the impact of pollutants and the effects of human activity and climate change on water quality in Ha Long Bay.*
+
 :::
 
 ::: large-text
