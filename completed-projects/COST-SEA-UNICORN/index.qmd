@@ -1,6 +1,6 @@
 ---
 title: "COST-SEA-UNICORN"
-description: "Unifying Approaches to Marine Connectivity for improved Resource Management for the Seas"
+description: "Unifying approaches to marine connectivity for improved resource management for the seas"
 author: ""
 date: ""
 categories: [Modeling]

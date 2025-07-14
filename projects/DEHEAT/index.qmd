@@ -1,8 +1,6 @@
 ---
 title: "DEHEAT"
-description: ""
-author: ""
-date: "2025-03-17"
+description: "Natural analogues and system-scale modeling of marine enhanced silicate weathering"
 categories: [Modeling]
 image: "images/deheat.png"
 
@@ -15,15 +13,11 @@ execute:
 format: 
   html:
     page-layout: full
-
-#bibliography: references.bib
-#cls: journal-of-oceanography.csl
-#link-citations: true
 ---
 
 ## DEHEAT - Natural analogues and system-scale modeling of marine enhanced silicate weathering
 
-December 2021 - December 2026
+December 2021 - December 2026   
 
 ## Summary
 
@@ -45,13 +39,11 @@ Arthur Capet and Geneviève Lacroix
 - Task 5.2. Long-term preservation and dissemination of the data and metadata 
 - Task 5.3. Archiving and preservation of developed computer code
 
-
-
 ## Partners
  
-1. RBINS coordination (Sebastian van de Velde and Geneviève Lacroix)
-2. Universiteit Antwerpen (Prof. Filip Meysman)
-3. Université Libre de Bruxelles (Prof. Sandra Arndt and Prof. Steeve Bonneville)
+- RBINS coordination (Sebastian van de Velde and Geneviève Lacroix)
+- Universiteit Antwerpen (Prof. Filip Meysman)
+- Université Libre de Bruxelles (Prof. Sandra Arndt and Prof. Steeve Bonneville)
 
 ## Funding and contract
 

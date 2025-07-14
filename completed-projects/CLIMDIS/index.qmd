@@ -1,6 +1,6 @@
 ---
 title: "CLIMDIS"
-description: "Management of the water quality in Vietnamese coastal waters impacted by CLIMate change and human induced DISasters using a marine modelling tool"
+description: "Management of the water quality in Vietnamese coastal waters impacted by cliMate change and human induced disasters using a marine modelling tool"
 author: ""
 date: ""
 categories: [Modeling, Capacity building]

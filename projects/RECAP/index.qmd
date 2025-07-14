@@ -1,8 +1,6 @@
 ---
 title: "RECAP"
-description: "Regional-scale assessment of the land-ocean Continuum ecosystems vulnerability to Anthropogenic Pressure"
-author: "A. Capet"
-date: "2025-03-18"
+description: "Regional-scale assessment of the land-ocean continuum ecosystems vulnerability to anthropogenic pressure"
 categories: [Modeling, Estuaries]
 image: "images/the-seacoast-of-pourville-low-tide.jpg"
 
@@ -50,7 +48,7 @@ Arthur Capet
 
 ## Partners
 
-1. Université Libre de Bruxelles, [B-Geosys](https://biogeomod.ulb.be/) ([Pierre Regnier](https://scholar.google.com/citations?hl=en&user=6SD0EA8AAAAJ), [Goulven Laruelle](https://scholar.google.com/citations?hl=en&user=CdHtWf4AAAAJ), [Sandra Arndt](https://scholar.google.com/citations?hl=en&user=xJeUnBsAAAAJ))
+- Université Libre de Bruxelles, [B-Geosys](https://biogeomod.ulb.be/) ([Pierre Regnier](https://scholar.google.com/citations?hl=en&user=6SD0EA8AAAAJ), [Goulven Laruelle](https://scholar.google.com/citations?hl=en&user=CdHtWf4AAAAJ), [Sandra Arndt](https://scholar.google.com/citations?hl=en&user=xJeUnBsAAAAJ))
 
 ## Funding and contract
 

@@ -1,6 +1,6 @@
 ---
 title: "ECOMPV"
-description: "Eco-designing Marine PhotoVoltaic installations"
+description: "Eco-designing marine photovoltaic installations"
 author: ""
 date: ""
 categories: [Modeling, Offshore renewable energy]
@@ -53,11 +53,11 @@ Arthur Capet, Pauline Denis and Florian Ricour
 
 ## Partners
 
-1. RBINS ([MARECO](https://mareco-odnature.naturalsciences.be/project/ecompv/) coordinator)
-2. Ghent University
-3. Tractebel
-4. Jan De Nul
-5. DEME
+- RBINS ([MARECO](https://mareco-odnature.naturalsciences.be/project/ecompv/) coordinator)
+- Ghent University
+- Tractebel
+- Jan De Nul
+- DEME
 
 ## Funding and contract
 

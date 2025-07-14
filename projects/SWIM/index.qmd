@@ -1,6 +1,6 @@
 ---
 title: "SWIM"
-description: "Solar and WInd energy in the Belgian Marine zone"
+description: "Solar and wind energy in the Belgian marine zone"
 author: ""
 date: ""
 categories: [Modeling , Offshore renewable energy]
@@ -42,12 +42,12 @@ Arthur Capet and Pauline Denis
 
 ## Partners
 
-1. KULeuven
-2. IMEC
-3. Universiteit Hasselt
-4. RBINS
-5. De Blauwe Cluster
-6. Laborelec
+- KULeuven
+- IMEC
+- Universiteit Hasselt
+- RBINS
+- De Blauwe Cluster
+- Laborelec
 
 ## Funding and contract
 

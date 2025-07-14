@@ -1,6 +1,6 @@
 ---
 title: "FORCOAST"
-description: "Earth Observation Services for Fishery, Bivalves Mariculture and Oysterground Restoration along European Coasts"
+description: "Earth observation services for fishery, bivalves mariculture and oysterground restoration along european coasts"
 author: ""
 date: ""
 categories: [Modeling]

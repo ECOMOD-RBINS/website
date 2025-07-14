@@ -1,6 +1,6 @@
 ---
 title: "SYMAPA"
-description: "Synergy between Mariculture & Passive Fisheries"
+description: "Synergy between mariculture & passive fisheries"
 author: ""
 date: ""
 categories: [Modeling]
