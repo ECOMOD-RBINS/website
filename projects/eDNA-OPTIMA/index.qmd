@@ -1,0 +1,51 @@
+---
+title: "eDNA-OPTIMA"
+description: "Optimized eDNA Methods for Accurate Biodiversity Assessment"
+author: ""
+date: ""
+categories: [Modeling, eDNA]
+image: "images/eDNA.png"
+
+execute:
+  echo: false
+  warning: false
+  error: true
+  cache: true
+  
+format: 
+  html:
+    page-layout: full
+
+#bibliography: references.bib
+#cls: journal-of-oceanography.csl
+#link-citations: true
+---
+
+## eDNA - Optimized eDNA Methods for Accurate Biodiversity Assessment
+
+January 2025 - December 2026
+
+## Summary
+
+The eDNA-OPTIMA project addresses current challenges in eDNA based biodiversity monitoring by mitigating the fundamental issues that lead to false positive and false negative species detections. It aims specifically to tackle and better characterize key processes of transport, resuspension and degradation that influences the distribution, detection, and persistence of eDNA in a given sample.
+
+## Team members involved
+
+Léo Barbut and Geneviève Lacroix
+
+## ECOMOD tasks and responsabilities
+
+Modelling eDNA transport
+
+## Partners
+
+1. VLIZ (Pascal Hablützel)
+2. Ev-ILVO (Sofie Derycke)
+3. KU Leuven (Hugo Gante)
+Subcontractors:
+- Blue Cluster
+- RBINS
+
+## Funding and contract
+The [eDNA-OPTIMA project](https://www.blauwecluster.be/projecten/edna-optima) is funded by VLAIO/Blue Cluster
+
