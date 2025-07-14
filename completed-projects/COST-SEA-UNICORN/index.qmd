@@ -4,7 +4,7 @@ description: "Unifying approaches to marine connectivity for improved resource m
 author: ""
 date: ""
 categories: [Modeling]
-image: "images/Logo_COST-SEA-UNICORN.png"
+image: "images/Sea-Unicorn-logo.jpg"
 
 execute:
   echo: false

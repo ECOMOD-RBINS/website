@@ -2,7 +2,7 @@
 title: "FOCCUS"
 description: "Forecasting and observing the open-to-coastal ocean for Copernicus users"
 categories: [Ensemble modeling]
-image: "images/foccus_resized.png"
+image: "images/FOCCUS.jpg"
 
 execute:
   echo: false

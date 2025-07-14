@@ -4,7 +4,7 @@ description: "Solar and wind energy in the Belgian marine zone"
 author: ""
 date: ""
 categories: [Modeling , Offshore renewable energy]
-image: "images/swim.jpeg"
+image: "images/SWIM.jpg"
 
 execute:
   echo: false

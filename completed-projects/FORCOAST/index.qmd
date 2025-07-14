@@ -4,7 +4,7 @@ description: "Earth observation services for fishery, bivalves mariculture and o
 author: ""
 date: ""
 categories: [Modeling]
-image: "images/Logo_FORCOAST.png"
+image: "images/FORCOAST-logo2.jpg"
 
 execute:
   echo: false

@@ -2,7 +2,7 @@
 title: "DEHEAT"
 description: "Natural analogues and system-scale modeling of marine enhanced silicate weathering"
 categories: [Modeling]
-image: "images/deheat.png"
+image: "images/DEHEAT.jpg"
 
 execute:
   echo: false

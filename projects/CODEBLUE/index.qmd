@@ -2,7 +2,7 @@
 title: "CodeBlue"
 description: " "
 categories: [Modeling, Eutrophication, Ensemble modeling]
-image: "images/CodeBlueStruc.png"
+image: "images/Codeblue.jpg"
 
 execute:
   echo: false
