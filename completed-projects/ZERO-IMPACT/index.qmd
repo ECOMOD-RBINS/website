@@ -1,0 +1,58 @@
+---
+title: "ZERO-IMPACT"
+description: "Automatic monitoring of biodiversity in the North Sea using eDNA"
+author: ""
+date: ""
+categories: [Modeling, eDNA]
+image: "images/ZERO-IMPACT.jpg"
+
+execute:
+  echo: false
+  warning: false
+  error: true
+  cache: true
+  
+format: 
+  html:
+    page-layout: full
+
+#bibliography: references.bib
+#cls: journal-of-oceanography.csl
+#link-citations: true
+---
+
+## ZERO-IMPACT - Automatic monitoring of biodiversity in the North Sea using eDNA
+
+September 2021 - November 2023
+
+## Summary
+
+ZERO-IMPACT aims to develop an innovative, sustainable and automatic method to detect marine species based on ‘environmental’ DNA (eDNA). The project is a methodological study that is hands-on with concrete applications for biodiversity monitoring, marine fisheries and aquaculture, in particular:
+- supporting stock estimates of commercial fish species
+- more accurate delineation of spawning periods of commercial fish species and splash fall periods of marine animals
+- detection of toxic algae and harmful parasites in relation to marine shellfish culture
+- monitoring biodiversity (animals and phytoplankton) in support of science and policy (achieving Good Environmental Status according to the Marine Strategy Framework Directive (MSFD, Directive 2008/56 /EC) and Natura 2000 conservation objectives)
+
+Studying marine species and biodiversity using eDNA is complementary to traditional methods and at the same time offers huge advantages: 1/ by collecting water to detect the presence of species, the organisms themselves are not disturbed or killed, 2/ studying different organisms (fish, invertebrates, plankton) can be done based on only one sampling method and 3/ continuous time series for marine biodiversity and fish populations can be obtained through automatic sampling of seawater.
+
+## Team members involved
+
+Léo Barbut and Geneviève Lacroix
+
+## ECOMOD tasks and responsabilities
+
+Modelling eDNA transport
+
+## Partners
+
+1. EV-ILVO (Sofie Derycke)
+2. UGent (Koen Sabbe)
+3. RBINS-ECOMOD (Geneviève Lacroix) & RBINS-FWB (Isa Schön)
+
+## Funding and contract
+Funding for the [ZERO-IMPACT project](https://ilvo.vlaanderen.be/en/news/automatic-monitoring-of-biodiversity-in-the-north-sea-edna-is-the-key#:~:text=ZERO-IMPACT%20aims%20to%20develop%20an%20innovative%2C%20sustainable%20and,find%20out%20exactly%20when%20certain%20fish%20species%20spawn) was received through the Operational Program for Community Assistance from the European Maritime and Fisheries Fund for the programming period 2014-2020 within UP 6 "Promoting the application of the Integrated Maritime Policy ".
+
+## Dissemination
+[Final project report](https://pureportal.ilvo.be/en/publications/automatic-monitoring-of-biodiversity-in-the-north-sea-using-edna): 
+Derycke S., Cornelis I., Dukan N., Kallend A., Sabbe K., Vandenboer Y., Dupont D., **Barbut L.**, **Lacroix G.**, Schön I. (2023). Automatic monitoring of biodiversity in the North Sea using eDNA. [PDF](https://pure.ilvo.be/ws/portalfiles/portal/36820130/Zero_impact_Report_12012023.pdf)
+
