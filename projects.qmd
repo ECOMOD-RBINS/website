@@ -5,6 +5,7 @@ listing:
     contents: projects
     sort: ["priority asc", "title asc"]
     type: grid
+    image-height: "150px"
     categories: true
     sort-ui: false
     filter-ui: false

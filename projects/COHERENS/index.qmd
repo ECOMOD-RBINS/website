@@ -1,6 +1,6 @@
 ---
 title: "COHERENS"
-description: ""
+description: "Coupled hydrodynamical-ecological model for regional and shelf seas"
 author: ""
 date: ""
 categories: [Modeling]

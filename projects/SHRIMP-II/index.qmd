@@ -39,8 +39,8 @@ Coordination and capacity building
 
 ## Partners
 
-1.  RBINS coordination (Geneviève Lacroix)
-2.  Institut de Recherches Halieutiques et Océanologiques du Bénin (IRHOB) ![IRHOB logo](images/IRHOB-logo.png){fig-align="right" width="10%"} (Sylvain Gozingan, Wilfried Sintondji, Yaovi Zounon et Zacharie Sohou)
+- RBINS coordination (Geneviève Lacroix)
+- Institut de Recherches Halieutiques et Océanologiques du Bénin (IRHOB) ![IRHOB logo](images/IRHOB-logo.png){fig-align="right" width="10%"} (Sylvain Gozingan, Wilfried Sintondji, Yaovi Zounon et Zacharie Sohou)
 
 ## Funding and contract ![CEBioS logo](images/CEBioS-logo.jpg){fig-align="right" width="10%"}
 This project is funded by the Directorate-General for Development Cooperation and Humanitarian Aid (DGD) through the [CEBioS](https://cebios.naturalsciences.be/) (Capacities for Biodiversity and Sustainable Development) program.

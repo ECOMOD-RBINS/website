@@ -1,10 +1,8 @@
 ---
 title: "FOCCUS"
-description: ""
-author: ""
-date: "2025-03-17"
+description: "Forecasting and observing the open-to-coastal ocean for Copernicus users"
 categories: [Ensemble modeling]
-image: "images/foccus.png"
+image: "images/foccus_resized.png"
 
 execute:
   echo: false
@@ -15,17 +13,12 @@ execute:
 format: 
   html:
     page-layout: full
-
-
-#bibliography: references.bib
-#cls: journal-of-oceanography.csl
-#link-citations: true
 ---
 
 
 ## FOCCUS - Forecasting and observing the open-to-coastal ocean for Copernicus users
 
-January 2024 - December 2026
+January 2024 - December 2026   
 
 ## Summary
 
@@ -58,25 +51,25 @@ Arthur Capet and Florian Ricour
 
 ## Partners
 
-1. Helmholtz-Zentrum Hereon GmbH (HEREON)
-2. Mercator Ocean (MOi)
-3. Fondazione Centro Euro-Mediterraneo sui Cambiamenti Climatici (CMCC)
-4. Service Hydrographique et Océanographique de la Marine (SHOM)
-5. Collecte Localisation Satellites (CLS)
-6. SOCIB - Consorcio para el diseño, construcción, equipamiento y explotación del sistema de observación costero de las Illes Balears (SOCIB)
-7. Consiglio Nazionale delle Ricerche (CNR)
-8. Stichting Deltares (DELTARES)
-9. Stiftelsen Nansen Senter for Miljø og Fjernmåling (NERSC)
-10. Meteorologisk Institutt (MET.NO)
-11. Sveriges Meteorologiska och Hydrologiska Institut (SMHI)
-12. Atlantic Associacao para um Laboratorio Colaborativo do Atlântico (+ATLANTIC)
-13. Institut Royal des Sciences Naturelles de Belgique (RBINS)
-14. Maritime Hydrographic Directorate (MHD)
-15. European Global Ocean Observing System (EUROGOOS)
-16. Brockmann Consult GmbH (BC)
-17. Danmarks Meteorologiske Institut (DMI)
-18. Institut Francais de Recherche pour l'Exploitation de la Mer (Ifremer)
-19. Seascape Belgium (SSBE)
+- Helmholtz-Zentrum Hereon GmbH (HEREON)
+- Mercator Ocean (MOi)
+- Fondazione Centro Euro-Mediterraneo sui Cambiamenti Climatici (CMCC)
+- Service Hydrographique et Océanographique de la Marine (SHOM)
+- Collecte Localisation Satellites (CLS)
+- SOCIB - Consorcio para el diseño, construcción, equipamiento y explotación del sistema de observación costero de las Illes Balears (SOCIB)
+- Consiglio Nazionale delle Ricerche (CNR)
+- Stichting Deltares (DELTARES)
+- Stiftelsen Nansen Senter for Miljø og Fjernmåling (NERSC)
+- Meteorologisk Institutt (MET.NO)
+- Sveriges Meteorologiska och Hydrologiska Institut (SMHI)
+- Atlantic Associacao para um Laboratorio Colaborativo do Atlântico (+ATLANTIC)
+- Institut Royal des Sciences Naturelles de Belgique (RBINS)
+- Maritime Hydrographic Directorate (MHD)
+- European Global Ocean Observing System (EUROGOOS)
+- Brockmann Consult GmbH (BC)
+- Danmarks Meteorologiske Institut (DMI)
+- Institut Francais de Recherche pour l'Exploitation de la Mer (Ifremer)
+- Seascape Belgium (SSBE)
 
 ## Funding and contract
 

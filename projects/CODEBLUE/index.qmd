@@ -1,8 +1,6 @@
 ---
-title: "Code Blue"
-description: ""
-author: "A. Capet"
-date: "2025-03-18"
+title: "CodeBlue"
+description: " "
 categories: [Modeling, Eutrophication, Ensemble modeling]
 image: "images/CodeBlueStruc.png"
 
@@ -18,9 +16,9 @@ format:
 ---
 
 
-## Code Blue
+## CodeBlue
 
-Aug 2025 - Aug 2022
+Aug 2022 - Aug 2025
 
 ## Summary
 
@@ -37,9 +35,9 @@ CodeBlue has the ambition to make knowledge readily available to blue food entre
 
 ## ECOMOD members involved
 
-[Arthur Capet](../../posts/members/AC) -- 
-[Pauline Denis](../../posts/members/PD) -- 
-[Florian Ricour](../../posts/members/FR)
+[Arthur Capet](/posts/members/AC) -- 
+[Pauline Denis](/posts/members/PD) -- 
+[Florian Ricour](/posts/members/FR)
 
 ## ECOMOD main tasks and responsabilities
 
@@ -53,7 +51,7 @@ WP4 also delivers methodological guidelines and synthesised indicator data layer
 
 ## Partners
 
-* [**Coordination**] [Swedish Meteorological and Hydrological Institute, Sweden](https://www.smhi.se/en/research) ([Elin Almroth-Rosell](https://www.smhi.se/en/research/research-units/oceanography/contact-us/elin-almroth-rosell))
+* **Coordination** [Swedish Meteorological and Hydrological Institute, Sweden](https://www.smhi.se/en/research) ([Elin Almroth-Rosell](https://www.smhi.se/en/research/research-units/oceanography/contact-us/elin-almroth-rosell))
 * [Leibniz Institute for Baltic Sea Research Warnemünde, Germany](https://www.io-warnemuende.de/en_index.html) 
 * [Institute of Marine Research, Norway](https://www.hi.no/en) 
 * [Marine Institute, Ireland](https://www.marine.ie/) 

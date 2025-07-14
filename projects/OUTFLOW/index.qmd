@@ -1,8 +1,6 @@
 ---
 title: "OUTFLOW"
-description: ""
-author: ""
-date: "2025-03-17"
+description: "Quantifying the contribution of fouling fauna to the local carbon budget of an offshore wind farm"
 categories: [Modeling, Offshore renewable energy]
 image: "images/Outflow_logo_final.png"
 
@@ -78,8 +76,8 @@ current and expected OWFs and different decommissioning scenarios.
 
 ## Partners
 
-1. RBINS
-2. UGENT
+- RBINS
+- UGENT
 
 ## Funding and contract
 
