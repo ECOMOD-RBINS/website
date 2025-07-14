@@ -2,7 +2,7 @@
 title: ""
 listing:
   - id: conferences
-    contents: activities
+    contents: activities/conferences
     sort: ["priority asc", "title asc"]
     type: grid
     image-height: "150px"
@@ -10,23 +10,23 @@ listing:
     sort-ui: false
     filter-ui: false
   - id: workshops
-    contents: activities
+    contents: activities/workshops
     sort: ["priority asc", "title asc"]
     type: grid
     image-height: "150px"
     categories: true
     sort-ui: false  
     filter-ui: false
-  - id: ongoing-working groups
-    contents: activities
+  - id: working-groups
+    contents: activities/working-groups
     sort: ["priority asc", "title asc"]
     type: grid
     image-height: "150px"
     categories: true
     sort-ui: false
     filter-ui: false
-  - id: official-reporting
-    contents: activities
+  - id: reporting
+    contents: activities/reporting
     sort: ["priority asc", "title asc"]
     type: grid
     image-height: "150px"
@@ -38,11 +38,11 @@ title-block-banner: false
 ---
 
 # Working groups
-::: {#ongoing-working-groups}
+::: {#working-groups}
 :::
 
 # Reporting
-::: {#official-reporting}
+::: {#reporting}
 :::
 
 # Conferences

@@ -1,7 +1,11 @@
 [
   {
     "listing": "/activities.html",
-    "items": []
+    "items": [
+      "/activities/working-groups/ICES_WGMBRED/index.html",
+      "/activities/working-groups/OSPAR/index.html",
+      "/activities/reporting/MFSD/index.html"
+    ]
   },
   {
     "listing": "/projects.html",
@@ -12,6 +16,7 @@
       "/projects/DEHEAT/index.html",
       "/projects/ECOMPV/index.html",
       "/projects/FOCCUS/index.html",
+      "/projects/JPIO-PAGES/index.html",
       "/projects/OUTFLOW/index.html",
       "/projects/OWIDEX/index.html",
       "/projects/RECAP/index.html",

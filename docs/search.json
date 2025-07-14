@@ -4,14 +4,14 @@
     "href": "activities.html",
     "title": "Working groups",
     "section": "",
-    "text": "Working groups\n\n\n\n\n\nReporting\n\n\n\n\nNo matching items\n\n\n\nConferences\n\n\n\n\nNo matching items\n\n\n\nWorkshops\n\n\n\n\nNo matching items\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Working groups\n\n\n\n\n\n\n\n\n\n\nICES WGMBRED\n\n\n\nlabel\n\n\n\nadd short description here\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nOSPAR\n\n\n\nlabel\n\n\n\nadd short description here\n\n\n\n\n\n\n\n\n\n\nNo matching items\n\n\n\nReporting\n\n\n\n\n\n\n\n\n\n\nMFSD\n\n\n\nlabel\n\n\n\nadd short description here\n\n\n\n\n\n\n\n\n\n\nNo matching items\n\n\n\nConferences\n\n\n\n\nNo matching items\n\n\n\nWorkshops\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Marine Ecosystem Modelling (ECOMOD)",
     "section": "",
-    "text": "ECOMOD is an interdisciplinary team composed of scientists with diverse backgrounds (mechanical engineer, bioengineer, oceanographers, mathematicians, physicists, evolutionary biologist), and expertise in hydrodynamics, sediment transport, biogeochemistry, ecosystem modelling, biophysical modelling, and Individual-Based Modelling.\nECOMOD is part of the ECODAM (Ecosystems, data processing and modelling) group of the Operational Directorate Natural Environment (OD Nature) within the Institute of Natural Sciences.\n\n\n\n\n\n\n\n\n\nECOMOD focuses on aquatic ecosystems and how these relate to societal matters and has a strong expretise in the development and use of marine ecosystems modelling tools to support the management of the marine environment, particularly for Belgian waters, but also the Southern Ocean, Benin and Vietnam.\n\n\n\n\n\n\n\n\n\nImprove scientific knowledge in marine ecosystems through interdisciplinary research\nSupport and advise stakeholders\nDisseminate science and raise public awareness\nDevelop open-source numerical models and community tools\nManage RBINS’ Research Infrastructure COHERENS\n\n\n\n\n\n\nTo achieve our goals, we are developing and using different types of models (hydrodynamics, sediments, biogeochemical, particle transport, contaminants), codes and softwares:\n\n\nECOMOD is responsible for the development, upgrading and maintenance of the RBINS Research Infrastructure COHERENS modelling system, which is publicly available.\n\n\n\n\n\n\n\nECOMOD also developed codes and softwares that are publicly available:\n\nDemeter: The Multiscale biogeomorphic modeling framework\nTidalGeoPro: A Python package to analyze geometric and hydraulic properties of tidal channels\nVFC: A vegetation/Flow Convolution Python module\nUVPec: Underwater Vision Profiler Embedded Classifier\n\nECOMOD is using modelling tools such as Parcels, for particle tracking simulations.\n\n\n\n\n\nThe team provides support to users and is involved in capacity building activities through the CEBioS (Capacities for Biodiversity and Sustainable Development) program.\n\n\n\n\n\n\nModelling South China Sea and Ha Long Bay, Vietnam\n\n\n\n  \n  \n  \n\n\n\n\n\n\n\n\n\nLake Nokoué, BeninHa Long Bay, Vietnam\n\n\n\nEnhance the understanding and sustainable management of coastal aquatic resources in the Lake Nokoué-Cotonou Channel region.\n\n\n\nUnderstanding the extent of the impact of pollutants and the effects of human activity and climate change on water quality in Ha Long Bay.\n\n\n\n\nECOMOD’s expertise serves international bodies like the International Council for the Exploration of the Sea (ICES), the OSPAR Convention, the EuroGOOS Coastal Working Group and the UN Decade Collaborative Center Ocean Forecast.\n\n\n\n\n\nIf you would like to:\n\nLearn more about our research activities – Explore our current projects, publications, and scientific contributions\nUtilize our research tools and methodologies – Access our datasets, protocols, and analytical frameworks\nEstablish new research collaborations – Connect with our team to discuss joint projects and partnerships\n\nDon’t hesitate to contact us!"
+    "text": "ECOMOD is an interdisciplinary team composed of scientists with diverse backgrounds (mechanical engineer, bioengineer, oceanographers, mathematicians, physicists, evolutionary biologist), and expertise in hydrodynamics, sediment transport, biogeochemistry, ecosystem modelling, biophysical modelling, and Individual-Based Modelling.\nECOMOD is part of the ECODAM (Ecosystems, data processing and modelling) group of the Operational Directorate Natural Environment (OD Nature) within the Institute of Natural Sciences.\n\n\n\n\n\n\n\n\n\nECOMOD focuses on aquatic ecosystems and how these relate to societal matters and has a strong expretise in the development and use of marine ecosystems modelling tools to support the management of the marine environment, particularly for Belgian waters, but also the Southern Ocean, Benin and Vietnam.\n\n\n\n\n\n\n\n\n\nImprove scientific knowledge in marine ecosystems through interdisciplinary research\nSupport and advise stakeholders\nDisseminate science and raise public awareness\nDevelop open-source numerical models and community tools\nManage RBINS’ Research Infrastructure COHERENS\n\n\n\n\n\n\nTo achieve our goals, we are developing and using different types of models (hydrodynamics, sediments, biogeochemical, particle transport, contaminants), codes and softwares:\n\n\nECOMOD is responsible for the development, upgrading and maintenance of the RBINS Research Infrastructure COHERENS modelling system, which is publicly available.\n\n\n\n\n\n\n\nECOMOD also developed codes and softwares that are publicly available:\n\nDemeter: The Multiscale biogeomorphic modeling framework\nTidalGeoPro: A Python package to analyze geometric and hydraulic properties of tidal channels\nVFC: A vegetation/Flow Convolution Python module\nUVPec: Underwater Vision Profiler Embedded Classifier\n\nECOMOD is using modelling tools such as Parcels, for particle tracking simulations.\n\n\n\n\n\nThe team provides support to users and is involved in capacity building activities through the CEBioS (Capacities for Biodiversity and Sustainable Development) program.\n\n\n\n\n\n\nModelling South China Sea and Ha Long Bay, Vietnam\n\n\n\n  \n  \n  \n\n\n\n\n\n\n\n\n\nNorth Sea, Renewable EnergyLake Nokoué, BeninHa Long Bay, Vietnam\n\n\n\nModelling the effects of marine renewable energy offshore structures on hydrodynamics and ecosystem.\n\n\n\nEnhance the understanding and sustainable management of coastal aquatic resources in the Lake Nokoué-Cotonou Channel region.\n\n\n\nUnderstanding the extent of the impact of pollutants and the effects of human activity and climate change on water quality in Ha Long Bay.\n\n\n\n\nECOMOD’s expertise serves international bodies like the International Council for the Exploration of the Sea (ICES), the OSPAR Convention, the EuroGOOS Coastal Working Group and the UN Decade Collaborative Center Ocean Forecast.\n\n\n\n\n\nIf you would like to:\n\nLearn more about our research activities – Explore our current projects, publications, and scientific contributions\nUtilize our research tools and methodologies – Access our datasets, protocols, and analytical frameworks\nEstablish new research collaborations – Connect with our team to discuss joint projects and partnerships\n\nDon’t hesitate to contact us!"
   },
   {
     "objectID": "index.html#about",
@@ -1152,7 +1152,7 @@
     "href": "projects.html",
     "title": "Ongoing projects",
     "section": "",
-    "text": "Ongoing projects\n\n\n\n\n\n\n\n\n\n\nCOHERENS\n\n\n\nModeling\n\n\n\nCoupled hydrodynamical-ecological model for regional and shelf seas\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNorth Sea model\n\n\n\nModeling\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCodeBlue\n\n\n\nModeling\n\nEutrophication\n\nEnsemble modeling\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDEHEAT\n\n\n\nModeling\n\n\n\nNatural analogues and system-scale modeling of marine enhanced silicate weathering\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nECOMPV\n\n\n\nModeling\n\nOffshore renewable energy\n\n\n\nEco-designing marine photovoltaic installations\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFOCCUS\n\n\n\nEnsemble modeling\n\n\n\nForecasting and observing the open-to-coastal ocean for Copernicus users\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nOUTFLOW\n\n\n\nModeling\n\nOffshore renewable energy\n\n\n\nQuantifying the contribution of fouling fauna to the local carbon budget of an offshore wind farm\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nOWIDEX\n\n\n\nEcosystemic services\n\n\n\nOffshore wind decommissioning expertise centre\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nRECAP\n\n\n\nModeling\n\nEstuaries\n\n\n\nRegional-scale assessment of the land-ocean continuum ecosystems vulnerability to anthropogenic pressure\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSHRIMP-II\n\n\n\nModeling\n\nCapacity building\n\n\n\nApplication du modèle COHERENS à l’analyse du cycle de vie des crevettes et des huîtres\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSWIM\n\n\n\nModeling\n\nOffshore renewable energy\n\n\n\nSolar and wind energy in the Belgian marine zone\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\neDNA-OPTIMA\n\n\n\nModeling\n\neDNA\n\n\n\nOptimized eDNA methods for accurate biodiversity assessment\n\n\n\n\n\n\n\n\n\n\nNo matching items\n\n\n\nCompleted projects\n\n\n\n\n\n\n\n\n\n\nCLIMDIS\n\n\n\nModeling\n\nCapacity building\n\n\n\nManagement of the water quality in Vietnamese coastal waters impacted by cliMate change and human induced disasters using a marine modelling tool\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCOST-SEA-UNICORN\n\n\n\nModeling\n\n\n\nUnifying approaches to marine connectivity for improved resource management for the seas\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFORCOAST\n\n\n\nModeling\n\n\n\nEarth observation services for fishery, bivalves mariculture and oysterground restoration along european coasts\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSYMAPA\n\n\n\nModeling\n\n\n\nSynergy between mariculture & passive fisheries\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nZERO-IMPACT\n\n\n\nModeling\n\neDNA\n\n\n\nAutomatic monitoring of biodiversity in the North Sea using eDNA\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Ongoing projects\n\n\n\n\n\n\n\n\n\n\nCOHERENS\n\n\n\nModeling\n\n\n\nCoupled hydrodynamical-ecological model for regional and shelf seas\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNorth Sea model\n\n\n\nModeling\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCodeBlue\n\n\n\nModeling\n\nEutrophication\n\nEnsemble modeling\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDEHEAT\n\n\n\nModeling\n\n\n\nNatural analogues and system-scale modeling of marine enhanced silicate weathering\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nECOMPV\n\n\n\nModeling\n\nOffshore renewable energy\n\n\n\nEco-designing marine photovoltaic installations\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFOCCUS\n\n\n\nEnsemble modeling\n\n\n\nForecasting and observing the open-to-coastal ocean for Copernicus users\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nJPIO-PAGES\n\n\n\nModeling\n\neDNA\n\n\n\nProcess-based Assessment for the Good Environmental Status\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nOUTFLOW\n\n\n\nModeling\n\nOffshore renewable energy\n\n\n\nQuantifying the contribution of fouling fauna to the local carbon budget of an offshore wind farm\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nOWIDEX\n\n\n\nEcosystemic services\n\n\n\nOffshore wind decommissioning expertise centre\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nRECAP\n\n\n\nModeling\n\nEstuaries\n\n\n\nRegional-scale assessment of the land-ocean continuum ecosystems vulnerability to anthropogenic pressure\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSHRIMP-II\n\n\n\nModeling\n\nCapacity building\n\n\n\nApplication du modèle COHERENS à l’analyse du cycle de vie des crevettes et des huîtres\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSWIM\n\n\n\nModeling\n\nOffshore renewable energy\n\n\n\nSolar and wind energy in the Belgian marine zone\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\neDNA-OPTIMA\n\n\n\nModeling\n\neDNA\n\n\n\nOptimized eDNA methods for accurate biodiversity assessment\n\n\n\n\n\n\n\n\n\n\nNo matching items\n\n\n\nCompleted projects\n\n\n\n\n\n\n\n\n\n\nCLIMDIS\n\n\n\nModeling\n\nCapacity building\n\n\n\nManagement of the water quality in Vietnamese coastal waters impacted by cliMate change and human induced disasters using a marine modelling tool\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCOST-SEA-UNICORN\n\n\n\nModeling\n\n\n\nUnifying approaches to marine connectivity for improved resource management for the seas\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFORCOAST\n\n\n\nModeling\n\n\n\nEarth observation services for fishery, bivalves mariculture and oysterground restoration along european coasts\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSYMAPA\n\n\n\nModeling\n\n\n\nSynergy between mariculture & passive fisheries\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nZERO-IMPACT\n\n\n\nModeling\n\neDNA\n\n\n\nAutomatic monitoring of biodiversity in the North Sea using eDNA\n\n\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "publications.html",
@@ -1180,7 +1180,7 @@
     "href": "index.html#domain-of-expertise-and-applications",
     "title": "Marine Ecosystem Modelling (ECOMOD)",
     "section": "",
-    "text": "Lake Nokoué, BeninHa Long Bay, Vietnam\n\n\n\nEnhance the understanding and sustainable management of coastal aquatic resources in the Lake Nokoué-Cotonou Channel region.\n\n\n\nUnderstanding the extent of the impact of pollutants and the effects of human activity and climate change on water quality in Ha Long Bay.\n\n\n\n\nECOMOD’s expertise serves international bodies like the International Council for the Exploration of the Sea (ICES), the OSPAR Convention, the EuroGOOS Coastal Working Group and the UN Decade Collaborative Center Ocean Forecast."
+    "text": "North Sea, Renewable EnergyLake Nokoué, BeninHa Long Bay, Vietnam\n\n\n\nModelling the effects of marine renewable energy offshore structures on hydrodynamics and ecosystem.\n\n\n\nEnhance the understanding and sustainable management of coastal aquatic resources in the Lake Nokoué-Cotonou Channel region.\n\n\n\nUnderstanding the extent of the impact of pollutants and the effects of human activity and climate change on water quality in Ha Long Bay.\n\n\n\n\nECOMOD’s expertise serves international bodies like the International Council for the Exploration of the Sea (ICES), the OSPAR Convention, the EuroGOOS Coastal Working Group and the UN Decade Collaborative Center Ocean Forecast."
   },
   {
     "objectID": "index.html#contact",
@@ -2798,5 +2798,103 @@
     "title": "ZERO-IMPACT",
     "section": "Dissemination",
     "text": "Dissemination\nFinal project report: Derycke S., Cornelis I., Dukan N., Kallend A., Sabbe K., Vandenboer Y., Dupont D., Barbut L., Lacroix G., Schön I. (2023). Automatic monitoring of biodiversity in the North Sea using eDNA. PDF"
+  },
+  {
+    "objectID": "projects/JPIO-PAGES/index.html",
+    "href": "projects/JPIO-PAGES/index.html",
+    "title": "JPIO-PAGES",
+    "section": "",
+    "text": "September 2025 - August 2028"
+  },
+  {
+    "objectID": "projects/JPIO-PAGES/index.html#jpio-pages---process-based-assessment-for-the-good-environmental-status",
+    "href": "projects/JPIO-PAGES/index.html#jpio-pages---process-based-assessment-for-the-good-environmental-status",
+    "title": "JPIO-PAGES",
+    "section": "",
+    "text": "September 2025 - August 2028"
+  },
+  {
+    "objectID": "projects/JPIO-PAGES/index.html#summary",
+    "href": "projects/JPIO-PAGES/index.html#summary",
+    "title": "JPIO-PAGES",
+    "section": "Summary",
+    "text": "Summary\nUnderstanding marine ecosystem impacts amid complex ocean dynamics is vital for monitoring ocean health but remains challenging. The EU’s Marine Strategy Framework Directive (MSFD) promotes a coordinated, precautionary approach to achieve Good Environmental Status (GES) using 11 ecosystem descriptors. Traditional linear and threshold-based assessments have proven insufficient. Recent efforts like the S4GES (2022) and BIOTREC-Tara (2024) cruises tested innovative, process-based, multi-platform monitoring strategies integrating physical, chemical, and biological data. These initiatives emphasize the role of ocean dynamics in biodiversity changes and support improved ecological assessments. PAGES will build on these foundations for more robust marine health evaluations.\nPAGES will introduce an integrated, process-based approach to enhance MSFD monitoring strategies by diagnosing biodiversity within specific ocean dynamics. Providing proof-of-concepts, PAGES aims to influence national MSFD observation frameworks, shifting from conventional sampling to process-driven monitoring. PAGES will refine baselines and provide recommendations for future iterations and more effective applications of the proposed novel approach, including the implementation in future surveys for ground truthing and/or refinement of protocols. PAGES will demonstrate how understanding environmental dynamics can simplify complexity by revealing emergent ecosystem patterns and thus contributing to a more effective, data-driven approach for assessing marine environmental status. Just like a book, a summary of the marine status can be reached by reading all its PAGES!\n\nKeywords: Good Environmental Status; Process-based monitoring; Adaptive sampling strategy; Integrated Physical Oceanography-Biodiversity; Ocean Health"
+  },
+  {
+    "objectID": "projects/JPIO-PAGES/index.html#ecomod-members-involved",
+    "href": "projects/JPIO-PAGES/index.html#ecomod-members-involved",
+    "title": "JPIO-PAGES",
+    "section": "ECOMOD members involved",
+    "text": "ECOMOD members involved\nLéo Barbut – Geneviève Lacroix"
+  },
+  {
+    "objectID": "projects/JPIO-PAGES/index.html#ecomod-tasks-and-responsabilities",
+    "href": "projects/JPIO-PAGES/index.html#ecomod-tasks-and-responsabilities",
+    "title": "JPIO-PAGES",
+    "section": "ECOMOD tasks and responsabilities",
+    "text": "ECOMOD tasks and responsabilities\nModelling eDNA transport Lagrangian transport modelling will be used to predict origin and dispersal of eDNA and hence provide a more realistic interpretation of eDNA data."
+  },
+  {
+    "objectID": "projects/JPIO-PAGES/index.html#partners",
+    "href": "projects/JPIO-PAGES/index.html#partners",
+    "title": "JPIO-PAGES",
+    "section": "Partners",
+    "text": "Partners\nFunded partners:\n\nNational Research Council of Italy, Institute of Marine Science CNR-ISMAR, Italy (Coordinator)\nRoyal Belgian Institute of Natural Sciences RBINS-FWB, RBINS-ECOMOD and RBINS-ECOCHEM, Belgium\nAtlantic Technological University, ATU, Ireland\nMalta College of Arts, Science & Technology, MCAST, Malta\n\nAssociate partners:\n\nStazione Zoologica Anton Dohrn, SZN, Italy\nHelmholtz-Zentrum Hereon GmbH, HEREON, Germany\nNational Institute of Oceanography and Applied Geophysics, OGS, Italy\nCentre National de la Recherche Scientifique, CNRS, France"
+  },
+  {
+    "objectID": "projects/JPIO-PAGES/index.html#funding-and-contract",
+    "href": "projects/JPIO-PAGES/index.html#funding-and-contract",
+    "title": "JPIO-PAGES",
+    "section": "Funding and contract",
+    "text": "Funding and contract\nJPIO-PAGES will be funded by:\n\nBelgium: Belgian Federal Science Policy Office BELSPO\nItaly: National Institute of Oceanography and Applied Geophysics OGS\nIreland: Marine Institute MI\nMalta: Malta Council for Science and Technology MCST\n\nAnd In-kind contributions from associated partners."
+  },
+  {
+    "objectID": "activities/ICES_WGMBRED/index.html",
+    "href": "activities/ICES_WGMBRED/index.html",
+    "title": "ICES WGMBRED",
+    "section": "",
+    "text": "MMYY start - MMYY end"
+  },
+  {
+    "objectID": "activities/ICES_WGMBRED/index.html#ices-wgmbred---ices-working-group-on-marine-benthas-and-renewable-energy-development",
+    "href": "activities/ICES_WGMBRED/index.html#ices-wgmbred---ices-working-group-on-marine-benthas-and-renewable-energy-development",
+    "title": "ICES WGMBRED",
+    "section": "",
+    "text": "MMYY start - MMYY end"
+  },
+  {
+    "objectID": "activities/ICES_WGMBRED/index.html#summary",
+    "href": "activities/ICES_WGMBRED/index.html#summary",
+    "title": "ICES WGMBRED",
+    "section": "Summary",
+    "text": "Summary\nblabla"
+  },
+  {
+    "objectID": "activities/ICES_WGMBRED/index.html#team-members-involved",
+    "href": "activities/ICES_WGMBRED/index.html#team-members-involved",
+    "title": "ICES WGMBRED",
+    "section": "Team members involved",
+    "text": "Team members involved\nxx and yy"
+  },
+  {
+    "objectID": "activities/ICES_WGMBRED/index.html#ecomod-tasks-and-responsabilities",
+    "href": "activities/ICES_WGMBRED/index.html#ecomod-tasks-and-responsabilities",
+    "title": "ICES WGMBRED",
+    "section": "ECOMOD tasks and responsabilities",
+    "text": "ECOMOD tasks and responsabilities\nsection needed?"
+  },
+  {
+    "objectID": "activities/ICES_WGMBRED/index.html#partners",
+    "href": "activities/ICES_WGMBRED/index.html#partners",
+    "title": "ICES WGMBRED",
+    "section": "Partners",
+    "text": "Partners\nsection needed?"
+  },
+  {
+    "objectID": "activities/ICES_WGMBRED/index.html#funding-and-contract",
+    "href": "activities/ICES_WGMBRED/index.html#funding-and-contract",
+    "title": "ICES WGMBRED",
+    "section": "Funding and contract",
+    "text": "Funding and contract\nsection needed? There is no funding right?"
   }
 ]
