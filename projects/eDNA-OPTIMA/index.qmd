@@ -1,6 +1,6 @@
 ---
 title: "eDNA-OPTIMA"
-description: "Optimized eDNA Methods for Accurate Biodiversity Assessment"
+description: "Optimized eDNA methods for accurate biodiversity assessment"
 author: ""
 date: ""
 categories: [Modeling, eDNA]

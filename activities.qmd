@@ -1,12 +1,54 @@
 ---
-title: "In construction..."
+title: ""
 listing:
-  contents: activities
-  sort: "date desc"
-  type: grid
-  categories: true
-  sort-ui: false
-  filter-ui: false
+  - id: conferences
+    contents: activities
+    sort: ["priority asc", "title asc"]
+    type: grid
+    image-height: "150px"
+    categories: true
+    sort-ui: false
+    filter-ui: false
+  - id: workshops
+    contents: activities
+    sort: ["priority asc", "title asc"]
+    type: grid
+    image-height: "150px"
+    categories: true
+    sort-ui: false  
+    filter-ui: false
+  - id: ongoing-working groups
+    contents: activities
+    sort: ["priority asc", "title asc"]
+    type: grid
+    image-height: "150px"
+    categories: true
+    sort-ui: false
+    filter-ui: false
+  - id: official-reporting
+    contents: activities
+    sort: ["priority asc", "title asc"]
+    type: grid
+    image-height: "150px"
+    categories: true
+    sort-ui: false
+    filter-ui: false
 page-layout: full
 title-block-banner: false
 ---
+
+# Working groups
+::: {#ongoing-working-groups}
+:::
+
+# Reporting
+::: {#official-reporting}
+:::
+
+# Conferences
+::: {#conferences}
+:::
+
+# Workshops
+::: {#workshops}
+:::

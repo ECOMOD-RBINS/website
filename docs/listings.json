@@ -8,6 +8,7 @@
     "items": [
       "/projects/COHERENS/index.html",
       "/projects/CSU/index.html",
+      "/projects/CODEBLUE/index.html",
       "/projects/DEHEAT/index.html",
       "/projects/ECOMPV/index.html",
       "/projects/FOCCUS/index.html",
@@ -16,6 +17,7 @@
       "/projects/RECAP/index.html",
       "/projects/SHRIMP-II/index.html",
       "/projects/SWIM/index.html",
+      "/projects/eDNA-OPTIMA/index.html",
       "/completed-projects/CLIMDIS/index.html",
       "/completed-projects/COST-SEA-UNICORN/index.html",
       "/completed-projects/FORCOAST/index.html",
@@ -25,9 +27,13 @@
   {
     "listing": "/publications.html",
     "items": [
+      "/publications/articles/cirano2025.html",
+      "/publications/articles/veitch2025.html",
       "/publications/articles/wang2025a.html",
+      "/publications/articles/ciavatta2025.html",
       "/publications/articles/wang2025b.html",
       "/publications/articles/gozingan2024.html",
+      "/publications/articles/popov2024.html",
       "/publications/articles/liu2024.html",
       "/publications/articles/gourgue2024.html",
       "/publications/articles/Sintondji2024.html",
