@@ -1,0 +1,35 @@
+---
+title: "Do tidal sand waves always regenerate after dredging?"
+type: "article"
+author: "Krabbendam et al."
+year: "2022"
+publication: "Marine Geology"
+preprint: ""
+doi: "https://doi.org/10.1016/j.margeo.2022.106866"
+materials: ""
+toc: false
+categories:
+  - Marine aggregate extraction
+  - Environmental impact 
+---
+
+## Citation
+> Krabbendam, J. M., Roche, M., Van Lancker, V. R., Nnafie, A., **Terseleer, N.**, Degrendele, K., & De Swart, H. E. (2022). Do tidal sand waves always regenerate after dredging?. Marine Geology, 451, 106866.
+
+
+## Highlights
+
+* Tidal sand waves are isolated from bathymetric data of the Belgian continental shelf
+* At only one of the three sites, sand waves seemed to regenerate after dredging
+* Possible explanations are differences in water depth and local sediment availability
+* The regenerating tidal sand waves do so as a result of local redistribution of sand
+
+## Abstract
+
+Tidal sand waves are rhythmic bedforms found on sandy continental shelves that pose a threat to offshore activities. While emphasis is placed on studying their natural morphodynamic evolution, little is known about if and how fast sand waves recover after dredging. This work presents an analysis of multibeam echosounder data collected at three former sand extraction sites on the Belgian continental shelf. At one of the sites, sand waves seemed to reappear approximately 5 years after dredging had stopped, which did not happen at the other two sites during the measurement period (5 and 9 years). The lack of recovery in those sites is likely the result of larger depths and smaller local sediment availability compared with the site where recovery occurred. Furthermore, these data reveal that in the latter site sand wave recovery was established mainly through local sediment redistribution.
+
+<br><br>
+
+<div style="text-align: center;">
+  <img src="Krabbendam2022.jpg" style="width: 80%;" />
+</div>

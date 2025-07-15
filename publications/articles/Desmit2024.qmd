@@ -1,0 +1,39 @@
+---
+title: "The transition between coastal and offshore areas in the North Sea unraveled by suspended particle composition"
+type: "article"
+author: "Desmit et al."
+year: "2024"
+publication: "Science of The Total Environment"
+preprint: ""
+doi: "https://doi.org/10.1016/j.scitotenv.2024.169966"
+materials: ""
+toc: false
+categories:
+  - Suspended particulate matter (SPM)
+  - Particle dynamics 
+  - Organo-mineral interactions 
+
+---
+
+## Citation
+> Desmit, X., Schartau, M., Riethmüller, R., **Terseleer, N.**, Van der Zande, D., & Fettweis, M. (2024). The transition between coastal and offshore areas in the North Sea unraveled by suspended particle composition. Science of The Total Environment, 915, 169966.
+
+
+## Highlights
+
+* SPM concentration and organic fractions are analyzed in coastal-offshore gradients
+* Diagnostic model of SPM allows separating fresh, labile from less reactive PON
+* Analysis of PON fractions reveals a characteristic area, the transition zone
+* There, particle settling is enhanced, fostering their transport back to the coast, which controls the fate of organic matter
+* The transition zone is generally confined to water depths below 20 m
+
+## Abstract
+
+Identifying the mechanisms that contribute to the variability of suspended particulate matter concentrations in coastal areas is important but difficult, especially due to the complexity of physical and biogeochemical interactions involved. Our study addresses this complexity and investigates changes in the horizontal spread and composition of particles, focusing on cross-coastal gradients in the southern North Sea and the English Channel. A semi-empirical model is applied on in situ data of SPM and its organic fraction to resolve the relationship between organic and inorganic suspended particles. The derived equations are applied onto remote sensing products of SPM concentration, which provide monthly synoptic maps of particulate organic matter concentrations (here, particulate organic nitrogen) at the surface together with their labile and less reactive fractions. Comparing these fractions of particulate organic matter reveals their characteristic features along the coastal-offshore gradient, with an area of increased settling rate for particles generally observed between 5 and 30 km from the coast. We identify this area as the transition zone between coastal and offshore waters with respect to particle dynamics. Presumably, in that area, the turbulence range and particle composition favor particle settling, while hydrodynamic processes tend to transport particles of the seabed back towards the coast. Bathymetry plays an important role in controlling the range of turbulent dissipation energy values in the water column, and we observe that the transition zone in the southern North Sea is generally confined to water depths below 20 m. Seasonal variations in suspended particle dynamics are linked to biological processes enhancing particle flocculation, which do not affect the location of the transition zone. We identify the criteria that allow a transition zone and discuss the cases where it is not observed in the domain. The impact of these particle dynamics on coastal carbon storage and export is discussed.
+
+<br><br>
+
+<div style="text-align: center;">
+  <img src="Desmit2024.jpg" style="width: 80%;" />
+</div>
+
