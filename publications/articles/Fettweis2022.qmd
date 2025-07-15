@@ -1,0 +1,35 @@
+---
+title: "Organic Matter Composition of Biomineral Flocs and Its Influence on Suspended Particulate Matter Dynamics Along a Nearshore to Offshore Transect"
+type: "article"
+author: "Fettweis et al."
+year: "2022"
+publication: "Journal of Geophysical Research: Biogeosciences"
+preprint: ""
+doi: " https://doi.org/10.1029/2021JG006332"
+materials: ""
+toc: false
+categories:
+  - Suspended particulate matter (SPM)
+  - Particle dynamics 
+  - Organo-mineral interactions 
+---
+
+## Citation
+> Fettweis, M., Schartau, M., Desmit, X., Lee, B. J., **Terseleer, N.**, Van der Zande, D., ... & Riethmüller, R. (2022). Organic matter composition of biomineral flocs and its influence on suspended particulate matter dynamics along a nearshore to offshore transect. Journal of Geophysical Research: Biogeosciences, 127(1), e2021JG006332.
+
+
+## Highlights
+
+* In the high turbid nearshore, floc size varies with tides and seasons. In the low turbid offshore, floc size shows a seasonal signal
+* Floc size increases with fresh transparent exopolymer particle (TEP), which is present in spring and summer. Mineral-associated TEP has little influence on floc size
+* A model separates between fresh and mineral-associated TEP
+
+## Abstract
+
+The seasonal variation in concentration of transparent exopolymer particles (TEPs), particulate organic carbon (POC) and particulate organic nitrogen (PON) were investigated together with floc size and the concentration of suspended particulate matter (SPM) along the cross-shore gradient, from the high turbid nearshore toward the low-turbid offshore waters in the Southern Bight of the North Sea. Our data demonstrate that biophysical flocculation cannot be explained by these heterogeneous parameters, but requires a distinction between a more reactive labile (“fresh”) and a less reactive refractory (“mineral-associated”) fraction. Based on all data, we separated the labile and mineral-associated POC, PON, and TEP using a semi-empirical model approach. The model's estimates of fresh and mineral-associated organic matter (OM) show that great parts of the POC, PON, and TEP are associated with suspended minerals, which are present in the water column throughout the year, whereas the occurrence of fresh TEP, POC, and PON is restricted to spring and summer months. In spite of a constantly high abundance of total TEP throughout the entire year, it is its fresh fraction that promotes the formation of larger and faster sinking biomineral flocs, thereby contributing to reducing the SPM concentration in the water column over spring and summer. Our results show that the different components of the SPM, such as minerals, extracellular OM and living organisms, form an integrated dynamic system with direct interactions and feedback controls.
+
+<br><br>
+
+<div style="text-align: center;">
+  <img src="Fettweis2022.jpg" style="width: 80%;" />
+</div>

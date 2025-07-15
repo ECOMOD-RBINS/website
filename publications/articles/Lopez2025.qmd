@@ -1,0 +1,37 @@
+---
+title: "Macrobenthos and morpho-sedimentary recovery dynamics in areas following aggregate extraction cessation"
+type: "article"
+author: "Lopez et al."
+year: "2025"
+publication: "Marine Pollution Bulletin"
+preprint: ""
+doi: "https://doi.org/10.1016/j.marpolbul.2025.118184"
+materials: ""
+toc: false
+categories:
+  - Marine aggregate extraction
+  - Environmental impact 
+  - Marine Strategy Framework Directive 
+---
+
+## Citation
+> Lopez, L. L., Degrendele, K., Roche, M., Barette, F., Van Lancker, V., **Terseleer, N.**, & De Backer, A. (2025). Macrobenthos and morpho-sedimentary recovery dynamics in areas following aggregate extraction cessation. Marine Pollution Bulletin, 218, 118184.
+
+
+## Highlights
+
+* Recovery after sand extraction in macrotidal sandbanks takes 4–8 years
+* Extraction depressions in tidal sandbanks show no natural infill
+* Small-scale seabed features like sand ripples gradually recover
+* Macrobenthos communities return to reference conditions over time
+* On-site screening of coarse material (shells) may accelerate recovery
+
+## Abstract
+
+Marine sand and gravel extraction alters seabed structure and biodiversity, but recovery dynamics after cessation remain less understood. This study investigates the recovery of macrobenthic communities and morpho-sedimentary characteristics in two areas after cessation of aggregate extraction in a tidal sandbank environment. By combining long-term monitoring data, including multibeam echosounder surveys and grab sampling, we assessed recovery trajectories over up to eight years post-extraction. Our findings highlight that while extraction-induced depressions persist without infill, biological and physical recovery begin almost immediately post-extraction, driven by local sediment reorganization and colonization by opportunistic species. The extent of recovery depends on time elapsed; total benthic abundance, biomass, and species composition deviated strongly from reference conditions at the time of cessation but gradually started to reflect those over time. After eight years, a return to reference conditions is observed. We hypothesize that seabed enrichment with coarse materials through screening during extraction facilitated recovery via the hiding-exposure mechanism. While recovery is evident, we do observe some site-specific variations between the two studied areas influenced by differences in sediment composition, hydrodynamics, and extraction intensity. As such, it is important to recognise that site-specific variability in both environmental conditions and extraction operations may limit transferability to other regions. Moreover, full restoration to pre-extraction conditions may not always be achievable. Instead, new stable ecosystem states, approximating reference conditions, could serve as alternative recovery benchmarks. These findings underscore the importance of adaptive management strategies tailored to the recovery potential of dynamic sandy environments.
+
+<br><br>
+
+<div style="text-align: center;">
+  <img src="Lopez2025.jpg" style="width: 80%;" />
+</div>
