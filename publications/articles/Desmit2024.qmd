@@ -34,6 +34,6 @@ Identifying the mechanisms that contribute to the variability of suspended parti
 <br><br>
 
 <div style="text-align: center;">
-  <img src="Desmit2024.jpg" style="width: 80%;" />
+  <img src="../images/Desmit2024.jpg" style="width: 80%;" />
 </div>
 

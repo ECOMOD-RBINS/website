@@ -31,5 +31,5 @@ The seasonal variation in concentration of transparent exopolymer particles (TEP
 <br><br>
 
 <div style="text-align: center;">
-  <img src="Fettweis2022.jpg" style="width: 80%;" />
+  <img src="../images/Fettweis2022.jpg" style="width: 80%;" />
 </div>

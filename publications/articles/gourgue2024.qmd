@@ -27,6 +27,6 @@ To save saltmarshes and their valuable ecosystem services from sea level rise, i
 <br><br>
 
 <div style="text-align: center;">
-  <img src="gourgue2025.gif" style="width: 80%;" />
+  <img src="../images/gourgue2025.gif" style="width: 80%;" />
 </div>
 Evolution of stem density (top) and bed elevation (bottom) for dense *Spartina* marshes (left), sparse *Salicornia* marshes (middle), and unvegetated mudflats (right). This is an animated version of Figure 1 in the paper.

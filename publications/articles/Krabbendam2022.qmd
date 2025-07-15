@@ -31,5 +31,5 @@ Tidal sand waves are rhythmic bedforms found on sandy continental shelves that p
 <br><br>
 
 <div style="text-align: center;">
-  <img src="Krabbendam2022.jpg" style="width: 80%;" />
+  <img src="../images/Krabbendam2022.jpg" style="width: 80%;" />
 </div>

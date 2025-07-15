@@ -21,4 +21,4 @@ categories:
 
 Operational oceanography can be considered the backbone of the blue economy: it offers solutions that can support multiple UN Sustainable Development Goals by promoting the sustainable use of ocean resources for economic growth, livelihoods and job creation. Given this strategic challenge, the community worldwide has started to develop science-based and user-oriented downstream services and applications that use ocean products as provided by forecasting systems as main input. This paper provides examples of stakeholder support tools offered by such applications and includes sea state awareness, oil spill forecasting, port services, and fishing and aquaculture. Also emphasized is the important role of ocean literacy and citizen science to increase awareness of and education about these critical topics. Snapshots of various applications in key world ocean regions, within the framework of the OceanPrediction Decade Collaborative Centre (DCC), are illustrated, with emphasis given on their level of maturity. Fully operational examples can be used as inspiration for export to other areas.
 
-![](./veitch2025.png)
+![](../images/veitch2025.png)

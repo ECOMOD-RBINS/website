@@ -66,6 +66,7 @@ Please check what has already been done on the website and use the same template
 ### Add a new publication
 - Go to `/publications/articles/` 
 - Create a new file called `your_article.qmd`. Put your info in it (e.g. Lacroix2018.qmd).
+- Add your publication image in `/images/` and link it in your article file.
 
 ### Modify the main (home) page
 - Go to `index.qmd`
