@@ -106,30 +106,71 @@ The marine models are used to:
 ::: panel-tabset
 
 ## North Sea, Renewable Energy
-
+::: columns
+::: {.column width="45%"}
 ![](images/homepage/Applications_FPV.png){width="400"}
-
+:::
+::: {.column width="30%" style="margin-left: 10px;"}
 *Modelling the effects of marine renewable energy offshore structures on hydrodynamics and ecosystem.*
+<br><br>
+**More details:**
+<br>
+[ECOMPV](projects/ECOMPV) - [SWIM](projects/SWIM) - [OUTFLOW](projects/OUTFLOW)
+:::
+:::
+
+## eDNA dispersal
+::: columns
+::: {.column width="45%"}
+![](projects/eDNA-OPTIMA/images/eDNA.png){width="400"}
+:::
+::: {.column width="30%" style="margin-left: 10px;"}
+*Modelling eDNA transport Lagrangian transport modelling is used to predict origin and dispersal of eDNA and hence provide a more realistic interpretation of eDNA data.*
+<br><br>
+**More details:**
+<br>
+[JPIO-PAGES](projects/JPIO-PAGES) - [eDNA-OPTIMA](projects/eDNA-OPTIMA) - [ZERO-IMPACT](completed-projects/ZERO-IMPACT)
+:::
+:::
 
 ## Lake Nokoué, Benin
-
+::: columns
+::: {.column width="45%"}
 ![](projects/SHRIMP-II/images/shrimp.jpg){width="400"}
-
+:::
+::: {.column width="30%" style="margin-left: 10px;"}
 *Enhance the understanding and sustainable management of coastal aquatic resources in the Lake Nokoué-Cotonou Channel region.*
+<br><br>
+**More details:**
+<br>
+[SHRIMP-II](projects/SHRIMP-II)
+:::
+:::
 
 ## Ha Long Bay, Vietnam
-
+::: columns
+::: {.column width="45%"}
 ![](completed-projects/CLIMDIS/images/Halong_Bay.jpg){width="400"}
-
+:::
+::: {.column width="30%" style="margin-left: 10px;"}
 *Understanding the extent of the impact of pollutants and the effects of human activity and climate change on water quality in Ha Long Bay.*
+<br><br>
+**More details:**
+<br>
+[CLIMDIS](completed-projects/CLIMDIS)
+:::
+:::
+
+
 
 :::
 
 ::: large-text
 **ECOMOD**’s expertise serves international bodies like the International Council for the Exploration of the Sea ([ICES](https://www.ices.dk)), the [OSPAR](https://www.ospar.org/convention) Convention, the [EuroGOOS Coastal Working Group](https://eurogoos.eu/coastal-wg/#:~:text=The%20EuroGOOS%20Coastal%20Working%20Group%20will%20examine%20the,analysis%2C%20to%20products%20and%20services%20for%20coastal%20users) and the [UN Decade Collaborative Center Ocean Forecast](https://www.unoceanprediction.org/en/about/decade-programmes#:~:text=OceanPrediction%20Decade%20Collaborative%20Centre%20coordinates%20Decade%20Actions%20related,some%20Decade%20Programmes%20closely%20linked%20with%20OceanPrediction%20DCC).
-:::
 
-<!-- Link to the tab "Activities"? -->
+<br>
+**More details in [Activities](activities.qmd)**
+:::
 
 ## ![](images/homepage/Picto_Contact.png){height="40"} Contact
 
