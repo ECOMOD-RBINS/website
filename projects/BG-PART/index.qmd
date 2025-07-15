@@ -1,0 +1,48 @@
+---
+title: "BG-PART"
+description: "BioGeochemical PARTicle interactions and feedback loops on the Belgian Continental Shelf"
+categories: [Modeling, Biogeochemical modeling, Suspended Particulate Matter]
+image: "images/BG-PART_logo.png"
+
+execute:
+  echo: false
+  warning: false
+  error: true
+  cache: true
+  
+format: 
+  html:
+    page-layout: full
+
+#bibliography: references.bib
+#cls: journal-of-oceanography.csl
+#link-citations: true
+---
+
+## BG-PART - BioGeochemical PARTicle interactions and feedback loops on the Belgian Continental Shelf
+
+December 2020 - September 2025
+
+## Summary
+
+BG-PART (BioGeochemical PARTicle interactions and feedback loops on the Belgian Continental Shelf) is an interdisciplinary research project investigating the complex interactions between biological activity and sediment dynamics in coastal marine ecosystems. 
+The project focuses on Suspended Particulate Matter (SPM) dynamics on the Belgian Continental Shelf, examining how biological activity affects particle aggregation and settling. While SPM dynamics are primarily controlled by physical forces, biological processes play an increasingly recognized role through the production of marine gels - Transparent Exopolymer Particles (TEP) and Coomassie Stainable Particles (CSP) - that enhance particle aggregation into faster-sinking biomineral flocs.
+BG-PART tests several key hypotheses about biophysical flocculation processes, including how fresh versus refractory organic matter affects aggregation differently, how cohesive and non-cohesive mineral fractions influence flocculation, and how seasonal biological cycles drive feedback loops between light availability, phytoplankton production, and sediment dynamics.
+The research employs a comprehensive approach combining field measurements aboard research vessels (RV Belgica), controlled laboratory experiments on phytoplankton cultures and flocculation processes, and numerical modeling to simulate the complex interactions observed in nature.
+
+## Team members involved
+
+Nathan Terseleer and Youri Jourdevant
+
+## ECOMOD responsibilities
+ECOMOD leads the numerical modeling component of BG-PART, developing sophisticated coupled biogeochemical and mineral flocculation models to simulate organo-mineral interactions in the water column. Our simulations reproduce laboratory experiments from BG-PART and simulate seasonal in situ dynamics to quantify the importance of organo-mineral interactions in coastal ecosystems. This modeling work provides a quantitative framework for interpreting field and laboratory observations and supports scenario analyses to predict system responses to environmental changes.
+
+## Partners
+
+- RBINS
+- UGent
+- VLIZ
+
+## Funding and contract
+
+This project is funded by the Belgian Science Policy (BELSPO)
