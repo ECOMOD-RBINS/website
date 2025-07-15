@@ -33,7 +33,7 @@
   - `git commit -m 'blablabla'`
   - `git push` /!\ **DO NOT PUSH `docs/` folder** on your branch, otherwise it will cause annoying conflits to solve between the master branch and yours!
 - Create a `pull request` (possible from the github page) to _merge_ your branch into the master
-- Wait that the owner accept your pull request and merge your modifications into the website
+- Wait that the owner accepts your pull request and merge your modifications into the website
 
 ## Modifications and/or additions
 Please check what has already been done on the website and use the same template/structure in your files.
@@ -48,7 +48,7 @@ Please check what has already been done on the website and use the same template
 
 ### Add a new activity
 - Go to `/activities/` 
-- Follow the same instructions as for new projects
+- Follow the same instructions as for new projects. However, note that you now have 4 subfolders in `activities`: `conferences`, `reporting`, `working-groups`, `workshops`. Based on the activity you wish to publish, pay attention to which subfolder is the good fit for you.
 
 ### Add some news
 - Go to `news.qmd` 
