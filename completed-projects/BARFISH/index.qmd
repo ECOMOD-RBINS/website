@@ -1,0 +1,49 @@
+---
+title: "BARFISH"
+description: "Distributie en migratie van de commerciële visbestanden i.e. van tong in de Britse wateren"
+author: ""
+date: ""
+categories: [Modeling, Larval dispersal, Connectivity]
+image: "images/BARFISH.jpg"
+
+execute:
+  echo: false
+  warning: false
+  error: true
+  cache: true
+  
+format: 
+  html:
+    page-layout: full
+
+#bibliography: references.bib
+#cls: journal-of-oceanography.csl
+#link-citations: true
+---
+
+## BARFISH - Distributie en migratie van de commerciële visbestanden i.e. van tong in de Britse wateren
+
+November 2022 - December 2023
+
+## Summary
+
+A redistribution of the fishing quota or closure of fishing areas in British territorial waters has a direct impact on the Belgian fishing fleet. The aim of BARFISH is to provide scientific knowledge related to common sole in and near British territorial waters, a commercially important species for Belgian fishermen. Sector relevant scenarios that estimate the impact of potential actions of the UK on the Flemish fishing industry are developed. In addition, science-based knowledge and advice is provided which is essential for policymakers while negotiating fishing quota from 2026 onwards.
+
+## Team members involved
+
+[Léo Barbut](/posts/members/LB) -- [Geneviève Lacroix](/posts/members/GL)
+
+## ECOMOD tasks and responsabilities
+
+Modelling connectivity between spawning and nursery grounds of sole (*Solea solea*) in the southern North Sea and eastern English Channel.
+ECOMOD will estimate the proportional contribution of spawning grounds from UK to EU waters and vice versa in terms of larval sole abundance. Results will identify the connectivity of spawning and rearing grounds across UK and EU borders. This analysis will attempt to account for spatial and temporal variability using scenarios.
+
+## Partners
+
+* Instituut voor Landbouw-, Visserij- en Voedingsonderoek, [EV-ILVO](https://ilvo.vlaanderen.be/en/)
+
+* RBINS-ECOMOD subcontractor
+
+## Funding and contract
+The [BARFISH](https://pureportal.ilvo.be/en/projects/distributie-en-migratie-van-de-commerci%C3%ABle-visbestanden-ie-van-to) project has been funded by the EU Brexit Adjustment Reserve (project number BAR0143)
+
