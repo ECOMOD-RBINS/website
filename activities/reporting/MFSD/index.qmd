@@ -6,7 +6,6 @@ date: ""
 categories: [label]
 image: "images/"
 draft: true # set to true if the page is not ready yet, otherwise set to false
-draft-mode: unlinked
 
 execute:
   echo: false
@@ -17,32 +16,7 @@ execute:
 format: 
   html:
     page-layout: full
-
-#bibliography: references.bib
-#cls: journal-of-oceanography.csl
-#link-citations: true
 ---
 
 ## MFSD
 
-MMYY start - MMYY end
-
-## Summary
-
-blabla
-
-## Team members involved
-
-xx and yy
-
-## ECOMOD tasks and responsabilities
-
-section needed?
-
-## Partners
-
-section needed?
-
-## Funding and contract
-
-section needed? There is no funding right?
