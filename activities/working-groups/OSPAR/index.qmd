@@ -6,6 +6,7 @@ date: ""
 categories: [label]
 image: "images/"
 draft: true # set to true if the page is not ready yet, otherwise set to false
+draft-mode: gone
 
 execute:
   echo: false

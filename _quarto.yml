@@ -19,9 +19,11 @@ website:
       - href: team.qmd
         text: Team
       - href: projects.qmd
-        text: Projects
+        text: Research Projects
       - href: activities.qmd
-        text: Activities
+        text: Services and Activities
+      - href: tools.qmd
+        text: Tools
       - href: publications.qmd
         text: Publications
   page-footer:
