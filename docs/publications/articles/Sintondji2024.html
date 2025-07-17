@@ -32,8 +32,6 @@ ul.task-list li input[type="checkbox"] {
 <script src="../../site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="../../">
 <link href="../../favicon.ico" rel="icon">
-<script src="../../site_libs/quarto-listing/list.min.js"></script>
-<script src="../../site_libs/quarto-listing/quarto-listing.js"></script>
 <script src="../../site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="../../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
 <script src="../../site_libs/quarto-html/popper.min.js"></script>
@@ -71,65 +69,7 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
-<script>
 
-  window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-listing .list');
-    if (!listingTargetEl) {
-      // No listing discovered, do not attach.
-      return; 
-    }
-
-    const options = {
-      valueNames: ['listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
-      
-      searchColumns: ["listing-categories"],
-    };
-
-    window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
-
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  });
-
-  window.addEventListener('hashchange',() => {
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  })
-  </script>
-
-  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
-  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
-
-<script type="text/javascript">
-const typesetMath = (el) => {
-  if (window.MathJax) {
-    // MathJax Typeset
-    window.MathJax.typeset([el]);
-  } else if (window.katex) {
-    // KaTeX Render
-    var mathElements = el.getElementsByClassName("math");
-    var macros = [];
-    for (var i = 0; i < mathElements.length; i++) {
-      var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN") {
-        window.katex.render(texText.data, mathElements[i], {
-          displayMode: mathElements[i].classList.contains('display'),
-          throwOnError: false,
-          macros: macros,
-          fleqn: false
-        });
-      }
-    }
-  }
-}
-window.Quarto = {
-  typesetMath
-};
-</script>
 
 <link rel="stylesheet" href="../../styles.css">
 </head>
@@ -160,11 +100,15 @@ window.Quarto = {
   </li>  
   <li class="nav-item">
     <a class="nav-link" href="../../projects.html"> 
-<span class="menu-text">Projects</span></a>
+<span class="menu-text">Research Projects</span></a>
   </li>  
   <li class="nav-item">
     <a class="nav-link" href="../../activities.html"> 
-<span class="menu-text">Activities</span></a>
+<span class="menu-text">Services and Activities</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../../tools.html"> 
+<span class="menu-text">Tools</span></a>
   </li>  
   <li class="nav-item">
     <a class="nav-link" href="../../publications.html"> 
@@ -181,10 +125,9 @@ window.Quarto = {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-cloud"></div></div>
+    
 <!-- main -->
-<main class="content column-page-left" id="quarto-document-content">
+<main class="content column-page" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
@@ -197,7 +140,7 @@ window.Quarto = {
 
 
 
-<div class="quarto-title-meta column-page-left">
+<div class="quarto-title-meta column-page">
 
     <div>
     <div class="quarto-title-meta-heading">Author</div>
@@ -234,21 +177,9 @@ window.Quarto = {
 <p>The aim of this work was to characterize the growth and reproduction dynamics of shrimp in the Lac Nokoué-Chenal de Cotonou complex. The results of one year’s sampling from five stations (North, South, East, Central and West) of the lagoon complex revealed that linear growth in size in Lake Nokoué is decreasing over time in <em>Macrobrachium macrobrachion</em> (the most representative species of the genus <em>Macrobrachium</em>), but positive in <em>Penaeus notialis</em> (the most representative species of the genus <em>Penaeus</em>). Size-weight relationships indicate that the lowest growth coefficient (b=1.56) is obtained in immature males of <em>Macrobrachium felicinum</em>, while the highest growth coefficient (b=3.39) is obtained in mature females of <em>Macrobrachium vollenhovenii</em>, with an average of 2.84 for all shrimp species over both sexes considered. The χ2 test indicated that only the species <em>Macrobrachium vollenhovenii</em> has a significant sexual imbalance in favour of females in Lake Nokoué. Fisher’s Least Significant Difference test indicated that the estimated first sexual maturity sizes in <em>Macrobrachium vollenhovenii</em> and <em>M. macrobrachion</em> are significantly different from those estimated in <em>M. felicinum</em> at the α=0.05 threshold. However, the same test indicates that there is not enough evidence to differentiate the sizes of first sexual maturation in <em>M. vollenhovenii</em> and <em>M. macrobrachion</em>. This work revealed that <em>Penaeus monodon</em> was the only species to show better positive growth within all its groups in Lake Nokoué while exposed to anthropogenic effects. A gradual average increase in the size of <em>Penaeus notialis</em> in Lake Nokoué is found between the beginning and end of the saline intrusion (which confirms the life cycle of the species presented). Species of the genus <em>Macrobrachium</em> showed good reproductive capacity, with the absence of sexually mature <em>Penaeus</em> in this lagoon.</p>
 
 
-
 </section>
 
-<div class="quarto-listing quarto-listing-container-default" id="listing-listing">
-<div class="listing-actions-group">
-    <div class="input-group input-group-sm quarto-listing-filter">
-      <span class="input-group-text"><i class="bi bi-search"></i></span>
-      <input type="text" class="search form-control" placeholder="Filter">
-    </div>
-</div>
-<div class="list quarto-listing-default">
-
-</div>
-<div class="listing-no-matching d-none">No matching items</div>
-</div></main> <!-- /main -->
+</main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
     const icon = "";

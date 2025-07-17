@@ -1,13 +1,5 @@
 [
   {
-    "listing": "/activities.html",
-    "items": [
-      "/activities/working-groups/ICES_WGMBRED/index.html",
-      "/activities/working-groups/OSPAR/index.html",
-      "/activities/reporting/MFSD/index.html"
-    ]
-  },
-  {
     "listing": "/projects.html",
     "items": [
       "/projects/COHERENS/index.html",
@@ -30,6 +22,14 @@
       "/completed-projects/FORCOAST/index.html",
       "/completed-projects/SYMAPA/index.html",
       "/completed-projects/ZERO-IMPACT/index.html"
+    ]
+  },
+  {
+    "listing": "/activities.html",
+    "items": [
+      "/activities/working-groups/ICES_WGMBRED/index.html",
+      "/activities/working-groups/OSPAR/index.html",
+      "/activities/reporting/MFSD/index.html"
     ]
   },
   {
@@ -77,71 +77,6 @@
       "/publications/articles/Desmit2018.html",
       "/publications/articles/Maar2018.html",
       "/publications/articles/termonia2018.html"
-    ]
-  },
-  {
-    "listing": "/publications/articles/Barbut2019.html",
-    "items": []
-  },
-  {
-    "listing": "/publications/articles/Sintondji2023.html",
-    "items": []
-  },
-  {
-    "listing": "/publications/articles/DuyVu2024.html",
-    "items": []
-  },
-  {
-    "listing": "/publications/articles/Suciati2024.html",
-    "items": []
-  },
-  {
-    "listing": "/publications/articles/Stechele2023.html",
-    "items": []
-  },
-  {
-    "listing": "/publications/articles/Sintondji2024.html",
-    "items": []
-  },
-  {
-    "listing": "/index.html",
-    "items": []
-  },
-  {
-    "listing": "/publications/articles/Octavina2024.html",
-    "items": []
-  },
-  {
-    "listing": "/publications/articles/Sintondji2022a.html",
-    "items": []
-  },
-  {
-    "listing": "/publications/articles/Paoletti2021.html",
-    "items": []
-  },
-  {
-    "listing": "/publications/articles/Sintondji2022b.html",
-    "items": []
-  },
-  {
-    "listing": "/publications/articles/Stechele2022.html",
-    "items": []
-  },
-  {
-    "listing": "/publications/articles/gourgue2024.html",
-    "items": []
-  },
-  {
-    "listing": "/publications/articles/hautekiet2024.html",
-    "items": []
-  },
-  {
-    "listing": "/completed_projects.html",
-    "items": [
-      "/completed-projects/CLIMDIS/index.html",
-      "/completed-projects/COST-SEA-UNICORN/index.html",
-      "/completed-projects/FORCOAST/index.html",
-      "/completed-projects/SYMAPA/index.html"
     ]
   }
 ]
