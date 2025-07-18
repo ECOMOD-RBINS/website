@@ -26,7 +26,11 @@
   },
   {
     "listing": "/activities.html",
-    "items": []
+    "items": [
+      "/activities/working-groups/ICES_WGMBRED/index.html",
+      "/activities/working-groups/OSPAR/index.html",
+      "/activities/reporting/MFSD/index.html"
+    ]
   },
   {
     "listing": "/publications.html",
