@@ -19,7 +19,7 @@ ECOMOD is part of the [ECODAM](https://www.naturalsciences.be/nl/wetenschap/onde
 :::
 
 ::: {.column width="45%"}
-![](images/homepage/ECOMOD_Team.png){fig-align="right" width="400"}
+![](images/homepage/Team_150dpi.png){fig-align="right" width="400"}
 :::
 :::::
 
@@ -29,7 +29,7 @@ ECOMOD is part of the [ECODAM](https://www.naturalsciences.be/nl/wetenschap/onde
 
 ## ![](images/homepage/Picto_Vision.png){height="50"} Our vision
 
-![](images/homepage/Vision.png){height="300"}
+![](images/homepage/Vision_150dpi.png){height="300"}
 
 
 ## ![](images/homepage/Picto_Mission.png){height="50"} Our mission
