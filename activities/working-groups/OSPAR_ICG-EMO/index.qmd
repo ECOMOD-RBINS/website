@@ -1,0 +1,58 @@
+---
+title: "OSPAR ICG-EMO"
+description: "Intersessional Correspondence Group on Eutrophication Modelling"
+author: ""
+date: ""
+categories: [OSPAR]
+image: "images/ICG-EMO.jpg"
+draft: false # set to true if the page is not ready yet, otherwise set to false
+
+execute:
+  echo: false
+  warning: false
+  error: true
+  cache: true
+  
+format: 
+  html:
+    page-layout: full
+---
+
+## OSPAR - ICG-EMO Intersessional Correspondence Group on Eutrophication Modelling
+
+## Summary
+
+Eutrophication—the excessive enrichment of water with nutrients, leading to ecosystem degradation—became increasingly evident in the North Atlantic and the North Sea around 1980. In response, the Oslo-Paris Commission (OSPAR) was established to monitor marine environmental issues and develop solutions to mitigate eutrophication and its impacts. Despite significant efforts to reduce nutrient inputs, eutrophication continues to affect large areas of these regions.
+
+To support more effective assessment and management, the **Intersessional Correspondence Group on Eutrophication Modelling (ICG-EMO)** was created in 2005. Its goal is to provide robust model-based datasets to inform eutrophication assessments used in OSPAR’s **Quality Status Report (QSR)**.
+
+**ECOMOD** has been an active member of ICG-EMO since its inception, contributing cutting-edge ecosystem model results and participating regularly in OSPAR discussions through the group.
+
+## Team members involved
+
+- [Geneviève Lacroix](/posts/members/GL) (since 2005)</br>
+- [Arthur Capet](/posts/members/AC) (since 2024)</br>
+
+
+## Main outcome
+
+-   van Leeuwen S.M., Lenhart H., Prins T.C., Blauw A., Desmit X., Fernand L., Friedland R., Kerimoglu O., **Lacroix G.**, Van Der Linden A., Lefebvre A., Van Der Molen J., Plus M., Ruvalcaba Baroni I., Silva T., Stegert C., Troost T.A., Vilmin L. (2023) Deriving pre-eutrophic conditions from an ensemble model approach for the North-West European Seas. *Frontiers in Marine Science,* 10:1129951. [DOI](https://doi.org/10.3389/fmars.2023.1129951)
+-   Ménesguen A., Desmit X., Dulière V., **Lacroix G.**, Thouvenin B., Thieu V., Dussauze M. (2018) How to avoid eutrophication in coastal seas? A new approach to derive river-specific combined nitrate and phosphate maximum concentrations. *Science of the Total Environment,* 628-629: 400-414. [DOI](https://doi.org/10.1016/j.scitotenv.2018.02.025)
+-   Desmit X., Thieu V., Billen G., Campuzano F., Dulière V., Garnier J., Lassaletta L., Ménesguen A., Neves R., Pinto L., Silvestre M., Sobrinho J., **Lacroix G.** (2018) Reducing marine eutrophication may require a paradigmatic change. *Science of the Total Environment,* 635: 1444-1466. [DOI](https://doi.org/10.1016/j.scitotenv.2018.04.181)
+-   Ménesguen A. and **Lacroix G.** (2018) Modelling the marine eutrophication: a review. *Science of the Total environment,* 636: 339-354. [DOI](https://doi.org/10.1016/j.scitotenv.2018.04.183)
+-   Dulière V., Gypens N., Lancelot C., Luyten P., **Lacroix G.** (2019) Origin of nitrogen in the English Channel and Southern Bight of the North Sea ecosystems. *Hydrobiologia,* 845: 13-33. [DOI](https://doi.org/10.1007/s10750-017-3419-5)
+-   Lenhart H-J., Mills D.K., Baretta-Bekker H., van Leeuwen S.M., van der Molen J., Baretta J.W., Blaas M., Desmit X., Kühn W., **Lacroix G.**, Los H.J., Ménesguen A., Neves R., Proctor R., Ruardij P., Skogen M.D., Vanhoutte-Brunier A., Villars M.T., Wakelin S.L. (2010) Predicting the consequences of nutrient reduction on the eutrophication status of the North Sea. *Journal of Marine Systems*, 81: 148-170. [DOI](https://doi.org/10.1016/j.jmarsys.2009.12.014)
+
+## Projects issued from ICG-EMO
+
+- [EMoSEM](https://odnature.naturalsciences.be/emosem/)
+![](images/EMoSEM.png)
+- [CodeBlue](/projects/CODEBLUE)
+
+## Latest report
+
+- [OSPAR ICG-EMO 2022](https://www.ospar.org/documents?v=48846) Hermann Lenhart , Anouk Blauw , Xavier Desmit , Liam Fernand , René Friedland , Birgit Heyden , Onur Kerimoglu , Geneviève Lacroix , Annelotte van der Linden , Johan van der Molen , Martin Plus , Theo Prins , Itzel Ruvalcaba Baroni, Tiago Silva , Christoph Stegert, Daniel Thewes , Tineke Troost , Lauriane Vilmin , Sonja van Leeuwen. 2022. ICG-EMO report on model comparison for historical scenarios as basis to derive new threshold values. Hazardous Substances and Eutrophication Series 895/2022. OSPAR Commission 2022. 174pp.
+
+## Official link
+
+[OSPAR - ICG-EMO](https://www.ospar.org/work-areas/hasec) Visit the Hazardous Substances & Eutrophication section on OSPAR’s website, where ICG‑EMO is featured alongside other expert groups.
