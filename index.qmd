@@ -122,7 +122,7 @@ The marine models are used to:
 ## eDNA dispersal
 ::: columns
 ::: {.column width="45%"}
-![](projects/eDNA-OPTIMA/images/eDNA.png){width="400"}
+![](images/homepage/eDNA.png){width="400"}
 :::
 ::: {.column width="30%" style="margin-left: 10px;"}
 *Modelling eDNA transport Lagrangian transport modelling is used to predict origin and dispersal of eDNA and hence provide a more realistic interpretation of eDNA data.*
@@ -133,10 +133,42 @@ The marine models are used to:
 :::
 :::
 
+## Larval dispersal
+::: columns
+::: {.column width="45%"}
+![](images/homepage/BARFISH.jpg){width="400"}
+:::
+::: {.column width="30%" style="margin-left: 10px;"}
+*To assess the dispersal and connectivity of marine organisms, larval transport is modelled by coupling the COHERENS hydrodynamic model with a Lagrangian particle drift model*
+<br><br>
+**More details:**
+<br>
+[FORCOAST](completed-projects/FORCOAST) - [SYMAPA](completed-projects/SYMAPA) -  [BARFISH](completed-projects/BARFISH) -
+[COST-SEA-UNICORN](completed-projects/COST-SEA-UNICORN) -
+[SHRIMP-II](projects/SHRIMP-II)
+
+:::
+:::
+
+## North Sea, Pollutants
+::: columns
+::: {.column width="45%"}
+![](images/homepage/MSFD_Pollutants.png){width="400"}
+:::
+::: {.column width="30%" style="margin-left: 10px;"}
+*Modelling the effects of pollutants on the ecosystem for the Marine Strategy Framework Directive (MSFD).*
+<br><br>
+**More details:**
+<br>
+[DISARM](completed-projects/DISARM) - [MSFD](activities/MSFD)
+
+:::
+:::
+
 ## Lake Nokoué, Benin
 ::: columns
 ::: {.column width="45%"}
-![](projects/SHRIMP-II/images/shrimp.jpg){width="400"}
+![](images/homepage/shrimp.jpg){width="400"}
 :::
 ::: {.column width="30%" style="margin-left: 10px;"}
 *Enhance the understanding and sustainable management of coastal aquatic resources in the Lake Nokoué-Cotonou Channel region.*
@@ -150,7 +182,7 @@ The marine models are used to:
 ## Ha Long Bay, Vietnam
 ::: columns
 ::: {.column width="45%"}
-![](completed-projects/CLIMDIS/images/Halong_Bay.jpg){width="400"}
+![](images/homepage/Halong_Bay.jpg){width="400"}
 :::
 ::: {.column width="30%" style="margin-left: 10px;"}
 *Understanding the extent of the impact of pollutants and the effects of human activity and climate change on water quality in Ha Long Bay.*
