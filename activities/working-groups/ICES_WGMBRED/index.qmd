@@ -1,11 +1,11 @@
 ---
 title: "ICES WGMBRED"
-description: "add short description here"
+description: "Working Group on Marine Benthal and Renewable Energy Developments"
 author: ""
 date: ""
-categories: [label]
-image: "images/"
-draft: true # set to true if the page is not ready yet, otherwise set to false
+categories: [ICES]
+image: "images/WGMBRED 2019 Brussels.jpg"
+draft: false # set to true if the page is not ready yet, otherwise set to false
 
 execute:
   echo: false
@@ -18,5 +18,28 @@ format:
     page-layout: full
 ---
 
-## ICES WGMBRED - ICES Working group on marine benthas and renewable energy development
+## ICES WGIPEM - ICES Working Group on Marine Benthal and Renewable Energy Developments 
 
+## Summary
+
+**The Working Group on Marine Benthal and Renewable Energy Developments (WGMBRED) looks at benthal and renewable energy related research, cause-effect relationships and develops guidelines to aid future research.**
+
+The aim of the group is to increase scientific efficiency of benthal renewable energy related research, to specify the various cause-effect relationships resulting from the construction and operation of offshore renewable energy installations, and to develop guidelines and an overview of existing data for cumulative impact research by future international collaboration. The outcomes will assist in improving monitoring concepts in the context of offshore renewable energy constructions and will also be set within the context of marine spatial planning strategies and future ecosystem-based management approaches.
+
+Renewable energy developments, in particular offshore wind farms, cause large-scale anthropogenic pressures which affect benthic communities over various spatial and temporal scales within coastal and offshore ecosystems over the next decades.
+
+Benthic organisms have a fundamental place in marine ecosystems and deliver numerous ecosystem services (such as marine biodiversity, long-term carbon storage and natural resources), which are intimately linked to the benthic system. Extensive renewable energy developments have the potential to initiate processes which are expected to affect benthic communities in numerous ways. The identification of these processes is the prerequisite for an efficient, hypothesis-driven approach towards the understanding of the various effects of marine energy developments on the marine benthos as well as on the whole ecosystem.
+
+The work group consists of scientists from many European countries and North America. WGMBRED meets annually and meetings are hosted at one of the members institute, aiming to visit a new country each year. Group members cooperate in research projects, by data exchange and in joint scientific publications.
+
+## Team members involved
+
+- [Arthur Capet](/posts/members/AC) (Chair-Invited Member)
+
+## Latest report
+
+-  [ICES 2021](https://ices-library.figshare.com/articles/report/Working_Group_on_Marine_Benthal_and_Renewable_Energy_Developments_WGMBRED_/18621809?file=33400772) Working Group on Marine Benthal and Renewable Energy Developments (WGMBRED). ICES Scientific Reports. 3:63. 24 pp. https://doi.org/10.17895/ices.pub.8209
+
+## Official link 
+
+[WGMBRED](https://www.ices.dk/community/groups/Pages/WGMBRED.aspx#:~:text=The%20Working%20Group%20on%20Marine%20Benthal%20and%20Renewable,relationships%20and%20develops%20guidelines%20to%20aid%20future%20research)

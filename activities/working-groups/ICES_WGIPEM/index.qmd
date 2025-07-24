@@ -1,0 +1,53 @@
+---
+title: "ICES WGIPEM"
+description: "Working Group on Integrative, Physical-biological and Ecosystem Modelling "
+author: ""
+date: ""
+categories: [ICES]
+image: "images/WGIPEM_2025.png"
+draft: false # set to true if the page is not ready yet, otherwise set to false
+
+execute:
+  echo: false
+  warning: false
+  error: true
+  cache: true
+  
+format: 
+  html:
+    page-layout: full
+---
+
+## ICES WGIPEM - ICES Working Group on Integrative, Physical-biological and Ecosystem Modelling 
+
+## Summary
+
+**The Working Group on Integrative, Physical-biological and Ecosystem Modelling (WGIPEM) advances the state of the art in coupled physical-biological and ecosystem modelling.**
+
+WGIPEM carries out its modelling work by sharing and discussing simulation results, identifying gaps in knowledge in these modelling activities, and recommending and performing activities to improve model performance.
+
+An important part of the work is the continued development of end-to-end ecosystem models that incorporate ecological, economic, and social science. The group forms an important link between the biophysical modelling community that produces estimates of ecosystem components and the managers charged with giving advice on the status of those systems and their resources.
+
+Members of WGIPEM identified five key topic areas at its first meeting in 2012: understanding the dynamics of primary and secondary production and the two-way coupling of lower and upper trophic level models, representing the movements of fish and other living resources, projecting the impacts of climate change and variability on the productivity and distribution of key species and the composition of foodwebs, quantifying and conveying uncertainty within various modelling approaches, and coupling novel aspects of socio-economic and ecological science within models.
+
+## Team members involved
+
+- [Geneviève Lacroix](/posts/members/GL) (Member)</br>
+- [Léo Barbut](/posts/members/LB) (Member)</br>
+- [Nathan Terseleer Lillo](/posts/members/NTL) (Observer)</br>
+- [Stéphanie Ponsar](/posts/members/SP) (Observer)
+
+## Main outcome
+
+-   **Barbut L.**, Lehuta S., Volckaert F.A.M., **Lacroix G.** (2024) Lessons from the calibration and sensitivity analysis of a fish larval transport model. *Marine Ecological Progress Series,* 731: 67-88.[DOI](https://doi.org/10.3354/meps14536)
+-   van de Wolfshaar K.E., **Barbut L.**, **Lacroix G.** (2022) From spawning to first-year recruitment: the fate of juvenile sole growth and survival under future climate conditions in the North Sea. *ICES Journal of Marine Science*, 79(2): 495-505. [DOI](https://doi.org/10.1093/icesjms/fsab025)
+-   Maar M., Butenschon M., Daewel U., Eggert A., Fan W., Hjollo S., Hufnagl M., Huret M., Ji R., **Lacroix G.**, Peck M., Radtke H., Sailley S., Sinerchia M., Skogen M., Travers-Trolet M., Troost T., van de Wolfshaar K. (2018) Responses of summer phytoplankton biomass to changes in top-down forcing: Insights from comparative modelling. *Ecological Modelling*, 376: 54-67. [DOI](https://doi.org/10.1016/j.ecolmodel.2018.03.003)
+-   Hufnagl M., Payne M., **Lacroix G.**, Bolle L., Daewel U., Dickey-Collas M., Gerkema T., Huret M., Janssen F., Kreus M., Pätsch J., Pohlmann T., Ruardij P., Schrum C., Skogen M., Tiessen M., Petitgas P., van Beek J., Van der Veer H., Callies U. (2017) Variation that can be expected when using particle tracking models in connectivity studies. *Journal of Sea research,* 127: 133-149. [DOI](https://doi.org/10.1016/j.seares.2017.04.009)
+
+## Latest report
+
+-  [ICES 2025](https://ices-library.figshare.com/articles/report/Working_Group_on_Integrative_Physical-biological_and_Ecosystem_Modelling_WGIPEM_/28016480?file=53105015) Working Group on Integrative, Physical-biological and Ecosystem Modelling (WGIPEM; out-puts from 2024 meeting). ICES Scientific Reports. 7:28. 81 pp. https://doi.org/10.17895/ices.pub.28016480
+
+## Official link 
+
+[WGIPEM](https://www.ices.dk/community/groups/Pages/WGIPEM.aspx#:~:text=The%20Working%20Group%20on%20Integrative%2C%20Physical-biological%20and%20Ecosystem,the%20art%20in%20coupled%20physical-biological%20and%20ecosystem%20modelling)
