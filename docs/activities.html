@@ -42,7 +42,7 @@ ul.task-list li input[type="checkbox"] {
 <link href="site_libs/quarto-html/quarto-syntax-highlighting-226bd0f977fa82dfae4534cac220d79a.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-df027a822fe8b3ce8f01ab6063ef4d23.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-7f51bacf0d636bfb0cc435061da6ec28.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -164,9 +164,9 @@ ul.task-list li input[type="checkbox"] {
     }
 
     const options = {
-      valueNames: ['listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      valueNames: ['listing-title','listing-author','listing-image','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
       
-      searchColumns: ["listing-categories"],
+      searchColumns: ["listing-title","listing-author","listing-image","listing-description","listing-categories"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
@@ -267,6 +267,13 @@ window.Quarto = {
 <span class="menu-text">Publications</span></a>
   </li>  
 </ul>
+            <ul class="navbar-nav navbar-nav-scroll ms-auto">
+  <li class="nav-item compact">
+    <a class="nav-link" href="https://www.linkedin.com/company/ecomod-rbins/about/"> <i class="bi bi-linkedin" role="img" aria-label="LinkedIn">
+</i> 
+<span class="menu-text"></span></a>
+  </li>  
+</ul>
           </div> <!-- /navcollapse -->
             <div class="quarto-navbar-tools">
 </div>
@@ -278,7 +285,7 @@ window.Quarto = {
 <!-- sidebar -->
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(3)</span></div><div class="category" data-category="SUNFUw==">ICES <span class="quarto-category-count">(2)</span></div><div class="category" data-category="T1NQQVI=">OSPAR <span class="quarto-category-count">(1)</span></div></div></div>
+    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(5)</span></div><div class="category" data-category="SUNFUw==">ICES <span class="quarto-category-count">(2)</span></div><div class="category" data-category="bGFiZWw=">label <span class="quarto-category-count">(1)</span></div><div class="category" data-category="TVNGRA==">MSFD <span class="quarto-category-count">(1)</span></div><div class="category" data-category="T1NQQVI=">OSPAR <span class="quarto-category-count">(1)</span></div></div></div>
 <!-- main -->
 <main class="content column-page-left" id="quarto-document-content"><header id="title-block-header" class="quarto-title-block"></header>
 
@@ -289,7 +296,7 @@ window.Quarto = {
 <h1>Working groups</h1>
 <div id="listing-working-groups" class="quarto-listing quarto-listing-container-grid">
 <div class="list grid quarto-listing-cols-3">
-<div class="g-col-1" data-index="0" data-categories="SUNFUw==" data-listing-file-modified-sort="1753350036964" data-listing-reading-time-sort="3" data-listing-word-count-sort="427">
+<div class="g-col-1" data-index="0" data-categories="SUNFUw==" data-listing-file-modified-sort="1753346924078" data-listing-reading-time-sort="3" data-listing-word-count-sort="427">
 <a href="./activities/working-groups/ICES_WGIPEM/index.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -315,7 +322,7 @@ ICES WGIPEM
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="1" data-categories="SUNFUw==" data-listing-file-modified-sort="1753350036966" data-listing-reading-time-sort="2" data-listing-word-count-sort="308">
+<div class="g-col-1" data-index="1" data-categories="SUNFUw==" data-listing-file-modified-sort="1753346924100" data-listing-reading-time-sort="2" data-listing-word-count-sort="308">
 <a href="./activities/working-groups/ICES_WGMBRED/index.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -341,7 +348,7 @@ ICES WGMBRED
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="2" data-categories="T1NQQVI=" data-listing-file-modified-sort="1753350036967" data-listing-reading-time-sort="3" data-listing-word-count-sort="527">
+<div class="g-col-1" data-index="2" data-categories="T1NQQVI=" data-listing-file-modified-sort="1753346924116" data-listing-reading-time-sort="3" data-listing-word-count-sort="527">
 <a href="./activities/working-groups/OSPAR_ICG-EMO/index.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -375,7 +382,58 @@ OSPAR ICG-EMO
 <h1>Reporting</h1>
 <div id="listing-reporting" class="quarto-listing quarto-listing-container-grid">
 <div class="list grid quarto-listing-cols-3">
+<div class="g-col-1" data-index="0" data-categories="bGFiZWw=" data-listing-file-modified-sort="1753276134315" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+<a href="./activities/reporting/MFSD/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="./activities/reporting/MFSD/images/" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title" data-anchor-id="reporting">
+MFSD
+</h5>
+<div class="listing-categories">
 
+<div class="listing-category" onclick="window.quartoListingCategory('bGFiZWw='); return false;">label</div>
+
+</div>
+<div class="card-text listing-description delink">
+<p>add short description here</p>
+</div>
+<div class="card-attribution card-text-small start">
+<div class="listing-author">
+
+</div>
+</div>
+</div>
+</div></a>
+</div>
+<div class="g-col-1" data-index="1" data-categories="TVNGRA==" data-listing-file-modified-sort="1753368468940" data-listing-reading-time-sort="1" data-listing-word-count-sort="130">
+<a href="./activities/reporting/MSFD/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="./activities/reporting/MSFD/images/msfd-logo.png" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+MSFD
+</h5>
+<div class="listing-categories">
+
+<div class="listing-category" onclick="window.quartoListingCategory('TVNGRA=='); return false;">MSFD</div>
+
+</div>
+<div class="card-text listing-description delink">
+<p>Marine Strategy Framework Directive</p>
+</div>
+<div class="card-attribution card-text-small start">
+<div class="listing-author">
+
+</div>
+</div>
+</div>
+</div></a>
+</div>
 </div>
 <div class="listing-no-matching d-none">No matching items</div>
 </div>
