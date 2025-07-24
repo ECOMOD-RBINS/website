@@ -23,9 +23,9 @@ format:
 The Marine Strategy Framework Directive (MSFD) is a European directive aiming at the good environmental status (GES) in European marine regions. The GES is an ecological norm aiming for marine ecosystems to be clean, healthy and productive, supporting diverse and dynamic ecosystems. To achieve a GES, member states have to take several actions and in particular to elaborate a national marine strategy with measures as well as an in-depth evaluation of the current environmental state and set targets and environmental indicators. Thanks to its knowledge of the North Sea ecosystem, the ECOMOD team contributes to reporting cycles of the EU MSFD for several descriptors such as pelagic habitat (D1), eutrophication (D5) and pollutants at sea (D8).
 
 ::: {layout-ncol=3}
-![](images/pelagic-habitat_MSFD.png){width="30%"}
-![](images/eutrophication_MSFD.png){width="30%"}
-![](images/pollutants_MSFD.png){width="30%"}
+![](images/pelagic-habitat_MSFD.png)
+![](images/eutrophication_MSFD.png)
+![](images/pollutants_MSFD.png)
 :::
 
 ## Team members involved

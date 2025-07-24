@@ -1,0 +1,62 @@
+---
+title: "DISARM"
+description: "Dumpsites of Munitions: Integrated Science Approach to Risk and Management"
+author: ""
+date: ""
+categories: [Modeling, Pollutants]
+image: "images/logo_disarm.png"
+draft: false
+
+execute:
+  echo: false
+  warning: false
+  error: true
+  cache: true
+  
+format: 
+  html:
+    page-layout: full
+
+#bibliography: references.bib
+#cls: journal-of-oceanography.csl
+#link-citations: true
+---
+
+## DISARM - Dumpsites of munitions: Integrated Science Approach to Risk and Management
+
+January 2020 - December 2023
+
+## Summary
+
+**The [DISARM](https://www.disarm.be/) project developed an integrated scientific approach to support risk assessment and management of the Paardenmarkt marine munition dumpsite.** 
+The Paardenmarkt is one of the many munition dumpsites in our oceans. A few meter below the current seafloor, ca. 35.000 tons of WW1 chemical and conventional munition are buried. The present scientific knowledge is insufficient to make any reliable judgement on the state of the site. The DISARM project aims to address the knowledge gaps, but will go an important step further to develop an integrated scientific approach to support risk assessment and management of marine chemical munition dumpsites worldwide, using the Paardenmarkt munition dumpsite as a challenging case study.
+
+::: {layout-ncol=3}
+![](images/map_paardenmarkt.png)
+![](images/munitions.png)
+![](images/expertise_MSFD_graph.png)
+:::
+
+## Team members involved
+
+[Stéphanie Ponsar](/posts/members/SP) --
+[Geneviève Lacroix](/posts/members/GL)
+
+## ECOMOD tasks and responsabilities
+Modelling the dispersion of chemicals from the First World War present on the Paardenamarkt.
+
+## Partners
+
+- Flanders Marine Institute (VLIZ)
+- Royal Belgian Institute of Natural Sciences (RBINS), Directorate Natural Environment (OD Nature)
+- Antwerp Maritime Academy (AMA)
+- University of Ghent, Centre for Microbiology, Ecology and Technology (CMET)
+- University of Ghent, Environmental Toxicology Unit (GhEnToxLab)
+- University of Ghent,  Laboratory for Applied Geology and Hydrogeology (LTGH) 
+- University of Antwerp, Systemic Physiological and Ecotoxicological Research Group (SPHERE)
+- Royal Military Academy (RMA)
+- Defensie Laboratoria - Laboratoires de la Défense (DLD)
+
+## Funding and contract
+
+The [DISARM](https://www.disarm.be/) project was part of the Strategic Basic Research (SBO) program of the Flanders Research Foundation (FWO).
