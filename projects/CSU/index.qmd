@@ -4,7 +4,7 @@ description: " "
 author: ""
 date: ""
 categories: [Modeling]
-image: "images/Picture1.png"
+image: "images/CSU_clean.jpg"
 priority: 2
 
 execute:
