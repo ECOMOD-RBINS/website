@@ -2,8 +2,6 @@
   {
     "listing": "/projects.html",
     "items": [
-      "/projects/COHERENS/index.html",
-      "/projects/CSU/index.html",
       "/projects/BG-PART/index.html",
       "/projects/CODEBLUE/index.html",
       "/projects/DEHEAT/index.html",
@@ -29,8 +27,7 @@
     "items": [
       "/activities/working-groups/ICES_WGIPEM/index.html",
       "/activities/working-groups/ICES_WGMBRED/index.html",
-      "/activities/working-groups/OSPAR_ICG-EMO/index.html",
-      "/activities/reporting/MFSD/index.html"
+      "/activities/working-groups/OSPAR_ICG-EMO/index.html"
     ]
   },
   {
@@ -78,6 +75,13 @@
       "/publications/articles/Desmit2018.html",
       "/publications/articles/Maar2018.html",
       "/publications/articles/termonia2018.html"
+    ]
+  },
+  {
+    "listing": "/tools.html",
+    "items": [
+      "/tools/COHERENS/index.html",
+      "/tools/CSU/index.html"
     ]
   }
 ]

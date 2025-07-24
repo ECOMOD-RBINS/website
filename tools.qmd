@@ -1,5 +1,10 @@
 ---
-title: "In construction..."
+title: ""
+listing:
+    contents: tools
+    sort: ["priority asc", "title asc"]
+    type: grid
+    categories: true
 page-layout: full
 title-block-banner: false
 ---
