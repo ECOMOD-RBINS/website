@@ -27,8 +27,9 @@
   {
     "listing": "/activities.html",
     "items": [
+      "/activities/working-groups/ICES_WGIPEM/index.html",
       "/activities/working-groups/ICES_WGMBRED/index.html",
-      "/activities/working-groups/OSPAR/index.html",
+      "/activities/working-groups/OSPAR_ICG-EMO/index.html",
       "/activities/reporting/MFSD/index.html"
     ]
   },
