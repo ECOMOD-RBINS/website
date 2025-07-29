@@ -4,7 +4,7 @@ description: "Marine Strategy Framework Directive"
 author: ""
 date: ""
 categories: [MSFD]
-image: "images/msfd-logo.png"
+image: "images/MSFD_logo.jpg"
 draft: false # set to true if the page is not ready yet, otherwise set to false
 
 execute:
@@ -24,7 +24,9 @@ The Marine Strategy Framework Directive (MSFD) is a European directive aiming at
 
 ::: {layout-ncol=3}
 ![](images/pelagic-habitat_MSFD.png)
+
 ![](images/eutrophication_MSFD.png)
+
 ![](images/pollutants_MSFD.png)
 :::
 
