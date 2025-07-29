@@ -37,7 +37,8 @@ The FORCOAST project addresses the topic “DT-SPACE-01-EO-2018-2020 COPERNICUS 
 :::
 
 ## Team members involved
-Léo Barbut and Geneviève Lacroix
+
+[Léo Barbut](/posts/members/LB) -- [Geneviève Lacroix](/posts/members/GL)
 
 ## ECOMOD tasks and responsabilities
 Larval dispersal modelling of blue mussels and flat oysters.

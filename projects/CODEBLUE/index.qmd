@@ -18,7 +18,7 @@ format:
 
 ## CodeBlue
 
-Aug 2022 - Aug 2025
+October 2025 - September 2028
 
 ## Summary
 
@@ -26,7 +26,6 @@ Eutrophication is a critical issue in areas of the Northwest European Shelf and 
 Information is still lacking to produce an efficient and long-lasting eutrophication policy in a changing climate based on conventions’ recommended nutrient input levels.
 
 **CodeBlue** will compile observational river data to build a unique and harmonised set of model forcing data to be used in front-line physical-biogeochemical models. CodeBlue will consider the long-term aspects of biogeochemistry cycles (e.g. sea bed nutrient storage, climate change), and the effect of nutrient transport from adjacent basins. A set of long-term model simulations (>50 years) will be generated, including base line hindcasts and “what if scenarios” of low riverine nutrient load and no climate change scenarios as well as climate projections, including a nutrient scenario of “Maximum Allowable Input”. CodeBlue will use a weighted ensemble model approach to combine results and estimate uncertainties at regional scales, and aims to quantify the relative role of enhanced nutrient loads versus climate change in establishing present-day eutrophication as well as evaluate if suggested maximum input levels of nutrients will be effective in a changing climate.
-
 
 ![](./images/CodeBlueStruc.png)
 

@@ -39,8 +39,7 @@ The Paardenmarkt is one of the many munition dumpsites in our oceans. A few mete
 
 ## Team members involved
 
-[Stéphanie Ponsar](/posts/members/SP) --
-[Geneviève Lacroix](/posts/members/GL)
+[Stéphanie Ponsar](/posts/members/SP) -- [Geneviève Lacroix](/posts/members/GL)
 
 ## ECOMOD tasks and responsabilities
 Modelling the dispersion of chemicals from the First World War present on the Paardenamarkt.

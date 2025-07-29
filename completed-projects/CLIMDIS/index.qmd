@@ -39,7 +39,11 @@ Exploiting the ecosystem services of the World Natural Heritage of Ha Long Bay (
 
 ## Team members involved
 
-Geneviève Lacroix, Saheed Puthan Purayil (now in MFC team), Hugo Romanelli, Arthur Capet
+[Geneviève Lacroix](/posts/members/GL) --
+Saheed Puthan Purayil (now in MFC team) --
+[Hugo Romanelli](/posts/members/HR) --
+[Arthur Capet](/posts/members/AC)
+
 
 ## ECOMOD tasks and responsabilities
 
@@ -51,7 +55,7 @@ Geneviève Lacroix, Saheed Puthan Purayil (now in MFC team), Hugo Romanelli, Art
 
 ## Partners
 
-1. RBINS (Geneviève Lacroix, Saheed Puthan Purayil, Hugo Romanelli, Arthur Capet
+1. RBINS (Geneviève Lacroix, Saheed Puthan Purayil, Hugo Romanelli, Arthur Capet)
 2. Institute of Marine Environment and Resources, Vietnam (IMER) ![IMER logo](images/IMER-logo.jpg){fig-align="right" width="10%"} (Dr. Vu Duy Vinh, 
 Nguyen Minh Hai)
 3. Ha Long Bay Management Department, Vietnam (Dr. Do Tien Thanh)
