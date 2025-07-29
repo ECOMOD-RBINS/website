@@ -19,7 +19,7 @@ format:
 #link-citations: true
 ---
 
-## BG-PART - BioGeochemical PARTicle interactions and feedback loops on the Belgian Continental Shelf
+## [BG-PART](https://www.belspo.be/belspo//Fedra/proj.asp?l=de&COD=B2%2F202%2FP1%2FBG%2DPART) - BioGeochemical PARTicle interactions and feedback loops on the Belgian Continental Shelf
 
 December 2020 - September 2025
 

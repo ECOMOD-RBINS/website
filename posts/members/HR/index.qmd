@@ -39,7 +39,7 @@ Hugo Romanelli is a junior researcher and physical oceanographer specializing in
   BSc Physics | 2015-2019
 
 ## Projects
-- [COHERENS:](../../projects/COHERENS) COupled Hydrodynamical-Ecological model for REgioNal and Shelf seas.
+- [COHERENS](/tools/COHERENS/): COupled Hydrodynamical-Ecological model for REgioNal and Shelf seas.
 
 ## Publications
 ### 2024

@@ -26,7 +26,7 @@ format:
 </div>
 
 ## Biography
-Nathan Terseleer is a marine ecosystem modeler who integrates process-based numerical modelling with advanced environmental data analysis to investigate the complex dynamics of coastal and offshore marine systems. At the Royal Belgian Institute of Natural Sciences (RBINS), he leads the development of biogeochemical, plankton ecosystem, and organo-mineral interaction modules within the [COHERENS](../../projects/COHERENS) model. His research spans marine biogeochemistry, plankton ecology, and sediment dynamics, with a focus on functional diversity and particle aggregation processes. Nathan earned his PhD from the Université Libre de Bruxelles, where he advanced trait-based modelling approaches and the representation of diatom physiology, including harmful algal bloom dynamics. He is a member of the ICES Working Group on Integrative, Physical-Biological, and Ecosystem Modelling (WGIPEM), former member of the Working Group on Harmful Algal Bloom Dynamics (WGHABD), and serves as an expert for the Marine Strategy Framework Directive (MSFD) in pelagic habitat assessment.
+Nathan Terseleer is a marine ecosystem modeler who integrates process-based numerical modelling with advanced environmental data analysis to investigate the complex dynamics of coastal and offshore marine systems. At the Royal Belgian Institute of Natural Sciences (RBINS), he leads the development of biogeochemical, plankton ecosystem, and organo-mineral interaction modules within the [COHERENS](/tools/COHERENS/) model. His research spans marine biogeochemistry, plankton ecology, and sediment dynamics, with a focus on functional diversity and particle aggregation processes. Nathan earned his PhD from the Université Libre de Bruxelles, where he advanced trait-based modelling approaches and the representation of diatom physiology, including harmful algal bloom dynamics. He is a member of the ICES Working Group on Integrative, Physical-Biological, and Ecosystem Modelling ([WGIPEM](/activities/working-groups/ICES_WGIPEM/)), former member of the Working Group on Harmful Algal Bloom Dynamics (WGHABD), and serves as an expert for the Marine Strategy Framework Directive ([MSFD](/activities/reporting/MSFD/)) in pelagic habitat assessment.
 
 ### Experience
 - **Royal Belgian Institute of Natural Sciences** | Brussels, Belgium<br />
@@ -39,8 +39,8 @@ Nathan Terseleer is a marine ecosystem modeler who integrates process-based nume
   BSc Bioengineering | 2004-2006
 
 ## Projects
-- [BG-PART:](https://www.belspo.be/belspo//Fedra/proj.asp?l=de&COD=B2%2F202%2FP1%2FBG%2DPART) BioGeochemical PARTicle interactions and feedback loops on the Belgian Continental Shelf .
-- [COHERENS:](../../projects/COHERENS) COupled Hydrodynamical-Ecological model for REgioNal and Shelf seas.
+- [BG-PART](/projects/BG-PART/): BioGeochemical PARTicle interactions and feedback loops on the Belgian Continental Shelf.
+- [COHERENS](/tools/COHERENS/): COupled Hydrodynamical-Ecological model for REgioNal and Shelf seas.
 
 ## Publications
 - Lopez, L. L., Degrendele, K., Roche, M., Barette, F., Van Lancker, V., **Terseleer, N.**, & De Backer, A. (2025). Macrobenthos and morpho-sedimentary recovery dynamics in areas following aggregate extraction cessation. Marine Pollution Bulletin, 218, 118184.

@@ -26,9 +26,9 @@ Leo's research primarily focuses on marine ecology and marine connectivity, with
 
 
 ## Projects
-- [SYMAPA](../../projects/SYMAPA): SYMAPA
-- [FORCOAST](../../projects/FORCOAST): FORCOAST
-- [eDNAOPTIMA] Assessing biodiversity through eDNA
+- [SYMAPA](/completed-projects/SYMAPA/): SYMAPA
+- [FORCOAST](/completed-projects/FORCOAST/): FORCOAST
+- [eDNA-OPTIMA](/projects/eDNA-OPTIMA/): Assessing biodiversity through eDNA
 
 ## Publications <!-- Harvard citation style -->
 
