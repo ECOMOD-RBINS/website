@@ -4,7 +4,7 @@ description: "Dumpsites of Munitions: Integrated Science Approach to Risk and Ma
 author: ""
 date: ""
 categories: [Modeling, Pollutants]
-image: "images/logo_disarm.png"
+image: "images/DISARM_logo.jpg"
 draft: false
 
 execute:
@@ -33,7 +33,9 @@ The Paardenmarkt is one of the many munition dumpsites in our oceans. A few mete
 
 ::: {layout-ncol=3}
 ![](images/map_paardenmarkt.png)
+
 ![](images/munitions.png)
+
 ![](images/expertise_MSFD_graph.png)
 :::
 
