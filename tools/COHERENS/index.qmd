@@ -3,7 +3,7 @@ title: "COHERENS"
 description: "Coupled hydrodynamical-ecological model for regional and shelf seas"
 author: ""
 date: ""
-categories: [Modeling]
+categories: [Modelling]
 image: "images/illustration.jpg"
 priority: 1
 
@@ -22,13 +22,26 @@ format:
 #link-citations: true
 ---
 
+<style>
+.year-summary {
+  cursor: pointer !important;
+  padding: 0.5rem !important;
+  background-color: #f5f5f5 !important;
+  border-radius: 4px !important;
+  margin-bottom: 0.5rem !important;
+  font-size: 1.4rem !important;
+  font-weight: 900 !important;
+  color: #000 !important;
+}
+</style>
+
 # COHERENS -- COupled Hydrodynamical-Ecological model for REgioNal and Shelf seas
 
-COHERENS is a state-of-the-art, multi-purpose numerical modeling system designed to simulate hydrodynamic, ecological, and sediment transport processes in regional, shelf, and coastal seas. Its development is led by the Royal Belgian Institute of Natural Sciences.
+COHERENS is a state-of-the-art, multi-purpose numerical modelling system designed to simulate hydrodynamic, ecological, and sediment transport processes in regional, shelf, and coastal seas. Its development is led by the Royal Belgian Institute of Natural Sciences.
 
 COHERENS offers a comprehensive framework that integrates:
 
-- 3D hydrodynamic modeling
+- 3D hydrodynamic modelling
 - Sediment and morphological dynamics
 - Biogeochemical and ecological processes
 - Tracer and contaminant transport
@@ -57,42 +70,62 @@ Model results with COHERENS using a nesting strategy, from the Continental Shelf
 *All publications use COHERENS.*
 
 ### 2025
+
 - J. Kämpf, How transient winds produce coastal countercurrents along a straight coastline: A process-oriented modelling study, *Ocean Dynamics*, 75, 53. [DOI](https://doi.org/10.1007/s10236-025-01698-z)
 - R. Puspasari, R. Rachmawati, B. Nugraha, H. Madduppa, L.M.I. Sani, W. S. Pranowo, Aslan, N. N. Wiadnyana, Z. Imran, Potential relation of groupers populations between protected reef areas and nearby coastal waters using larval dispersal model and genetic method, *Global Ecology and Conservation*, 58, e03457. [DOI](https://doi.org/10.1016/j.gecco.2025.e03457)
 - J. Kämpf, Phytoplankton and zooplankton production in the Bonney Coast upwelling, Australia: A coupled physical-biological model investigation, *Continental Shelf Research*, 285, 105373. [DOI](https://doi.org/10.1016/j.csr.2024.105373)
 
 ### 2024
+
 - V.D. Vinh, N.M. Hai, S.P. Purayil, **G. Lacroix**, N.T. Duong, Seasonal variation of coastal currents and residual currents in the Cat Ba - HA Long coastal area (Vietnam): Results of coherens model, *Regional Studies in Marine Science*, 80, 103874. [DOI](https://doi.org/10.1016/j.rsma.2024.103874)
-- **A.S. Gozingan**, Z. Sohou, K. Baetens, F. Bonou, E. Baloïtcha, O. Gourgue, **H. Romanelli**, **A. Capet**, **G. Lacroix**, A 3D numerical baroclinic application of the COHERENS model in the Gulf of Guinea, West Africa, *Regional Studies in Marine Science*, 79, 103811. [DOI](https://doi.org/10.1016/j.rsma.2024.103811)
+- **A.S. Gozingan**, Z. Sohou, K. Baetens, F. Bonou, E. Baloïtcha, **O. Gourgue**, **H. Romanelli**, **A. Capet**, **G. Lacroix**, A 3D numerical baroclinic application of the COHERENS model in the Gulf of Guinea, West Africa, *Regional Studies in Marine Science*, 79, 103811. [DOI](https://doi.org/10.1016/j.rsma.2024.103811)
 - J. Kämpf, On the retroflection of upwelling jets near coastal bends, *Continental Shelf Research*, 279, 105276. [DOI](https://doi.org/10.1016/j.csr.2024.105276)
 - J. Kämpf, The Bonney Coast upwelling: How physical processes shape the feeding behaviour of blue whales, *Continental Shelf Research*, 279, 105277. [DOI](https://doi.org/10.1016/j.csr.2024.105277)
 - **L. Barbut**, S. Lehuta, F.A.M. Volckaert, **G. Lacroix**, Lessons from the calibration and sensitivity analysis of a fish larval transport model, *Marine Ecology Progress Series*, 731, 67-88. [DOI](https://doi.org/10.3354/meps14536)
 - J. Kämpf, On the wind-driven formation of plankton patches in island wakes, *Journal of Marine Science and Engineering*, 12, 1, 193. [DOI](https://doi.org/10.3390/jmse12010193)
 
-### 2023
+<details>
+<summary class="year-summary">2023</summary>
+
 - H. Mehrfar, A. Raeisi, M.T. Azad, S.M.R. Reisosadat, Numerical study of the effects of coastal currents and meso-scale eddies on the spread of pollution in the Persian Gulf, *International Journal of Environmental Science and Technology*, 20, 7, 7099-7116. [DOI](https://doi.org/10.1007/s13762-023-04920-x)
 - A. R. Azarnivand, M. Sadrinasab, M. Nasseri, Climate change impacts on the seasonal variation of hydro-physical characteristics in the Persian Gulf, *Estuaries and Coasts*, 46, 2, 302–322. [DOI](https://doi.org/10.1007/s12237-022-01151-0)
 - J. Kämpf, L. Möller, R. Baring, A. Shute, C. Cheesman, The island mass effect: a study of wind-driven nutrient upwelling around reef islands, *Journal of Oceanography*, 79, 2, 161–174. [DOI](https://doi.org/10.1007/s10872-022-00673-2)
 
-### 2022
+</details>
+
+<details>
+<summary class="year-summary">2022</summary>
+
 - B. Stechele, D. van der Zande, A. Alvera-Azcárate, D. Delbare, **G. Lacroix**, N. Nevejan, Biological site suitability for exposed self-regulating cultivation of blue mussel (Mytilus edulis): A Belgian case study, *Aquacultural Engineering*, 98, 102264. [DOI](https://doi.org/10.1016/j.aquaeng.2022.102264)
 - **V. Dulière**, C. Guillaumot, **G. Lacroix**, T. Saucède, Z. López-Farran, B. Danis, I. Schön, K. Baetens, Dispersal models alert on the risk of non-native species introduction by ballast water in protected areas from the Western Antarctic Peninsula, *Diversity and Distributions*, 28, 4, 649-666. [DOI](https://doi.org/10.1111/ddi.13464) 
 
-### 2021
+</details>
+
+<details>
+<summary class="year-summary">2021</summary>
+
 - S. Paoletti , K. Bekaert, **L. Barbut**, **G. Lacroix**, F.A.M. Volckaert, K. Hostens, Validating a biophysical dispersal model with the early life-history traits of common sole (Solea solea L.), *PLOS One*, 16, 9, e0257709. [DOI](https://doi.org/10.1371/journal.pone.0257709)
 - J. Kämpf, Modelling of physical drivers of a large feeding aggregation of killer whales (Orcinus orca) in the western Great Australian Bight, Australia, *Deep Sea Research Part I: Oceanographic Research Papers*, 171, 103526. [DOI](https://doi.org/10.1016/j.dsr.2021.103526)
 - J. Kämpf, On the upslope sediment transport at continental margins, *Journal of Marine Systems*, 219, 103546. [DOI](https://doi.org/10.1016/j.jmarsys.2021.103546)
 - L. Schiavon, **V. Dulière**, M. La Mesa, I.A.M. Marino, G. Codogno, E. Boscari, E. Riginella, A. Battistotti, M. Lucassen, L. Zane, C. Papetti, Species distribution, hybridization and connectivity in the genus Chionodraco: Unveiling unknown icefish diversity in antarctica, *Diversity and Distributions*, 27, 5, 766-783. [DOI](https://doi.org/10.1111/ddi.13249)
 - K.E. van de Wolfshaar, **L. Barbut**, **G. Lacroix**, From spawning to first-year recruitment: the fate of juvenile sole growth and survival under future climate conditions in the North Sea, *ICES Journal of Marine Science*, 79, 2, 495–505. [DOI](https://doi.org/10.1093/icesjms/fsab025)
 
-### 2020
+</details>
+
+<details>
+<summary class="year-summary">2020</summary>
+
 - H. Mehrfar, M.T. Azad, K. Lari, A.A. Bidokhti, A numerical simulation case study of the coastal currents and upwelling in the western Persian Gulf, *Journal of Ocean Engineering and Science*, 5, 4, 323-332. [DOI](https://doi.org/10.1016/j.joes.2019.12.005)
 - E. Miettunen, L. Tuomi, K. Myrberg, Water exchange between the inner and outer archipelago areas of the Finnish Archipelago Sea in the Baltic Sea, *Ocean Dynamics*, 70, 11, 1421-1437. [DOI](https://doi.org/10.1007/s10236-020-01407-y)
 - **L. Barbut**, B. Vastenhoud, L. Vigin, S. Degraer, F.A.M. Volckaert, **G. Lacroix**, The proportion of flatfish recruitment in the North Sea potentially affected by offshore windfarms, *ICES Journal of Marine Science*, 77, 3, 1227–1237. [DOI](https://doi.org/10.1093/icesjms/fsz050)
 - S. Afsharian, P.A. Taylor, L. Momayez, Investigating the potential impact of wind farms on Lake Erie, *Journal of Wind Engineering and Industrial Aerodynamics*, 198, 104049. [DOI](https://doi.org/10.1016/j.jweia.2019.104049)
 - H. Mehrfar, M.T. Azad, K. Lari, A.A. Bidokhti, Seasonal variations of the coastal currents and eddies in the Persian Gulf: A numerical case study, *Marine Technology Society Journal*, 54, 1, 44-52. [DOI](https://doi.org/10.4031/MTSJ.54.1.4)
 
-### 2019
+</details>
+
+<details>
+<summary class="year-summary">2019</summary>
+
 - J. Juntunen, J. Ropponen, T. Shuku, K. Krogerus, T. Huttula, The effect of local wind field on water circulation and dispersion of imaginary tracers in two small connected lakes, *Journal of Hydrology*, 579, 124137. [DOI](https://doi.org/10.1016/j.jhydrol.2019.124137)
 - **V. Dulière**, N. Gypens, C. Lancelot, P. Luyten, **G. Lacroix**, Origin of nitrogen in the English Channel and Southern Bight of the North Sea ecosystems, *Hydrobiologia*, 845, 1, 13–33. [DOI](https://doi.org/10.1007/s10750-017-3419-5)
 - H. Komijani, J. Monbaliu, The wave-current interaction in the coastal area, *Journal of Marine Research*, 77, 5-6, 375-405. [DOI](https://doi.org/10.1357/002224019833406169)
@@ -100,7 +133,11 @@ Model results with COHERENS using a nesting strategy, from the Continental Shelf
 - J.B. Matikolaei, A.A. Bidokhti, M. Shiea, Some aspects of the deep abyssal overflow between the middle and southern basins of the Caspian Sea, *Ocean Science*, 15, 2, 459-476. [DOI](https://doi.org/10.5194/os-15-459-2019)
 - S. Afsharian, P.A. Taylor, On the potential impact of Lake Erie wind farms on water temperatures and mixed-layer depths: Some preliminary 1-D modeling using COHERENS, *Journal of Geophysical Research: Oceans*, 124, 3, 1736-1749. [DOI]( https://doi.org/10.1029/2018JC014577)
 
-### 2018
+</details>
+
+<details>
+<summary class="year-summary">2018</summary>
+
 - J. Kämpf, On the dynamics of canyon–flow interactions, *Marine Science and Engineering*, 6, 4, 129. [DOI](https://doi.org/10.3390/jmse6040129)
 - X. Desmit, V. Thieu, G. Billen, F. Campuzano, **V. Dulière**, J. Garnier, L. Lassaletta, A. Ménesguen, R. Neves, L. Pinto, M. Silvestre, J.L. Sobrinho, **G. Lacroix**, Reducing marine eutrophication may require a paradigmatic change, *Science of The Total Environment*, 635, 1444-1466. [DOI](https://doi.org/10.1016/j.scitotenv.2018.04.181)
 - P. Termonia, B. Van Schaeybroeck, L. De Cruz, R. De Troch, S. Caluwaerts, O. Giot, R. Hamdi, S. Vannitsem, F. Duchêne, P. Willems, H. Tabari, E. Van Uytven, P. Hosseinzadehtalaei, N. Van Lipzig, H. Wouters, S. Vanden Broucke, J.-P. van Ypersele, P. Marbaix, C. Villanueva-Birriel, X. Fettweis, C. Wyard, C. Scholzen, S. Doutreloup, K. De Ridder, A. Gobin, D. Lauwaet, T. Stavrakou, M. Bauwens, J.-F. Müller, P. Luyten, **S. Ponsar**, D. Van den Eynde, E. Pottiaux, The CORDEX.be initiative as a foundation for climate services in Belgium, *Climate Services*, 11, 49-61. [DOI](https://doi.org/10.1016/j.cliser.2018.05.001)
@@ -110,11 +147,19 @@ Model results with COHERENS using a nesting strategy, from the Continental Shelf
 - L. Tuomi, E. Miettunen, P. Alenius, K. Myrberg, Evaluating hydrography, circulation and transport in a coastal archipelago using a high-resolution 3D hydrodynamic model, *Journal of Marine Systems*, 180, 24-36. [DOI](ttps://doi.org/10.1016/j.jmarsys.2017.12.006)
 - **G. Lacroix**, **L. Barbut**, F.A.M. Volckaert, Complex effect of projected sea temperature and wind change on flatfish dispersal, *Global Change Biology*, 24, 1, 85-100. [DOI](https://doi.org/10.1111/gcb.13915)
 
-### 2017
+</details>
+
+<details>
+<summary class="year-summary">2017</summary>
+
 - J. Janne, M. Päivi, S. Antti, Public health and economic risk assessment of waterborne contaminants and pathogens in Finland, *Science of The Total Environment*, 599–600, 873-882. [DOI](https://doi.org/10.1016/j.scitotenv.2017.05.007)
 - I. Amour, T. Kauranne, A variational ensemble Kalman filtering method for data assimilation using 2D and 3D version of COHERENS model, *Numerical Methods in Fluids*, 83, 6, 544-558. [DOI](https://doi.org/10.1002/fld.4276)
 
-### 2016
+</details>
+
+<details>
+<summary class="year-summary">2016</summary>
+
 - S. Hassanzadeh, O. Hajrasouliha, A.R. Latifi, The role of wind in modeling of oil pollution transport and diffusion in the Persian Gulf, *Environmental Modeling & Assessment*, 21, 6, 721-730. [DOI](https://doi.org/10.1007/s10666-016-9526-2)
 - M. Ollikainen, M. Zandersen, J. Bendtsen, J. Lehtoranta, E. Saarijärvi, H. Pitkänen, Any payoff to ecological engineering? Cost-benefit analysis of pumping oxygen-rich water to control benthic release of phosphorus in the Baltic Sea, *Water Resources and Economics*, 16, 28-38. [DOI](https://doi.org/10.1016/j.wre.2016.11.001)
 - **S. Ponsar**, P. Luyten, **V. Dulière**, Data assimilation with the ensemble Kalman filter in a numerical model of the North Sea, *Ocean Dynamics*, 66, 8, 955–971. [DOI](https://doi.org/10.1007/s10236-016-0968-5)
@@ -123,7 +168,11 @@ Model results with COHERENS using a nesting strategy, from the Continental Shelf
 - A. Rezaei-Latifi, Spatial and temporal variability of the surface permittivity of Persian Gulf water at the C-band, *Applied Mathematical Modelling*, 40, 2, 1069-1081. [DOI](https://doi.org/10.1016/j.apm.2015.06.025)
 - M.M. Namin, A.A. Bidokhti, A.K. Khaniki, I.H. Zadeh, M.T. Azad, A study of the performances of different turbulence schemes in numerical simulation of hydrodynamics of a semi-closed sea (Persian Gulf), *Marine Geodesy*, 39, 2, 141-164. [DOI](https://doi.org/10.1080/01490419.2015.1134736)
 
-### 2015
+</details>
+
+<details>
+<summary class="year-summary">2015</summary>
+
 - I. Golbeck, X. Li, F. Janssen, T. Brüning, J.W. Nielsen, V. Huess, J. Söderkvist, B. Büchmann, S.-M. Siiriä, O. Vähä-Piikkiö, B. Hackett, N.M. Kristensen, H. Engedahl, E. Blockley, A. Sellar, P. Lagemaa, J. Ozer, S., P. Ljungemyr, L. Axell, Uncertainty estimation for operational ocean forecast products—a multi-model ensemble for the North Sea and the Baltic Sea, *Ocean Dynamics*, 65, 12, 1603–1631. [DOI](https://doi.org/10.1007/s10236-015-0897-8)
 - P. Rauwoens, P. Troch, J. Vierendeels, A geometric multigrid solver for the free-surface equation in environmental models featuring irregular coastlines, *Journal of Computational and Applied Mathematics*, 289, 22-36. [DOI](https://doi.org/10.1016/j.cam.2015.03.029)
 - J. Kämpf, Undercurrent-driven upwelling in the northwestern Arafura Sea, *Geophysical Research Letters*, 42, 21, 9362-9368. [DOI](https://doi.org/10.1002/2015GL066163)
@@ -135,12 +184,20 @@ Model results with COHERENS using a nesting strategy, from the Continental Shelf
 - A. Mano, O. Malve, S. Koponen, K. Kallio, A. Taskinen, J. Ropponen, J. Juntunen, N. Liukko, Assimilation of satellite data to 3D hydrodynamic model of Lake Säkylän Pyhäjärv, *Water Science & Technology*, 71, 7, 1033-1039. [DOI](https://doi.org/10.2166/wst.2015.042)
 - L. Zhu, Q. Wang, Numerical Mesocosm Experimental Study on Harmful Algal Blooms of Two Algal Species in the East China Sea, *Mathematical Problems in Engineering*, 169860. [DOI](https://doi.org/10.1155/2015/169860)
 
-### 2014
+</details>
+
+<details>
+<summary class="year-summary">2014</summary>
+
 - Q. Wang, L. Zhu, D. Wang, A numerical model study on multi-species harmful algal blooms coupled with background ecological fields, *Acta Oceanologica Sinica*, 33, 8, 95–105. [DOI](https://doi.org/10.1007/s13131-014-0459-9)
 - C. Lancelot, P. Passy, N. Gypens, Model assessment of present-day Phaeocystis colony blooms in the Southern Bight of the North Sea (SBNS) by comparison with a reconstructed pristine situation, *Harmful Algae*, 37, 172-182. [DOI](https://doi.org/10.1016/j.hal.2014.05.017)
 - J.F. Lopes, J.A. Ferreira, A.C. Cardoso, A.C. Rocha, Variability of temperature and chlorophyll of the Iberian Peninsula near costal ecosystem during an upwelling event for the present climate and a future climate scenario, *Journal of Marine Systems*, 129, 271-288. [DOI](https://doi.org/10.1016/j.jmarsys.2013.07.002)
 
-### 2013
+</details>
+
+<details>
+<summary class="year-summary">2013</summary>
+
 - P. Passy, N. Gypens, G. Billen, J. Garnier, V. Thieu, V. Rousseau, J. Callens, J.-Y. Parent, C. Lancelot, A model reconstruction of riverine nutrient fluxes and eutrophication in the Belgian Coastal Zone since 1984, *Journal of Marine Systems*, 128, 106-122. [DOI](https://doi.org/10.1016/j.jmarsys.2013.05.005)
 - J. Hinwood, J. Luick, Closed basin modes of a dual basin harbour, *Pure and Applied Geophysics*, 170, 11, 1881–1897. [DOI](https://doi.org/10.1007/s00024-012-0611-4)
 - **G. Lacroix**, G.E. Maes, L.J. Bolle, F.A.M. Volckaert, Modelling dispersal dynamics of the early life stages of a marine flatfish (Solea solea L.), *Journal of Sea Research*, 84, 13-25. [DOI](https://doi.org/10.1016/j.seares.2012.07.010)
@@ -153,7 +210,11 @@ associated with its niche selection: a case study in the Gulf of Finland, the Ba
 - N. Guillou, G. Chapalain, E. Duvieilbourg, Sea surface temperature modelling in the Sea of Iroise: assessment of boundary conditions, *Ocean Dynamics*, 63, 7, 849-863. [DOI](https://doi.org/10.1007/s10236-013-0627-z)
 - N. Guillou, G. Chapalain, E. Duvieilbourg, Modelling impact of bottom roughness on sea surface temperature in the Sea of Iroise, *Continental Shelf Research*, 54, 80-92. [DOI](https://doi.org/10.1016/j.csr.2012.12.003)
 
-### 2012
+</details>
+
+<details>
+<summary class="year-summary">2012</summary>
+
 - L. Tuomi, K. Myrberg, A. Lehmann, The performance of the parameterisations of vertical turbulence in the 3D modelling of hydrodynamics in the Baltic Sea, *Continental Shelf Research*, 50-51, 64-79. [DOI](https://doi.org/10.1016/j.csr.2012.08.007)
 - M. Baeye, M. Fettweis, S. Legrand, Y. Dupont, V. Van Lancker, Mine burial in the seabed of high-turbidity area—Findings of a first experiment, *Continental Shelf Research*, 43, 107-119. [DOI](https://doi.org/10.1016/j.csr.2012.05.009)
 - J. Kämpf, Lee effects of localized upwelling in a shelf-break canyon, *Continental Shelf Research*, 42, 78-88. [DOI](https://doi.org/10.1016/j.csr.2012.05.005)
@@ -162,7 +223,11 @@ associated with its niche selection: a case study in the Gulf of Finland, the Ba
 - B. Liang, H. Zhao, H. Li, G. Wu, Numerical study of three-dimensional wave-induced longshore current’s effects on sediment spreading of the Huanghe River mouth, *Acta Oceanologica Sinica*, 31, 2, 129-138. [DOI](https://doi.org/10.1007/s13131-012-0199-7)
 - G. Zeng, J. Hu, H. Hong, Y. Qi, Numerical study on M2 tidal system in the Taiwan Strait, *Procedia Environmental Sciences*, 12, A, 702-707. [DOI](https://doi.org/10.1016/j.proenv.2012.01.337)
 
-### 2011
+</details>
+
+<details>
+<summary class="year-summary">2011</summary>
+
 - N. Guillou, G. Chapalain, P. Sergent, Effects of the tide-induced water levels and currents on the wave heights in the Seine estuary, *La Houille Blanche*, 97, 6, 49-55. [DOI](https://doi.org/10.1051/lhb/2011061)
 - F. Hosseinibalam, S. Hassanzadeh, A. Rezaei-Latifi, Three-dimensional numerical modeling of thermohaline and wind-driven circulations in the Persian Gulf, *Applied Mathematical Modelling*, 35, 12, 5884-5902. [DOI](https://doi.org/10.1016/j.apm.2011.05.040)
 - N. Guillou, G. Chapalain, Modelling impact of northerly wind-generated waves on sediments resuspensions in the Dover Strait and adjacent waters, *Continental Shelf Research*, 31, 18, 1894-1903. [DOI](https://doi.org/10.1016/j.csr.2011.08.011)
@@ -173,7 +238,11 @@ associated with its niche selection: a case study in the Gulf of Finland, the Ba
 - N. Gypens, **G. Lacroix**, C. Lancelot, A.V. Borges, Seasonal and inter-annual variability of air–sea CO2 fluxes and seawater carbonate chemistry in the Southern North Sea, *Progress in Oceanography*, 88, 1–4, 59-77. [DOI](https://doi.org/10.1016/j.pocean.2010.11.004)
 - X. Sun, H. Bian, C. Luo, J. Li, L. Wang, Numerical simulation of seasonal variation of temperature in the Bohai Sea, *Procedia Environmental Sciences*, 10, C, 1914-1919. [DOI](https://doi.org/10.1016/j.proenv.2011.09.300)
 
-### 2010
+</details>
+
+<details>
+<summary class="year-summary">2010</summary>
+
 - J. Kämpf, On preconditioning of coastal upwelling in the eastern Great Australian Bight, *Journal of Geophysical Research: Oceans*, 115, C12071. [DOI](https://doi.org/10.1029/2010JC006294)
 - J.Z. Shi, L.-F. Lu, Y.-N. Liu, The hydrodynamics of an idealized estuarine plume along a straight coast: A numerical study, *Environmental Modeling & Assessment*, 15, 6, 487-502. [DOI](https://doi.org/10.1007/s10666-010-9219-1)
 - J. Kämpf, N. Payne, P. Malthouse, Marine Connectivity in a Large Inverse Estuary, *Journal of Coastal Research*, 26, 6, 1047-1056. [DOI](https://doi.org/10.2112/JCOASTRES-D-10-00043.1)
@@ -196,7 +265,11 @@ associated with its niche selection: a case study in the Gulf of Finland, the Ba
 - U. Gräwe, J.-O. Wolff, J. Ribbe, Impact of climate variability on an east Australian bay, *Estuarine, Coastal and Shelf Science*, 86, 2, 247-257. [DOI](https://doi.org/10.1016/j.ecss.2009.11.020)
 - N. Guillou, G. Chapalain, Storm waves-induced resuspensions of seabed sediments in the Dover Strait: Comparison of modelling results with measurements, *European Journal of Environmental and Civil Engineering*, 14, 2, 163-179. [DOI](https://doi.org/10.1080/19648189.2010.9693210)
 
-### 2009
+</details>
+
+<details>
+<summary class="year-summary">2009</summary>
+
 - **S. Ponsar**, P. Luyten, Data assimilation with the EnKF in a 1-D numerical model of a North Sea station, *Ocean Dynamics*, 59, 6, 983–996. [DOI](https://doi.org/10.1007/s10236-009-0224-3)
 - U. Gräwe, J.-O. Wolff, J. Ribbe, Mixing, hypersalinity and gradients in Hervey Bay, Australia, *Ocean Dynamics*, 59, 5, 643-658. [DOI](https://doi.org/10.1007/s10236-009-0195-4)
 - K.-Y. Heo, J.-W. Lee, K.-J. Ha, K.-C. Jun, K.-S. Park, J.-I. Kwon, Simulation of atmospheric states for a storm surge on the west coast of Korea: model comparison between MM5, WRF and COAMPS, *Natural Hazards*, 51, 1, 151–162. [DOI](https://doi.org/10.1007/s11069-009-9395-y)
@@ -214,7 +287,11 @@ associated with its niche selection: a case study in the Gulf of Finland, the Ba
 - J. Kämpf, On the interaction of time-variable flows with a shelfbreak canyon, *Journal of Physical Oceanography*, 39, 1, 248-260. [DOI](https://doi.org/10.1175/2008JPO3753.1)
 - M. Mestres, J.P. Sierra, A. Pascual, C. Mösso, J. González del Río, M. Rodilla, Bacterial pollution in Cullera Bay (Spanish Mediterranean coast), *Journal of Coastal Research*, SI56, 861-865. [JSTOR](https://www.jstor.org/stable/25737701)
 
-### 2008
+</details>
+
+<details>
+<summary class="year-summary">2008</summary>
+
 - D. Marinov, J. M. Zaldívar, A. Norro, G. Giordani, P. Viaroli, Integrated modelling in coastal lagoons: Sacca di Goro case study, *Hydrobiologia*, 611, 147–165. [DOI](https://doi.org/10.1007/s10750-008-9451-8)
 - J. Ribbe, J.-O. Wolff, J. Staneva, U. Gräwe, Assessing water renewal time scales for marine environments from three-dimensional modelling: A case study for Hervey Bay, Australia, *Environmental Modelling & Software*, 23, 10-11, 1217-1228. [DOI](https://doi.org/10.1016/j.envsoft.2008.02.007)
 - J.L. Luick, J.B. Hinwood, Water levels in a dual-basin harbour in response to infragravity and edge waves, *Progress in Oceanography*, 77, 4, 367-375. [DOI](https://doi.org/10.1016/j.pocean.2006.04.002)
@@ -223,7 +300,11 @@ associated with its niche selection: a case study in the Gulf of Finland, the Ba
 - V. Zintzen, A. Norro, C. Massin, J. Mallefet, Spatial variability of epifaunal communities from artificial habitat: Shipwrecks in the Southern Bight of the North Sea, *Estuarine, Coastal and Shelf Science*, 76, 2, 327-344. [DOI](https://doi.org/10.1016/j.ecss.2007.07.012)
 - V. Zintzen, A. Norro, C. Massin, J. Mallefet, Temporal variation of Tubularia indivisa (Cnidaria, Tubulariidae) and associated epizoites on artificial habitat communities in the North Sea, *Marine Biology*, 153, 405–420. [DOI](https://doi.org/10.1007/s00227-007-0819-5)
 
-### 2007
+</details>
+
+<details>
+<summary class="year-summary">2007</summary>
+
 - L.-F. Lu, J.Z. Shi, The dispersal processes within the tide-modulated Changjiang River plume, China, *Numerical Methods in Fluids*, 55, 12, 1143-1155. [DOI](https://doi.org/10.1002/fld.1520)
 - J. Kämpf, On the magnitude of upwelling fluxes in shelf-break canyons, *Continental Shelf Research*, 27, 17, 2211-2223. [DOI](https://doi.org/10.1016/j.csr.2007.05.010)
 - K.E. Gustafsson, J. Bendtsen, Elucidating the dynamics and mixing agents of a shallow fjord through age tracer modelling, *Estuarine, Coastal and Shelf Science*, 74, 4, 641-654. [DOI](https://doi.org/10.1016/j.ecss.2007.05.023)
@@ -240,7 +321,11 @@ associated with its niche selection: a case study in the Gulf of Finland, the Ba
 - E. Jurado, J.-M. Zaldívar, D. Marinov, J. Dachs, Fate of persistent organic pollutants in the water column: Does turbulent mixing matter? *Marine Pollution Bulletin*, 54, 4, 441-451. [DOI](https://doi.org/10.1016/j.marpolbul.2006.11.028)
 - **G. Lacroix**, K. Ruddick, Y. Park, N. Gypens, C. Lancelot, Validation of the 3D biogeochemical model MIRO&CO with field nutrient and phytoplankton data and MERIS-derived surface chlorophyll a images, *Journal of Marine Systems*, 64, 1-4, 66-88. [DOI](https://doi.org/10.1016/j.jmarsys.2006.01.010)
 
-### 2006
+</details>
+
+<details>
+<summary class="year-summary">2006</summary>
+
 - M. Fettweis, F. Francken, V. Pison, D. Van den Eynde, Suspended particulate matter dynamics and aggregate sizes in a high turbidity area, *Marine Geology*, 235, 1–4, 63-74. [DOI](https://doi.org/10.1016/j.margeo.2006.10.005)
 - M. Mestres, A. Sánchez-Arcilla, J.P. Sierra, C. Mösso, P. Tagliani, O. Möller, L.F. Niencheski, Coastal bays as a sink for pollutants and sediment, *Journal of Coastal Research*, SI39, 1546-1550. [JSTOR](https://www.jstor.org/stable/25743015)
 - A. Pereira, P. Duarte, A. Norro, Different modelling tools of aquatic ecosystems: A proposal for a unified approach, *Ecological Informatics*, 1, 4, 407-421. [DOI](https://doi.org/10.1016/j.ecoinf.2006.09.004)
@@ -250,14 +335,29 @@ associated with its niche selection: a case study in the Gulf of Finland, the Ba
 - D. Marinov, A. Norro, J.-M. Zaldívar, Application of COHERENS model for hydrodynamic investigation of Sacca di Goro coastal lagoon (Italian Adriatic Sea shore), *Ecological Modelling*, 193, 1-2, 52-68. [DOI](https://doi.org/10.1016/j.ecolmodel.2005.07.042)
 - J. Kämpf, M. Sadrinasab, The circulation of the Persian Gulf: a numerical study, *Ocean Science*, 2, 1, 27-41. [DOI](https://doi.org/10.5194/os-2-27-2006)
 
-### 2004
+</details>
+
+<details>
+<summary class="year-summary">2004</summary>
+
 - M. Sadrinasab, J. Kämpf, Three-dimensional flushing times of the Persian Gulf, *Geophysical Research Letters*, 31, L24301. [DOI](https://doi.org/10.1029/2004GL020425)
 - **G. Lacroix**, K. Ruddick, J. Ozer, C. Lancelot, Modelling the impact of the Scheldt and Rhine/Meuse plumes on the salinity distribution in Belgian waters (southern North Sea), *Journal of Sea Research*, 52, 3, 149-163. [DOI](https://doi.org/10.1016/j.seares.2004.01.003)
 - É.J.M Delhez, P. Damm, E. de Goede, J.M. de Kok, F. Dumas, H. Gerritsen, J.E. Jones, J. Ozer, T. Pohlmann, P.S. Rasch, M. Skogen, R. Proctor, Variability of shelf-seas hydrodynamic models: lessons from the NOMADS2 Project, *Journal of Marine Systems*, 45, 1–2, 39-53. [DOI](https://doi.org/10.1016/j.jmarsys.2003.09.003)
 
-### 2003
+</details>
+
+<details>
+<summary class="year-summary">2003</summary>
+
 - P.J. Luyten, J.E. Jones, R. Proctor, A numerical study of the long- and short-term temperature variability and thermal circulation in the North Sea, *Journal of Physical Oceanography*, 33, 1, 37-56. [DOI](https://doi.org/10.1175/1520-0485(2003)033%3C0037:ANSOTL%3E2.0.CO;2)
 - A. Moll, G. Radach, Review of three-dimensional ecological modelling related to the North Sea shelf system: Part 1: models and their results, *Progress in Oceanography*, 57, 2, 175-217. [DOI](https://doi.org/10.1016/S0079-6611(03)00067-3)
 
-### 2002
+</details>
+
+<details>
+<summary class="year-summary">2002</summary>
+
 - G. Umgiesser, P.J. Luyten, S. Carniel, Exploring the thermal cycle of the Northern North Sea area using a 3-D circulation model: the example of PROVESS NNS station, *Journal of Sea Research*, 48, 4, 271-286. [DOI](https://doi.org/10.1016/S1385-1101(02)00193-4)
+
+</details>
+
