@@ -21,7 +21,7 @@ format:
 ---
 
 
-## RECAP - (TITLE !)
+## RECAP - Regional-scale assessment of the land-ocean continuum ecosystems vulnerability to anthropogenic pressure
 
 January 2020 - January 2030
 
@@ -42,7 +42,7 @@ The long-term, collaborative framework of the FED-tWIN program allows for such a
 
 ## Team members involved
 
-Arthur Capet 
+[Arthur Capet](/posts/members/AC) 
 
 ## ECOMOD tasks and responsabilities
 

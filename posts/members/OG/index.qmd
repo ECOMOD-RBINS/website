@@ -26,7 +26,7 @@ format:
 </div>
 
 ## Biography
-Olivier Gourgue is a marine ecosystem modeler, specialized in the development of advanced numerical models to understand coastal and shelf sea ecosystems and their responses to climate change. He coordinates the development of [COHERENS](../../projects/COHERENS), a modular hydrodynamic modeling system that integrates biological and sediment transport components. With a PhD from UCLouvain and postdoctoral experiences at UAntwerp and Boston University, his work has contributed to advancing knowledge of sediment transport in coastal and estuarine environments, as well as the resilience of coastal wetlands. He serves as an Associate Editor for *Estuarine, Coastal and Shelf Science*.
+Olivier Gourgue is a marine ecosystem modeler, specialized in the development of advanced numerical models to understand coastal and shelf sea ecosystems and their responses to climate change. He coordinates the development of [COHERENS](/tools/COHERENS/), a modular hydrodynamic modeling system that integrates biological and sediment transport components. With a PhD from UCLouvain and postdoctoral experiences at UAntwerp and Boston University, his work has contributed to advancing knowledge of sediment transport in coastal and estuarine environments, as well as the resilience of coastal wetlands. He serves as an Associate Editor for *Estuarine, Coastal and Shelf Science*.
 
 ### Experience
 - **Royal Belgian Institute of Natural Sciences** | Brussels, Belgium<br />
@@ -51,7 +51,7 @@ Olivier Gourgue is a marine ecosystem modeler, specialized in the development of
   BSc Engineering Science | 2000-2002
 
 ## Projects
-- [COHERENS:](../../projects/COHERENS) COupled Hydrodynamical-Ecological model for REgioNal and Shelf seas.
+- [COHERENS](/tools/COHERENS/): COupled Hydrodynamical-Ecological model for REgioNal and Shelf seas.
 
 ## Publications
 ### 2025

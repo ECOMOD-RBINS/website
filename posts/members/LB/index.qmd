@@ -26,9 +26,13 @@ Leo's research primarily focuses on marine ecology and marine connectivity, with
 
 
 ## Projects
-- [SYMAPA](../../projects/SYMAPA): SYMAPA
-- [FORCOAST](../../projects/FORCOAST): FORCOAST
-- [eDNAOPTIMA] Assessing biodiversity through eDNA
+- [JPIO-PAGES](/projects/JPIO-PAGES/): Process-based Assessment for the Good Environmental Status.
+- [eDNA-OPTIMA](/projects/eDNA-OPTIMA/): Optimized eDNA methods for accurate biodiversity assessment.
+- [ZERO-IMPACT](/completed-projects/ZERO-IMPACT/): Automatic monitoring of biodiversity in the North Sea using eDNA.
+- [BARFISH](/completed-projects/BARFISH/): Distributie en migratie van de commerciële visbestanden i.e. van tong in de Britse wateren.
+- [COST-SEA-UNICORN](/completed-projects/COST-SEA-UNICORN/): Unifying approaches to marine connectivity for improved resource management for the seas.
+- [SYMAPA](/completed-projects/SYMAPA/): Synergy between mariculture & passive fisheries.
+- [FORCOAST](/completed-projects/FORCOAST/): Earth observation services for fishery, bivalves mariculture and oysterground restoration along european coasts.
 
 ## Publications <!-- Harvard citation style -->
 

@@ -29,7 +29,7 @@ format:
 
 Pauline is an early career physical oceanographer. Pauline's research focuses on modelling the environmental impacts of offshore renewable marine energy infrastructures, particularly floating solar panels within offshore wind farms in the the North Sea. On one hand, she specializes in hydrodynamic modelling, given her background in physics, to study aspects such as current fields and turbulence. On the other hand, she also investigates the biogeochemical processes that solar structures may induce, including bio-colonization, fecal pellet deposition, carbon enrichment of the seabed, sediment dynamics, and benthos equilibrium.  
 
-Pauline recently started her PhD in collaboration with Ghent University, supervised by [Arthur Capet](../AC) and [Jan Vanaverbeke](https://mareco-odnature.naturalsciences.be/teammember/vanaverbeke-jan/) (from [MARECO](https://mareco-odnature.naturalsciences.be/) team).  
+Pauline recently started her PhD in collaboration with Ghent University, supervised by [Arthur Capet](/posts/members/AC/) and [Jan Vanaverbeke](https://mareco-odnature.naturalsciences.be/teammember/vanaverbeke-jan/) (from [MARECO](https://mareco-odnature.naturalsciences.be/) team).  
 
 Pauline enjoys organizing events within the team and at RBINS, and loves traveling to present her research at various conferences.
 
@@ -50,9 +50,9 @@ Pauline enjoys organizing events within the team and at RBINS, and loves traveli
 
 
 ## Projects
-- [ECOMPV:](../../projects/ECOMPV) Eco-designing Marine photoVoltaic installations.
-- [SWIM:](../../projects/SWIM) Solar and WInd energy in the Belgian Marine zone.
-- [COHERENS:](../../projects/COHERENS) COupled Hydrodynamical-Ecological model for REgioNal and Shelf seas.
+- [ECOMPV](/projects/ECOMPV): Eco-designing Marine photoVoltaic installations.
+- [SWIM](/projects/SWIM): Solar and WInd energy in the Belgian Marine zone.
+- [COHERENS](/tools/COHERENS): COupled Hydrodynamical-Ecological model for REgioNal and Shelf seas.
 
 ## Publications
 ### 2025
@@ -60,4 +60,4 @@ _A few publications are coming soon!_
 
 ## Awards
 
-- [Denis P.]{.underline}, Capet A., Vanaverbeke J., Ong E. Z., Kerkhove T.R.H. , Legrand S. 'Assessing the hydrodynamic impacts and carbon deposition pattern associated with floating solar structures within a Belgian offshore wind farm'. VLIZ Marine Science Day, Bruges (BE), 5 March 2025. \[**2nd best presentation award**\]
+- **Denis P.**, Capet A., Vanaverbeke J., Ong E. Z., Kerkhove T.R.H. , Legrand S. 'Assessing the hydrodynamic impacts and carbon deposition pattern associated with floating solar structures within a Belgian offshore wind farm'. VLIZ Marine Science Day, Bruges (BE), 5 March 2025. \[**2nd best presentation award**\]

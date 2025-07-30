@@ -26,7 +26,7 @@ format:
 :::
 
 ## Biography
-Stéphanie Ponsar is a marine system modeller whose research centers on understanding how coastal ecosystems respond to climate change and chemical pollution. She applies a range of methods, including numerical modelling, data assimilation, and machine learning. She has contributed to the development of sediment transport and pollutant transport modules in the COHERENS model. 
+Stéphanie Ponsar is a marine system modeller whose research centers on understanding how coastal ecosystems respond to climate change and chemical pollution. She applies a range of methods, including numerical modelling, data assimilation, and machine learning. She has contributed to the development of sediment transport and pollutant transport modules in the [COHERENS](/tools/COHERENS/) model. 
 
 ### Experience
 -   **Royal Belgian Institute of Natural Sciences** \| Brussels, Belgium<br /> Marine system modeller \| 2003-Current 
@@ -39,6 +39,10 @@ Stéphanie Ponsar is a marine system modeller whose research centers on understa
     -   Master in Mathematics
 -   **Université de Namur** \| Namur, Belgium<br />
     -   Master in Physics
+
+## Projects
+- [MSFD](/activities/reporting/MSFD/): Marine Strategy Framework Directive.
+- [DISARM](/completed-projects/DISARM/): Dumpsites of Munitions: Integrated Science Approach to Risk and Management.
 
 ## Selected publications
 - Termonia P., B. Van Schaeybroeck, L. De Cruz, R. De Troch, S. Caluwaerts, O. Giot, R. Hamdi, S. Vannitsem, F. Duchêne, P. Willems, H. Tabari, E. Van Uytven, P. Hosseinzadehtalaei, N. van Lipzig, H. Wouters, S. Vanden Broucke, J.-P. van Ypersele, P. Marbaix, C. Villanueve-Birriel, X. Fettweis, C. Wuard, C. Scholzen, S. Doutreloup, K. De Ridder, A. Gobin, D. Lauwaet, T. Stavrakou, M. Bauwens, J. F. Muller,  P. Luyten, **S. Ponsar**, D. Van den Eynde, E. Pottiaux (2018) The CORDEX.be initiative as a foundation for climate services in Belgium. Climate Services, 11, 49-61. [DOI](10.1016/j.diser.2018.05.001, 2018).

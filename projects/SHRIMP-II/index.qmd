@@ -1,6 +1,6 @@
 ---
 title: "SHRIMP-II"
-description: "Application du modèle COHERENS à l'analyse du cycle de vie des crevettes et des huîtres"
+description: "Application of the COHERENS model to the life cycle analysis of shrimp and oysters"
 author: ""
 date: ""
 categories: [Modeling, Capacity building]
@@ -31,7 +31,7 @@ This project aims to enhance the understanding and sustainable management of coa
 
 ## Team members involved
 
-Geneviève Lacroix
+[Geneviève Lacroix](/posts/members/GL)
 
 ## ECOMOD tasks and responsabilities
 

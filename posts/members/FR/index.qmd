@@ -39,9 +39,9 @@ Florian Ricour is a marine data scientist specializing in machine learning, biog
   BSc Engineering Science | 2013-2016
 
 ## Projects
-- [FOCCUS](../../projects/FOCCUS): Forecasting and observing the open-to-coastal ocean for Copernicus users
-- [ECOMPV](../../projects/ECOMPV): Eco-designing Marine PhotoVoltaic installations
-- [OWIDEX](../../projects/OWIDEX): Offshore Wind Decommissioning Expertise Centre
+- [FOCCUS](/projects/FOCCUS): Forecasting and observing the open-to-coastal ocean for Copernicus users
+- [ECOMPV](/projects/ECOMPV): Eco-designing Marine PhotoVoltaic installations
+- [OWIDEX](/projects/OWIDEX): Offshore Wind Decommissioning Expertise Centre
 
 ## Publications <!-- Harvard citation style -->
 
