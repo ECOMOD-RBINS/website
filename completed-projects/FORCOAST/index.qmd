@@ -3,7 +3,7 @@ title: "FORCOAST"
 description: "Earth observation services for fishery, bivalves mariculture and oysterground restoration along european coasts"
 author: ""
 date: ""
-categories: [Modeling]
+categories: [Modeling, Larval dispersal]
 image: "images/FORCOAST-logo2.jpg"
 
 execute:

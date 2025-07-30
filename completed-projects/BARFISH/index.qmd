@@ -1,6 +1,6 @@
 ---
 title: "BARFISH"
-description: "Distributie en migratie van de commerciële visbestanden i.e. van tong in de Britse wateren"
+description: "Distribution and migration of commercial fish stocks, i.e. sole in British waters"
 author: ""
 date: ""
 categories: [Modeling, Larval dispersal, Connectivity]

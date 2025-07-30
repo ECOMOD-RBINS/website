@@ -3,7 +3,7 @@ title: "COST-SEA-UNICORN"
 description: "Unifying approaches to marine connectivity for improved resource management for the seas"
 author: ""
 date: ""
-categories: [Modeling]
+categories: [Modeling, Larval dispersal]
 image: "images/Sea-Unicorn-logo.jpg"
 
 execute:
