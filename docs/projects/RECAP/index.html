@@ -69,6 +69,15 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=G-SG3PE0SS01"></script>
+
+<script type="text/javascript">
+
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+gtag('config', 'G-SG3PE0SS01', { 'anonymize_ip': true});
+</script>
 
 
 <link rel="stylesheet" href="../../styles.css">
@@ -115,6 +124,13 @@ ul.task-list li input[type="checkbox"] {
 <span class="menu-text">Publications</span></a>
   </li>  
 </ul>
+            <ul class="navbar-nav navbar-nav-scroll ms-auto">
+  <li class="nav-item compact">
+    <a class="nav-link" href="https://www.linkedin.com/company/ecomod-rbins/about/"> <i class="bi bi-linkedin" role="img" aria-label="LinkedIn">
+</i> 
+<span class="menu-text"></span></a>
+  </li>  
+</ul>
           </div> <!-- /navcollapse -->
             <div class="quarto-navbar-tools">
 </div>
@@ -157,8 +173,8 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<section id="recap---title" class="level2">
-<h2 class="anchored" data-anchor-id="recap---title">RECAP - (TITLE !)</h2>
+<section id="recap---regional-scale-assessment-of-the-land-ocean-continuum-ecosystems-vulnerability-to-anthropogenic-pressure" class="level2">
+<h2 class="anchored" data-anchor-id="recap---regional-scale-assessment-of-the-land-ocean-continuum-ecosystems-vulnerability-to-anthropogenic-pressure">RECAP - Regional-scale assessment of the land-ocean continuum ecosystems vulnerability to anthropogenic pressure</h2>
 <p>January 2020 - January 2030</p>
 </section>
 <section id="summary" class="level2">
@@ -174,7 +190,7 @@ ul.task-list li input[type="checkbox"] {
 </section>
 <section id="team-members-involved" class="level2">
 <h2 class="anchored" data-anchor-id="team-members-involved">Team members involved</h2>
-<p>Arthur Capet</p>
+<p><a href="../..\posts/members/AC">Arthur Capet</a></p>
 </section>
 <section id="ecomod-tasks-and-responsabilities" class="level2">
 <h2 class="anchored" data-anchor-id="ecomod-tasks-and-responsabilities">ECOMOD tasks and responsabilities</h2>
@@ -265,7 +281,7 @@ ul.task-list li input[type="checkbox"] {
     }
       var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
       var mailtoRegex = new RegExp(/^mailto:/);
-        var filterRegex = new RegExp('/' + window.location.host + '/');
+        var filterRegex = new RegExp("https:\/\/ecomod\.be");
       var isInternal = (href) => {
           return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
       }

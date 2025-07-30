@@ -2,26 +2,154 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://ecomod.be/activities.html</loc>
-    <lastmod>2025-07-24T09:40:54.471Z</lastmod>
+    <lastmod>2025-07-24T14:47:48.903Z</lastmod>
   </url>
   <url>
     <loc>https://ecomod.be/index.html</loc>
-    <lastmod>2025-07-24T09:40:37.034Z</lastmod>
+    <lastmod>2025-07-30T09:33:51.613Z</lastmod>
   </url>
   <url>
     <loc>https://ecomod.be/tools/CSU/index.html</loc>
-    <lastmod>2025-07-24T14:47:49.185Z</lastmod>
+    <lastmod>2025-07-30T10:01:56.086Z</lastmod>
   </url>
   <url>
     <loc>https://ecomod.be/activities/reporting/MSFD/index.html</loc>
-    <lastmod>2025-07-24T15:09:05.563Z</lastmod>
+    <lastmod>2025-07-30T09:28:59.939Z</lastmod>
   </url>
   <url>
     <loc>https://ecomod.be/tools/COHERENS/index.html</loc>
-    <lastmod>2025-07-24T14:47:49.156Z</lastmod>
+    <lastmod>2025-07-30T09:23:16.919Z</lastmod>
   </url>
   <url>
     <loc>https://ecomod.be/tools.html</loc>
     <lastmod>2025-07-24T14:47:49.147Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ecomod.be/projects/ECOMPV/index.html</loc>
+    <lastmod>2025-07-30T10:01:56.016Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ecomod.be/team.html</loc>
+    <lastmod>2025-07-23T13:08:59.284Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ecomod.be/projects/SWIM/index.html</loc>
+    <lastmod>2025-07-30T10:01:56.080Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ecomod.be/projects/BG-PART/index.html</loc>
+    <lastmod>2025-07-30T10:01:55.984Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ecomod.be/completed-projects/DISARM/index.html</loc>
+    <lastmod>2025-07-30T10:01:55.824Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ecomod.be/projects.html</loc>
+    <lastmod>2025-07-23T13:08:58.544Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ecomod.be/projects/eDNA-OPTIMA/index.html</loc>
+    <lastmod>2025-07-30T10:01:56.083Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ecomod.be/completed-projects/SYMAPA/index.html</loc>
+    <lastmod>2025-07-30T10:01:55.835Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ecomod.be/completed-projects/COST-SEA-UNICORN/index.html</loc>
+    <lastmod>2025-07-30T10:01:55.808Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ecomod.be/completed-projects/BARFISH/index.html</loc>
+    <lastmod>2025-07-30T09:37:40.125Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ecomod.be/completed-projects/FORCOAST/index.html</loc>
+    <lastmod>2025-07-30T10:01:55.832Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ecomod.be/completed-projects/ZERO-IMPACT/index.html</loc>
+    <lastmod>2025-07-30T10:01:55.844Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ecomod.be/projects/JPIO-PAGES/index.html</loc>
+    <lastmod>2025-07-30T09:37:40.187Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ecomod.be/projects/SHRIMP-II/index.html</loc>
+    <lastmod>2025-07-30T10:01:56.072Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ecomod.be/projects/OWIDEX/index.html</loc>
+    <lastmod>2025-07-30T10:01:56.053Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ecomod.be/projects/FOCCUS/index.html</loc>
+    <lastmod>2025-07-30T10:01:56.032Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ecomod.be/projects/CODEBLUE/index.html</loc>
+    <lastmod>2025-07-30T10:01:56.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ecomod.be/posts/members/VD/index.html</loc>
+    <lastmod>2025-07-30T10:01:55.969Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ecomod.be/posts/members/PD/index.html</loc>
+    <lastmod>2025-07-30T10:01:55.953Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ecomod.be/posts/members/NTL/index.html</loc>
+    <lastmod>2025-07-30T10:01:55.922Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ecomod.be/posts/members/HR/index.html</loc>
+    <lastmod>2025-07-30T10:01:55.873Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ecomod.be/posts/members/FR/index.html</loc>
+    <lastmod>2025-07-30T10:01:55.854Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ecomod.be/news.html</loc>
+    <lastmod>2025-07-30T10:01:55.848Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ecomod.be/completed-projects/CLIMDIS/index.html</loc>
+    <lastmod>2025-07-30T10:01:55.803Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ecomod.be/posts/members/AC/index.html</loc>
+    <lastmod>2025-07-30T10:01:55.851Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ecomod.be/posts/members/GL/index.html</loc>
+    <lastmod>2025-07-30T10:01:55.860Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ecomod.be/posts/members/LB/index.html</loc>
+    <lastmod>2025-07-30T10:01:55.904Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ecomod.be/posts/members/OG/index.html</loc>
+    <lastmod>2025-07-30T10:01:55.945Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ecomod.be/posts/members/SP/index.html</loc>
+    <lastmod>2025-07-30T10:01:55.969Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ecomod.be/projects/DEHEAT/index.html</loc>
+    <lastmod>2025-07-30T10:01:56.016Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ecomod.be/projects/OUTFLOW/index.html</loc>
+    <lastmod>2025-07-30T10:01:56.045Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ecomod.be/projects/RECAP/index.html</loc>
+    <lastmod>2025-07-30T10:01:56.063Z</lastmod>
   </url>
 </urlset>

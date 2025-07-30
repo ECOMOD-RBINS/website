@@ -69,6 +69,15 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=G-SG3PE0SS01"></script>
+
+<script type="text/javascript">
+
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+gtag('config', 'G-SG3PE0SS01', { 'anonymize_ip': true});
+</script>
 
 
 <link rel="stylesheet" href="../../../styles.css">
@@ -115,6 +124,13 @@ ul.task-list li input[type="checkbox"] {
 <span class="menu-text">Publications</span></a>
   </li>  
 </ul>
+            <ul class="navbar-nav navbar-nav-scroll ms-auto">
+  <li class="nav-item compact">
+    <a class="nav-link" href="https://www.linkedin.com/company/ecomod-rbins/about/"> <i class="bi bi-linkedin" role="img" aria-label="LinkedIn">
+</i> 
+<span class="menu-text"></span></a>
+  </li>  
+</ul>
           </div> <!-- /navcollapse -->
             <div class="quarto-navbar-tools">
 </div>
@@ -154,7 +170,7 @@ ul.task-list li input[type="checkbox"] {
 </div>
 <section id="biography" class="level2">
 <h2 class="anchored" data-anchor-id="biography">Biography</h2>
-<p>Stéphanie Ponsar is a marine system modeller whose research centers on understanding how coastal ecosystems respond to climate change and chemical pollution. She applies a range of methods, including numerical modelling, data assimilation, and machine learning. She has contributed to the development of sediment transport and pollutant transport modules in the COHERENS model.</p>
+<p>Stéphanie Ponsar is a marine system modeller whose research centers on understanding how coastal ecosystems respond to climate change and chemical pollution. She applies a range of methods, including numerical modelling, data assimilation, and machine learning. She has contributed to the development of sediment transport and pollutant transport modules in the <a href="../../..\tools/COHERENS/">COHERENS</a> model.</p>
 <section id="experience" class="level3">
 <h3 class="anchored" data-anchor-id="experience">Experience</h3>
 <ul>
@@ -179,6 +195,13 @@ ul.task-list li input[type="checkbox"] {
 </ul></li>
 </ul>
 </section>
+</section>
+<section id="projects" class="level2">
+<h2 class="anchored" data-anchor-id="projects">Projects</h2>
+<ul>
+<li><a href="../../..\activities/reporting/MSFD/">MSFD</a>: Marine Strategy Framework Directive.</li>
+<li><a href="../../..\completed-projects/DISARM/">DISARM</a>: Dumpsites of Munitions: Integrated Science Approach to Risk and Management.</li>
+</ul>
 </section>
 <section id="selected-publications" class="level2">
 <h2 class="anchored" data-anchor-id="selected-publications">Selected publications</h2>
@@ -265,7 +288,7 @@ ul.task-list li input[type="checkbox"] {
     }
       var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
       var mailtoRegex = new RegExp(/^mailto:/);
-        var filterRegex = new RegExp('/' + window.location.host + '/');
+        var filterRegex = new RegExp("https:\/\/ecomod\.be");
       var isInternal = (href) => {
           return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
       }

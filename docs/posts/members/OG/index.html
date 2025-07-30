@@ -69,6 +69,15 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=G-SG3PE0SS01"></script>
+
+<script type="text/javascript">
+
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+gtag('config', 'G-SG3PE0SS01', { 'anonymize_ip': true});
+</script>
 
 
 <link rel="stylesheet" href="../../../styles.css">
@@ -115,6 +124,13 @@ ul.task-list li input[type="checkbox"] {
 <span class="menu-text">Publications</span></a>
   </li>  
 </ul>
+            <ul class="navbar-nav navbar-nav-scroll ms-auto">
+  <li class="nav-item compact">
+    <a class="nav-link" href="https://www.linkedin.com/company/ecomod-rbins/about/"> <i class="bi bi-linkedin" role="img" aria-label="LinkedIn">
+</i> 
+<span class="menu-text"></span></a>
+  </li>  
+</ul>
           </div> <!-- /navcollapse -->
             <div class="quarto-navbar-tools">
 </div>
@@ -154,7 +170,7 @@ ul.task-list li input[type="checkbox"] {
 </div>
 <section id="biography" class="level2">
 <h2 class="anchored" data-anchor-id="biography">Biography</h2>
-<p>Olivier Gourgue is a marine ecosystem modeler, specialized in the development of advanced numerical models to understand coastal and shelf sea ecosystems and their responses to climate change. He coordinates the development of <a href="../../projects/COHERENS">COHERENS</a>, a modular hydrodynamic modeling system that integrates biological and sediment transport components. With a PhD from UCLouvain and postdoctoral experiences at UAntwerp and Boston University, his work has contributed to advancing knowledge of sediment transport in coastal and estuarine environments, as well as the resilience of coastal wetlands. He serves as an Associate Editor for <em>Estuarine, Coastal and Shelf Science</em>.</p>
+<p>Olivier Gourgue is a marine ecosystem modeler, specialized in the development of advanced numerical models to understand coastal and shelf sea ecosystems and their responses to climate change. He coordinates the development of <a href="../../..\tools/COHERENS/">COHERENS</a>, a modular hydrodynamic modeling system that integrates biological and sediment transport components. With a PhD from UCLouvain and postdoctoral experiences at UAntwerp and Boston University, his work has contributed to advancing knowledge of sediment transport in coastal and estuarine environments, as well as the resilience of coastal wetlands. He serves as an Associate Editor for <em>Estuarine, Coastal and Shelf Science</em>.</p>
 <section id="experience" class="level3">
 <h3 class="anchored" data-anchor-id="experience">Experience</h3>
 <ul>
@@ -176,7 +192,7 @@ ul.task-list li input[type="checkbox"] {
 <section id="projects" class="level2">
 <h2 class="anchored" data-anchor-id="projects">Projects</h2>
 <ul>
-<li><a href="../../projects/COHERENS">COHERENS:</a> COupled Hydrodynamical-Ecological model for REgioNal and Shelf seas.</li>
+<li><a href="../../..\tools/COHERENS/">COHERENS</a>: COupled Hydrodynamical-Ecological model for REgioNal and Shelf seas.</li>
 </ul>
 </section>
 <section id="publications" class="level2">
@@ -365,7 +381,7 @@ ul.task-list li input[type="checkbox"] {
     }
       var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
       var mailtoRegex = new RegExp(/^mailto:/);
-        var filterRegex = new RegExp('/' + window.location.host + '/');
+        var filterRegex = new RegExp("https:\/\/ecomod\.be");
       var isInternal = (href) => {
           return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
       }

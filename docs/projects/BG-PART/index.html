@@ -69,6 +69,15 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=G-SG3PE0SS01"></script>
+
+<script type="text/javascript">
+
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+gtag('config', 'G-SG3PE0SS01', { 'anonymize_ip': true});
+</script>
 
 
 <link rel="stylesheet" href="../../styles.css">
@@ -115,6 +124,13 @@ ul.task-list li input[type="checkbox"] {
 <span class="menu-text">Publications</span></a>
   </li>  
 </ul>
+            <ul class="navbar-nav navbar-nav-scroll ms-auto">
+  <li class="nav-item compact">
+    <a class="nav-link" href="https://www.linkedin.com/company/ecomod-rbins/about/"> <i class="bi bi-linkedin" role="img" aria-label="LinkedIn">
+</i> 
+<span class="menu-text"></span></a>
+  </li>  
+</ul>
           </div> <!-- /navcollapse -->
             <div class="quarto-navbar-tools">
 </div>
@@ -159,7 +175,7 @@ ul.task-list li input[type="checkbox"] {
 
 
 <section id="bg-part---biogeochemical-particle-interactions-and-feedback-loops-on-the-belgian-continental-shelf" class="level2">
-<h2 class="anchored" data-anchor-id="bg-part---biogeochemical-particle-interactions-and-feedback-loops-on-the-belgian-continental-shelf">BG-PART - BioGeochemical PARTicle interactions and feedback loops on the Belgian Continental Shelf</h2>
+<h2 class="anchored" data-anchor-id="bg-part---biogeochemical-particle-interactions-and-feedback-loops-on-the-belgian-continental-shelf"><a href="https://www.belspo.be/belspo//Fedra/proj.asp?l=de&amp;COD=B2%2F202%2FP1%2FBG%2DPART">BG-PART</a> - BioGeochemical PARTicle interactions and feedback loops on the Belgian Continental Shelf</h2>
 <p>December 2020 - September 2025</p>
 </section>
 <section id="summary" class="level2">
@@ -168,7 +184,7 @@ ul.task-list li input[type="checkbox"] {
 </section>
 <section id="team-members-involved" class="level2">
 <h2 class="anchored" data-anchor-id="team-members-involved">Team members involved</h2>
-<p>Nathan Terseleer and Youri Jourdevant</p>
+<p><a href="../..\posts/members/NTL/">Nathan Terseleer</a> – Youri Jourdevant</p>
 </section>
 <section id="ecomod-responsibilities" class="level2">
 <h2 class="anchored" data-anchor-id="ecomod-responsibilities">ECOMOD responsibilities</h2>
@@ -262,7 +278,7 @@ ul.task-list li input[type="checkbox"] {
     }
       var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
       var mailtoRegex = new RegExp(/^mailto:/);
-        var filterRegex = new RegExp('/' + window.location.host + '/');
+        var filterRegex = new RegExp("https:\/\/ecomod\.be");
       var isInternal = (href) => {
           return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
       }
