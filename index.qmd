@@ -23,10 +23,6 @@ ECOMOD is part of the [ECODAM](https://www.naturalsciences.be/nl/wetenschap/onde
 :::
 :::::
 
-::: large-text
-<b>ECOMOD focuses on aquatic ecosystems and how these relate to societal matters and has a strong expretise in the development and use of marine ecosystems modelling tools to support the management of the marine environment, particularly for Belgian waters, but also the Southern Ocean, Benin and Vietnam.</b>
-:::
-
 ## ![](images/homepage/Picto_Vision.png){height="50"} Our vision
 
 ![](images/homepage/Vision_150dpi.png){height="300"}
@@ -54,7 +50,7 @@ To achieve our goals, we are developing and using different types of models (hyd
 :::
 
 
--   ECOMOD is responsible for the **development, upgrading and maintenance** of the RBINS Research Infrastructure [**COHERENS**](posts/projects/COHERENS) modelling system, which is publicly available.
+-   ECOMOD is responsible for the **development, upgrading and maintenance** of the RBINS Research Infrastructure [**COHERENS**](tools/COHERENS) modelling system, which is publicly available.
 
 ![](images/homepage/COHERENS_Modelling_System.jpg){width="500" fig-align="center"}
 
@@ -68,7 +64,9 @@ To achieve our goals, we are developing and using different types of models (hyd
 
 -   ECOMOD is **using modelling tools** such as [**Parcels**](https://oceanparcels.org/index.html), for particle tracking simulations.
 
-
+::: large-text
+Access to [**ECOMOD shared tools**](tools.html)
+:::
 
 ## ![](images/homepage/capacity_building.png){height="50"} Support, training and capacity building
 
@@ -80,7 +78,14 @@ The team **provides support to users** and is involved in **capacity building** 
 
 {{< include custom_html/carousel.html >}}
 
-## ![](images/homepage/applications.png){height="50"} Domain of expertise and applications
+## ![](images/homepage/applications.png){height="50"} Domains of expertise and applications
+
+::: large-text
+**ECOMOD** focuses on **aquatic ecosystems** and how these relate to **societal matters** and has a strong expertise in the development and use of **marine ecosystems modelling tools to support the management of the marine environment**, particularly for North Sea (Belgian waters), but also the Southern Ocean, Benin and Vietnam. 
+
+**Examples of applications (not exhaustive):**
+
+:::
 
 ```{=html}
 <!-- ### To Update (simplify text & include it in the different tabs) - Need pictures representing different applications with self-explaining captions
@@ -105,13 +110,14 @@ The marine models are used to:
 
 ::: panel-tabset
 
-## North Sea, Renewable Energy
+## Renewable energy
 ::: columns
 ::: {.column width="45%"}
 ![](images/homepage/Applications_FPV.png){width="400"}
 :::
-::: {.column width="30%" style="margin-left: 10px;"}
-*Modelling the effects of marine renewable energy offshore structures on hydrodynamics and ecosystem.*
+::: {.column style="margin-left: 10px;"}
+
+*Modelling the effects of marine renewable energy offshore structures on hydrodynamics and ecosystem in the North Sea.*
 <br><br>
 **More details:**
 <br>
@@ -119,13 +125,13 @@ The marine models are used to:
 :::
 :::
 
-## eDNA dispersal
+## eDNA transport
 ::: columns
 ::: {.column width="45%"}
 ![](images/homepage/eDNA.png){width="400"}
 :::
-::: {.column width="30%" style="margin-left: 10px;"}
-*Modelling eDNA transport Lagrangian transport modelling is used to predict origin and dispersal of eDNA and hence provide a more realistic interpretation of eDNA data.*
+::: {.column style="margin-left: 10px;"}
+*Modelling eDNA transport is used to predict origin and dispersal of eDNA and hence provide a more realistic interpretation of eDNA data.*
 <br><br>
 **More details:**
 <br>
@@ -138,8 +144,8 @@ The marine models are used to:
 ::: {.column width="45%"}
 ![](images/homepage/BARFISH.jpg){width="400"}
 :::
-::: {.column width="30%" style="margin-left: 10px;"}
-*To assess the dispersal and connectivity of marine organisms, larval transport is modelled by coupling the COHERENS hydrodynamic model with a Lagrangian particle drift model*
+::: {.column style="margin-left: 10px;"}
+*Modelling dispersal and connectivity of marine organisms, by using larval transport models such as the [COHERENS](tools/coherens) hydrodynamic model coupled with a Lagrangian particle drift model.*
 <br><br>
 **More details:**
 <br>
@@ -150,18 +156,32 @@ The marine models are used to:
 :::
 :::
 
-## North Sea, Pollutants
+## Pollutants
 ::: columns
 ::: {.column width="45%"}
 ![](images/homepage/MSFD_Pollutants.png){width="400"}
 :::
-::: {.column width="30%" style="margin-left: 10px;"}
+::: {.column style="margin-left: 10px;"}
 *Modelling the effects of pollutants on the ecosystem for the Marine Strategy Framework Directive (MSFD).*
 <br><br>
 **More details:**
 <br>
-[DISARM](completed-projects/DISARM) - [MSFD](activities/MSFD)
+[DISARM](completed-projects/DISARM) - [MSFD](activities/reporting/MSFD)
 
+:::
+:::
+
+## Organo-mineral interactions
+::: columns
+::: {.column width="45%"}
+![](images/homepage/Algae_TEP.png){width="400"}
+:::
+::: {.column style="margin-left: 10px;"}
+*Modelling biogeochemical particle interactions and feedback loops on the Belgian continental shelf.*
+<br><br>
+**More details:**
+<br>
+[BG-PART](projects/BG-PART)
 :::
 :::
 
@@ -170,7 +190,7 @@ The marine models are used to:
 ::: {.column width="45%"}
 ![](images/homepage/shrimp.jpg){width="400"}
 :::
-::: {.column width="30%" style="margin-left: 10px;"}
+::: {.column style="margin-left: 10px;"}
 *Enhance the understanding and sustainable management of coastal aquatic resources in the Lake Nokoué-Cotonou Channel region.*
 <br><br>
 **More details:**
@@ -184,7 +204,7 @@ The marine models are used to:
 ::: {.column width="45%"}
 ![](images/homepage/Halong_Bay.jpg){width="400"}
 :::
-::: {.column width="30%" style="margin-left: 10px;"}
+::: {.column style="margin-left: 10px;"}
 *Understanding the extent of the impact of pollutants and the effects of human activity and climate change on water quality in Ha Long Bay.*
 <br><br>
 **More details:**
