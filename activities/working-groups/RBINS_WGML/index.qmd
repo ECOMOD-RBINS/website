@@ -1,0 +1,33 @@
+---
+title: "RBINS WGML"
+description: "Working Group on Machine Learning"
+author: ""
+date: ""
+categories: [Machine learning]
+image: "images/mlwg.png"
+draft: false # set to true if the page is not ready yet, otherwise set to false
+
+execute:
+  echo: false
+  warning: false
+  error: true
+  cache: true
+  
+format: 
+  html:
+    page-layout: full
+---
+
+## RBINS WGML - RBINS Working Group on Machine Learning 
+
+## Summary
+
+**The Working Group on Machine Learning is dedicated to explore machine learning literature, discuss relevant topics, encourage interdisciplinary collaboration through research proposals, and tackle project-related challenges.**
+
+In response to the rapid advancements in artificial intelligence and its transformative impact on both society and scientific research, scientists at RBINS have established a dedicated working group. This group is focused on exploring machine learning literature, engaging in discussions on relevant topics, promoting interdisciplinary collaboration through innovative research proposals, and addressing challenges encountered in various projects.
+
+## Team members involved
+
+- [Florian Ricour](/posts/members/FR)</br>
+- [Léo Barbut](/posts/members/LB)</br>
+- [Stéphanie Ponsar](/posts/members/SP)
