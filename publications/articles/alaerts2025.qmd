@@ -1,0 +1,22 @@
+---
+title: "An integrated high-resolution bathymetric model for the Danube Delta system"
+type: "article"
+author: "Alaerts et al."
+year: "2025"
+publication: "Earth System Science Data"
+preprint: ""
+doi: "https://doi.org/10.5194/essd-17-3125-2025"
+materials: ""
+toc: false
+categories:
+  - Danube
+  - bathymetry
+---
+
+## Citation
+
+> Alaerts, L., Lambrechts, J., Randresihaja, N.R., Vandenbulcke, L., **Gourgue, O.**,  Hanert, E., Grégoire, M. (2025), An integrated high-resolution bathymetric model for the Danube Delta system, *Earth System Science Data*, 17, 7, 3125-3140.
+
+## Abstract
+
+Acting as a buffer between the Danube and the Black Sea, the Danube Delta plays an important role in regulating the hydro-biochemical flows of this land–sea continuum. Despite its importance, very few studies have focused on the impact of the Danube Delta on the different fluxes between the Danube and the Black Sea. One of the first steps in characterizing this land–sea continuum is to describe the bathymetry of the delta. However, there are no complete, easily accessible bathymetric data on all three branches of the delta to support hydrodynamic, biogeochemical, or ecological studies. In this study, we aim to fill this gap by combining four different datasets, three in the river and one for the riverbanks, each varying in density and spatial distribution, to create a high-resolution bathymetry dataset. The bathymetric data were interpolated on a hybrid curvilinear–unstructured mesh with an anisotropic inverse distance weighting (IDW) interpolation method. The resulting product offers resolutions ranging from 2 m in a connection zone to 100 m in one of the straight unidirectional channels. Cross-validation of the dataset underlined the importance of the data source spatial pattern, with average root mean square errors (RMSEs) of 0.55 %, 6.3 %, and 27.6 % for river segments covered by the densest to coarsest datasets. These error rates are comparable to those observed in bathymetry interpolation in rivers with similar source datasets. The bathymetry presented in this study is the first unique, high-resolution, comprehensive, and easily accessible bathymetric model covering all three branches of the Danube Delta. The dataset is available at [(Alaerts et al., 2024)](https://doi.org/10.5281/zenodo.14055741).

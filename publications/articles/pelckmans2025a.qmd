@@ -1,0 +1,23 @@
+---
+title: "Strong attenuation of high water levels observed in tropical mangroves"
+type: "article"
+author: "Pelckmans et al."
+year: "2025"
+publication: "Limnology and Oceanography"
+preprint: ""
+doi: "https://doi.org/10.1002/lno.70131"
+materials: ""
+toc: false
+categories:
+  - In-situ
+  - Hydrodynamics
+  - Tides
+---
+
+## Citation
+
+> Pelckmans, I., Vermeulen, B., Ramos-Veliz, J.A., Rosado-Moncayo, A.M., Belliard, J.P., **Gourgue, O.**, Slobbe, C., Dominguez-Granda, L.E., Temmerman, S. (2025), Strong attenuation of high water levels observed in tropical mangroves, *Limnology and Oceanography* (early view).
+
+## Abstract
+
+Mangroves are more and more recognized for nature-based mitigation of flood risks in low-lying coastal zones, which host a disproportionately large part of the global population. Aerial roots, branches, and canopy of mangrove trees exert friction on the water flow, thereby reducing the propagation of high water levels through the forest. Field measurements of high water level attenuation rates are limited so far to mangrove forests situated at higher-latitude subtropical settings, where aerial roots are much sparser and lower than in low-latitude tropical mangroves. Here, for the first time, we measured high water level attenuation in a tropical Rhizophora forest, where aerial roots are several meters high and water levels never exceeded the aerial root height. Our measurements reveal attenuation rates between 42 ± 9.8 and 46 ± 9.8 cm km−1, which are the highest attenuation rates ever recorded in a mangrove forest, but an exponential rate is more suited to quantify high water level attenuation. In contrast to observations inside the mangrove forest, our observations showed that the propagation of high water levels through a 20 km long tidal channel fringed by wide mangrove areas was amplified, but that high water level amplification was reduced for higher tides with deeper flooding of the fringing mangroves. Our results provide the first empirical assessment of flood protection by tropical Rhizophora mangroves. As Rhizophora is globally the most common genus among mangroves, we propose that our reported high attenuation rates should be incorporated in future assessments of nature-based flood risk mitigation by mangroves.
