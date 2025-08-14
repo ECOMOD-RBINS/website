@@ -1,0 +1,23 @@
+---
+title: "Spatial distribution of per- and polyfluoroalkyl substances (PFAS) in natural and restored intertidal wetlands in the Scheldt estuary"
+type: "article"
+author: "Groffen et al."
+year: "2025"
+publication: "Journal of Hazardous Materials"
+preprint: ""
+doi: "https://doi.org/10.1016/j.jhazmat.2025.139247"
+materials: ""
+toc: false
+categories:
+  - Saltmarshes
+  - In-situ
+  - PFAS
+---
+
+## Citation
+
+> Groffen, T., Schouten, K., Donaire Zamora, J., **Gourgue, O.**, Bervoets, L., Temmerman, S. (2025), Spatial distribution of per- and polyfluoroalkyl substances (PFAS) in natural and restored intertidal wetlands in the Scheldt estuary, *Journal of Hazardous Materials*, 496, 139247.
+
+## Abstract
+
+Intertidal wetlands are increasingly threatened by pollutants such as per- and polyfluoroalkyl substances (PFAS), yet their role in PFAS retention and distribution remains underexplored. This study investigated PFAS accumulation in sediments from an old natural and a recently restored intertidal wetland, examining how eco-geomorphology, sediment characteristics, and distance from the estuarine main channel may affect PFAS fate. This study is one of the first to assess the impact of tidal re-introduction on PFAS contamination in a restored wetland. Both legacy and emerging PFAS were detected, with PFBS and 6:2 FTS dominating the profiles. Tidal restoration significantly increased PFAS accumulation, supporting the potential of wetland restoration as a nature-based solution for PFAS removal: concentrations of PFOS, PFOA, and PFBS rose by 12x, 3x, and 5x, respectively, and more types of PFAS were observed. This study provides the first field-based indication that eco-geomorphology – particularly vegetation, surface elevation, and related flow attenuation and enhanced sediment deposition – plays an important role in shaping the spatial distribution of PFAS in intertidal wetlands. Sediment characteristics and proximity to the main estuarine channel played lesser roles. Our findings show that tidal marshes act as both sinks and potential filters for PFAS, highlighting the dual role of wetlands in long-term contaminant storage and phytoremediation, with important implications for estuarine PFAS dynamics and management. Continued monitoring and site-specific risk assessments are essential to ensure long-term functionality and safeguard ecosystem and human health.

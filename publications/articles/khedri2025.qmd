@@ -1,0 +1,22 @@
+---
+title: "Reconciling the impact of mobile bottom-contact fishing on marine organic carbon sequestration"
+type: "article"
+author: "Khedri et al."
+year: "2025"
+publication: "ICES Journal of Marine Science "
+preprint: ""
+doi: ""
+materials: ""
+toc: false
+categories:
+  - Trawling
+  - Carbon
+  - Modeling
+---
+
+## Citation
+
+> Khedri, P., **Gourgue, O.**, Depestele, J., van de Velde, S., Arndt, S., Reconciling the impact of mobile bottom-contact fishing on marine organic carbon sequestration, *ICES Journal of Marine Science* (accepted).
+
+## Abstract
+

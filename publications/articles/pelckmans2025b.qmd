@@ -1,0 +1,23 @@
+---
+title: "Mangrove vegetation density and channel drainage density have trade-off effects on nature-based flood risk mitigation in estuaries"
+type: "article"
+author: "Pelckmans et al."
+year: "2025"
+publication: "Journal of Geophysical Research: Oceans"
+preprint: ""
+doi: "https://doi.org/10.1029/2025JC022398"
+materials: ""
+toc: false
+categories:
+  - Mangroves
+  - Modeling
+  - Hydrodynamics
+---
+
+## Citation
+
+> Pelckmans, I., Belliard, J.-P., **Gourgue, O.**, Dominguez-Granda, L.E., Temmerman, S. (2025), Mangrove vegetation density and channel drainage density have trade-off effects on nature-based flood risk mitigation in estuaries, *Journal of Geophysical Research: Oceans*, 130, 7, e2025JC022398.
+
+## Abstract
+
+Mangrove conservation and restoration have been increasingly recognized as cost-effective and sustainable strategies to mitigate the increasing coastal flood risks. As surge or tidal waves propagate through river deltas and estuaries, mangroves can lower peak water levels by exerting friction on the water flow, which results in within-wetland attenuation of high water levels, and by providing flood storage, resulting in along-channel attenuation. While the impact of channels and vegetation on the friction effect has been studied before, the impact on the storage effect is not. Here we present a hydrodynamic model in a tropical subestuary, calibrated and verified with field observations. Through a scenario analysis, we show that with a denser network of secondary subchannels and less dense vegetation, the storage effect becomes stronger, leading to higher along-channel attenuation. The opposite can be observed for the friction effect: we simulate lower within-wetland attenuation rates in case of higher channel drainage density and lower vegetation density. If 2 km wide mangroves fringe the channels, we found the strongest along-channel attenuation in case of a dense network of secondary subchannels with low vegetation density. In contrast, when the mangrove extent is limited, for instance due the presence of aquaculture, a dense network of channels or sparse vegetation can result in the amplification of peak water levels. Future conservation and restoration efforts should consider this trade-off between within-wetland and along-channel attenuation in order for nature-based flood protection to safeguard both human settlements behind unchanneled wetlands and along deltaic channels fringed by mangroves.
