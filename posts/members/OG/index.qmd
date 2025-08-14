@@ -55,7 +55,11 @@ Olivier Gourgue is a marine ecosystem modeler, specialized in the development of
 
 ## Publications
 ### 2025
-- L. Alaerts, J. Lambrechts, N.R. Randresihaja, L. Vandenbulcke, **O. Gourgue**, E. Hanert, M. Grégoire, An integrated high-resolution bathymetric model for the Danube Delta system, *Earth System Science Data Discussion* (accepted). [DOI](https://doi.org/10.5194/essd-2024-529)
+- P. Khedri, **O. Gourgue**, J. Depestele, S. van de Velde, S. Arndt, Reconciling the impact of mobile bottom-contact fishing on marine organic carbon sequestration, *ICES Journal of Marine Science* (accepted).
+- T. Groffen, K. Schouten, J. Donaire Zamora, **O. Gourgue**, L. Bervoets, S. Temmerman, Spatial distribution of per- and polyfluoroalkyl substances (PFAS) in natural and restored intertidal wetlands in the Scheldt estuary, *Journal of Hazardous Materials*, 496, 139247. [DOI](https://doi.org/10.1016/j.jhazmat.2025.139247)
+- I. Pelckmans, J.-P. Belliard, **O. Gourgue**, L.E. Dominguez-Granda, S. Temmerman, Mangrove vegetation density and channel drainage density have trade-off effects on nature-based flood risk mitigation in estuaries, *Journal of Geophysical Research: Oceans*, 130, 7, e2025JC022398. [DOI](https://doi.org/10.1029/2025JC022398)
+- I. Pelckmans, B. Vermeulen, J.A. Ramos-Veliz, A.M. Rosado-Moncayo, J.-P. Belliard, **O. Gourgue**, C. Slobbe, L.E. Dominguez-Granda, S. Temmerman, Strong attenuation of high water levels observed in tropical mangroves, *Limnology and Oceanography* (early view). [DOI](https://doi.org/10.1002/lno.70131)
+- L. Alaerts, J. Lambrechts, N.R. Randresihaja, L. Vandenbulcke, **O. Gourgue**, E. Hanert, M. Grégoire, An integrated high-resolution bathymetric model for the Danube Delta system, *Earth System Science Data*, 17, 7, 3125-3140. [DOI](https://doi.org/10.5194/essd-17-3125-2025)
 - D. Wang, C. Gu, S. Temmerman, J.-P. Belliard, **O. Gourgue**, L. Xue, J. Bai, Coastal marsh vulnerability to sea-level rise is exacerbated by plant species invasion, *Global Change Biology*, 31, 2, e70058. [DOI](https://doi.org/10.1111/gcb.70058)
 - D. Wang, J. Bai, C. Gu, **O. Gourgue**, J.-P. Belliard, L. Cui, Y. Ke, L. Xue, L. Wen, S. Temmerman, How does landscape vegetation configuration regulate local channel initiation in a rapidly expanding micro-tidal system? *Journal of Hydrology*, 649, 132473. [DOI](https://doi.org/10.1016/j.jhydrol.2024.132473) 
 
