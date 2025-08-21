@@ -185,6 +185,21 @@ The marine models are used to:
 :::
 :::
 
+## Eutrophication
+::: columns
+::: {.column width="45%"}
+![](images/homepage/HAB.jpg){width="400"}
+:::
+::: {.column style="margin-left: 10px;"}
+*Modelling the effect of nutrient riverine inputs on eutrophication and estimating the relative impact of different rivers on eutrophication at sea.*
+<br><br>
+**More details:**
+<br>
+[OSPAR_ICG-EMO](activities/working-groups/OSPAR_ICG-EMO) - [EMoSEM](https://odnature.naturalsciences.be/emosem/)
+:::
+:::
+
+
 ## Lake Nokoué, Benin
 ::: columns
 ::: {.column width="45%"}
