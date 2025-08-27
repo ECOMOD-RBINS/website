@@ -4,7 +4,7 @@ description: "Working Group on Machine Learning"
 author: ""
 date: ""
 categories: [Machine learning]
-image: "images/mlwg.png"
+image: "images/WGML.jpg"
 draft: false # set to true if the page is not ready yet, otherwise set to false
 
 execute:
