@@ -1,7 +1,7 @@
 ---
 title: "BG-PART"
 description: "Biogeochemical particle interactions and feedback loops on the Belgian continental shelf"
-categories: [Modeling, Biogeochemical modeling, Suspended particulate matter]
+categories: [Modelling, Biogeochemical modelling, Suspended particulate matter]
 image: "images/BG-PART_logo.png"
 
 execute:

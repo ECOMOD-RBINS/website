@@ -3,7 +3,7 @@ title: "BARFISH"
 description: "Distribution and migration of commercial fish stocks, i.e. sole in British waters"
 author: ""
 date: ""
-categories: [Modeling, Larval dispersal, Connectivity]
+categories: [Modelling, Larval dispersal, Connectivity]
 image: "images/BARFISH.jpg"
 
 execute:

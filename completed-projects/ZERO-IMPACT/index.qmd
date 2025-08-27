@@ -3,7 +3,7 @@ title: "ZERO-IMPACT"
 description: "Automatic monitoring of biodiversity in the North Sea using eDNA"
 author: ""
 date: ""
-categories: [Modeling, eDNA transport]
+categories: [Modelling, eDNA transport]
 image: "images/ZERO-IMPACT.jpg"
 
 execute:

@@ -3,7 +3,7 @@ title: "SYMAPA"
 description: "Synergy between mariculture & passive fisheries"
 author: ""
 date: ""
-categories: [Modeling, Larval dispersal]
+categories: [Modelling, Larval dispersal]
 image: "images/Logo_SYMAPA.png"
 
 execute:

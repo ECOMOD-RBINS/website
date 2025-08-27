@@ -3,7 +3,7 @@ title: "JPIO-PAGES"
 description: "Process-based Assessment for the Good Environmental Status"
 author: ""
 date: ""
-categories: [Modeling, eDNA transport]
+categories: [Modelling, eDNA transport]
 image: "images/JPIOceans.jpg"
 
 execute:

@@ -1,7 +1,7 @@
 ---
 title: "OUTFLOW"
 description: "Quantifying the contribution of fouling fauna to the local carbon budget of an offshore wind farm"
-categories: [Modeling, Offshore renewable energy]
+categories: [Modelling, Offshore renewable energy]
 image: "images/Outflow_logo_final.png"
 
 execute:

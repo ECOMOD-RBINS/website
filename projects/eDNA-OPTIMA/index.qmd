@@ -3,7 +3,7 @@ title: "eDNA-OPTIMA"
 description: "Optimized eDNA methods for accurate biodiversity assessment"
 author: ""
 date: ""
-categories: [Modeling, eDNA transport]
+categories: [Modelling, eDNA transport]
 image: "images/eDNA.png"
 
 execute:
