@@ -1,7 +1,7 @@
 ---
 title: "RECAP"
 description: "Regional-scale assessment of the land-ocean continuum ecosystems vulnerability to anthropogenic pressure"
-categories: [Modeling, Estuaries]
+categories: [Modelling, Estuaries]
 image: "images/the-seacoast-of-pourville-low-tide.jpg"
 
 execute:

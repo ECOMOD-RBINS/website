@@ -1,7 +1,7 @@
 ---
 title: "FOCCUS"
 description: "Forecasting and observing the open-to-coastal ocean for Copernicus users"
-categories: [Ensemble modeling]
+categories: [Ensemble modelling]
 image: "images/FOCCUS.jpg"
 
 execute:

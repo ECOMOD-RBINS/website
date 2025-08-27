@@ -3,7 +3,7 @@ title: "SWIM"
 description: "Solar and wind energy in the Belgian marine zone"
 author: ""
 date: ""
-categories: [Modeling , Offshore renewable energy]
+categories: [Modelling , Offshore renewable energy, Biogeochemical modelling]
 image: "images/SWIM.jpg"
 
 execute:

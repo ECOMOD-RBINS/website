@@ -3,7 +3,7 @@ title: "SHRIMP-II"
 description: "Application of the COHERENS model to the life cycle analysis of shrimp and oysters"
 author: ""
 date: ""
-categories: [Modeling, Capacity building]
+categories: [Modelling, Capacity building]
 image: "images/shrimp.jpg"
 
 execute:

@@ -3,7 +3,7 @@ title: "DISARM"
 description: "Dumpsites of Munitions: Integrated Science Approach to Risk and Management"
 author: ""
 date: ""
-categories: [Modeling, Pollutants]
+categories: [Modelling, Pollutants]
 image: "images/DISARM_logo.jpg"
 draft: false
 

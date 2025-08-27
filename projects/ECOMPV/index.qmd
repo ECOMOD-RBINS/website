@@ -3,7 +3,7 @@ title: "ECOMPV"
 description: "Eco-designing marine photovoltaic installations"
 author: ""
 date: ""
-categories: [Modeling, Offshore renewable energy]
+categories: [Modelling, Offshore renewable energy]
 image: "images/ecompv.jpeg"
 
 execute:
