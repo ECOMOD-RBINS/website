@@ -30,8 +30,16 @@ website:
       - icon: linkedin
         href: https://www.linkedin.com/company/ecomod-rbins/about/
         aria-label: LinkedIn
+      - icon: envelope
+        href: mailto:ecomod-contact@naturalsciences.be
+        aria-label: Email
   page-footer:
-    left: "Copyright &copy; 2025 ECOMOD. All rights reserved."
+    left: "&copy; All rights reserved, RBINS - ECOMOD 2025"
+    center: |
+      <a href="https://www.naturalsciences.be/" aria-label="Home">
+       <img src="favicon.ico" alt="favicon" style="height:24px;vertical-align:middle;margin-right:6px;">
+      </a>
+      ECOMOD is part of the Institute of Natural Sciences (BE)
     right: "Built with [Quarto](https://quarto.org/)"
     background: light
   favicon: favicon.ico
