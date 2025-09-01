@@ -8,14 +8,13 @@ resources: # source info https://quarto.org/docs/websites/website-tools.html#sit
     - projects/SHRIMP-II/images/SHRIMP_Nokoue.png
     - images/homepage/Lake_Lanalhue_Chile.png
 ---
-
-# Marine Ecosystem Modelling (ECOMOD)
+# ![](images/homepage/rbins_logo.jpg){height="160"} Marine Ecosystem Modelling (ECOMOD)
 
 ::::: columns
 ::: {.column style="width:50%; margin-right: 20px; font-size: 20px;  text-align: justify"}
 [**ECOMOD**](team.qmd) is an interdisciplinary team composed of scientists with diverse backgrounds (mechanical engineer, bioengineer, oceanographers, mathematicians, physicists, evolutionary biologist), and expertise in hydrodynamics, sediment transport, biogeochemistry, ecosystem modelling, biophysical modelling, and Individual-Based Modelling.
 
-ECOMOD is part of the [ECODAM](https://www.naturalsciences.be/nl/wetenschap/onderzoek/research-teams/ecosystems-data-processing-and-modelling-ecodam) (Ecosystems, data processing and modelling) group of the Operational Directorate Natural Environment ([OD Nature](https://odnature.naturalsciences.be/home/)) within the Institute of Natural Sciences.
+ECOMOD is part of the [ECODAM](https://www.naturalsciences.be/nl/wetenschap/onderzoek/research-teams/ecosystems-data-processing-and-modelling-ecodam) (Ecosystems, data processing and modelling) group of the Operational Directorate Natural Environment ([OD Nature](https://odnature.naturalsciences.be/home/)) within the [Institute of Natural Sciences](https://www.naturalsciences.be/).
 :::
 
 ::: {.column width="45%"}
