@@ -1,5 +1,15 @@
 [
   {
+    "listing": "/activities.html",
+    "items": [
+      "/activities/working-groups/ICES_WGIPEM/index.html",
+      "/activities/working-groups/ICES_WGMBRED/index.html",
+      "/activities/working-groups/OSPAR_ICG-EMO/index.html",
+      "/activities/working-groups/RBINS_WGML/index.html",
+      "/activities/reporting/MSFD/index.html"
+    ]
+  },
+  {
     "listing": "/projects.html",
     "items": [
       "/projects/BG-PART/index.html",
@@ -24,13 +34,10 @@
     ]
   },
   {
-    "listing": "/activities.html",
+    "listing": "/tools.html",
     "items": [
-      "/activities/working-groups/ICES_WGIPEM/index.html",
-      "/activities/working-groups/ICES_WGMBRED/index.html",
-      "/activities/working-groups/OSPAR_ICG-EMO/index.html",
-      "/activities/working-groups/RBINS_WGML/index.html",
-      "/activities/reporting/MSFD/index.html"
+      "/tools/COHERENS/index.html",
+      "/tools/CSU/index.html"
     ]
   },
   {
@@ -83,13 +90,6 @@
       "/publications/articles/Desmit2018.html",
       "/publications/articles/Maar2018.html",
       "/publications/articles/termonia2018.html"
-    ]
-  },
-  {
-    "listing": "/tools.html",
-    "items": [
-      "/tools/COHERENS/index.html",
-      "/tools/CSU/index.html"
     ]
   }
 ]

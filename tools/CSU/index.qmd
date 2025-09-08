@@ -3,7 +3,7 @@ title: "North Sea model"
 description: " "
 author: ""
 date: ""
-categories: [Modeling]
+categories: [Modelling]
 image: "images/CSU_clean.jpg"
 priority: 2
 
