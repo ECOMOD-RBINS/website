@@ -1,9 +1,20 @@
 # ECOMOD latest updates
 
+## September 2025
+### "Ecosystems in a Changing World" Conference (Sep, 8 - 10)
+The "Ecosystems in a Changing World" conference was jointly organized in Brussels by the Royal Academy for Overseas Sciences, the [Royal Belgian Institute of Natural Sciences](https://www.naturalsciences.be/), and the Chinese Academy of Sciences. This event explored critical themes such as climate change, biodiversity, ecological restoration, and sustainable development, featuring insights from international experts. The program covered diverse topics, including industrial ecosystems, ocean management, desertification, digital innovations, and collaborative research, while also offering networking opportunities and visits to the RBINS museum. On September 9, RBINS hosted the conference, where Stéphanie delivered a presentation titled: "Numerical models to assess the effects of anthropic pressures on marine ecosystems”. Her talk highlighted the applications of the COHERENS model in understanding and mitigating human impacts on marine environments. Thanks Stéphanie for representing us!
+
+![](/images/news/CAS.jpeg){width=400}
+
+### FishBase-SeaLifeBase Symposium (Sep, 1 - 3)
+This year, [RBINS](https://www.naturalsciences.be/) hosted the "23rd [FishBase](www.fishbase.org)-[SeaLifeBase](www.sealifebase.org) Symposium", bringing together leading scientists to discuss the latest research on fish and marine biodiversity. This 2025 hybrid edition gathered around 100 participants in Brussels and 150 online and featured talks spanning a wide range of topics, from taxonomy to genetics, from local studies to global ecosystem models, and from fundamental science and paleontology to applied conservation.This event has highlighted the diversity of fish and marine life research, and the collaborative spirit of the FishBase/SealifeBase consortium. ECOMOD was part of the organisation (Geneviève, Léo, Valérie). Geneviève had the opportunity to give a talk on "Integrating FishBase and SeaLifeBase in marine ecosystem models" and showed many modelling applications of the team.
+
+![](/images/news/fishbase.jpeg){width=400}
+
 ## May 2025
 ### Liège colloquium (May, 26 - May, 30)
 
-This year's the [56th Liège Colloquium](https://www.ocean-colloquium.uliege.be/cms/c_14229949/en/international-liege-colloquium-on-ocean-dynamics?id=c_14229949&id=c_14229949), focused on Marine Carbon Dioxide Removal. Marine-based CDR techniques are gaining attention to achieve the CO2 removal necessary for climate stabilisation. The colloquium brought together experts from diverse disciplines to discuss marine CDR approaches' potential, feasibility, efficiency, risks, and the need for adequate monitoring and policy regulations. Arthur presented, as a co-author; a poster made by Keziah Pepiette and Sandra Arndt (ULB) exploring the response of benthic biogeochemistry to scenario of olivine enrichement, which is perceived as a technically tractable mean to enhance ocean alkalinity, and increase mare CO2 uptake.
+This year's [56th Liège Colloquium](https://www.ocean-colloquium.uliege.be/cms/c_14229949/en/international-liege-colloquium-on-ocean-dynamics?id=c_14229949&id=c_14229949) focused on Marine Carbon Dioxide Removal. Marine-based CDR techniques are gaining attention to achieve the CO2 removal necessary for climate stabilisation. The colloquium brought together experts from diverse disciplines to discuss marine CDR approaches' potential, feasibility, efficiency, risks, and the need for adequate monitoring and policy regulations. Arthur presented, as a co-author; a poster made by Keziah Pepiette and Sandra Arndt (ULB) exploring the response of benthic biogeochemistry to scenario of olivine enrichement, which is perceived as a technically tractable mean to enhance ocean alkalinity, and increase mare CO2 uptake.
 
 ![](/images/news/liegecolloquium.jpg){width=400}
 
@@ -76,7 +87,7 @@ Pauline was awarded the second prize for best oral presentation at the VLIZ Mari
 
 ### "Saviez-vous?" seminar (Feb, 21)
 
-Leo had the opportunity to give a major presentation at the latest "Saviez-vous?" seminar at RBINS, Brussels. His talk focused on interactions between ocean currents and fish larvae, titled: _"Currents and larvae: an invisible journey through the heart of the ocean."_ “Saviez-vous?” is a public lecture series organized by the Royal Belgian Institute of Natural Sciences, offering accessible talks by researchers to share current scientific insights and discoveries with a broad audience.
+Léo had the opportunity to give a major presentation at the latest "Saviez-vous?" seminar at RBINS, Brussels. His talk focused on interactions between ocean currents and fish larvae, titled: _"Currents and larvae: an invisible journey through the heart of the ocean."_ “Saviez-vous?” is a public lecture series organized by the Royal Belgian Institute of Natural Sciences, offering accessible talks by researchers to share current scientific insights and discoveries with a broad audience.
 
 ![](/images/news/leorbins.jpg){width=400}
 
@@ -102,7 +113,6 @@ As a joint team-building activity with the SUMO team, we all went hiking in the 
 ![](/images/news/saefthinge.jpg){width=400}
 
 ## September 2024
-
 ### ICES Annual Science Conference (Sep, 09-12)
 
 Pauline and Arthur attended the ICES Annual Science Conference in Newcastle, UK. As part of the [ECOMPV](/projects/ECOMPV/) project, they both presented their research on modelling the impact of floating solar panels in the North Sea. Arthur focused on the shading and biogeochemical aspects, while Pauline presented results on the hydrodynamic impacts.
