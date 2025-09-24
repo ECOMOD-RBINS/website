@@ -87,6 +87,7 @@ Model results with COHERENS using a nesting strategy, from the Continental Shelf
 <details>
 <summary class="year-summary">2023</summary>
 
+- B. Stechele, **L. Barbut**, **G. Lacroix**, L.A. van Duren, V. Van Lancker, S. Degraer, G.M. Gavazzi, P. Bossier, A.M. Declercq, N. Nevejan, Northern Europe's suitability for offshore European flat oyster (*Ostrea edulis*) habitat restoration based on population dynamics, *Frontiers in Marine Science*, 10, 1224346. [DOI](http://doi.org/10.3389/fmars.2023.1224346)
 - H. Mehrfar, A. Raeisi, M.T. Azad, S.M.R. Reisosadat, Numerical study of the effects of coastal currents and meso-scale eddies on the spread of pollution in the Persian Gulf, *International Journal of Environmental Science and Technology*, 20, 7, 7099-7116. [DOI](https://doi.org/10.1007/s13762-023-04920-x)
 - A. R. Azarnivand, M. Sadrinasab, M. Nasseri, Climate change impacts on the seasonal variation of hydro-physical characteristics in the Persian Gulf, *Estuaries and Coasts*, 46, 2, 302–322. [DOI](https://doi.org/10.1007/s12237-022-01151-0)
 - J. Kämpf, L. Möller, R. Baring, A. Shute, C. Cheesman, The island mass effect: a study of wind-driven nutrient upwelling around reef islands, *Journal of Oceanography*, 79, 2, 161–174. [DOI](https://doi.org/10.1007/s10872-022-00673-2)
@@ -144,7 +145,7 @@ Model results with COHERENS using a nesting strategy, from the Continental Shelf
 - S.H. Gharbi, A.M. Albarakati, M.A. Alsaafani, Saheed P.P., T.M. Alraddadi, Simulation of tidal hydrodynamics in the Red Sea using COHERENS model, *Regional Studies in Marine Science*, 22, 49-60. [DOI](https://doi.org/10.1016/j.rsma.2018.05.007)
 - A. Ménesguen, X. Desmit, **V. Dulière**, **G. Lacroix**, B. Thouvenin, V. Thieu, M. Dussauze, How to avoid eutrophication in coastal seas? A new approach to derive river-specific combined nitrate and phosphate maximum concentrations, *Science of The Total Environment*, 628–629, 400-414. [DOI](https://doi.org/10.1016/j.scitotenv.2018.02.025)
 - M. Maar, M. Butenschön, U. Daewel, A. Eggert, W. Fan, S.S. Hjøllo, M. Hufnagl, M. Huret, R. Ji, **G. Lacroix**, M.A. Peck, H. Radtke, S. Sailley, M. Sinerchia, M.D. Skogen, M. Travers-Trolet, T.A. Troost, K. van de Wolfshaar, Responses of summer phytoplankton biomass to changes in top-down forcing: Insights from comparative modelling, *Ecological Modelling*, 376, 54-67. [DOI](https://doi.org/10.1016/j.ecolmodel.2018.03.003)
-- L. Tuomi, E. Miettunen, P. Alenius, K. Myrberg, Evaluating hydrography, circulation and transport in a coastal archipelago using a high-resolution 3D hydrodynamic model, *Journal of Marine Systems*, 180, 24-36. [DOI](ttps://doi.org/10.1016/j.jmarsys.2017.12.006)
+- L. Tuomi, E. Miettunen, P. Alenius, K. Myrberg, Evaluating hydrography, circulation and transport in a coastal archipelago using a high-resolution 3D hydrodynamic model, *Journal of Marine Systems*, 180, 24-36. [DOI](https://doi.org/10.1016/j.jmarsys.2017.12.006)
 - **G. Lacroix**, **L. Barbut**, F.A.M. Volckaert, Complex effect of projected sea temperature and wind change on flatfish dispersal, *Global Change Biology*, 24, 1, 85-100. [DOI](https://doi.org/10.1111/gcb.13915)
 
 </details>
@@ -153,6 +154,9 @@ Model results with COHERENS using a nesting strategy, from the Continental Shelf
 <summary class="year-summary">2017</summary>
 
 - J. Janne, M. Päivi, S. Antti, Public health and economic risk assessment of waterborne contaminants and pathogens in Finland, *Science of The Total Environment*, 599–600, 873-882. [DOI](https://doi.org/10.1016/j.scitotenv.2017.05.007)
+
+- M. Hufnagl, M. Payne, **G. Lacroix**, L.J. Bolle, U. Daewele, M. Dickey-Collas, T. Gerkema, M. Huret, F. Janssen, M. Kreus, J. Pätsch, T. Pohlmann, P. Ruardij, C. Schrum, M.D. Skogen, M.C.H. Tiessen, P. Petitgas, J.K.L. van Beek, H.W. van der Veer, U. Callies, Variation that can be expected when using particle tracking models in connectivity studies, *Journal of Sea research*, 127, 133-149. [DOI](https://doi.org/10.1016/j.seares.2017.04.009)
+
 - I. Amour, T. Kauranne, A variational ensemble Kalman filtering method for data assimilation using 2D and 3D version of COHERENS model, *Numerical Methods in Fluids*, 83, 6, 544-558. [DOI](https://doi.org/10.1002/fld.4276)
 - L. Pronzato, M.J. Rendas, Bayesian Local Kriging, *Technometrics*, 59, 3, 293-304. [DOI](https://doi.org/10.1080/00401706.2016.1214179)
 
