@@ -12,11 +12,11 @@ execute:
   warning: false
   error: true
   cache: true
-  
-format: 
+
+format:
   html:
     page-layout: article
-    
+
 #bibliography: references.bib
 #cls: journal-of-oceanography.csl
 #link-citations: true
@@ -97,7 +97,7 @@ Model results with COHERENS using a nesting strategy, from the Continental Shelf
 <summary class="year-summary">2022</summary>
 
 - B. Stechele, D. van der Zande, A. Alvera-Azcárate, D. Delbare, **G. Lacroix**, N. Nevejan, Biological site suitability for exposed self-regulating cultivation of blue mussel (Mytilus edulis): A Belgian case study, *Aquacultural Engineering*, 98, 102264. [DOI](https://doi.org/10.1016/j.aquaeng.2022.102264)
-- **V. Dulière**, C. Guillaumot, **G. Lacroix**, T. Saucède, Z. López-Farran, B. Danis, I. Schön, K. Baetens, Dispersal models alert on the risk of non-native species introduction by ballast water in protected areas from the Western Antarctic Peninsula, *Diversity and Distributions*, 28, 4, 649-666. [DOI](https://doi.org/10.1111/ddi.13464) 
+- **V. Dulière**, C. Guillaumot, **G. Lacroix**, T. Saucède, Z. López-Farran, B. Danis, I. Schön, K. Baetens, Dispersal models alert on the risk of non-native species introduction by ballast water in protected areas from the Western Antarctic Peninsula, *Diversity and Distributions*, 28, 4, 649-666. [DOI](https://doi.org/10.1111/ddi.13464)
 
 </details>
 
@@ -154,6 +154,8 @@ Model results with COHERENS using a nesting strategy, from the Continental Shelf
 
 - J. Janne, M. Päivi, S. Antti, Public health and economic risk assessment of waterborne contaminants and pathogens in Finland, *Science of The Total Environment*, 599–600, 873-882. [DOI](https://doi.org/10.1016/j.scitotenv.2017.05.007)
 - I. Amour, T. Kauranne, A variational ensemble Kalman filtering method for data assimilation using 2D and 3D version of COHERENS model, *Numerical Methods in Fluids*, 83, 6, 544-558. [DOI](https://doi.org/10.1002/fld.4276)
+- L. Pronzato, M.J. Rendas, Bayesian Local Kriging, *Technometrics*, 59, 3, 293-304. [DOI](https://doi.org/10.1080/00401706.2016.1214179)
+
 
 </details>
 
@@ -198,6 +200,7 @@ Model results with COHERENS using a nesting strategy, from the Continental Shelf
 <details>
 <summary class="year-summary">2013</summary>
 
+- N. Gypens, E. Delhez, A. Vanhoutte-Brunier, S. Burton, V. Thieu, P. Passy, Y. Liu, J. Callens, V. Rousseau, C. Lancelot, Modelling phytoplankton succession and nutrient transfer along the Scheldt estuary (Belgium, The Netherlands), *Journal of Marine Systems*, 128, 89-105. [DOI](https://doi.org/10.1016/j.jmarsys.2012.10.006)
 - P. Passy, N. Gypens, G. Billen, J. Garnier, V. Thieu, V. Rousseau, J. Callens, J.-Y. Parent, C. Lancelot, A model reconstruction of riverine nutrient fluxes and eutrophication in the Belgian Coastal Zone since 1984, *Journal of Marine Systems*, 128, 106-122. [DOI](https://doi.org/10.1016/j.jmarsys.2013.05.005)
 - J. Hinwood, J. Luick, Closed basin modes of a dual basin harbour, *Pure and Applied Geophysics*, 170, 11, 1881–1897. [DOI](https://doi.org/10.1007/s00024-012-0611-4)
 - **G. Lacroix**, G.E. Maes, L.J. Bolle, F.A.M. Volckaert, Modelling dispersal dynamics of the early life stages of a marine flatfish (Solea solea L.), *Journal of Sea Research*, 84, 13-25. [DOI](https://doi.org/10.1016/j.seares.2012.07.010)
@@ -274,6 +277,7 @@ associated with its niche selection: a case study in the Gulf of Finland, the Ba
 - U. Gräwe, J.-O. Wolff, J. Ribbe, Mixing, hypersalinity and gradients in Hervey Bay, Australia, *Ocean Dynamics*, 59, 5, 643-658. [DOI](https://doi.org/10.1007/s10236-009-0195-4)
 - K.-Y. Heo, J.-W. Lee, K.-J. Ha, K.-C. Jun, K.-S. Park, J.-I. Kwon, Simulation of atmospheric states for a storm surge on the west coast of Korea: model comparison between MM5, WRF and COAMPS, *Natural Hazards*, 51, 1, 151–162. [DOI](https://doi.org/10.1007/s11069-009-9395-y)
 - D. Marinov, S. Dueri, I. Puillat, R. Carafa, E. Jurado, N. Berrojalbiz, J. Dachs, J.-M. Zaldívar, Integrated modelling of Polycyclic Aromatic Hydrocarbons in the marine environment: Coupling of hydrodynamic, fate and transport, bioaccumulation and planktonic food-web models, *Marine Pollution Bulletin*, 58, 10, 1554-1561. [DOI](https://doi.org/10.1016/j.marpolbul.2009.05.009)
+- F. Maggi, Biological flocculation of suspended particles in nutrient-rich aqueous ecosystems, *Journal of Hydrology*, 376, 1-2, 116-125. [DOI](https://doi.org/10.1016/j.jhydrol.2009.07.040)
 - S. Dueri, I. Dahllöf, M. Hjorth, D. Marinov, J.M. Zaldívar, Modeling the combined effect of nutrients and pyrene on the plankton population: Validation using mesocosm experiment data and scenario analysis, *Ecological Modelling*, 220, 17, 2060-2067. [DOI](https://doi.org/10.1016/j.ecolmodel.2009.04.052)
 - N. Guillou, G. Chapalain, L. Thais, Three-dimensional modeling of tide-induced suspended transport of seabed multicomponent sediments in the eastern English Channel, *Journal of Geophysical Research: Oceans*, 114, C07025. [DOI](https://doi.org/10.1029/2008JC004791)
 - T. Van Oyen, P. Blondeaux, Tidal sand wave formation: Influence of graded suspended sediment transport, *Journal of Geophysical Research: Oceans*, 114, C07004. [DOI](https://doi.org/10.1029/2008JC005136)
