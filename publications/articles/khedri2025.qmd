@@ -5,7 +5,7 @@ author: "Khedri et al."
 year: "2025"
 publication: "ICES Journal of Marine Science "
 preprint: ""
-doi: ""
+doi: "https://doi.org/10.1093/icesjms/fsaf154"
 materials: ""
 toc: false
 categories:
@@ -16,7 +16,8 @@ categories:
 
 ## Citation
 
-> Khedri, P., **Gourgue, O.**, Depestele, J., van de Velde, S., Arndt, S., Reconciling the impact of mobile bottom-contact fishing on marine organic carbon sequestration, *ICES Journal of Marine Science* (accepted).
+> Khedri, P., **Gourgue, O.**, Depestele, J., van de Velde, S., Arndt, S., Reconciling the impact of mobile bottom-contact fishing on marine organic carbon sequestration, *ICES Journal of Marine Science*, 82, 9, fsaf154.
 
 ## Abstract
 
+Anthropogenic activities that disturb the seafloor inadvertently affect the organic carbon cycle. Mobile bottom-contacting fishing (MBCF) is a widespread fishing technique that involves the dragging of fishing gear across the seafloor and disrupts seafloor sediments and alters carbon storage dynamics. However, the impact of MBCF on carbon sequestration is still not well quantified, with global estimates of MBCF-induced carbon release ranging from less than 17 Mt C yr^-1 to 400 Mt C yr^-1 with limited assessment of associated uncertainties. Addressing these knowledge gaps is essential for informing effective, evidence-based policy. Here, we force a carefully parametrized organic carbon mineralization model with empirical relationships and observational data from the Northwest European continental shelf and use a Monte-Carlo approach to assess the uncertainty associated to our estimate. We find that MBCF on the Northwest European continental shelf could reduce sedimentary carbon storage by 270 kt C yr^-1. However, the estimated uncertainty remains large (25%-75% percentile range = 620 kt C yr^−1), mainly due to uncertainties in the spatial variability of organic carbon reactivity. Our findings also show that the divergence of carbon release estimates in the literature is primarily due to differences in how organic carbon reactivity is parameterized, with higher release estimates often reflecting overestimated mineralization rates. Overall, our study demonstrates the need for targeted experimental studies to quantify how sediment disturbance influences organic carbon reactivity, to better constrain the impacts of anthropogenic activities on the marine carbon cycle and support accurate carbon accounting and informed policymaking.
