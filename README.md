@@ -1,4 +1,4 @@
-## Installation
+## Installation   
 
 - Install VScode or another IDE that works with quarto (RStudio, Positron)
 - Install [Quarto](https://quarto.org/docs/download/index.html)
