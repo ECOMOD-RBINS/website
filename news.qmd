@@ -1,6 +1,21 @@
 # ECOMOD latest updates
 
 ## September 2025
+### Another award for ECOMOD (Sep, 24)
+Pauline had the opportunity to take part in a pitch contest (3 minutes, 1 slide) during the Belgian Offshore Wind PhD Day in Ghent. The event, organized by the [OWI Academy](https://www.linkedin.com/showcase/owi-academy/posts/?feedView=all) from [OWI-lab](https://www.owi-lab.be/), brought together PhD students working in the field of offshore wind energy. Pauline presented her PhD project titled “Wind, Sea & Sun”, focusing on modelling the impacts of floating solar panels co-located with offshore wind farms, and won one of the pitch contest sessions. Congratulations!
+
+![](/images/news/phdday.jpg){width=400}
+
+### Kick-off meeting PAGES (Sep, 24 - 25)
+The kick-off meeting of [PAGES](/projects/JPIO-PAGES/) took place at [RBINS](https://www.naturalsciences.be/), marking the official start of this project. The project aims to represent a significant advancement in marine environmental assessment, addressing knowledge gaps for the implementation of the [Marine Strategy Framework Directive](/activities/reporting/MSFD/), which requires EU member states to achieve Good Environmental Status (GES) in their marine environments. Léo and Geneviève are part of the project and will mainly work on eDNA.
+
+![](/images/news/KOpages.jpg){width=400}
+
+### ICES Annual Science Conference (Sep, 15 - 18)
+Pauline and Arthur attended the ICES Annual Science Conference in Klaipeda, Lithuania. It was a great opportunity to see relevant presentations, reconnect with international peers, network, and take part in several workshops. As part of the [ECOMPV](/projects/ECOMPV/) and [SWiM](/projects/SWIM/) projects, Pauline presented a poster on the biogeochemical impact modelling of floating solar panels in a Belgian offshore wind farm using a 1D setup.
+
+![](/images/news/ices2025.jpg){width=400}
+
 ### "Ecosystems in a Changing World" Conference (Sep, 8 - 10)
 The "Ecosystems in a Changing World" conference was jointly organized in Brussels by the Royal Academy for Overseas Sciences, the [Royal Belgian Institute of Natural Sciences](https://www.naturalsciences.be/), and the Chinese Academy of Sciences. This event explored critical themes such as climate change, biodiversity, ecological restoration, and sustainable development, featuring insights from international experts. The program covered diverse topics, including industrial ecosystems, ocean management, desertification, digital innovations, and collaborative research, while also offering networking opportunities and visits to the RBINS museum. On September 9, RBINS hosted the conference, where Stéphanie delivered a presentation titled: "Numerical models to assess the effects of anthropic pressures on marine ecosystems”. Her talk highlighted the applications of the COHERENS model in understanding and mitigating human impacts on marine environments. Thanks Stéphanie for representing us!
 
