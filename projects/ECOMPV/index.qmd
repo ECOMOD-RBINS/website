@@ -64,3 +64,6 @@ formulated.
 ## Funding and contract
 
 This project is funded by the FPS Economy (Energy Transition Fund)
+
+## Related publications
+- **P. Denis**, A. Capet, J. Vanaverbeke, T.R.H. Kerkhove, G. Lacroix, S. Legrand, Hydrodynamic alterations induced by floating solar structures co-located with an offshore wind farm, *Frontiers in Marine Science*, 12, 1674859. [DOI](https://doi.org/10.3389/fmars.2025.1674859)
