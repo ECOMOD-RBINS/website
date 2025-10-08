@@ -50,14 +50,16 @@ Pauline enjoys organizing events within the team and at RBINS, and loves traveli
 
 
 ## Projects
+- [CODEBLUE](/projects/CODEBLUE): Eutrophication science-policy dialog and multi-model ensembles.
 - [ECOMPV](/projects/ECOMPV): Eco-designing Marine photoVoltaic installations.
 - [SWIM](/projects/SWIM): Solar and WInd energy in the Belgian Marine zone.
 - [COHERENS](/tools/COHERENS): COupled Hydrodynamical-Ecological model for REgioNal and Shelf seas.
 
 ## Publications
 ### 2025
-_A few publications are coming soon!_
+- **P. Denis**, A. Capet, J. Vanaverbeke, T.R.H. Kerkhove, G. Lacroix, S. Legrand, Hydrodynamic alterations induced by floating solar structures co-located with an offshore wind farm, *Frontiers in Marine Science*, 12, 1674859. [DOI](https://doi.org/10.3389/fmars.2025.1674859)
 
 ## Awards
 
+- **Denis P.** 'Sea, Wind & Sun; how to quantify and model the impacts of floating solar structures co-located with offshore wind farms'. Belgian Offshore Wind PhD Day by OWI Academy, Ghent (BE), 24 September 2025.\[**best presentation award of the pitch contest**\]
 - **Denis P.**, Capet A., Vanaverbeke J., Ong E. Z., Kerkhove T.R.H. , Legrand S. 'Assessing the hydrodynamic impacts and carbon deposition pattern associated with floating solar structures within a Belgian offshore wind farm'. VLIZ Marine Science Day, Bruges (BE), 5 March 2025. \[**2nd best presentation award**\]
