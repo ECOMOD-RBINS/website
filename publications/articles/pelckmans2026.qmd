@@ -1,0 +1,23 @@
+---
+title: "Nature-based flood risk mitigation in river deltas is most effective with upstream and uniformly spread mangroves"
+type: "article"
+author: "Pelckmans et al."
+year: "2026"
+publication: "Ocean and Coastal Management"
+preprint: ""
+doi: "https://doi.org/10.1016/j.ocecoaman.2025.107967"
+materials: ""
+toc: false
+categories:
+  - Mangroves
+  - Modeling
+  - Hydrodynamics
+---
+
+## Citation
+
+> Pelckmans, I., Belliard, J.P., Gourgue, O., Dominguez-Granda, L.E., Temmerman, S. (2026), Nature-based flood risk mitigation in river deltas is most effective with upstream and uniformly spread mangroves, *Ocean and Coastal Management*, 271, 107967.
+
+## Abstract
+
+Global changes induce increased flood risks in river deltas, which concentrate a large portion of the global population and economic activity. Nature-based solutions, such as the conservation and restoration of mangroves in tropical river deltas, are considered a sustainable addition to expensive engineered flood defence systems. However, we currently lack science-based guidelines on where, in a river delta, mangrove conservation and restoration should be prioritised to attenuate extreme water levels most effectively and, conversely, where mangrove conversion to human land use would have limited impact on flood risks. Here, we apply a numerical 2D model to a complex geometry of a real river delta case, which explicitly represents the complex pattern of mangroves, channels and human land use, to show that upstream-concentrated mangroves and channel-fringing mangroves are more effective in attenuating extreme water levels. Conversely, converting mangroves to human land use in zones located farther away from river channels and more downstream, has much less impact on extreme high water levels, although this would still negatively impact other crucial ecosystem services such as carbon sequestration and supporting fisheries. In contrast to our findings, mangrove conservation has been concentrated downstream in many tropical river deltas while upstream mangroves have been converted to human land use, increasing the deltas vulnerability to coastal flooding. Our study provides first step advice towards effective spatial planning that conciliates conservation of natural wetlands, economic development and flood risk mitigation.

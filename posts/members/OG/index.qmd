@@ -26,7 +26,7 @@ format:
 </div>
 
 ## Biography
-Olivier Gourgue is a marine ecosystem modeler, specialized in the development of advanced numerical models to understand coastal and shelf sea ecosystems and their responses to climate change. He coordinates the development of [COHERENS](/tools/COHERENS/), a modular hydrodynamic modeling system that integrates biological and sediment transport components. With a PhD from UCLouvain and postdoctoral experiences at UAntwerp and Boston University, his work has contributed to advancing knowledge of sediment transport in coastal and estuarine environments, as well as the resilience of coastal wetlands. He serves as an Associate Editor for *Estuarine, Coastal and Shelf Science*.
+Olivier Gourgue is a marine ecosystem modeler, specialized in the development of advanced numerical models to understand coastal and shelf sea ecosystems and their responses to climate change. With a PhD from UCLouvain and postdoctoral experiences at UAntwerp and Boston University, his work has contributed to advancing knowledge of sediment transport in coastal and estuarine environments, as well as the resilience of coastal wetlands. He serves as an Associate Editor for *Estuarine, Coastal and Shelf Science*, and as a Managing Editor of *Geomorphica*.
 
 ### Experience
 - **Royal Belgian Institute of Natural Sciences** | Brussels, Belgium<br />
@@ -50,10 +50,10 @@ Olivier Gourgue is a marine ecosystem modeler, specialized in the development of
   MSc Mechanical Engineering | 2002-2005<br />
   BSc Engineering Science | 2000-2002
 
-## Projects
-- [COHERENS](/tools/COHERENS/): COupled Hydrodynamical-Ecological model for REgioNal and Shelf seas.
-
 ## Publications
+### 2026
+- I. Pelckmans, J.-P. Belliard, **O. Gourgue**, L.E. Dominguez-Granda, S. Temmerman, Nature-based flood risk mitigation in river deltas is most effective with upstream and uniformly spread mangroves, *Ocean and Coastal Management*, 271, 107967. [DOI](https://doi.org/10.1016/j.ocecoaman.2025.107967)
+
 ### 2025
 - P. Khedri, **O. Gourgue**, J. Depestele, S. van de Velde, S. Arndt, Reconciling the impact of mobile bottom-contact fishing on marine organic carbon sequestration, *ICES Journal of Marine Science*, 82, 9, fsaf154. [DOI](https://doi.org/10.1093/icesjms/fsaf154)
 - T. Groffen, K. Schouten, J. Donaire Zamora, **O. Gourgue**, L. Bervoets, S. Temmerman, Spatial distribution of per- and polyfluoroalkyl substances (PFAS) in natural and restored intertidal wetlands in the Scheldt estuary, *Journal of Hazardous Materials*, 496, 139247. [DOI](https://doi.org/10.1016/j.jhazmat.2025.139247)
