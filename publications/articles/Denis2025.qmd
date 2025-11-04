@@ -11,8 +11,8 @@ toc: false
 categories:
   - offshore renewable energy
   - modeling
-  - hydrodynamics
-  - coherens
+  - Hydrodynamics
+  - COHERENS
   - north sea  
 ---
 
