@@ -1,12 +1,27 @@
 # ECOMOD latest updates
 
 ## November 2025
+
+### ECODAM seminar (Nov, 27)
+
+Another sucessful edition of the ECODAM seminar was hosted at [RBINS](https://www.naturalsciences.be/en). ECOMOD was well represented, with Stéphanie and Arthur presenting their research to other RBINS teams. This seminar, organised every six months by Pauline and Céline ([SUMO](https://www.naturalsciences.be/en/science/research/research-teams/suspended-matter-and-seabed-monitoring-and-modelling-sumo) team), aims to strengthen collaboration across teams. The Director, Michel Van Camp, was also present and greatly appreciated the initiative.
+
+![](/images/news/ecodam2025.jpg){width=400}
+
+### WGMBRED Annual Meeting (Nov, 17 - 21)
+
+Arthur attended the [WGMBRED](/activities/working-groups/ICES_WGMBRED/) Annual Meeting (_ICES Working Group on Marine Benthal and Renewable Energy Developments_). The meeting took place in Ostend (BE). Throughout the week, they worked on a wide range of topics, including decommissioning challenges, trade-offs with marine-protected areas, impacts of floating structures, nature-inclusive design, process-based modelling and energy emissions.
+
+![Image : Jolien Buyse](/images/news/wgmbred.jpg){width=400 fig-align="left"}
+
 ### RBINS Researcher's Day (Nov, 18)
+
 During the annual Researcher's Day organised by the [Research Office](https://www.naturalsciences.be/en/about-us/missions-vision/research-office) at [RBINS](https://www.naturalsciences.be/en), ECOMOD was well represented with Stéphanie and Pauline presenting their respective research to scientists from a wide range of fields and backgrounds.
 
 ![](/images/news/researchersday2025.jpg){width=400}
 
 ### Team building at the Zwin (Nov, 6)
+
 Earlier this November, the ECOMOD team gathered for its annual team building day.
 This year, we visited the [Zwin Nature Park](https://www.zwin.be/en) in Knokke, BE. A beautiful walk, great weather, and a fantastic team. What more could we ask for?
 
@@ -14,16 +29,19 @@ This year, we visited the [Zwin Nature Park](https://www.zwin.be/en) in Knokke, 
 
 ## October 2025
 ### EDITO Hackathon (Oct, 22 - 24)
+
 Arthur and Florian fully participated in the three-day sprint of the [𝗘𝗗𝗜𝗧𝗢](https://www.edito.eu/)-Model Lab Hackathon, which brought together 13 international teams to co-create new Focus Applications for the European Digital Twin Ocean. Together, they have established an automated workflow to expand the reach of BGC-Argo floats by adding layers of model-derived key thematic indicators to the observation data, together with their uncertainty estimates. Well done!
 
 ![](/images/news/editohackaton.gif){width=400}
 
 ### Kick-off meeting CodeBlue (Oct, 14 - 16)
+
 The kick-off meeting of [CodeBlue](/projects/CODEBLUE/) took place at [SMHI](https://www.smhi.se/en) in Norrköping, Sweden. Arthur and Pauline attended the meeting, marking the official start of this promising project. Modellers from 15 different institutes across the Eastern Atlantic, North Sea, and Baltic Sea gathered to discuss the project’s framework and objectives, which focus on long-term biogeochemical simulations and ensemble modelling for eutrophication policy indicator assessments.
 
 ![](/images/news/KOcodeblue.jpg){width=400}
 
 ### New ECOMOD paper! (Oct, 6)
+
 Pauline Denis and Arthur Capet's work is finally out! This first paper from Pauline's PhD quantifies the hydrodynamic impacts of floating solar panels co-located with an offshore wind farm in the Belgian North Sea. The study is the result of a collaboration with the [Marine Forecasting Centre](https://odnature.naturalsciences.be/marine-forecasting-centre/en/) team. [Check it out!](https://www.frontiersin.org/journals/marine-science/articles/10.3389/fmars.2025.1674859/full)
 
 ![](/images/news/FPV.jpg){width=400}
