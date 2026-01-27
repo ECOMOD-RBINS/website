@@ -220,23 +220,6 @@
   
   <div class="profile-card">
     <div class="profile-image">
-      <img src="images/YJ.jpeg" alt="Youri Jourdevant">
-    </div>
-    <h3 class="profile-name">
-      <span class="first-name">Youri</span>
-      <span class="last-name">Jourdevant</span>
-    </h3>
-    <p class="profile-title">Passionate Explorer</p>
-    <div class="profile-links">
-      <a href="mailto:yjourdevant@naturalsciences.be?"><i class="fa-solid fa-envelope"></i></a>
-      <a href=""><i class="fa-brands fa-github"></i></a>
-      <a href=""><i class="fa-brands fa-orcid"></i></a>
-      <a href="https://www.linkedin.com/in/youri-jourdevant-848bb4329/"><i class="fa-brands fa-linkedin"></i></a>
-    </div>
-  </div>
-  
-  <div class="profile-card">
-    <div class="profile-image">
         <a href="/posts/members/SP">
           <img src="images/SP.jpg" alt="Stéphanie Ponsar">
         </a>
@@ -276,25 +259,6 @@
   
   <div class="profile-card">
     <div class="profile-image">
-      <a href="/posts/members/HR">
-        <img src="images/HR.jpg" alt="Hugo Romanelli">
-      </a>
-    </div>
-    <h3 class="profile-name">
-      <span class="first-name">Hugo</span>
-      <span class="last-name">Romanelli</span>
-    </h3>
-    <p class="profile-title">COHERENS Master</p>
-    <div class="profile-links">
-      <a href="mailto:hugo.romanelli@naturalsciences.be?"><i class="fa-solid fa-envelope"></i></a>
-      <a href=""><i class="fa-brands fa-github"></i></a>
-      <a href=""><i class="fa-brands fa-orcid"></i></a>
-      <a href="https://www.linkedin.com/in/hugo-romanelli-10ab831bb/"><i class="fa-brands fa-linkedin"></i></a>
-    </div>
-  </div>
-  
-  <div class="profile-card">
-    <div class="profile-image">
       <a href="/posts/members/NTL">
         <img src="images/NTL.jpg" alt="Nathan Terseleer">
       </a>
@@ -313,4 +277,10 @@
   </div>
   
 </div>
+
+<h2>Past members</h2>
+<ul>
+  <li><a href="/posts/members/HR">Hugo Romanelli</a></li>
+  <li>Youri Jourdevant</li>
+</ul>
 ```
