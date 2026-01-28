@@ -6,7 +6,8 @@
 
 Florian attended the [BGC-Argo](https://biogeochemical-argo.org/) Delayed Mode Quality Control (DMQC) workshop in Villefranche-sur-Mer, France where he presented a new tool (called `argo-dmqc`, which will be soon available on GitHub) to facilitate the DMQC of BGC-Argo float data. The week was filled with presentations, discussions, and practical sessions on various aspects of DMQC, including sensor theory, data visualization tools, and best practices.
 
-![View of the Villefranche bay](/images/news/VillefrancheJan2025.jpg){width=400 fig-align="left"}
+![](/images/news/VillefrancheJan2025.jpg){width=400 fig-align="left"}
+![](/images/news/BGC-DMQC-2025.jpeg){width=400 fig-align="right"}
 
 ## November 2025
 
