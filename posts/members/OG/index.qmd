@@ -26,7 +26,7 @@ format:
 </div>
 
 ## Biography
-Olivier Gourgue is a marine ecosystem modeler, specialized in the development of advanced numerical models to understand coastal and shelf sea ecosystems and their responses to climate change. With a PhD from UCLouvain and postdoctoral experiences at UAntwerp and Boston University, his work has contributed to advancing knowledge of sediment transport in coastal and estuarine environments, as well as the resilience of coastal wetlands. He serves as an Associate Editor for *Estuarine, Coastal and Shelf Science*, and as a Managing Editor of *Geomorphica*.
+Olivier Gourgue is a marine ecosystem modeler, specialized in the development of advanced numerical models to understand coastal and shelf sea ecosystems and their responses to climate change. With a PhD from UCLouvain and postdoctoral experiences at UAntwerp and Boston University, his work has contributed to advancing knowledge of sediment transport in coastal and estuarine environments, as well as the resilience of coastal wetlands. He serves as an Associate Editor for *Geomorphica*.
 
 ### Experience
 - **Royal Belgian Institute of Natural Sciences** | Brussels, Belgium<br />
@@ -52,6 +52,7 @@ Olivier Gourgue is a marine ecosystem modeler, specialized in the development of
 
 ## Publications
 ### 2026
+- N.R. Randresihaja, **O. Gourgue**, L. Alaerts, X. Fettweis, J. Lambrechts, M. De Le Court, M. Grégoire, E. Hanert, How atmospheric forcing resolution impacts storm surge model results: Insights from Storm Xaver in the North Sea-Scheldt estuary continuum, *Regional Studies in Marine Science*, 96, 104919. [DOI](https://doi.org/10.1016/j.rsma.2026.104919)
 - I. Pelckmans, J.-P. Belliard, **O. Gourgue**, L.E. Dominguez-Granda, S. Temmerman, Nature-based flood risk mitigation in river deltas is most effective with upstream and uniformly spread mangroves, *Ocean and Coastal Management*, 271, 107967. [DOI](https://doi.org/10.1016/j.ocecoaman.2025.107967)
 
 ### 2025

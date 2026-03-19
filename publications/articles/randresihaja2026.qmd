@@ -1,0 +1,24 @@
+---
+title: "How atmospheric forcing resolution impacts storm surge model results: Insights from Storm Xaver in the North Sea-Scheldt estuary continuum"
+type: "article"
+author: "Randresihaja et al."
+year: "2026"
+publication: "Regional Studies in Marine Science"
+preprint: ""
+doi: "https://doi.org/10.1016/j.rsma.2026.104919"
+materials: ""
+toc: false
+categories:
+  - Modeling
+  - Hydrodynamics
+  - North Sea
+  - Scheldt Estuary
+---
+
+## Citation
+
+> Randresihaja, N.R., Gourgue, O., Alaerts, L., Fettweis, X., Lambrechts, J., De Le Court, M., Grégoire, M., Hanert, E. (2026), How atmospheric forcing resolution impacts storm surge model results: Insights from Storm Xaver in the North Sea-Scheldt estuary continuum, *Regional Studies in Marine Science*, 96, 104919.
+
+## Abstract
+
+Estuaries are particularly vulnerable to flooding from storm surges, a risk worsened by climate change. While numerical models are essential for flood risk management, most storm surge models rely on atmospheric forcing data with coarse spatial (tens of kilometers) and temporal (hours) resolutions—significantly lower than the model’s own grid resolution. This mismatch may compromise prediction accuracy. This study evaluates the impact of the spatial and temporal resolution of atmospheric forcing data on storm surge modeling within the Scheldt river-estuary-North Sea continuum for the record-breaking Storm Xaver (December 2013). Atmospheric forcings were incorporated at spatial resolutions ranging from 2 km to 30 km and at temporal resolutions from 15 min to 6 h. Using an unstructured-mesh multiscale hydrodynamic model, we assessed how these variations influenced the accuracy of storm surge simulations. Our findings indicate that spatial resolution has the greatest influence on model performance, with finer resolutions (2–5 km) improving peak surge predictions in estuarine areas. Temporal resolution enhancements provide additional benefits, but only when combined with high spatial resolution. The impact of temporal refinement diminishes rapidly as spatial resolution coarsens beyond 10 km. Notably, the timing of peak surges remains stable across all resolution combinations. The best results are obtained with 2 km and 15 min atmospheric forcing resolution, while 5 km spatial resolution also shows good performance. This study underscores the importance of aligning atmospheric forcing resolution with the hydrodynamic model’s spatial scale to achieve optimal accuracy in storm surge predictions within this estuary.
