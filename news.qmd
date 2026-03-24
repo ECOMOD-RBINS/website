@@ -1,51 +1,68 @@
 # ECOMOD latest updates
 
+## March 2026
+### "Saviez-vous?" seminar (March, 13)
+On Friday, Nathan presented "_When tiny ocean algae become architects of their world_" as part of "Saviez-Vous?", [RBINS](https://www.naturalsciences.be/en)'s public outreach series. From the fundamentals of primary production to the hidden world of organo-mineral interactions, the talk explored how microscopic phytoplankton shape coastal ecosystems, and why it matters for carbon cycling and marine management. Two hours of lively exchanges with a curious and enthusiastic audience, science communication at its best!
+
+![](/images/news/nathanrbins.jpg){width=400}
+
+### WGIPEM Annual Meeting (March, 2-5)
+Several team members attended the [WGIPEM](/activities/working-groups/ICES_WGIPEM/) Annual Meeting (_ICES Working Group on Integrative, Physical-biological and Ecosystem Modelling_). The meeting took place in Aberdeen, Scotland, with most participants joining remotely. Nathan presented his work on "_Coupling a biogeochemical model with a mineral flocculation model_". The study investigates how marine gels produced by phytoplankton shape sediment dynamics in the turbid Belgian coastal zone, and how this feedback loop significantly impacts primary production and carbon cycling in coastal ecosystems. Arthur introduced the [CodeBlue](/projects/CODEBLUE/) project as well as his upcoming ICES Workshop on Integrated Ecological Modelling Frameworks for Offshore Renewable Energy Impact Understanding ([WKIMORE](https://www.ices.dk/community/groups/Pages/WKIMORE.aspx)).
+
+![](/images/news/wgipem26.jpg){width=400}
+
+### VLIZ Marine Science Day (March, 4)
+Florian, Léo, Sylvain & Pauline attended the VLIZ Marine Science Day, organized by VLIZ (Flanders Marine Institute), that brought together over 500 marine scientists at the De Grote Post in Oostende, BE. The day was packed with inspiring keynotes and several shorter talks by PhD Students.
+
+![](/images/news/vliz26.jpg){width=400}
+
+### SWiM Workshop (March, 3)
+In the framework of the [SWIM](/projects/SWIM/) project, a new workshop was organized by Blue Cluster: “_From offshore energy infrastructure to efficient and secure multi-use – Towards a future-proof North Sea: From energy-driven multi-use in wind farms to North Sea Basin planning._”
+The workshop brought together a diverse and dynamic group of marine scientists, spatial planners, regulators, and industry leaders, to explore the potential of multi-use in offshore wind farm areas. Arthur and Pauline are actively involved in this project.
+
+![](/images/news/swimworkshop2.jpg){width=400}
+
 ## February 2026
+### Ocean Science Meeting (Feb, 22-27)
+Thousands of marine scientists gathered for the AGU–ASLO Ocean Sciences Meeting in Glasgow, Scotland. Pauline had the opportunity to present her work on “Modelling the biogeochemical impacts of floating solar panels within a Belgian offshore wind farm,” and, most importantly, to engage with peers, exchange ideas, and receive valuable feedback on her research.
 
-### PhD defense of Sylvain
+![](/images/news/OSM26.jpg){width=400}
 
-Our colleague Sylvain Gozingan from the University of Abomey-Calavi in Benin publicly defended his doctoral thesis in physical oceanography and numerical modelling, entitled: *Developing a multi-scale modelling framework for coastal hydrodynamics and larval connectivity in the Gulf of Guinea, West Africa*. Following the public defence, which took place on 19 February 2026 at the IRSNB in the presence of all the members of the jury, some of whom participated via videoconference, Sylvain was awarded a distinction (mention très honorable) for his doctoral thesis. 
+### PhD defense of Sylvain (Feb, 19)
+Our colleague Sylvain Gozingan from the University of Abomey-Calavi in Benin publicly defended his doctoral thesis in physical oceanography and numerical modelling, entitled: *Developing a multi-scale modelling framework for coastal hydrodynamics and larval connectivity in the Gulf of Guinea, West Africa*. Following the public defence, which took place on 19 February 2026 at [RBINS](https://www.naturalsciences.be/en) in the presence of all the members of the jury, some of whom participated via videoconference, Sylvain was awarded a distinction (mention très honorable) for his doctoral thesis. 
 
 ![](/images/news/PhD_defense_Sylvain1.jpg){width=400 fig-align="left"}
 ![](/images/news/PhD_defense_Sylvain2.jpg){width=400 fig-align="right"}
 
 ## January 2026
-
 ### Sylvain's visit (Jan - June)
-
 Amoussou Sylvain Gozingan, originally from Benin, is working in collaboration with ECOMOD since 2020. He is back to Brussels to work on the implementation, calibration, and validation of a numerical shrimp life-cycle model as part of the [SHRIMP II](/projects/SHRIMP-II/) project, funded by the [CEBioS](https://cebios.naturalsciences.be/) (Capacities for Biodiversity and Sustainable Development) program. The objective is to develop an Individual-Based Model (IBM) for six commercially important shrimp species in order to provide quantitative insights into the hydrodynamic mechanisms controlling shrimp larval transport and connectivity between nearshore spawning grounds and lagoonal nursery habitats within the ocean–channel–Lake Nokoué system along the Beninese coast. The numerical modelling framework, which includes both the hydrodynamic and Lagrangian components of [COHERENS](/tools/COHERENS/) model, will be implemented during his stay through close scientific collaboration with the ECOMOD team at [RBINS](https://www.naturalsciences.be/en). Welcome back Sylvain!
 
 ![Right image : Graph showing the trajectory of shrimp larvae for a pelagic period of 40 days](/images/news/sylvain.png){width=400 fig-align="left"}
 
 ### BGC-Argo DMQC workshop (Jan, 26 - 30)
-
 Florian attended the [BGC-Argo](https://biogeochemical-argo.org/) Delayed Mode Quality Control (DMQC) workshop in Villefranche-sur-Mer, France where he presented a new tool (called `argo-dmqc`, which will be soon available on GitHub) to facilitate the DMQC of BGC-Argo float data. The week was filled with presentations, discussions, and practical sessions on various aspects of DMQC, including sensor theory, data visualization tools, and best practices.
 
 ![](/images/news/VillefrancheJan2025.jpg){width=400 fig-align="left"}
 ![](/images/news/BGC-DMQC-2025.jpeg){width=400 fig-align="right"}
 
 ## November 2025
-
 ### ECODAM seminar (Nov, 27)
-
 Another sucessful edition of the ECODAM seminar was hosted at [RBINS](https://www.naturalsciences.be/en). ECOMOD was well represented, with Stéphanie and Arthur presenting their research to other RBINS teams. This seminar, organised every six months by Pauline and Céline ([SUMO](https://www.naturalsciences.be/en/science/research/research-teams/suspended-matter-and-seabed-monitoring-and-modelling-sumo) team), aims to strengthen collaboration across teams. The Director, Michel Van Camp, was also present and greatly appreciated the initiative.
 
 ![](/images/news/ecodam2025.jpg){width=400}
 
 ### WGMBRED Annual Meeting (Nov, 17 - 21)
-
 Arthur attended the [WGMBRED](/activities/working-groups/ICES_WGMBRED/) Annual Meeting (_ICES Working Group on Marine Benthal and Renewable Energy Developments_). The meeting took place in Ostend (BE). Throughout the week, they worked on a wide range of topics, including decommissioning challenges, trade-offs with marine-protected areas, impacts of floating structures, nature-inclusive design, process-based modelling and energy emissions.
 
 ![Image : Jolien Buyse](/images/news/wgmbred.jpg){width=400 fig-align="left"}
 
 ### RBINS Researcher's Day (Nov, 18)
-
 During the annual Researcher's Day organised by the [Research Office](https://www.naturalsciences.be/en/about-us/missions-vision/research-office) at [RBINS](https://www.naturalsciences.be/en), ECOMOD was well represented with Stéphanie and Pauline presenting their respective research to scientists from a wide range of fields and backgrounds.
 
 ![](/images/news/researchersday2025.jpg){width=400}
 
 ### Team building at the Zwin (Nov, 6)
-
 Earlier this November, the ECOMOD team gathered for its annual team building day.
 This year, we visited the [Zwin Nature Park](https://www.zwin.be/en) in Knokke, BE. A beautiful walk, great weather, and a fantastic team. What more could we ask for?
 
@@ -53,25 +70,21 @@ This year, we visited the [Zwin Nature Park](https://www.zwin.be/en) in Knokke, 
 
 ## October 2025
 ### EDITO Hackathon (Oct, 22 - 24)
-
 Arthur and Florian fully participated in the three-day sprint of the [𝗘𝗗𝗜𝗧𝗢](https://www.edito.eu/)-Model Lab Hackathon, which brought together 13 international teams to co-create new Focus Applications for the European Digital Twin Ocean. Together, they have established an automated workflow to expand the reach of BGC-Argo floats by adding layers of model-derived key thematic indicators to the observation data, together with their uncertainty estimates. Well done!
 
 ![](/images/news/editohackaton.gif){width=400}
 
 ### Kick-off meeting CodeBlue (Oct, 14 - 16)
-
 The kick-off meeting of [CodeBlue](/projects/CODEBLUE/) took place at [SMHI](https://www.smhi.se/en) in Norrköping, Sweden. Arthur and Pauline attended the meeting, marking the official start of this promising project. Modellers from 15 different institutes across the Eastern Atlantic, North Sea, and Baltic Sea gathered to discuss the project’s framework and objectives, which focus on long-term biogeochemical simulations and ensemble modelling for eutrophication policy indicator assessments.
 
 ![](/images/news/KOcodeblue.jpg){width=400}
 
 ### New ECOMOD paper! (Oct, 6)
-
 Pauline Denis and Arthur Capet's work is finally out! This first paper from Pauline's PhD quantifies the hydrodynamic impacts of floating solar panels co-located with an offshore wind farm in the Belgian North Sea. The study is the result of a collaboration with the [Marine Forecasting Centre](https://odnature.naturalsciences.be/marine-forecasting-centre/en/) team. [Check it out!](https://www.frontiersin.org/journals/marine-science/articles/10.3389/fmars.2025.1674859/full)
 
 ![](/images/news/FPV.jpg){width=400}
 
 ### Parcels 10-year anniversary workshop (Oct, 1 - 3)
- 
 Léo and Olivier attended the [Parcels](https://parcels-code.org/) workshop-conference-hackathon-party in Utrecht, Nederlands. The goal of the event was to showcase how Parcels is used by different researchers, and learn from each other. There were workshops, tutorials, hackathons and a mini-conference.
 
 ![Image : Parcels website](/images/news/parcelsWS.jpg){width=400 fig-align="left"}
@@ -115,108 +128,88 @@ Scientists, stakeholders, and practitioners gathered for a user workshop on _Man
 
 ## May 2025
 ### Liège colloquium (May, 26 - May, 30)
-
 This year's [56th Liège Colloquium](https://www.ocean-colloquium.uliege.be/cms/c_14229949/en/international-liege-colloquium-on-ocean-dynamics?id=c_14229949&id=c_14229949) focused on Marine Carbon Dioxide Removal. Marine-based CDR techniques are gaining attention to achieve the CO2 removal necessary for climate stabilisation. The colloquium brought together experts from diverse disciplines to discuss marine CDR approaches' potential, feasibility, efficiency, risks, and the need for adequate monitoring and policy regulations. Arthur presented, as a co-author; a poster made by Keziah Pepiette and Sandra Arndt (ULB) exploring the response of benthic biogeochemistry to scenario of olivine enrichement, which is perceived as a technically tractable mean to enhance ocean alkalinity, and increase mare CO2 uptake.
 
 ![](/images/news/liegecolloquium.jpg){width=400}
 
 ### EuroGOOS General Assembly (May, 19 - May, 21)
-
 EuroGOOS held it's [2025 General Assembly](https://eurogoos.eu/download/2025-eurogoos-ga-doc-1-1-agenda/?wpdmdl=15015&refresh=68413e24ca86b1749106212) this 19-21 May 2025 in Helsinky. Arthur Capet took part, as co-chair of the Coastal Working Group, and to present recent analyses of the OceanPrediction [Atlas](https://www.unoceanprediction.org/en/atlas/models). 127 European operational ocean forecasting systems are already represented!
 
 ![](/images/news/eurogoos.jpg){width=400}
 
 
 ### North Sea Working Group (May, 1)
-
 During the last EGU Conference, ECOMOD colleagues and other scientists came together to initiate the creation of a North Sea Working Group. The aim is to strengthen networking across North Sea institutes, build consortia, share data and knowledge, and develop collaborative initiatives. Stay tuned!
 
 ![Image : Andrea van Langen Rosón (VLIZ)](/images/news/northseaWG.jpg){width=400 fig-align="left"}
 
 ### EGU General Assembly 2025 (Apr, 27 - May, 2)
-
 With 2 oral presentations (by Arthur and Pauline), 1 poster, and 2 co-organized sessions, ECOMOD was well represented at this year’s EGU Conference in Vienna, Austria!
 
 ![](/images/news/EGU25.jpg){width=400}
 
 ### Maria's 3-month visit (March - May)
-
 Maria Pedreros, originally from Chile, returned to Brussels for the second time to work with us as she finalizes the last phase of her PhD. Maria adapted the ocean-based [COHERENS](/tools/COHERENS/) model to simulate how seasonal temperature variations affect Chile’s Lake Lanalhue. Despite challenges like coarse weather data and necessary lake-specific adjustments, the model successfully captured the lake’s real-life patterns of stratifying in summer and mixing in winter. Great work, Maria!
 
 ![](/images/news/maria.jpg){width=400}
 
 ## April 2025
-
 ### Policy brief CLIMDIS (Apr, 30)
-
 The [Policy Brief](https://cebios.naturalsciences.be/wp-content/uploads/2025/04/280425_template_A4_IMER_PB.pdf) on the use of COHERENS to model scenarios to safeguard Halong Bay waters has been released. This Policy brief, which is an outcome of the project [CLIMDIS](/completed-projects/CLIMDIS/) funded by [BELSPO](https://www.belspo.be/belspo/coordination/doc/biCoop/CLIMDIS_en.pdf), has been designed in collaboration with [CEBioS](https://cebios.naturalsciences.be/) (Capacities for Biodiversity and Sustainable Development) program.
 
 ![](/images/news/halongbay.jpg){width="400"}
 
 ### Press release of Olivier's work (Apr, 17)
-
 Saltmarshes are among nature’s best defenses against rising sea levels, acting as natural barriers that protect coastlines. New research shows that dense vegetation on saltmarshes makes them more vulnerable to sea level rise because the vegetation hinders sediment transport. A surprising twist, as it was believed that dense vegetation played a crucial role in helping these ecosystems survive. [Check it out!](https://www.naturalsciences.be/en/science/news/dense-vegetation-makes-saltmarshes-more-vulnerable-to-sea-level-rise)
 
 ![Image : aerial-photos.com / Alamy Stock Photo](/images/news/saltmarshes.jpg){width=400 fig-align="left"}
 
 ### WGIPEM Annual Meeting (March, 31 - Apr, 3)
-
 Several team members attended the [WGIPEM](/activities/working-groups/ICES_WGIPEM/) Annual Meeting (_ICES Working Group on Integrative, Physical-biological and Ecosystem Modelling_). The meeting took place in Norrköping, Sweden, with most participants joining remotely. Arthur, Geneviève, and Pauline had the opportunity to present their research, leading to many interactions, insightful discussions, and potential future collaborations.
 
 ![](/images/news/wgipem.jpg){width=400}
 
 ## March 2025
-
 ### FOCCUS General Assembly (March, 17-19)
-
 Arthur and Florian attended the [FOCCUS](projects/FOCCUS/) General Assembly at Palma de Mallorca (Spain) for the technical review of the project and scientific round tables.
 
 ![View of Palma Bay](/images/news/palma_mallorca_march2025.jpg){width=400 fig-align="left"}
 
 ### SWIM Workshop (March, 6)
-
 Pauline, Arthur and Geneviève organized the first [SWIM](/projects/SWIM/) project [workshop](https://www.swimproject.be/results-workshop-01/) at RBINS. Managed by Blue Cluster, the workshop brought together policymakers, industry experts, and researchers to discuss key challenges and opportunities related to regulation, tendering, and environmental permitting criteria for floating solar installations.
 
 ![](/images/news/swimworkshop.jpg){width=400}
 
 ### VLIZ Marine Science Day (March, 5)
-
 Pauline was awarded the second prize for best oral presentation at the VLIZ Marine Science Day in Bruges, Belgium. She was elected for this by an audience of approximately 500 attendees, for her presentation _Assessing the hydrodynamic impacts and carbon deposition pattern associated with floating solar structures within a Belgian offshore wind farm_
 
 ![](/images/news/vliz_march2025.jpg){width=400}
 
 ## February 2025
-
 ### "Saviez-vous?" seminar (Feb, 21)
-
 Léo had the opportunity to give a major presentation at the latest "Saviez-vous?" seminar at RBINS, Brussels. His talk focused on interactions between ocean currents and fish larvae, titled: _"Currents and larvae: an invisible journey through the heart of the ocean."_ “Saviez-vous?” is a public lecture series organized by the Royal Belgian Institute of Natural Sciences, offering accessible talks by researchers to share current scientific insights and discoveries with a broad audience.
 
 ![](/images/news/leorbins.jpg){width=400}
 
 ### Visit of Flanders Hydraulics (Feb, 4)
-
 Olivier, Hugo, and Pauline were invited to a meeting at the Flanders Hydraulics offices in Antwerp, Belgium. This RBINS–FH meeting provided an opportunity to identify potential future collaborations. We also had the chance to visit their impressive facilities.
 
 ![](/images/news/flandershydraulics.jpg){width=400}
 
 ### Policy brief SHRIMP (Feb, 3)
-
 The [Policy Brief](https://cebios.naturalsciences.be/wp-content/uploads/2025/02/Shrimp_Policy_Brief_Final.pdf) on the challenges of sustainable management of shrimp from the Nokoué lagoon in Benin has been released. It is an outcome of the project [SHRIMP](/projects/SHRIMP-II/) funded through the [CEBioS](https://cebios.naturalsciences.be/) (Capacities for Biodiversity and Sustainable Development) program.
 
 ![](/images/news/shrimp.jpg){width="400"}
 
 
 ## November 2024
-
 ### Team building ECOMOD-SUMO (Nov, 20)
-
 As a joint team-building activity with the SUMO team, we all went hiking in the marshes of the "Drowned Land of Saeftinghe" (NL) to explore this unique and geologically fascinating landscape. The mud didn’t get the better of us!
 
 ![](/images/news/saefthinge.jpg){width=400}
 
 ## September 2024
 ### ICES Annual Science Conference (Sep, 09-12)
-
 Pauline and Arthur attended the ICES Annual Science Conference in Newcastle, UK. As part of the [ECOMPV](/projects/ECOMPV/) project, they both presented their research on modelling the impact of floating solar panels in the North Sea. Arthur focused on the shading and biogeochemical aspects, while Pauline presented results on the hydrodynamic impacts.
 
 ![](/images/news/ices2024.jpg){width=400}
