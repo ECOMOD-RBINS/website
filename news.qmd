@@ -6,6 +6,12 @@ On Friday, Nathan presented "_When tiny ocean algae become architects of their w
 
 ![](/images/news/nathanrbins.jpg){width=400}
 
+### Navy Hackathon 2 (March, 9-10)
+
+Florian participated in the Belgian Navy's [second hackathon](https://inno4def.be/navy-hackathon-2/), tackling one of maritime security's toughest problems: fragmented data across the North Sea. Over two days, 100+ participants worked alongside Navy experts to design a shared, real-time maritime intelligence ecosystem — helping the right people act faster, with clarity and confidence, when it matters most.
+
+![](/images/news/NavyHackathon.jpeg){width=400}
+
 ### WGIPEM Annual Meeting (March, 2-5)
 Several team members attended the [WGIPEM](/activities/working-groups/ICES_WGIPEM/) Annual Meeting (_ICES Working Group on Integrative, Physical-biological and Ecosystem Modelling_). The meeting took place in Aberdeen, Scotland, with most participants joining remotely. Nathan presented his work on "_Coupling a biogeochemical model with a mineral flocculation model_". The study investigates how marine gels produced by phytoplankton shape sediment dynamics in the turbid Belgian coastal zone, and how this feedback loop significantly impacts primary production and carbon cycling in coastal ecosystems. Arthur introduced the [CodeBlue](/projects/CODEBLUE/) project as well as his upcoming ICES Workshop on Integrated Ecological Modelling Frameworks for Offshore Renewable Energy Impact Understanding ([WKIMORE](https://www.ices.dk/community/groups/Pages/WKIMORE.aspx)).
 
