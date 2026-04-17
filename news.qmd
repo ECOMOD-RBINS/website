@@ -1,5 +1,11 @@
 # ECOMOD latest updates
 
+## April 2026
+### "Saviez-vous?" seminar (April, 10)
+Early April, Léo presented “Bestioles marines, ADN et pixels: les nouvelles boîtes à outils de l’océan” as part of “Saviez-Vous?”, [RBINS](https://www.naturalsciences.be/en)’s public outreach series. An overview of sampling methods, from outdated techniques that seem shocking today, such as the dynamite fishing used by Commandant Cousteau, to modern approaches like eDNA and underwater video. This presentation explored their applications and limitations. Well done Léo!
+
+![](/images/news/leorbins2.jpg){width=400}
+
 ## March 2026
 ### "Saviez-vous?" seminar (March, 13)
 On Friday, Nathan presented "_When tiny ocean algae become architects of their world_" as part of "Saviez-Vous?", [RBINS](https://www.naturalsciences.be/en)'s public outreach series. From the fundamentals of primary production to the hidden world of organo-mineral interactions, the talk explored how microscopic phytoplankton shape coastal ecosystems, and why it matters for carbon cycling and marine management. Two hours of lively exchanges with a curious and enthusiastic audience, science communication at its best!
