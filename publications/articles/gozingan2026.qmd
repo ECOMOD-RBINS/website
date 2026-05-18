@@ -1,0 +1,26 @@
+---
+title: "Gulf of Guinea shrimp larvae can enter Nokoué lagoon by passive transport"
+type: "article"
+author: "Gozingan et al."
+year: "2026"
+publication: "Ecological Modelling"
+preprint: ""
+doi: "https://doi.org/10.1016/j.ecolmodel.2026.111637"
+materials: ""
+toc: false
+categories:
+  - COHERENS
+  - modeling
+  - hydrodynamics
+  - Gulf of Guinea
+  - shrimp
+  - larval transport
+---
+
+## Citation
+
+> **Gozingan, A.S.**, Sohou, Z., **Barbut, L.**, **Gourgue, O.**, Bonou, F., Baloïtcha, E., **Lacroix, G.** (2026), Gulf of Guinea shrimp larvae can enter Nokoué lagoon by passive transport, *Ecological Modelling*, 519, 111637.
+
+## Abstract
+
+In Beninese coastal waters, the connectivity between nearshore spawning grounds and lagoonal nurseries of shrimp larvae remains poorly understood, particularly during early life stages. Effective management of shrimp populations therefore requires understanding the location of spawning grounds, the hydrodynamic timing of larval release, and how physical transport processes influence the delivery of larvae to estuarine and lagoonal systems. This is particularly important for *Penaeus notialis*, one of Benin’s most valuable commercial species, whose stocks are chronically overexploited. This study investigates the geographical origin and passive transport pathways of *Penaeus notialis* larvae into Nokoué lagoon using a coupled three-dimensional nested hydrodynamic and particle-tracking model. A high-resolution COHERENS-based model of the Ocean-Channel-Nokoué domain was validated against in situ water level and salinity data, showing robust skill in reproducing seasonal tidal and hydrographic variability. The validated hydrodynamic model was then coupled with a Lagrangian transport module to simulate larval drift under the passive transport hypothesis. Results revealed that larval ingress into Nokoué lagoon is not random but strongly constrained by short-lived hydrodynamic “windows of opportunity” (WOP) associated with episodic net landward flow at the lagoon-ocean boundary, occurring primarily during the dry season (January–June). Some of these windows produced substantially higher probabilities of particle entry and retention than others, highlighting the importance of hydrodynamic timing for successful lagoon connectivity. Particle trajectories further indicate that the simulated connectivity patterns can be explained by passive drift driven by tidal currents, residual circulation, and wind-induced flows. Connectivity was also strongly dependent on the bathymetric depth at the particle release location, with successful ingress occurring almost exclusively from shallow areas (< 15 m), whereas larvae originating from deeper waters (> 30–45 m) showed negligible connectivity. In contrast, sustained lagoon outflow driven by increased river discharge during the wet season generates “constraint windows” (CW) that limit or suppress landward transport, progressively inhibiting particle ingress as river forcing becomes dominant over marine circulation. These findings highlight the importance of episodic hydrodynamic variability and the bathymetric depth of the larval release location in shaping shrimp recruitment success. The numerical modeling framework provides a quantitative basis for understanding ocean-lagoon connectivity under passive drift, and could be used to explore how changes in hydrodynamic conditions or watershed inputs may affect shrimp larval recruitment in the Gulf of Guinea.
