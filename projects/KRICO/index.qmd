@@ -1,0 +1,32 @@
+---
+title: "KRICO"
+description: "Tracking Antarctic krill larvae across three decades of Southern Ocean circulation to map connectivity between spawning and recruitment habitats"
+categories: [Modeling, Larval dispersal, Connectivity]
+image: "images/frame_199.png"
+execute:
+  echo: false
+  warning: false
+  error: true
+  cache: true
+format:
+  html:
+    page-layout: article
+---
+<div style="position: relative; padding-bottom: 55.385%; height: 0; overflow: hidden; margin-bottom: 8px;">
+  <iframe src="https://www.youtube.com/embed/OAdbXsY3lKo?loop=1&playlist=OAdbXsY3lKo" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" frameborder="0" allowfullscreen></iframe>
+</div>
+<div style="font-size: 0.9em; color: #666; text-align: center; margin-bottom: 20px;">
+200 days of simulated krill larval dispersal across the Southern Ocean. Colors indicate the CCAMLR subarea of release.
+</div>
+
+### Summary
+Antarctic krill (*Euphausia superba*) is a keystone species of the Southern Ocean, supporting one of the world's largest fisheries and forming the foundation of food webs that sustain penguins, seals, and whales. Yet krill populations fluctuate strongly from year to year, with recruitment success depending on a tightly coupled interplay between ocean currents and sea ice. KRICO uses Lagrangian particle tracking, forced by three decades of high-resolution ocean reanalysis, to follow the dispersal of billions of virtual larvae between spawning grounds and overwintering habitats across the southwest Atlantic and Amundsen sectors. The simulations resolve when and where successful recruitment occurs, what causes it to fail, and how these patterns differ between regions exposed to opposite directions of sea-ice change. Results inform the spatial management of the krill fishery by the Commission for the Conservation of Antarctic Marine Living Resources (CCAMLR), and establish the baseline needed to anticipate how krill populations will respond to continued climate change toward 2050–2100.
+
+### Duration
+January 2026 -- December 2027
+
+### Team members involved
+[Olivier Gourgue](/posts/members/OG) (PI) -- [Léo Barbut](/posts/members/LB) -- [Valérie Dulière](/posts/members/VD) -- [Geneviève Lacroix](/posts/members/GL)
+
+### Funding
+Supported by RBINS through a tax relief scheme on research income.
