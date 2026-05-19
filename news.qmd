@@ -1,5 +1,11 @@
 # ECOMOD latest updates
 
+## Mai 2026
+### EGU General Assembly 2026 (May, 3-8)
+Olivier attended the EGU General Assembly in Vienna, Austria, where he presented a [poster](https://meetingorganizer.copernicus.org/EGU26/EGU26-8075.html) entitled *"Antarctic krill connectivity: a Lagrangian modeling framework to understand Southern Ocean population dynamics"*. Based on a 32-year Lagrangian simulation across CCAMLR Areas 48 and 88.3, the work shows that krill larval recruitment success peaks for releases around mid-January, with sea ice setting the window at both ends. These results form the basis of the first paper of the [KRICO](https://ecomod.be/projects/KRICO) project, currently in preparation.
+
+![](/images/news/posterOG.jpg){width=400}
+
 ## April 2026
 ### "Saviez-vous?" seminar (April, 10)
 Early April, Léo presented “Bestioles marines, ADN et pixels: les nouvelles boîtes à outils de l’océan” as part of “Saviez-Vous?”, [RBINS](https://www.naturalsciences.be/en)’s public outreach series. An overview of sampling methods, from outdated techniques that seem shocking today, such as the dynamite fishing used by Commandant Cousteau, to modern approaches like eDNA and underwater video. This presentation explored their applications and limitations. Well done Léo!
@@ -50,7 +56,7 @@ Our colleague Sylvain Gozingan from the University of Abomey-Calavi in Benin pub
 ### Sylvain's visit (Jan - June)
 Amoussou Sylvain Gozingan, originally from Benin, is working in collaboration with ECOMOD since 2020. He is back to Brussels to work on the implementation, calibration, and validation of a numerical shrimp life-cycle model as part of the [SHRIMP II](/projects/SHRIMP-II/) project, funded by the [CEBioS](https://cebios.naturalsciences.be/) (Capacities for Biodiversity and Sustainable Development) program. The objective is to develop an Individual-Based Model (IBM) for six commercially important shrimp species in order to provide quantitative insights into the hydrodynamic mechanisms controlling shrimp larval transport and connectivity between nearshore spawning grounds and lagoonal nursery habitats within the ocean–channel–Lake Nokoué system along the Beninese coast. The numerical modelling framework, which includes both the hydrodynamic and Lagrangian components of [COHERENS](/tools/COHERENS/) model, will be implemented during his stay through close scientific collaboration with the ECOMOD team at [RBINS](https://www.naturalsciences.be/en). Welcome back Sylvain!
 
-![Right image : Graph showing the trajectory of shrimp larvae for a pelagic period of 40 days](/images/news/sylvain.png){width=400 fig-align="left"}
+![Right image : Graph showing the trajectory of shrimp larvae for a pelagic period of 40 days](/images/news/sylvain.jpg){width=400 fig-align="left"}
 
 ### BGC-Argo DMQC workshop (Jan, 26 - 30)
 Florian attended the [BGC-Argo](https://biogeochemical-argo.org/) Delayed Mode Quality Control (DMQC) workshop in Villefranche-sur-Mer, France where he presented a new tool (called `argo-dmqc`, which will be soon available on GitHub) to facilitate the DMQC of BGC-Argo float data. The week was filled with presentations, discussions, and practical sessions on various aspects of DMQC, including sensor theory, data visualization tools, and best practices.
