@@ -12,11 +12,11 @@ execute:
   warning: false
   error: true
   cache: true
-  
-format: 
+
+format:
   html:
     page-layout: article
-    
+
 #bibliography: references.bib
 #cls: journal-of-oceanography.csl
 #link-citations: true
@@ -34,4 +34,4 @@ More content will be added soon...
 
 ### Team members involved
 
-[Hugo Romanelli](/posts/members/HR/) & [Olivier Gourgue](/posts/members/OG/), with contributions from the entire ECOMOD team.
+[Hugo Romanelli](/posts/members/HR/), with contributions from the entire ECOMOD team.
