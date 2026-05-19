@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.8.25">
+<meta name="generator" content="quarto-1.7.24">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -34,15 +34,14 @@ ul.task-list li input[type="checkbox"] {
 <link href="../../../favicon.ico" rel="icon">
 <script src="../../../site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="../../../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
-<script src="../../../site_libs/quarto-html/axe/axe-check.js" type="module"></script>
 <script src="../../../site_libs/quarto-html/popper.min.js"></script>
 <script src="../../../site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="../../../site_libs/quarto-html/anchor.min.js"></script>
 <link href="../../../site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="../../../site_libs/quarto-html/quarto-syntax-highlighting-7b89279ff1a6dce999919e0e67d4d9ec.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="../../../site_libs/quarto-html/quarto-syntax-highlighting-a37c72dd2dbac68997fcdc15a3622e78.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="../../../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../../../site_libs/bootstrap/bootstrap-2c5f28e1ac72005a9ea941fd12c98ca7.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="../../../site_libs/bootstrap/bootstrap-6088ab614fa7d80185317dce0e12ab36.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -90,10 +89,6 @@ gtag('config', 'G-SG3PE0SS01', { 'anonymize_ip': true});
   <header id="quarto-header" class="headroom fixed-top quarto-banner">
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
-      <div class="navbar-brand-container mx-auto">
-    <a href="../../../index.html" class="navbar-brand navbar-brand-logo">
-    </a>
-  </div>
             <div id="quarto-search" class="" title="Search"></div>
           <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" role="menu" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
   <span class="navbar-toggler-icon"></span>
@@ -180,7 +175,7 @@ gtag('config', 'G-SG3PE0SS01', { 'anonymize_ip': true});
 </div>
 <section id="biography" class="level2">
 <h2 class="anchored" data-anchor-id="biography">Biography</h2>
-<p>Olivier Gourgue is a marine ecosystem modeler, specialized in the development of advanced numerical models to understand coastal and shelf sea ecosystems and their responses to climate change. With a PhD from UCLouvain and postdoctoral experiences at UAntwerp and Boston University, his work has contributed to advancing knowledge of sediment transport in coastal and estuarine environments, as well as the resilience of coastal wetlands. He serves as an Associate Editor for <em>Estuarine, Coastal and Shelf Science</em>, and as a Managing Editor of <em>Geomorphica</em>.</p>
+<p>Olivier Gourgue is a marine ecosystem modeler, specialized in the development of advanced numerical models to understand coastal and shelf sea ecosystems and their responses to climate change. With a PhD from UCLouvain and postdoctoral experiences at UAntwerp and Boston University, his work has contributed to advancing knowledge of sediment transport in coastal and estuarine environments, as well as the resilience of coastal wetlands. He serves as an Associate Editor for <em>Geomorphica</em>.</p>
 <section id="experience" class="level3">
 <h3 class="anchored" data-anchor-id="experience">Experience</h3>
 <ul>
@@ -204,6 +199,8 @@ gtag('config', 'G-SG3PE0SS01', { 'anonymize_ip': true});
 <section id="section" class="level3">
 <h3 class="anchored" data-anchor-id="section">2026</h3>
 <ul>
+<li>A.S. Gozingan, Z. Sohou, L. Barbut, <strong>O. Gourgue</strong>, F. Bonou, E. Baloïtcha, G. Lacroix, Gulf of Guinea shrimp larvae can enter Nokoué lagoon by passive transport, <em>Ecological Modelling</em>, 519, 111637. <a href="https://doi.org/10.1016/j.ecolmodel.2026.111637">DOI</a></li>
+<li>N.R. Randresihaja, <strong>O. Gourgue</strong>, L. Alaerts, X. Fettweis, J. Lambrechts, M. De Le Court, M. Grégoire, E. Hanert, How atmospheric forcing resolution impacts storm surge model results: Insights from Storm Xaver in the North Sea-Scheldt estuary continuum, <em>Regional Studies in Marine Science</em>, 96, 104919. <a href="https://doi.org/10.1016/j.rsma.2026.104919">DOI</a></li>
 <li>I. Pelckmans, J.-P. Belliard, <strong>O. Gourgue</strong>, L.E. Dominguez-Granda, S. Temmerman, Nature-based flood risk mitigation in river deltas is most effective with upstream and uniformly spread mangroves, <em>Ocean and Coastal Management</em>, 271, 107967. <a href="https://doi.org/10.1016/j.ocecoaman.2025.107967">DOI</a></li>
 </ul>
 </section>
@@ -374,14 +371,13 @@ gtag('config', 'G-SG3PE0SS01', { 'anonymize_ip': true});
       e.clearSelection();
     }
     const getTextToCopy = function(trigger) {
-      const outerScaffold = trigger.parentElement.cloneNode(true);
-      const codeEl = outerScaffold.querySelector('code');
-      for (const childEl of codeEl.children) {
-        if (isCodeAnnotation(childEl)) {
-          childEl.remove();
+        const codeEl = trigger.previousElementSibling.cloneNode(true);
+        for (const childEl of codeEl.children) {
+          if (isCodeAnnotation(childEl)) {
+            childEl.remove();
+          }
         }
-      }
-      return codeEl.innerText;
+        return codeEl.innerText;
     }
     const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
       text: getTextToCopy
