@@ -1,6 +1,17 @@
 # ECOMOD latest updates
 
-## Mai 2026
+## June 2026
+### ECODAM seminar (June, 2)
+On Tuesday June 2nd, Céline Taymans and Pauline Denis organised a new edition of the ECODAM Seminar at [RBINS](https://www.naturalsciences.be/en). Nearly 50 participants attended, including members of the ECODAM teams (ECOMOD, MFC, REMSEM, and SUMO), as well as guest teams from BMDC, MARECO, SURV, and BEDIC. The afternoon was filled with high-quality presentations and engaging scientific discussions, providing an excellent opportunity for knowledge exchange and interdisciplinary interaction.
+
+![](/images/news/ecodam26.jpg){width=400}
+
+## May 2026
+### ICES workshop WKIMORE (May, 25-29)
+The ICES Workshop on Integrated Ecological Modelling Frameworks for Offshore Renewable Energy Impact Understanding (WKIMORE), chaired by Arthur Capet, was held at [ICES](https://www.ices.dk/Pages/default.aspx) Headquarters in Copenhagen, Denmark. The workshop brought together leading scientists from Europe, North America, and Canada to advance ecosystem-based modelling approaches for offshore renewable energy impact assessment. Discussions focused on developing integrated modelling frameworks to support policy-relevant assessments and sustainable marine spatial planning.
+
+![](/images/news/WKIMORE.jpg){width=400}
+
 ### EGU General Assembly 2026 (May, 3-8)
 Olivier attended the EGU General Assembly in Vienna, Austria, where he presented a [poster](https://meetingorganizer.copernicus.org/EGU26/EGU26-8075.html) entitled *"Antarctic krill connectivity: a Lagrangian modeling framework to understand Southern Ocean population dynamics"*. Based on a 32-year Lagrangian simulation across CCAMLR Areas 48 and 88.3, the work shows that krill larval recruitment success peaks for releases around mid-January, with sea ice setting the window at both ends. These results form the basis of the first paper of the [KRICO](https://ecomod.be/projects/KRICO) project, currently in preparation.
 
