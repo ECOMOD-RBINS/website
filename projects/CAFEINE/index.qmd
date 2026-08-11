@@ -1,0 +1,47 @@
+---
+title: "CAFEINE"
+description: "CArbon Fate and Export In the North sEa"
+categories: [Modelling, Biogeochemical modelling, Suspended particulate matter]
+image: "images/CAFEINE_logo.png"
+
+execute:
+  echo: false
+  warning: false
+  error: true
+  cache: true
+  
+format: 
+  html:
+    page-layout: full
+
+#bibliography: references.bib
+#cls: journal-of-oceanography.csl
+#link-citations: true
+---
+
+## [CAFEINE](https://www.belspo.be/Belspo/fedra/proj.asp?l=en&COD=P4S%2F251%2FCAFEINE) - CArbon Fate and Export In the North sEa
+
+January 2026 - September 2028
+
+## Summary
+
+Coastal environments are shaped by complex organo-mineral flocculation processes in which biologically produced marine gels, particularly transparent exopolymer particles (TEP), play a crucial role in controlling seasonal biogeochemical cycles. These interactions govern suspended particulate matter (SPM), light penetration, and phytoplankton phenology. TEP composition varies seasonally and across the cross-shore gradient: fresh TEP drives the formation of larger, faster-sinking flocs, while mineral-associated TEP contributes little to flocculation. This variability structures the cross-shore transport of suspended particles, including particulate organic carbon. Concurrently, the proliferation of man-made structures (MMS) such as offshore wind farms and aquaculture facilities introduces artificial hard substrates rapidly colonised by dense assemblages of suspension feeders, predominantly blue mussels. These organisms filter substantial volumes of seawater, consuming phytoplankton and organic matter while producing fast-sinking biodeposits and releasing marine gels. This feedback may redirect energy flow from pelagic food webs to benthic pathways, altering sediment biogeochemistry and carbon transport. Yet the extent to which suspension feeding around MMS affects water column organo-mineral flocculation across different SPM regimes remains largely unknown, hampering prediction of ecosystem-scale consequences of coastal development.
+CAFEINE addresses this knowledge gap with a numerical modelling framework integrating biogeochemical processes, mineral flocculation dynamics, and suspension feeder ecology. It will quantify water column–hard substrate feedbacks and clarify how MMS reshape carbon cycling and redirect primary production pathways across coastal–offshore gradients.
+To achieve this, CAFEINE employs a hierarchical experimental–modelling approach. Laboratory experiments will first characterise the seasonal interactions between blue mussels and seawater content, providing essential parameters for model development. An existing biogeochemical–flocculation model will then be enhanced to incorporate attached phytoplankton and TEP dynamics alongside suspension feeder interactions, and implemented as an open-source, plug-and-play module within a standardised framework for broad transferability. The model will be progressively extended from 0D through 1D-vertical applications, resolving local-scale particle dynamics and biogeochemical transformations in contrasting environments influenced by MMS, to a full 3D regional implementation in the Southern Bight of the North Sea, enabling basin-scale impact assessments of current and future infrastructure scenarios.
+The project exploits observational datasets from renewable energy and particle monitoring programmes in contrasting environments: offshore areas with lower mineral content and higher organic fraction (where most current infrastructure is located), and nearshore areas with high mineral content and complex bio-mineral interactions (targeted by planned future developments). Existing satellite SPM products will further support model validation and provide climatological context.
+CAFEINE will deliver mechanistic understanding of how MMS alter carbon and energy pathways in coastal systems, quantifying the share of primary production directed toward benthic versus higher trophic levels. Key outputs include estimates of organic matter fluxes to sediments (both quantitatively and qualitatively), spatial maps of deposition patterns around infrastructure, and assessments of carbon accumulation versus mineralisation with and without MMS. The project will also produce open-source modelling tools, validated 3D scenario assessments, and evidence-based recommendations for sustainable marine spatial planning. It lays essential foundations for future studies on carbon cycling, sediment biogeochemistry, altered trophic pathways, and fisheries productivity in human-modified coastal seas.
+
+## Team members involved
+
+[Nathan Terseleer](/posts/members/NTL/) -- Youri Jourdevant -- [Arthur Capet](/posts/members/AC/) -- [Pauline Denis](/posts/members/PD/)
+
+## ECOMOD responsibilities
+ECOMOD is the promotor of CAFEINE (Nathan Terseleer) and leads the numerical modelling developments constituting the core of CAFEINE. 
+
+## Partners
+
+- RBINS: [SUMO](https://www.naturalsciences.be/en/science/research/research-teams/suspended-matter-and-seabed-monitoring-and-modelling-sumo), [MARECO](https://mareco-odnature.naturalsciences.be/)
+
+## Funding and contract
+
+This project is funded by the Belgian Science Policy (BELSPO)
