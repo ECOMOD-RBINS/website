@@ -1,8 +1,15 @@
 # ECOMOD latest updates
 
+## August 2026
+### ECSA annual conference (Aug, 25)
+On August 25th, [Arthur](/posts/members/AC/) presented at the 61th [Estuaries, Coastal and Shelf Science annual conference](https://www.estuarinecoastalconference.com/) "Bridging the gap between science and policy in estuarine and coastal marine biodiversity: the way forward", held in Brussels. His oral communication addressed the relative contribution of the estuaries, plumes and central basin to the carbon budget of the North Sea and was based on a coupled simulation involving our beloved marine model [COHERENS](/tools/COHERENS/) and 15 instances of the estuarine model CGEM, for the largest river of the North Sea. One step further towards the dynamic "land-sea continuous" representation of the North Sea envisioned in the [RECAP](/projects/RECAP/) project.
+
+![](/images/news/ecsa26.jpg){width=400}
+
+
 ## June 2026
 ### ESCO final symposium (June, 30)
-On June 30, a restitution symposium was held in Paris to present the findings of a Collective Scientific Assessment (Expertise Scientifique Collective, ESCo) on the effects of offshore wind farms and their connection infrastructure on marine biodiversity and marine and coastal socio-ecosystems. The assessment was conducted by Ifremer and CNRS, at the request of the French ministers responsible for energy, ecological transition, and the sea. Arthur Capet (ECOMOD) & Steven Degrear contributed as experts throughout the ESCo process and took part in the final restitution event. The event video and the findings of the project are available here: https://esco-eoliennesenmer.fr/  
+On June 30th, a restitution symposium was held in Paris to present the findings of a Collective Scientific Assessment (Expertise Scientifique Collective, ESCo) on the effects of offshore wind farms and their connection infrastructure on marine biodiversity and marine and coastal socio-ecosystems. The assessment was conducted by Ifremer and CNRS, at the request of the French ministers responsible for energy, ecological transition, and the sea. Arthur Capet (ECOMOD) & Steven Degrear contributed as experts throughout the ESCo process and took part in the final restitution event. The event video and the findings of the project are available here: https://esco-eoliennesenmer.fr/  
 
 ![](/images/news/esco.jpg){width=400}
 
