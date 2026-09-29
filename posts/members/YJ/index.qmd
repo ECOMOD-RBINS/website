@@ -1,0 +1,40 @@
+---
+title: "Jouri Jourdevant"
+description: ""
+author: ""
+date: ""
+categories: 
+image: ""
+
+execute:
+  echo: false
+  warning: false
+  error: true
+  cache: true
+  
+format: 
+  html:
+    page-layout: article
+    
+#bibliography: references.bib
+#cls: journal-of-oceanography.csl
+#link-citations: true
+---
+
+<div style="text-align: center;">
+  <img src="../../../images/YJ.jpg" style="width: 50%;" />
+</div>
+
+## Biography
+
+....
+
+### Experience
+- ...
+
+### Education
+-...
+
+## Projects
+- ...
+
