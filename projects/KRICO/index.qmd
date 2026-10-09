@@ -2,7 +2,9 @@
 title: "KRICO"
 description: "Tracking Antarctic krill larvae across three decades of Southern Ocean circulation to map connectivity between spawning and recruitment habitats"
 categories: [Modeling, Larval dispersal, Connectivity]
-image: "images/frame_199.png"
+image: "images/frame_185.png"
+resources:
+  - images/outcome_movie.mp4
 execute:
   echo: false
   warning: false
@@ -12,21 +14,37 @@ format:
   html:
     page-layout: article
 ---
-<div style="position: relative; padding-bottom: 55.385%; height: 0; overflow: hidden; margin-bottom: 8px;">
-  <iframe src="https://www.youtube.com/embed/OAdbXsY3lKo?loop=1&playlist=OAdbXsY3lKo" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" frameborder="0" allowfullscreen></iframe>
-</div>
-<div style="font-size: 0.9em; color: #666; text-align: center; margin-bottom: 20px;">
-200 days of simulated krill larval dispersal across the Southern Ocean. Colors indicate the CCAMLR subarea of release.
-</div>
+<video src="images/outcome_movie.mp4" poster="images/frame_185.png" autoplay muted loop playsinline controls
+       style="display: block; width: 100%; margin: 0 auto 20px;">
+</video>
 
 ### Summary
 Antarctic krill (*Euphausia superba*) is a keystone species of the Southern Ocean, supporting one of the world's largest fisheries and forming the foundation of food webs that sustain penguins, seals, and whales. Yet krill populations fluctuate strongly from year to year, with recruitment success depending on a tightly coupled interplay between ocean currents and sea ice. KRICO uses Lagrangian particle tracking, forced by three decades of high-resolution ocean reanalysis, to follow the dispersal of billions of virtual larvae between spawning grounds and overwintering habitats across the southwest Atlantic and Amundsen sectors. The simulations resolve when and where successful recruitment occurs, what causes it to fail, and how these patterns differ between regions exposed to opposite directions of sea-ice change. Results inform the spatial management of the krill fishery by the Commission for the Conservation of Antarctic Marine Living Resources (CCAMLR), and establish the baseline needed to anticipate how krill populations will respond to continued climate change toward 2050–2100.
+
+### Approach
+The hindcast covers 32 spawning seasons (1994–2025) across CCAMLR Subareas 48.1–48.6 and 88.3. Every day from mid-November to mid-March, about 546,000 virtual larvae are released along the continental slope (1000–2000 m depth) and tracked for 200 days with [Parcels](https://parcels-code.org), forced by the GLORYS12v1 ocean reanalysis at 1/12° resolution. In total, the simulations follow more than 2.1 billion trajectories from 3,848 daily cohorts, run on the ECMWF high-performance computing facility. Each larva is then classified as recruited, if it reaches the furcilia IV stage over the shelf or slope before the local winter sea-ice advance, or assigned to one of several failure modes linked to sea ice, larval development and transport.
+
+### First results
+Recruitment success peaks for larvae released in late January, and sea ice sets the window at both ends. Earlier in the season, sea ice still covers much of the spawning habitat. Later in the season, larvae no longer have time to complete their development before the winter sea-ice advance. The balance between these two constraints differs from one region to another, which produces marked regional asymmetries in recruitment. A second study, on the interannual variability of recruitment and its links with large-scale climate modes, is in progress.
+
+### Publications, data and code
+- **O. Gourgue**, L. Barbut, A. Barthélemy, T. Fichefet, E. Hanert, G. Lacroix, F. Massonnet, B. Richaud, I. Schön, Z. Sylvester, A.P. Van de Putte, Timing of sea-ice retreat and advance governs the January peak and regional asymmetries in Antarctic krill larval recruitment, *ESS Open Archive* (preprint). [DOI](https://doi.org/10.22541/essoar.15009565/v1)
+- Recruitment outcome dataset (v2.0.0): per-particle classification for all 3,848 cohorts. [DOI](https://doi.org/10.5281/zenodo.22548763)
+- [krico-templates](https://github.com/ogourgue/krico-templates): Parcels simulation templates and GLORYS12v1 preprocessing. [DOI](https://doi.org/10.5281/zenodo.22878089)
+- [krico-post-production](https://github.com/ogourgue/krico-post-production): recruitment classification pipeline. [DOI](https://doi.org/10.5281/zenodo.22878123)
+- [krico-paper1](https://github.com/ogourgue/krico-paper1): figure and analysis scripts for the first paper. [DOI](https://doi.org/10.5281/zenodo.22878156)
 
 ### Duration
 January 2026 -- December 2027
 
 ### Team members involved
-[Olivier Gourgue](/posts/members/OG) (PI) -- [Léo Barbut](/posts/members/LB) -- [Valérie Dulière](/posts/members/VD) -- [Geneviève Lacroix](/posts/members/GL)
+[Olivier Gourgue](/posts/members/OG) (PI) -- [Léo Barbut](/posts/members/LB) -- [Geneviève Lacroix](/posts/members/GL)
+
+### Collaborators
+- Royal Belgian Institute of Natural Sciences: Freshwater Biology (FWB) (Isa Schön), Biodiversity & Ecosystems Data & Information Centre (BEDIC) (Anton P. Van de Putte)
+- Université catholique de Louvain (Antoine Barthélemy, Thierry Fichefet, Emmanuel Hanert, François Massonnet, Benjamin Richaud)
+- Université Libre de Bruxelles (Anton P. Van de Putte)
+- University of Colorado Boulder (Zephyr Sylvester)
 
 ### Funding
 Supported by RBINS through a tax relief scheme on research income.

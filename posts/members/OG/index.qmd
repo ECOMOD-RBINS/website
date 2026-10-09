@@ -26,7 +26,7 @@ format:
 </div>
 
 ## Biography
-Olivier Gourgue is a marine ecosystem modeler, specialized in the development of advanced numerical models to understand coastal and shelf sea ecosystems and their responses to climate change. With a PhD from UCLouvain and postdoctoral experiences at UAntwerp and Boston University, his work has contributed to advancing knowledge of sediment transport in coastal and estuarine environments, as well as the resilience of coastal wetlands. He serves as an Associate Editor for *Geomorphica*.
+Olivier Gourgue is a marine ecosystem modeler, specialized in the development of advanced numerical models to understand marine ecosystems, from coasts and shelf seas to the Southern Ocean, and their responses to climate change. With a PhD from UCLouvain and postdoctoral experiences at UAntwerp and Boston University, his work has contributed to advancing knowledge of sediment transport in coastal and estuarine environments, as well as the resilience of coastal wetlands. Since 2026, he has led [KRICO](/projects/KRICO), which uses Lagrangian particle tracking to study the connectivity of Antarctic krill larvae across the Southern Ocean and how sea ice controls their recruitment. He serves as an Associate Editor for *Geomorphica*.
 
 ### Experience
 - **Royal Belgian Institute of Natural Sciences** | Brussels, Belgium<br />
@@ -35,12 +35,12 @@ Olivier Gourgue is a marine ecosystem modeler, specialized in the development of
   Postdoctoral Researcher | 2016-2022
 - **Boston University** | Boston, MA, USA<br />
   Visiting Scholar | 2019-2021
-- **Vrije Universiteit Brusssel** | Brussels, Belgium<br />
+- **Vrije Universiteit Brussel** | Brussels, Belgium<br />
   Postdoctoral Researcher | 2013-2016
 - **Flanders Hydraulics** | Antwerp, Belgium<br />
   Consultant | 2013-2016
 - **UCLouvain** | Louvain-la-Neuve, Belgium<br />
-  Postdoctoral Researcher | 20011-2013<br />
+  Postdoctoral Researcher | 2011-2013<br />
   Teaching Assistant | 2006-2012<br />
   PhD Researcher | 2005-2011<br />
 
@@ -51,6 +51,9 @@ Olivier Gourgue is a marine ecosystem modeler, specialized in the development of
   BSc Engineering Science | 2000-2002
 
 ## Publications
+### Preprints
+- **O. Gourgue**, L. Barbut, A. Barthélemy, T. Fichefet, E. Hanert, G. Lacroix, F. Massonnet, B. Richaud, I. Schön, Z. Sylvester, A.P. Van de Putte, Timing of sea-ice retreat and advance governs the January peak and regional asymmetries in Antarctic krill larval recruitment, *ESS Open Archive*. [DOI](https://doi.org/10.22541/essoar.15009565/v1)
+
 ### 2026
 - A.S. Gozingan, Z. Sohou, L. Barbut, **O. Gourgue**, F. Bonou, E. Baloïtcha, G. Lacroix, Gulf of Guinea shrimp larvae can enter Nokoué lagoon by passive transport, *Ecological Modelling*, 519, 111637. [DOI](https://doi.org/10.1016/j.ecolmodel.2026.111637)
 - N.R. Randresihaja, **O. Gourgue**, L. Alaerts, X. Fettweis, J. Lambrechts, M. De Le Court, M. Grégoire, E. Hanert, How atmospheric forcing resolution impacts storm surge model results: Insights from Storm Xaver in the North Sea-Scheldt estuary continuum, *Regional Studies in Marine Science*, 96, 104919. [DOI](https://doi.org/10.1016/j.rsma.2026.104919)
@@ -118,7 +121,10 @@ Modelling and Software*, 24, 8, 969-981. [DOI](http://doi.org/10.1016/j.envsoft.
 ### 2007
 - **O. Gourgue**, E. Deleersnijder, L. White, Toward a generic method for studying water renewal, with application to the epilimnion of Lake Tanganyika, *Estuarine, Coastal and Shelf Science*, 74, 4, 628-640. [DOI](http://doi.org/10.1016/j.ecss.2007.05.009)
 
-## Code and software
+## Code, software and data
+- [KRICO recruitment dataset:](https://doi.org/10.5281/zenodo.22548763) Per-particle recruitment outcomes of Antarctic krill larvae, 1994–2025.
+- [krico-templates:](https://github.com/ogourgue/krico-templates) Parcels simulation templates for Antarctic krill larval dispersal, forced by GLORYS12v1.
+- [krico-post-production:](https://github.com/ogourgue/krico-post-production) Recruitment classification pipeline for the KRICO trajectories.
 - [Demeter:](https://github.com/ogourgue/demeter) Multiscale biogeomorphic modeling framework in Python.
 - [TidalGeoPro:](https://github.com/ogourgue/tidalgeopro) Python package to analyze geometric and hydraulic properties of tidal channels.
 - [VFC:](https://github.com/ogourgue/vfc) Vegetation/Flow Convolution Python module.
