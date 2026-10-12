@@ -1,5 +1,10 @@
 # ECOMOD latest updates
 
+## October 2026
+### CodeBlue Annual Meeting (Oct, 07 - 09)
+Pauline and Arthur attended the [CodeBlue](/projects/CODEBLUE/) annual meeting at the Royal Netherlands Institute for Sea Research (NIOZ) on Texel island (NL). It was a great opportunity to meet again the consortium members from 15 partner institutions across 13 different countries in person, review the project's progress, and discuss key points that need to be addressed before moving forward.
+
+![](/images/news/codeblue2026.JPG){width=400}
 
 ## September 2026
 ### ICES Annual Science Conference (Sep, 15 - 18)
@@ -7,11 +12,15 @@ Pauline and Arthur presented their research at the ICES [Annual Science Conferen
 
 ![](/images/news/ices2026.jpg){width=400}
 
-
 ### SWiM final workshop (Sep, 08)
 Arthur, Pauline and Ee Zin Ong (MARECO team) attended the [final interactive workshop](https://www.swimproject.be/workshop-4-new-insights-for-integrating-floating-solar-in-belgian-offshore-wind-farms/) of the [SWiM](/projects/SWIM/) project, organized [Blue Cluster](https://www.bluecluster.eu/) in Ghent. The workshop explored how Offshore Floating Photovoltaics (OFPV) can contribute to Belgium’s future offshore energy system. It brought together experts from industry, research, policy and the offshore energy sector to develop a shared vision for OFPV in Belgium and explore how offshore solar energy can act as a catalyst for broader multi-use developments at sea. 
 
 ![](/images/news/swimworkshop3.jpg){width=400}
+
+### Final workshop of GTI-DNA-Shrimp (Sep, 07)
+The results of the [GTI-DNA-Shrimp](/projects/SHRIMP-II/) project were presented during the workshop “Ensemble, pour la gestion durable des crevettes et de leurs habitats naturels”, held at the Institute for Fisheries and Oceanological Research of Benin (IRHOB) in Cotonou, Benin. The workshop brought together representatives of fishers, fishmongers, village chiefs, the Directorate of Fisheries Production of Benin, academics, and researchers from IRHOB. It aimed, in particular, to raise awareness of good practices to be adopted for the conservation and sustainable management of shrimp resources in Benin. Funded by the Directorate-General for Development (DGD) through the [CEBioS](https://cebios.naturalsciences.be/) programme, this project is the result of a collaboration between IRHOB and [RBINS](https://www.naturalsciences.be/en/science) ([JEMU](https://www.naturalsciences.be/en/science/research/research-teams/joint-experimental-molecular-unit-jemu) and ECOMOD teams).
+
+![](/images/news/GTIDNAshrimp.jpg){width=400}
 
 ## August 2026
 ### ECSA annual conference (Aug, 25)
