@@ -33,7 +33,7 @@ CAFEINE will deliver mechanistic understanding of how MMS alter carbon and energ
 
 ## Team members involved
 
-[Nathan Terseleer](/posts/members/NTL/) -- Youri Jourdevant -- [Arthur Capet](/posts/members/AC/) -- [Pauline Denis](/posts/members/PD/)
+[Nathan Terseleer](/posts/members/NTL/) -- [Youri Jourdevant](/posts/members/YJ/) -- [Arthur Capet](/posts/members/AC/) -- [Pauline Denis](/posts/members/PD/)
 
 ## ECOMOD responsibilities
 ECOMOD is the promotor of CAFEINE (Nathan Terseleer) and leads the numerical modelling developments constituting the core of CAFEINE. 
