@@ -1,6 +1,11 @@
 # ECOMOD latest updates
 
 ## October 2026
+### Offshore Wind PhD Day (Oct, 27)
+Pauline attended the 2nd edition of the [Belgian Offshore Wind PhD Day](https://www.owi-lab.be/academy-news/offshore-wind-phd-day-2026-recap-from-research-expertise-to-offshore-wind-careers) combined with the [Wind Energy Technology Summit](https://www.sirris.be/en/agenda/wind-energy-technology-summit-2026) in Ghent. The event, organized by [OWI-lab](https://www.owi-lab.be/), brought together PhD students and industrials working in the field of offshore wind energy. Pauline presented her PhD project as part as the poster session, focusing on modelling the impacts of floating solar panels co-located with offshore wind farms.
+
+![](/images/news/phdday2.jpg){width=400}
+
 ### CodeBlue Annual Meeting (Oct, 07 - 09)
 Pauline and Arthur attended the [CodeBlue](/projects/CODEBLUE/) annual meeting at the Royal Netherlands Institute for Sea Research (NIOZ) on Texel island (NL). It was a great opportunity to meet again the consortium members from 15 partner institutions across 13 different countries in person, review the project's progress, and discuss key points that need to be addressed before moving forward.
 
