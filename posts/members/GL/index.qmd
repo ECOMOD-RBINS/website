@@ -52,8 +52,6 @@ Geneviève Lacroix leads the Ecosystem Modelling (ECOMOD) team and is a marine e
 
 -   [**ReCAP**](/projects/RECAP) - Regional scale assessment of the land ocean continuum ecosystems vulnerability to anthropogenic pressure \| 2020-2029<br />[Funding]{.underline}: Belgian Science Policy  – FED-tWIN2019-prf-008-ReCAP<br />[Partners]{.underline}: RBINS-ECOMOD (Promoter), ULB
 -   [**DE-HEAT**](/projects/DEHEAT) - Natural analogues and system-scale modeling of marine enhanced silicate weathering \| 2021-2025<br /> [Funding]{.underline}: Belgian Science Policy (RV/21/DEHEAT)<br /> [Partners]{.underline}: RBINS-ECOMOD (Coordinator), UAntwerpen, ULB
--   [**OUTFLOW**](/projects/OUTFLOW) - Quantifying the cOntribUTion of Fouling fauna to the Local carbon budget of an Offshore Wind farm \| 2021-2025<br />[Funding]{.underline}: Belgian Science Policy  (BRAIN-Be 2.0) – B2/212/P1/OUTFLOW<br />[Partners]{.underline}: RBINS-MARECO (Coordinator), UGent-ISOFYS, UGent-MARBIO
--   [**EcoMPV**](/projects/ECOMPV) - Eco-designing marine photovoltaic installations \| 2022-2025<br />[Funding]{.underline}: FPS Economy (Energy Trabsition Funds)<br />[Partners]{.underline}: RBINS-MARECO (Coordinator), UGhent, Tractebel, Jan De Nul, DEME
 -   [**FOCCUS**](/projects/FOCCUS) - Forecasting and observing the open-to-coastal ocean for Copernicus users \| 2024-2026<br />[Funding]{.underline}: EU Commission<br />[Partners]{.underline}: HEREON (Coordination) + 18 partners (whose RBINS-MFC/ECOMOD)
 -   [**SHRIMP-II**](/projects/SHRIMP-II) - Application du modèle COHERENS à l'analyse du cycle de vie des crevettes et des huîtres \| 2024-2028<br />[Funding]{.underline}: This project is funded by the Directorate-General for Development Cooperation and Humanitarian Aid (DGD) through the [CEBioS](#0) (Capacities for Biodiversity and Sustainable Development) program<br />[Partners]{.underline}: RBINS-ECOMOD (Coordination), IRHOB
 -   [**SWiM**](/projects/SWIM) - Solar and Wind Energy in the Belgian Marine Zone \| 2024-2026<br />[Funding]{.underline}: FPS Economy (Energy Transition Fund)<br />[Partners]{.underline}: KULeuven (Coordination), IMEC, Universiteit Hasselst, RBINS-ECOMOD, De Blauwe Cluster, Laborelec
@@ -93,12 +91,25 @@ Geneviève Lacroix leads the Ecosystem Modelling (ECOMOD) team and is a marine e
 -   **MarineSPOTS** - Marine Solar POtential and Technology Study \| 2021-2023<br />[Funding]{.underline}: FPS Economy (Energy transition fund)<br />[Partners]{.underline}: KULeuven (Coordinator), IMEC, UHasselt, RBINS-ECOMOD (Promoter)
 -   **Paardenmarkt**- Feasibility study for a risk assessment tool for the Paardenmarkt \| 2021-2023<br />[Funding]{.underline}: FPS Health, Food chain safety and Environment – Nr 4500778700<br />[Partners]{.underline}: RBINS-ECOMOD (Promoter)
 -   [**BARFISH**](/completed-projects/BARFISH/) - Distributie en migratie van de commerciële visbestanden i.e. van tong in de Britse wateren \| 2022-2023<br />[Funding]{.underline}: EU Brexit Adjustment Reserve<br />[Partners]{.underline}: ILVO (coordinator) - RBINS-ECOMOD subcontractor
+-   [**OUTFLOW**](/projects/OUTFLOW) - Quantifying the cOntribUTion of Fouling fauna to the Local carbon budget of an Offshore Wind farm \| 2021-2025<br />[Funding]{.underline}: Belgian Science Policy  (BRAIN-Be 2.0) – B2/212/P1/OUTFLOW<br />[Partners]{.underline}: RBINS-MARECO (Coordinator), UGent-ISOFYS, UGent-MARBIO
+-   [**EcoMPV**](/projects/ECOMPV) - Eco-designing marine photovoltaic installations \| 2022-2025<br />[Funding]{.underline}: FPS Economy (Energy Trabsition Funds)<br />[Partners]{.underline}: RBINS-MARECO (Coordinator), UGhent, Tractebel, Jan De Nul, DEME
 
 </details>
 
 ## Publications
 
 ### Peer reviewed
+
+### 2026
+
+-   Sturrock A.M., Tanner S.E., Arnaud-Haond S., Aguzzi J., Barboza F.R., Beger M., Blanco A., Brophy D., Carreton M., Childs A-R., Costantini F., Gaggiotti O.E., Gillanders B.M., González-Irusta J.M., Guizien K., Guy-Haim T., Haase S., Hunter E., Kotta J., **Lacroix G.**, Öztürk R.Ç., Pérez-Ruzafa A., Reis-Santos P., Riginos C., Rilov G., Rinkevich B., Rotllant G., Secor D.H., Smoliński S., Trueman C.N., Walther B., Darnaude A.M. (2026) Methods to estimate marine functional connectivity: A primer. Ecological Applications 36(4): e70273. [DOI](https://esajournals.onlinelibrary.wiley.com/doi/10.1002/eap.70273) 
+-   Gozingan A.S., Sohou Z., Barbut L., Gourgue O., Bonou F., Baloïtcha E., **Lacroix G.** (2026) Gulf of Guinea shrimp larvae can enter Nokoué lagoon by passive transport. Ecological Modelling, 519, 111637. [DOI](https://www.sciencedirect.com/science/article/pii/S0304380026001651?via%3Dihub)
+-   Sintondji W.S., Sohou Z., Vodounnou J.V., Zounon Y., Dine Liady M.N., **Lacroix G.** (2026) Towards suatainable shrimp fisheries in a West Africa Lagoon: Gear efficiency in the Lake Nokoué with its inlet. Aquaculture, Fish and Fisheries: 6(6): e70367. [DOI](https://onlinelibrary.wiley.com/doi/10.1002/aff2.70367)
+
+### 2025
+
+-   Dannheim J., Beermann J., Coolen J.W.P., Vanaverbeke J., Degraer S., Birchenough S.N.R., Garcia C., **Lacroix G.**, Fiorentino D., Lindeboom H., Krone R., Pehlke H., Braeckman U., Brey T. (2025) Offshore wind turbines constitute benthic secondary production hotspots on and around constructions. Journal of Environmental Management, 393: 126922. [DOI](https://www.sciencedirect.com/science/article/pii/S0301479725028981?via%3Dihub)
+-   Denis P., Capet A., Vanaverbeke J., Kerkhove T.R.H., **Lacroix G.**, Legrand S. (2025) Hydrodynamic alterations induced by floating solar structures co-located with an offshore wind farm. Front. Mar. Sci. 12:1674859. [DOI](https://www.frontiersin.org/journals/marine-science/articles/10.3389/fmars.2025.1674859/full) 
 
 ### 2024
 
@@ -233,6 +244,8 @@ Geneviève Lacroix leads the Ecosystem Modelling (ECOMOD) team and is a marine e
 -   CEBioS Policy Brief N°18 (03.02.2025) [Les enjeux de la gestion durable des crevettes de la lagune Nokoué au Bénin - 2024/2025](https://cebios.naturalsciences.be/wp-content/uploads/2025/02/Shrimp_Policy_Brief_Final.pdf)
 -   CEBioS news (03.02.2025) [Policy brief on the challenges of sustainable management of shrimp from the Nokoué lagoon in Benin (FR)](https://cebios.naturalsciences.be/news/policy-brief-on-the-challenges-of-sustainable-management-of-shrimp-from-the-nokoue-lagoon-in-benin-fr/)
 -   CEBioS Policy Brief N°17 (30.04.2025) [Using the COHERENS model scenarios to safeguard Ha Long Bay waters - 2024/2025](https://cebios.naturalsciences.be/wp-content/uploads/2025/04/280425_template_A4_IMER_PB.pdf)
+-   Press release & social media Atelier restitution GTI-DNA Shrimp, Bénin (07.09.2026) [libre-express](https://libre-express.bj/r/societe/6736/crevettes-au-benin-une-etude-scientifique-revele-une-diversite-insoupconnee-et-relance-lespoir-pour-la-filiere), [fraternité](https://fraternite.bj/gestion-de-stocks-des-crevettes-au-benin-une-nouvelle-ere-en-vue-avec-la-delimitation-sur-les-bases-moleculaires-des-crevettes/), [Linkedin IMO Sciences](https://www.linkedin.com/feed/update/urn:li:activity:7503437130795335680/), [Linkedin Sintondji](https://www.linkedin.com/posts/s%C3%A8lom%C3%A8-wilfried-sintondji-b700b927b_ensemble-pour-la-gestion-durable-des-crevettes-ugcPost-7502859606105194496-PF5B/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEQuLkQBhMUm4oUdOOxDTUF2BH99ayPCsKQ), [You Tube 1](https://www.youtube.com/shorts/Gug2wpmjF3s), [You Tube 2](https://www.youtube.com/shorts/cQTRRgg8fv8), [You Tube 3](https://www.youtube.com/shorts/FvATw8QaKls)
+[You Tube 4](https://www.youtube.com/shorts/Y5HfANW2BX4), [You Tube 5](https://www.youtube.com/shorts/7ooJL8g1iuM), [Facebook](https://www.facebook.com/wilfried.sintondji/posts/pfbid0YknjhMVhTjCv56NHtAwZhK4zCzPs5NoBVbLgqpv7E63FuE4AdwTK68EddUE2ZVRXl?rdid=l9u8Znll1GQAjb7X#)
 
 ## **Memberships**
 
