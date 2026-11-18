@@ -1,0 +1,48 @@
+---
+title: "OWIDEX"
+description: "Offshore wind decommissioning expertise centre"
+author: ""
+date: ""
+categories: [Ecosystemic services]
+image: "images/owidex.jpeg"
+draft: false
+
+execute:
+  echo: false
+  warning: false
+  error: true
+  cache: true
+  
+format: 
+  html:
+    page-layout: article
+    
+#bibliography: references.bib
+#cls: journal-of-oceanography.csl
+#link-citations: true
+---
+
+## OWIDEX - Offshore Wind Decommissioning Expertise Centre
+
+2023-2025
+
+## Summary
+
+From [MARECO](https://mareco-odnature.naturalsciences.be/project/owidex/). Belgium is among the world leaders in the installation & maintenance of offshore wind farms. The decommissioning of the first offshore wind turbines is in sight. The knowledge already acquired about the decom value chain is fragmented, making a supported vision seem far away. This project will put all the separate elements together & is the kickstart of a long-term cooperation between knowledge, government institutions & companies. Here, experience, knowledge & research are bundled, visualised & disseminated, providing policy & industry with an expertise platform.
+
+### Team members involved
+
+[Arthur Capet](/posts/members/AC) -- [Florian Ricour](/posts/members/FR)
+
+## Partners
+
+- POM West-Vlaanderen (BE)
+- Ghent University (BE)
+- VUB (BE)
+- SIRRIS (BE)
+- OVAM (BE)
+- Parkwind (BE)
+
+## Funding and contract
+
+This project is funded by the [Belgian Fund for Energy Transition](https://economie.fgov.be/fr/themes/energie/transition-energetique/fonds-de-transition)
