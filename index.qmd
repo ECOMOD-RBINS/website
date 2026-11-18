@@ -150,8 +150,7 @@ The marine models are used to:
 <br>
 [FORCOAST](completed-projects/FORCOAST) - [SYMAPA](completed-projects/SYMAPA) -  [BARFISH](completed-projects/BARFISH) -
 [COST-SEA-UNICORN](completed-projects/COST-SEA-UNICORN) -
-[SHRIMP-II](projects/SHRIMP-II)
-
+[SHRIMP-II](projects/SHRIMP-II) - [KRICO](projects/KRICO)
 :::
 :::
 
@@ -166,7 +165,6 @@ The marine models are used to:
 **More details:**
 <br>
 [DISARM](completed-projects/DISARM) - [MSFD](activities/reporting/MSFD)
-
 :::
 :::
 
@@ -180,7 +178,7 @@ The marine models are used to:
 <br><br>
 **More details:**
 <br>
-[BG-PART](projects/BG-PART)
+[BG-PART](projects/BG-PART) - [CAFEINE](projects/CAFEINE)
 :::
 :::
 
@@ -194,7 +192,22 @@ The marine models are used to:
 <br><br>
 **More details:**
 <br>
-[OSPAR_ICG-EMO](activities/working-groups/OSPAR_ICG-EMO) - [EMoSEM](https://odnature.naturalsciences.be/emosem/)
+[OSPAR_ICG-EMO](activities/working-groups/OSPAR_ICG-EMO) - [EMoSEM](https://odnature.naturalsciences.be/emosem/) -
+[CODE BLUE](projects/CODEBLUE)
+:::
+:::
+
+## Ensemble modelling
+::: columns
+::: {.column width="45%"}
+![](projects/CODEBLUE/images/Codeblue.jpg){width="400"}
+:::
+::: {.column style="margin-left: 10px;"}
+*Weighted ensemble modelling approach is used to combine results and estimate uncertainties at regional scales.*
+<br><br>
+**More details:**
+<br>
+[FOCCUS](projects/FOCCUS) - [CODE BLUE](projects/CODEBLUE)
 :::
 :::
 
